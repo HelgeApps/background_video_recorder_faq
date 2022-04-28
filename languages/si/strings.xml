@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">පසුබිම් වීඩියෝ පටිගත කිරීම</string>
+
+    <string name="close">වසන්න</string>
+    <string name="default_text">පෙරනිමිය</string>
+    <string name="disabled_text">ආබාධිතයි</string>
+    <string name="no_ads_text">(දැන්වීම් නොමැතිව)</string>
+    <string name="zoom_text">විශාලනය කරන්න</string>
+    <string name="reset">විසර්ජනය</string>
+
+    <string name="camera">කැමරා</string>
+    <string name="camera_aperture">ප්රාචීරය</string>
+    <string name="camera_back">පසුපස කැමරාව</string>
+    <string name="camera_background_permission_error_msg">පසුබිමේ ඇති කැමරාවට ප්‍රවේශ වීමට ඔබට යෙදුම එක් වරක් ධාවනය කළ යුතුය</string>
+    <string name="camera_error_background_tried_use_text">Android 11+ හි, පසුබිමේ පටිගත කිරීම ආරම්භ කිරීමට පෙර, පසුබිමේ කැමරාව භාවිත කිරීමට හැකි වන පරිදි යෙදුම ක්‍රියාත්මක විය යුතු අතර අවම වශයෙන් එක් වරක්වත් දෘශ්‍යමාන විය යුතුය. එබැවින්, උපාංගය නැවත ආරම්භ කිරීමෙන් පසුව, යෙදුම දෘශ්යමාන වන අතර ඉන් පසුව පටිගත කිරීමේ සේවාව වසා නොගන්න, එය දැනුම් දීමේ මධ්යස්ථානයේ පැවතිය යුතුය.</string>
+    <string name="camera_error_busy">කැමරාව වෙනත් යෙදුමක් භාවිතා කරන නිසා වීඩියෝ පටිගත කිරීම නතර වී ඇත</string>
+    <string name="camera_external">බාහිර USB කැමරාව</string>
+    <string name="camera_fov_text">බැලීමේ කෝණ (16:9)</string>
+    <string name="camera_fov_vertical_text">සිරස්</string>
+    <string name="camera_fov_horbizonal_text">තිරස්</string>
+    <string name="camera_front">ඉදිරිපස කැමරාව</string>
+    <string name="camera_msg_error_in_use_text">කැමරාව වෙනත් යෙදුමක් විසින් භාවිතා කරන ලදී. කරුණාකර වීඩියෝ පටිගත කිරීමේදී කැමරාව භාවිත කළ හැකි වෙනත් යෙදුම් ධාවනය නොකරන්න. ඇන්ඩ්‍රොයිඩ් වරකට කැමරාව භාවිතා කිරීමට ඉඩ දෙන්නේ එක් යෙදුමකට පමණි</string>
+    <string name="camera_msg_error_unknown_text">ඔබගේ උපාංගයේ විවෘත කිරීමට කැමරාව තාවකාලිකව (පවතියි) නොමැත (කැමරා පද්ධතියේ දෝෂය)</string>
+    <string name="camera_support_error">කැමරාව භාවිතා කිරීමේදී දෝෂයක් සිදුවී ඇත.</string>
+
+    <string name="dialog_camera_not_found_msg_text">මෙම උපාංගයේ අන්තර්ගත කැමරාවක් නොමැති අතර බාහිර කැමරා සඳහා සහය නොදක්වයි. වසා දමමින්…</string>
+    <string name="dialog_camera_not_found_text">කැමරාව හමු නොවීය</string>
+    <string name="dialog_go_to_settings_text">සැකසුම් විවෘත කරන්න</string>
+    <string name="dialog_report_the_error_text_btn">දෝෂය වාර්තා</string>
+    <string name="dialog_select_camera_text">කැමරාව තෝරන්න</string>
+    <string name="dialog_unlock_video_text">වත්මන් වීඩියෝව උඩින් ලිවීමෙන් අගුලු හරින්නද\?</string>
+
+    <string name="donate_success_thanks_msg_text">ඔබගේ සහයෝගයට බොහොම ස්තුතියි!</string>
+    <string name="donation_dlg_has_ads_text">දැන්වීම් ඉවත් කිරීමට, පරිත්‍යාග කිරීම හෝ ඊට වැඩි විය යුතුය.</string>
+    <string name="donation_dlg_no_ads_text">ඔබට දැන්වීම් නොමැත.</string>
+    <string name="donation_level_text">ඔබේ පරිත්‍යාග මට්ටම:</string>
+    <string name="donation_purchase_info_loading_text">සාප්පු සවාරි තොරතුරු තවම උඩුගත කර නැත. ඔබ සබැඳිව ඔබගේ Google ගිණුමට පුරනය වී සිටිනවාද\?</string>
+    <string name="donation_subs_check_box_text">මාසිකව නඩත්තු කරන්න (කිසියම් මුදලකට දැන්වීම් නොමැත)</string>
+    <string name="donation_subs_manage_btn_text">දායක නොවන්න</string>
+
+    <string name="format_gb">ගිගාබයිට්</string>
+    <string name="format_hz">හර්ට්ස්</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">මිනි.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">යෙදුම බැටරි ප්‍රශස්තකරණයෙන් බැහැර නොවේ. කැමරාව පසුබිමේ ක්‍රියා නොකරන්නේ නම් හෝ වෙනත් යමක් ක්‍රියා නොකරන්නේ නම්, මෙම යෙදුම බල ඉතිරි කිරීමේ මාදිලියේ ව්‍යතිරේකවලට එක් කරන්න.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">ඔබ Android 11 හි යෙදුම නැවත ස්ථාපනය කළේ නම්, පැරණි ගොනු අතින් මකා දැමිය යුතුය</string>
+    <string name="msg_battery_optimization_tip_text">බැටරි ප්‍රශස්තකරණය -&gt; සියලුම යෙදුම් -&gt; මෙම යෙදුමේ නම -&gt; ප්‍රශස්ත කිරීම/සුරකින්න එපා</string>
+    <string name="msg_camera_not_opened">කැමරාව ක්‍රියාත්මක නොවේ</string>
+    <string name="msg_close_settings_before_recording_text">පටිගත කිරීම ආරම්භ කිරීමට පෙර යෙදුම් මනාප වසන්න</string>
+    <string name="msg_could_not_enable_microphone">මයික්‍රෆෝනය ක්‍රියාත්මක කිරීමට අපොහොසත් විය, පටිගත කිරීම ශබ්දයකින් තොරව දිගටම කරගෙන යනු ඇත</string>
+    <string name="msg_could_not_found_autostart_settings_text">මෙම යෙදුමෙන් මෙම සැකසුම් විවෘත කිරීමට නොහැකි විය, කරුණාකර පෙරනිමි උපාංග පද්ධති සැකසුම් පෙරනිමි යෙදුම භාවිතයෙන් ඒවා සොයා ගැනීමට උත්සාහ කරන්න</string>
+    <string name="msg_could_not_start_floating_window_text">පාවෙන කවුළුව ආරම්භ කිරීමට අසමත් විය</string>
+    <string name="msg_dlg_found_old_videos_message">ඔබ යෙදුම නැවත ස්ථාපනය කර ඇති බව පෙනේ. ලූප් පටිගත කිරීමේදී යෙදුමට මැකිය නොහැකි පැරණි වීඩියෝ ඔබ සතුව ඇත. නව වීඩියෝ පටිගත කිරීමට පෙර වීඩියෝ තිරය මත ඒවා අතින් ඉවත් කරන්න. Android 11+ සිට, යෙදුමට නැවත ස්ථාපනය කිරීමෙන් පසු පැරණි ගොනු සඳහා ප්‍රවේශ අයිතිය අහිමි වේ. නැතහොත් ඔබට පටිගත කිරීමේ ෆෝල්ඩරයට ලිවීමේ අවසරය ලබා දිය හැකිය</string>
+    <string name="msg_dlg_found_old_videos_title">පැරණි වීඩියෝ ගොනු හමු විය</string>
+    <string name="msg_dlg_incorrect_folder_path">වලංගු නොවන ෆෝල්ඩරය. කරුණාකර මාර්ගය වෙනස් නොකරන්න. ඔබ නිශ්චිත ෆෝල්ඩරයක් සඳහා අවසර ලබා දිය යුතුය. ඔබට සැකසීම් තුළ පටිගත කිරීමේ ෆෝල්ඩරය වෙනස් කළ හැකිය.</string>
+    <string name="msg_initializing_please_wait">ආරම්භ කරමින්… කරුණාකර රැඳී සිටින්න!</string>
+    <string name="msg_no_browser">සබැඳිය විවෘත කිරීමට කරුණාකර වෙබ් යෙදුමක් ස්ථාපනය කරන්න</string>
+    <string name="msg_no_permission_to_delete_file">වීඩියෝ ගොනුව මැකීමට අසමත් විය. ඔබ යෙදුම නැවත ස්ථාපනය කර ඇති අතර ගොනු අවසරය නැති වී ඇත, කරුණාකර එය අතින් අස්ථාපනය කිරීමට උත්සාහ කරන්න</string>
+    <string name="msg_not_enough_memory_free_some_text">වීඩියෝ පටිගත කිරීම දිගටම කරගෙන යාමට යම් ඉඩක් නිදහස් කරන්න</string>
+    <string name="msg_not_enough_memory_text">ප්රමාණවත් නොවන මතකය</string>
+    <string name="msg_photo_failed_to_take">ඡායාරූපය ගැනීමට අසමත් විය</string>
+    <string name="msg_photo_was_saved">ඡායාරූපය සුරකින ලදී</string>
+    <string name="msg_please_close_other_app_and_restart_text">කැමරාව භාවිතයෙන් වෙනත් යෙදුම් වසා මෙම යෙදුම නැවත ආරම්භ කරන්න</string>
+    <string name="msg_record_path_has_changed_text">පටිගත කිරීමේ ෆෝල්ඩරය වෙනස් කර ඇත. ගබඩා කිරීමට (ලිවීමට) ලබා ගත නොහැකි හෝ අවසරයක් ලබා දී ඇති නිසා</string>
+    <string name="msg_recorder_init_error_file_not_found">පැරණි වීඩියෝ මකන්න, ඔබේ SD පත හැඩතල ගැන්වීම හෝ වෙනත් එකක් උත්සාහ කරන්න. එසේම, උපරිම වීඩියෝ පටිගත කිරීමේ ඉඩ සීමා කරන්න (අඩු වීම වඩා හොඳය). සුරැකි වීඩියෝ විශාල සංඛ්යාවක් එවැනි ගැටළු ඇති කළ හැකිය. සැකසීම් /නිතර අසන පැන තුළ SD කාඩ්පත් පිළිබඳ නිතර අසන පැන ද බලන්න. ඔබට බාහිර කාඩ්පතක් වෙනුවට දුරකථන මතකයට ලිවීමට උත්සාහ කළ හැකිය</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">පටිගත කිරීම නවත්වන්න. දිගටම කරගෙන යාමට ප්‍රමාණවත් මතකයක් නොමැත</string>
+    <string name="msg_settings_opened_stopped_recording_text">පටිගත කිරීම නවත්වන්න… (සැකසීම් විවෘත කරන ලදී)</string>
+    <string name="msg_should_stop_recording_before_closing_service">පළමුව පටිගත කිරීම නවත්වන්න, පසුව ඔබට සේවාව වසා දැමිය හැකිය</string>
+    <string name="msg_stop_rec_too_fast_text">ආරම්භ කළ වහාම පටිගත කිරීම නැවැත්වීමට පෙර කරුණාකර තත්පරයක් රැඳී සිටින්න</string>
+    <string name="msg_stop_recording_to_change_camera_text">කැමරාව වෙනස් කිරීමට, ඔබ වත්මන් පටිගත කිරීම නතර කළ යුතුය</string>
+    <string name="msg_to_close_this_service_close_app">මෙම සේවාව වසා දැමීමට, පළමුව යෙදුම අවම කිරීම හෝ වසා දැමීම</string>
+    <string name="msg_video_become_locked_text">වීඩියෝව උඩින් ලිවීමෙන් අවහිර කරනු ලැබේ.</string>
+    <string name="msg_video_folder_size">සියලුම වීඩියෝවල ප්‍රමාණය අවසර දී ඇති උපරිම ප්‍රමාණයෙන්</string>
+    <string name="msg_video_rec_battery_not_enough_text">උපාංගයේ ප්රමාණවත් බැටරි බලයක් නොමැත. ගාස්තුව 1%% ට වඩා වැඩි නම් ආරෝපණය කරන්න හෝ පටිගත කිරීම ආරම්භ කරන්න</string>
+    <string name="msg_video_recorder_error">වීඩියෝ රෙකෝඩරයේ යමක් වැරදී ඇත.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">TTS (Android Text-to-Speech) සඳහා භාෂා ඇසුරුම ස්ථාපනය කර නැත. බාගත කිරීම ආරම්භ කිරීමට අන්තර්ජාලය ක්‍රියාත්මක කරන්න</string>
+    <string name="msg_auto_recording_service_was_stopped">ඔබ ස්වයංක්‍රීය ආරම්භක වීඩියෝ පසුබිම් සේවාව නතර කර ඇත. එය නැවත දියත් කිරීමට Background Video Recorder යෙදුම විවෘත කරන්න.</string>
+
+    <string name="notification_service_checker">විශ්ලේෂණය</string>
+    <string name="notification_start_service_error_sub_text">යෙදුම දියත් කිරීමට දැනුම්දීම මත ක්ලික් කරන්න. ඔබට සියලුම යෙදුම්වලට ඉහළින් අවසර නැත, නැතහොත් උපාංගය අගුලු දමා ඇත</string>
+    <string name="notification_start_service_error_text">උපාංගය ආරම්භයේදී පටිගත කිරීමේ සේවාව ආරම්භ කිරීමට අසමත් විය</string>
+    <string name="notification_stop_text">නවත්වන්න</string>
+    <string name="notification_could_not_start_recording_service">පටිගත කිරීමේ සේවාව ආරම්භ කිරීමට අසමත් විය. මෙම යෙදුම සඳහා බැටරි ප්‍රශස්තිකරණය අක්‍රිය කිරීමට තට්ටු කරන්න</string>
+
+    <string name="permission_audio_dlg_msg">වීඩියෝ පටිගත කිරීමේදී ශ්‍රව්‍ය පථයක් පටිගත කිරීමට ශ්‍රව්‍ය අවශ්‍ය වේ</string>
+    <string name="permission_audio_dlg_title">ශ්රව්ය විභේදනය</string>
+    <string name="permission_camera_dlg_msg">වීඩියෝ පටිගත කිරීම සහ කැමරා පෙරදසුන සඳහා කැමරාව අවශ්‍ය වේ.</string>
+    <string name="permission_camera_dlg_title">කැමරා විභේදනය</string>
+    <string name="permission_camera_request_canceled">මෙම යෙදුමට වීඩියෝ පටිගත කිරීමට කැමරාව භාවිතා කිරීමට අවසරය අවශ්‍ය වේ. නමුත් ඔබ එය ප්‍රතික්ෂේප කළා. වසා දමමින්… මෙම යෙදුමේ පද්ධති සැකසීම් තුළ කැමරාවට අවසර දීමට උත්සාහ කරන්න</string>
+    <string name="permission_location_dlg_explanation_msg">යෙදුම අවම කළ විට, එය පටිගත කළ වීඩියෝවේ ඛණ්ඩාංක, ලිපිනය සහ වේගය ඇඳීමට පසුබිමේ ඇති ස්ථානය භාවිතා කරයි.</string>
+    <string name="permission_location_dlg_title">ස්ථාන අවසරය</string>
+    <string name="permission_storage_dlg_msg">වීඩියෝ බෙදාගත් ෆෝල්ඩරයකට සුරැකීමට සහ ලූප් පටිගත කිරීමේ මාදිලිය සඳහා ගබඩාව අවශ්‍ය වේ</string>
+    <string name="permission_storage_dlg_title">ගබඩා අවසරය</string>
+    <string name="permissions_audio_storage_dlg_title">ශ්‍රව්‍ය සහ අවසර ගබඩාව</string>
+
+    <string name="prefs_audio_bitrate_text">බිට්රේට් (ගුණාත්මකභාවය)</string>
+    <string name="prefs_audio_rate_text">සාම්පල සංඛ්යාතය</string>
+    <string name="prefs_audio_recording_text">ශ්රව්ය පටිගත කිරීම</string>
+    <string name="prefs_audio_settings_sum_text">ගුණාත්මක, ශබ්ද පටිගත කිරීම අක්‍රියයි</string>
+    <string name="prefs_audio_settings_text">ශබ්ද සැකසුම්</string>
+    <string name="prefs_audio_stereo_text">ස්ටීරියෝ</string>
+    <string name="prefs_auto_start_app_launch_sum_text">යෙදුම ආරම්භ වන විට වීඩියෝ පටිගත කිරීම ස්වයංක්‍රීයව ආරම්භ කරන්න</string>
+    <string name="prefs_auto_start_app_launch_text">යෙදුම ආරම්භ කරන විට</string>
+    <string name="prefs_battery_optimization_sum_text">බැටරි ප්‍රශස්තිකරණය මඟින් යෙදුම නිවැරදිව ක්‍රියා කිරීම වැළැක්විය හැකිය (උදාහරණයක් ලෙස, කැමරාව භාවිතා කිරීම). දැන් මෙම යෙදුම සඳහා එය ක්‍රියාවිරහිත කිරීමට මෙතැන ක්ලික් කරන්න</string>
+    <string name="prefs_battery_optimization_text">බැටරි ප්රශස්තකරණය</string>
+    <string name="prefs_day_night_mode_auto_text">ස්වයංක්‍රීය (දිවා /රාත්‍රී), වේලාව අනුව</string>
+    <string name="prefs_day_night_mode_day_text">දවස</string>
+    <string name="prefs_day_night_mode_night_text">රෑ</string>
+    <string name="prefs_donate_action_text">පරිත්‍යාග කරන්න</string>
+    <string name="prefs_donate_disable_ads_text">පරිත්‍යාග, දැන්වීම් ඉවත් කරන්න</string>
+    <string name="prefs_donate_sum_text">යෙදුම් සංවර්ධනයට සහාය වීම</string>
+    <string name="prefs_donate_text">පරිත්යාග කිරීම</string>
+    <string name="prefs_faq_sum_text">නිතර අසන ප්රශ්න</string>
+    <string name="prefs_float_size_increase_text">පාවෙන කවුළුවක බොත්තම් ප්රමාණය</string>
+    <string name="from">සිට</string>
+    <string name="to">කලින්</string>
+    <string name="prefs_fps_value_from_to_stable_text">(එකම දවස, ස්ථාවර)</string>
+    <string name="prefs_fps_value_from_to_text">(දිවා රෑ)</string>
+    <string name="prefs_info_more_category_text">තොරතුරු /තවත්…</string>
+    <string name="prefs_optical_zoom_text">ඔප්ටිකල් සූම් (විශාලනය) /නාභීය දිග</string>
+    <string name="prefs_orientation_landscape">භූ දර්ශනය</string>
+    <string name="prefs_orientation_landscape_reversed">ඇල්බමය ආපසු</string>
+    <string name="prefs_orientation_portrait">පෝට්රේට්</string>
+    <string name="prefs_other_auto_deleting_sum_text">නව වීඩියෝ සඳහා ප්‍රමාණවත් ඉඩක් නොමැති නම් පටිගත කිරීමේදී පැරණිතම වීඩියෝ ස්වයංක්‍රීයව මකන්න</string>
+    <string name="prefs_other_auto_deleting_text">ලූප් පටිගත කිරීම</string>
+    <string name="prefs_other_keep_screen_on_text">තිරය ​​මත තබන්න</string>
+    <string name="prefs_other_path_photo_text">ඡායාරූප ස්ථානය (ෆෝල්ඩරය /මාර්ගය)</string>
+    <string name="prefs_other_path_text">වීඩියෝ ස්ථානය (ෆෝල්ඩරය /මාර්ගය)</string>
+    <string name="prefs_other_settings_sum_text">වීඩියෝ ස්ථානය (ෆෝල්ඩරය සුරකින්න), වීඩියෝ කාලසීමාව, ලූප් පටිගත කිරීම, උපරිම වීඩියෝ ප්රමාණය</string>
+    <string name="prefs_other_settings_text">වෙනත් සැකසුම්</string>
+    <string name="prefs_other_video_duration_text">වීඩියෝ කාලසීමාව - කොපමණ වාරයක් සුරැකිය යුතුද</string>
+    <string name="prefs_overlay_app_btn_text">යෙදුම දියත් කරන්න</string>
+    <string name="prefs_overlay_buttons_text">පාවෙන කවුළුවක බොත්තම් /මූලද්‍රව්‍ය</string>
+    <string name="prefs_overlay_close_btn_text">කවුළුවක් වසන්න</string>
+    <string name="prefs_overlay_drag_btn_text">කවුළුව අදින්න</string>
+    <string name="prefs_overlay_videos_btn_text">වීඩියෝ තිරය විවෘත කරන්න</string>
+    <string name="prefs_pinch_to_zoom_sum_text">ඇඟිලි දෙකකින් විශාලනය කරන්න</string>
+    <string name="prefs_pinch_to_zoom_text">තිර විශාලනය සබල කරන්න</string>
+    <string name="prefs_policy_text">රහස්යතා ප්රතිපත්තිය</string>
+    <string name="prefs_rate_sum_text">Play Store හි යෙදුම ශ්‍රේණිගත කරන්න</string>
+    <string name="prefs_rate_text">ඇස්තමේන්තු කරන්න</string>
+    <string name="prefs_rules_video_space_text">සියලුම වීඩියෝවල උපරිම මතක ධාරිතාව (ලූප් පටිගත කිරීම)</string>
+    <string name="prefs_screen_autostart_text">ස්වයංක්‍රීයව පටිගත කිරීම</string>
+    <string name="prefs_screen_ui_summary_text">තිරය ​​මත ඉක්මන් සහ දිගු ඔබන්න, උත්පතන කවුළුව, පටිගත කිරීමේදී කම්පනය, ශබ්ද ඇඟවීම්, තිරයේ බොත්තම්, තිරය අක්‍රිය සහ තවත් දේ</string>
+    <string name="prefs_screen_ui_title">අතුරු මුහුණත (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">නිශ්චිත වේලාවන්හිදී ස්වයංක්‍රීයව කැමරා දිවා/රාත්‍රී මාතයන් මාරු කරයි</string>
+    <string name="prefs_screen_video_day_night_mode_text">ස්වයංක්‍රීය දිවා /රාත්‍රී සැකසුම්</string>
+    <string name="prefs_settings_bitrate_sum_text">ඉහළ බිටු අනුපාතය - වඩා හොඳ ගුණාත්මක, නමුත් විශාල වීඩියෝ ගොනු ප්රමාණය</string>
+    <string name="prefs_settings_fps_sum_text">තවත් FPS - සුමට වීඩියෝ, නමුත් වේගවත් බැටරි බැසීමක්. අඳුරේ වඩා හොඳ පටිගත කිරීම සඳහා පළමු අගය අඩුම අගයට (දෙවැන්න වැඩි විය හැක) සැකසීම වඩා හොඳය</string>
+    <string name="prefs_share_sum_text">මෙම යෙදුම ඔබේ මිතුරන්ට යවන්න</string>
+    <string name="prefs_share_text">මෙය Share කරන්න</string>
+    <string name="prefs_show_audio_btn_text">ශ්‍රව්‍ය පටිගත කිරීම සක්‍රිය /අක්‍රිය</string>
+    <string name="prefs_show_buttons_sum_text">කැමරා වෙනස් කිරීමට බොත්තම්</string>
+    <string name="prefs_show_buttons_text">තිරය ​​මත බොත්තම්</string>
+    <string name="prefs_show_camera_change_btn_text">කැමරා වෙනස් කිරීම</string>
+    <string name="prefs_show_day_night_mode_btn_text">දිවා /රාත්‍රී /ස්වයංක්‍රීය මාදිලි</string>
+    <string name="prefs_show_flash_btn_text">ෆ්ලෑෂ් සක්‍රිය /අක්‍රිය කරන්න</string>
+    <string name="prefs_show_lock_btn_text">වීඩියෝ උඩින් ලිවීමෙන් අවහිර කිරීම</string>
+    <string name="prefs_show_overlay_btn_sum_text">සියලුම යෙදුම් වලට ඉහලින් පාලන බොත්තම් සහිත කවුළුවක් පෙන්වයි</string>
+    <string name="prefs_show_overlay_btn_text">පාවෙන කවුළුව පෙන්වන්න</string>
+    <string name="prefs_show_status_bar_text">පද්ධති තත්ව තීරුව පෙන්වන්න</string>
+    <string name="prefs_show_take_photo_btn_text">ඡායාරූපයක් සෑදීමට</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">වත්මන් කැමරාව මඟින් සහාය නොදක්වයි. නිෂ්පාදකයින් බොහෝ විට එහි භාවිතය සීමා කරයි - එය ලබා ගත හැක්කේ සම්මත කැමරා යෙදුමෙන් පමණි</string>
+    <string name="prefs_start_stop_voice_sum_text">ආරම්භයේදී ශබ්දය, නැවතුම හෝ පටිගත කිරීමේ දෝෂයකි</string>
+    <string name="prefs_start_stop_voice_text">ශබ්ද පටිගත කිරීමේ තත්ත්වය</string>
+    <string name="prefs_support_sum_text">දෝෂයක් වාර්තා කරන්න, බිඳ වැටීමක් හෝ පිරිනැමීමක් කරන්න</string>
+    <string name="prefs_support_text">සහාය (ප්‍රතිපෝෂණ)</string>
+    <string name="prefs_system_alert_window_sum_text">මෙම යෙදුමට අනෙකුත් සියලුම යෙදුම්වලට ඉහළින් දිස් වීමට ඉඩ දෙන්න. පාවෙන කවුළුව පෙන්වීමට මෙය අවශ්ය වේ</string>
+    <string name="prefs_system_alert_window_text">සියලු කවුළු මත විභේදනය</string>
+    <string name="prefs_toolbar_title_setting">සැකසුම්</string>
+    <string name="prefs_ui_click_none_text">කරන්න දෙයක් නෑ</string>
+    <string name="prefs_ui_click_start_stop_rec_text">පටිගත කිරීම ආරම්භ කරන්න /නවත්වන්න</string>
+    <string name="prefs_ui_click_text">තිරය ​​මත ඉක්මන් තට්ටු කරන්න</string>
+    <string name="prefs_ui_long_click_text">තිරය ​​මත දිගු ඔබන්න</string>
+    <string name="prefs_version_text">යෙදුම් අනුවාදය</string>
+    <string name="prefs_video_bitrate_text">බිට්රේට් (ගුණාත්මකභාවය)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">කැමරා පාලන දර්ශන මාදිලිය (රාත්‍රිය)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">කැමරා පාලන දර්ශන මාදිලිය (දිනය)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">සාමාන්‍ය /මුහුණු ප්‍රමුඛතාවය</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (ඉහළ ගතික පරාසය)</string>
+    <string name="prefs_video_control_scene_mode_night_text">රාත්‍රිය (අඩු ආලෝක තත්ත්වයන් සඳහා)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">හිරු උදාවන වේලාව (හිරු උදාව)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">හිරු බැස යන වේලාව (හිරු බැස යෑම)</string>
+    <string name="prefs_video_day_night_mode_text">දිවා, රාත්‍රී හෝ ස්වයංක්‍රීය මාදිලිය</string>
+    <string name="prefs_video_exposure_night_text">නිරාවරණ වන්දි (රාත්රී)</string>
+    <string name="prefs_video_exposure_text">නිරාවරණ වන්දි (දින)</string>
+    <string name="prefs_video_flip_x_sum_text">වීඩියෝවේ තිරස් දර්පණය. රූපය වෙනස් වන්නේ වීඩියෝ පටිගත කිරීම සඳහා පමණි, පෙරදසුන වෙනස් නොවේ</string>
+    <string name="prefs_video_flip_x_text">වීඩියෝව තිරස් අතට පෙරළන්න</string>
+    <string name="prefs_video_focus_continuous_picture_text">අඛණ්ඩ රූපය</string>
+    <string name="prefs_video_focus_continuous_video_text">අඛණ්ඩ වීඩියෝව (දිවා කාලයේදී නිර්දේශ කෙරේ)</string>
+    <string name="prefs_video_focus_infinity_text">අනන්තය (රාත්‍රියේදී නිර්දේශ කෙරේ)</string>
+    <string name="prefs_video_focus_night_text">කැමරා නාභිගත කිරීම (රාත්‍රිය)</string>
+    <string name="prefs_video_focus_text">කැමරා නාභිගත කිරීම (දිනය)</string>
+    <string name="prefs_video_fps_range_text">තත්පරයට රාමු (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">ඉඩ ඉතිරි කර ගැනීමට HEVC (H.265) ආකෘතියෙන් පටිගත කරන්න. ඔබට වෙනත් වීඩියෝ ප්ලේබැක් උපාංග හෝ යෙදුම් මත එවැනි වීඩියෝ වාදනය කිරීමට නොහැකි විය හැක. වෙනස් කිරීමෙන් පසු විභේදනය සහ බිටු අනුපාතය යළි සකසනු ඇත</string>
+    <string name="prefs_video_hevc_text">ඉතා කාර්යක්ෂම වීඩියෝ කේතීකරණය</string>
+    <string name="prefs_video_orientation_text">වීඩියෝ සහ දුරකථන දිශානතිය</string>
+    <string name="prefs_video_resolution_text">වීඩියෝ විභේදනය</string>
+    <string name="prefs_video_settings_sum_text">විභේදනය, බිට් අනුපාතය, දිශානතිය, නාභිගත කිරීම, කැමරාව, රාත්‍රී මාදිලිය</string>
+    <string name="prefs_video_settings_text">වීඩියෝ සැකසුම්</string>
+    <string name="prefs_video_size_sum_text">විශාල ප්‍රමාණය - වේගවත් බැටරි බැසීමක්</string>
+    <string name="prefs_video_space_unlimited">අසීමිතයි</string>
+    <string name="prefs_video_stabilization_text">වීඩියෝ ස්ථායීකරණය</string>
+    <string name="prefs_zoom_text">ඩිජිටල් විශාලනය (විශාලනය)</string>
+
+    <string name="rec_day_night_btn_auto_text">ඔටෝ</string>
+    <string name="rec_fix_short_text">නිවැරදි කිරීමට</string>
+    <string name="rec_fix_text">නිවැරදි කිරීමට</string>
+    <string name="rec_free_space_text">නිදහස්</string>
+    <string name="rec_location_text">ස්ථානය</string>
+    <string name="rec_gps_text">GPS</string>
+    <string name="rec_network_text">ශුද්ධ</string>
+    <string name="rec_off_text">අක්රියයි</string>
+    <string name="rec_on_text">ඇතුළු</string>
+
+    <string name="recording_start_text">පටිගත කිරීම ආරම්භ කරන්න</string>
+    <string name="recording_started_failed_text">පටිගත කිරීම ආරම්භ කිරීමේ දෝෂයකි</string>
+    <string name="recording_started_with_audio_text">ශ්‍රව්‍ය පටිගත කිරීම සමඟ නව වීඩියෝ පටිගත කිරීමක් ආරම්භ කර ඇත</string>
+    <string name="recording_started_with_text">පටිගත කිරීම ආරම්භ විය</string>
+    <string name="recording_started_without_audio_text">නව වීඩියෝ පටිගත කිරීම ශ්‍රව්‍ය පටිගත කිරීමකින් තොරව ආරම්භ විය</string>
+    <string name="recording_stop_not_enough_space_msg">ප්‍රමාණවත් ගබඩාවක් නොමැත. නිදහස් ස්ථානය</string>
+    <string name="recording_stop_text">පටිගත කිරීම නවත්වන්න</string>
+    <string name="recording_stopped_failed_text">පටිගත කිරීම නිවැරදිව සම්පූර්ණ කළ නොහැකි විය</string>
+    <string name="recording_stopped_with_text">පටිගත කිරීම නතර විය</string>
+    <string name="recording_text">පටිගත කරමින්…</string>
+    <string name="recording_voice_started_text">පටිගත කිරීම ආරම්භ කර ඇත</string>
+    <string name="recording_voice_stopped_text">පටිගත කිරීම නතර විය</string>
+
+    <string name="service_no_system_alert_window_granted_text">SYSTEM_ALERT_WINDOW (අනෙකුත් සියලුම යෙදුම් කවුළුවලට ඉහළින් සංදර්ශකය) අවසරය ලබා දී නොමැති නිසා ස්වයංක්‍රීය-ආරම්භක/නැවතුම් පටිගත කිරීමේ යෙදුම් සේවාව ආරම්භ කළ නොහැක. නැතහොත් එම මොහොතේම උපාංගය අගුලු දමා ඇත (Android සීමාව නම් ස්වයංක්‍රීය වීඩියෝ පටිගත කිරීමේ සේවාව ආරම්භ කිරීමට පෙර උපාංගය මුලින්ම අගුළු ඇර එහි තිරය ක්‍රියාත්මක කළ යුතුය)</string>
+
+    <string name="storage_external_single">MicroSD කාඩ්පත</string>
+    <string name="storage_phone">දුරකථන මතකය</string>
+
+    <string name="videos_count_one">වීඩියෝ</string>
+    <string name="videos_count_other">වීඩියෝ</string>
+    <string name="videos_deleting_text">ගොනු මකමින්… කරුණාකර රැඳී සිටින්න!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">ඔබට මෙම වීඩියෝ ගොනුව මැකීමට අවශ්‍ය බව විශ්වාසද\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">ඔබට මෙම වීඩියෝ ගොනු මැකීමට අවශ්‍ය බව විශ්වාසද\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">ඔබට මෙම වීඩියෝ ෆෝල්ඩරය මැකීමට අවශ්‍ය බව විශ්වාසද\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">ඔබට වීඩියෝ ෆෝල්ඩර දත්ත මැකීමට අවශ්‍ය බව විශ්වාසද\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">වීඩියෝ ගොනු මකන්න</string>
+    <string name="videos_dialog_delete_multiple_folders_title">වීඩියෝ ෆෝල්ඩර මකන්න</string>
+    <string name="videos_empty_text">වීඩියෝ අතුරුදහන්</string>
+    <string name="videos_file_action_lock_dlg_title">මෙම වීඩියෝව ස්වයංක්‍රීය (යළි ලිවීම) මකා දැමීමෙන් අවහිර කරන්නද\?</string>
+    <string name="videos_file_deletion_mode">මකන්න මාදිලිය</string>
+    <string name="videos_file_item_share">මෙය Share කරන්න</string>
+    <string name="videos_file_item_watch">නරඹන්න</string>
+    <string name="videos_file_sort_asc">ආරෝහණ ලෙස වර්ග කරන්න</string>
+    <string name="videos_file_sort_desc">පහතට අනුපිළිවෙල කරන්න</string>
+    <string name="videos_file_was_locked_text">වීඩියෝ ගොනුව ආරක්ෂිත ෆෝල්ඩරයකට ගෙන ගොස් ඇත</string>
+    <string name="videos_item_mode_deletion_exit_text">මකාදැමීමේ මාදිලියෙන් පිටවන්න</string>
+    <string name="videos_locked_folder_text">උඩින් ලිවීම ආරක්ෂා කර ඇත</string>
+    <string name="videos_menu_delete">මකන්න</string>
+    <string name="videos_menu_refresh">නැවුම් කරන්න</string>
+    <string name="videos_menu_select_all">සියල්ල තෝරන්න</string>
+    <string name="videos_menu_sorting">වර්ග කිරීම</string>
+    <string name="videos_menu_storage">මතකය</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">කරුණාකර යෙදුම් සැකසීම් විවෘත කර දුරකථන මතකයේ ගබඩාවට ප්‍රවේශයට ඉඩ දෙන්න</string>
+    <string name="videos_no_storage_permission_dlg_title_text">ගබඩා අවසර නැත</string>
+    <string name="videos_select_files_for_deleting">මකා දැමීමට වීඩියෝ ගොනු තෝරන්න</string>
+    <string name="videos_storage_select_dlg_title">වීඩියෝ ගබඩාව තෝරන්න</string>
+    <string name="videos_toolbar_subtitle">වීඩියෝ පටිගත කිරීම්</string>
+
+
+    <string name="prefs_warnings_text">අනතුරු ඇඟවීම්</string>
+    <string name="prefs_beep_each_start_recording_sum_text">ඊළඟ වීඩියෝ ගොනුව පටිගත කිරීමේ ආරම්භයේ දී සංඥා කරන්න</string>
+    <string name="prefs_beep_each_start_recording_text">පටිගත කිරීමේදී බීප් කරන්න</string>
+    <string name="prefs_translate_text">යෙදුම් පරිවර්තනය</string>
+    <string name="prefs_translate_sum_text">ඔබේ භාෂාවෙන් පෙළ පරිවර්තනය වැඩිදියුණු කිරීමට හෝ නිවැරදි කිරීමට උදවු කරන්න</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">කැමරාවට ප්‍රවේශ වීමේදී දෝෂයක් ඇති විය. බැටරි ප්‍රශස්තකරණය සබල කර ඇත</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">අනාගත කැමරා දෝෂ වළක්වා ගැනීමට ඔබගේ උපාංග සැකසීම් තුළ මෙම යෙදුම සඳහා බැටරි ප්‍රශස්තකරණය අක්‍රීය කරන්න</string>
+
+
+    <string name="accept_text">මම පිළිගන්නවා</string>
+
+    <string name="hour">පැය</string>
+    <string name="hours">පැය</string>
+    <string name="prefs_orientation_sensor_automatic">ස්වයංක්රීය</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">පටිගත කිරීම ආරම්භ කරන විට හෝ නතර කරන විට කම්පනය</string>
+    <string name="prefs_start_rec_volume_down_key_text">ශබ්දය අඩු කිරීමේ බොත්තම එබීමෙන් පටිගත කිරීම ආරම්භ කරන්න හෝ නවත්වන්න</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">මෙම විශේෂාංගය ක්‍රියා කිරීම සඳහා යෙදුම පසුබිමේ ක්‍රියාත්මක වේ (දැනුම්දීම් තීරුවේ දියත් කෙරේ).</string>
+    <string name="timer_auto_start_recording_cancel_message_text">වත්මන් ටයිමරය සඳහා ස්වයංක්‍රීය වීඩියෝ පටිගත කිරීම අවලංගු කරන්නද\?</string>
+    <string name="timer_auto_start_recording_duration_text">වීඩියෝ දිග</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">කාලය නියම කළේ අතීතයේ ය</string>
+    <string name="timer_service_notification_subtitle_text">වීඩියෝ පටිගත කිරීමේ ස්වයංක්‍රීය ධාවන කාල ගණක සේවාව</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">د شالید ویډیو ثبت کول</string>
+
+    <string name="close">تړل</string>
+    <string name="default_text">ډیفالټ</string>
+    <string name="disabled_text">معلول</string>
+    <string name="no_ads_text">(پرته له اعلاناتو)</string>
+    <string name="zoom_text">زوم</string>
+    <string name="reset">خارجول</string>
+
+    <string name="camera">کیمره</string>
+    <string name="camera_aperture">ډایفراګم</string>
+    <string name="camera_back">شاته کیمره</string>
+    <string name="camera_background_permission_error_msg">تاسو اړتیا لرئ یوځل ایپ چل کړئ ترڅو په شالید کې کیمرې ته لاسرسی ومومئ</string>
+    <string name="camera_error_background_tried_use_text">په Android 11+ کې، مخکې له دې چې په شالید کې ثبت کول پیل کړئ، غوښتنلیک باید لږ تر لږه یو ځل روان وي او لیدل کیږي ترڅو په شالید کې د کیمرې کارولو وړ وي. له همدې امله ، د وسیلې له بیا پیلولو وروسته ، غوښتنلیک ښکاره کړئ او له هغې وروسته د ثبت کولو خدمت بند نه کړئ ، دا باید د خبرتیا مرکز کې پاتې شي.</string>
+    <string name="camera_error_busy">د ویډیو ثبت کول بند شوي ځکه چې کیمره د بل غوښتنلیک لخوا کارول کیږي</string>
+    <string name="camera_external">بهرنۍ USB کیمره</string>
+    <string name="camera_fov_text">د لید زاویې (16: 9)</string>
+    <string name="camera_fov_vertical_text">عمودی</string>
+    <string name="camera_fov_horbizonal_text">افقي</string>
+    <string name="camera_front">مخکینۍ کیمره</string>
+    <string name="camera_msg_error_in_use_text">کیمره د بل غوښتنلیک لخوا کارول کیده. مهرباني وکړئ نور غوښتنلیکونه مه چلوئ چې ممکن د ویډیو ثبتولو پرمهال کیمره وکاروي. Android یوازې یو اپلیکیشن ته اجازه ورکوي چې په یو وخت کې کیمره وکاروي</string>
+    <string name="camera_msg_error_unknown_text">کیمره په موقتي ډول (وه) ستاسو په وسیله د خلاصولو لپاره شتون نلري (د کیمرې سیسټم تېروتنه)</string>
+    <string name="camera_support_error">د کیمرې کارولو په وخت کې یوه تېروتنه رامنځته شوه.</string>
+
+    <string name="dialog_camera_not_found_msg_text">دا وسیله جوړه شوې کیمره نلري او د بهرني کیمرې ملاتړ نه کوي. تړل…</string>
+    <string name="dialog_camera_not_found_text">کیمره ونه موندل شوه</string>
+    <string name="dialog_go_to_settings_text">ترتیبات خلاص کړئ</string>
+    <string name="dialog_report_the_error_text_btn">د بګ راپور ورکړئ</string>
+    <string name="dialog_select_camera_text">کیمره غوره کړئ</string>
+    <string name="dialog_unlock_video_text">اوسنۍ ویډیو د بیا لیکلو څخه خلاص کړئ؟</string>
+
+    <string name="donate_success_thanks_msg_text">ستاسو د ملاتړ لپاره ډیره مننه!</string>
+    <string name="donation_dlg_has_ads_text">د اعلاناتو لرې کولو لپاره، بسپنه باید یا نور وي.</string>
+    <string name="donation_dlg_no_ads_text">تاسو هیڅ اعلانونه نلرئ.</string>
+    <string name="donation_level_text">ستاسو د مرستې کچه:</string>
+    <string name="donation_purchase_info_loading_text">د پیرودلو معلومات لا تر اوسه ندي پورته شوي. ایا تاسو آنلاین یاست او خپل ګوګل حساب ته ننوتل؟</string>
+    <string name="donation_subs_check_box_text">میاشتنی ساتل (د هیڅ مقدار لپاره اعلانونه نشته)</string>
+    <string name="donation_subs_manage_btn_text">ګډون نه کول</string>
+
+    <string name="format_gb">ګیګابایټ</string>
+    <string name="format_hz">هرز</string>
+    <string name="format_kbits">کیپس</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">دقیق</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">غوښتنلیک د بیټرۍ اصلاح کولو څخه ندي ایستل شوی. که کیمره په شالید کې کار نه کوي یا بل څه کار نه کوي ، نو دا غوښتنلیک د بریښنا سپمولو حالت استثناء کې اضافه کړئ.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">که تاسو په Android 11 کې غوښتنلیک له سره انسټال کړی، نو زاړه فایلونه باید په لاسي ډول حذف شي</string>
+    <string name="msg_battery_optimization_tip_text">د بیټرۍ اصلاح کول -&gt; ټول ایپس -&gt; د دې اپلیکیشن نوم -&gt; اصلاح مه کوئ /خوندي کړئ</string>
+    <string name="msg_camera_not_opened">کیمره نه چلیږي</string>
+    <string name="msg_close_settings_before_recording_text">د ثبت کولو پیل کولو دمخه د غوښتنلیک غوره توبونه بند کړئ</string>
+    <string name="msg_could_not_enable_microphone">د مایکروفون په فعالولو کې پاتې راغلی، ثبت کول به د غږ پرته دوام وکړي</string>
+    <string name="msg_could_not_found_autostart_settings_text">د دې اپلیکیشن څخه دا تنظیمات نشي خلاصولی ، مهرباني وکړئ د ډیفالټ وسیلې سیسټم تنظیماتو ډیفالټ غوښتنلیک په کارولو سره د موندلو هڅه وکړئ</string>
+    <string name="msg_could_not_start_floating_window_text">د تیرولو کړکۍ پیل کولو کې پاتې راغلی</string>
+    <string name="msg_dlg_found_old_videos_message">داسې ښکاري چې تاسو اپلیکیشن بیا نصب کړی. تاسو زاړه ویډیوګانې لرئ چې ایپ نشي کولی د لوپ ثبتولو پرمهال حذف کړي. د نوي ویډیو ثبتولو دمخه دوی په لاسي ډول د ویډیو سکرین کې لرې کړئ. د Android 11+ څخه پیل کول ، غوښتنلیک د بیا نصبولو وروسته زړو فایلونو ته د لاسرسي حق له لاسه ورکوي. یا تاسو کولی شئ د ثبت کولو فولډر ته د لیکلو اجازه ورکړئ</string>
+    <string name="msg_dlg_found_old_videos_title">زاړه ویډیو فایلونه وموندل شول</string>
+    <string name="msg_dlg_incorrect_folder_path">ناسم فولډر مهرباني وکړئ لاره مه بدلوئ. تاسو باید د یو ځانګړي فولډر لپاره اجازه ورکړئ. تاسو کولی شئ په ترتیباتو کې د ثبت کولو فولډر بدل کړئ.</string>
+    <string name="msg_initializing_please_wait">پیل کول… مهرباني وکړئ انتظار وکړئ!</string>
+    <string name="msg_no_browser">مهرباني وکړئ د لینک خلاصولو لپاره ویب ایپ نصب کړئ</string>
+    <string name="msg_no_permission_to_delete_file">د ویډیو فایل حذف کولو کې پاتې راغلی. تاسو ممکن اپلیکیشن بیا انسټال کړی وي او د فایل اجازه ورکه شوې وي، مهرباني وکړئ هڅه وکړئ په لاسي ډول یې غیر نصب کړئ</string>
+    <string name="msg_not_enough_memory_free_some_text">د ویډیو ثبتولو ته دوام ورکولو لپاره یو څه ځای خالي کړئ</string>
+    <string name="msg_not_enough_memory_text">کافي حافظه نه ده</string>
+    <string name="msg_photo_failed_to_take">د عکس اخیستلو کې پاتې راغلی</string>
+    <string name="msg_photo_was_saved">عکس خوندي شو</string>
+    <string name="msg_please_close_other_app_and_restart_text">د کیمرې په کارولو سره نور غوښتنلیکونه بند کړئ او دا اپلیکیشن بیا پیل کړئ</string>
+    <string name="msg_record_path_has_changed_text">د ثبت کولو فولډر بدل شوی. ځکه چې شتون نلري یا د ذخیره کولو (لیکلو) اجازه نه ده ورکړل شوې</string>
+    <string name="msg_recorder_init_error_file_not_found">زاړه ویډیوګانې حذف کړئ، خپل SD کارت فارمیټ کړئ، یا بل هڅه وکړئ. همچنان ، د ویډیو ثبت کولو اعظمي ځای محدود کړئ (لږ ښه دی). د خوندي شوي ویډیوګانو لوی شمیر کولی شي دا ډول ستونزې رامینځته کړي. په ترتیباتو /FAQ کې د SD کارتونو په اړه FAQ هم وګورئ. تاسو کولی شئ د بهرني کارت پرځای د تلیفون حافظې ته د لیکلو هڅه وکړئ</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">ثبت کول بند کړئ. د دوام لپاره کافي حافظه نشته</string>
+    <string name="msg_settings_opened_stopped_recording_text">ثبت کول بند کړئ… (ترتیبات خلاص شوي)</string>
+    <string name="msg_should_stop_recording_before_closing_service">لومړی د ثبت کولو مخه ونیسئ، بیا تاسو کولی شئ خدمت بند کړئ</string>
+    <string name="msg_stop_rec_too_fast_text">مهرباني وکړئ د پیل کولو وروسته سمدلاسه د ثبت کولو مخه نیولو دمخه یوه ثانیه انتظار وکړئ</string>
+    <string name="msg_stop_recording_to_change_camera_text">د کیمرې بدلولو لپاره، تاسو باید اوسنی ریکارډ بند کړئ</string>
+    <string name="msg_to_close_this_service_close_app">د دې خدمت بندولو لپاره، لومړی اپلیکیشن کوچنی یا بند کړئ</string>
+    <string name="msg_video_become_locked_text">ویډیو به د بیا لیکلو مخه ونیول شي.</string>
+    <string name="msg_video_folder_size">د اجازه ورکړل شوي اعظمي اندازې څخه د ټولو ویډیوګانو اندازه</string>
+    <string name="msg_video_rec_battery_not_enough_text">په وسیله کې کافي بیټرۍ شتون نلري. چارج کېږدئ یا ثبت کول پیل کړئ که چیرې چارج له 1%% څخه پورته وي</string>
+    <string name="msg_video_recorder_error">د ویډیو ریکارډر سره یو څه غلط شو.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">د TTS (Android Text-to-Speech) لپاره د ژبې بسته نه ده نصب شوې. د ډاونلوډ پیل کولو لپاره انټرنیټ چالان کړئ</string>
+    <string name="msg_auto_recording_service_was_stopped">تاسو د اتوماتیک پیل ویډیو پس منظر خدمت بند کړی دی. د Background Video Recorder ایپ خلاص کړئ ترڅو دا بیا پیل کړئ.</string>
+
+    <string name="notification_service_checker">تحلیل</string>
+    <string name="notification_start_service_error_sub_text">د غوښتنلیک پیلولو لپاره په خبرتیا کلیک وکړئ. تاسو د ټولو غوښتنلیکونو په سر کې اجازه نلرئ یا وسیله بنده شوې وي</string>
+    <string name="notification_start_service_error_text">د آلې په بوټ کې د ثبتولو خدمت پیل کولو کې پاتې راغلی</string>
+    <string name="notification_stop_text">درېدل</string>
+    <string name="notification_could_not_start_recording_service">د ثبتولو خدمت پیل کولو کې پاتې راغلی. د دې اپلیکیشن لپاره د بیټرۍ اصلاح کولو غیر فعالولو لپاره ټایپ کړئ</string>
+
+    <string name="permission_audio_dlg_msg">آډیو د ویډیو ثبتولو پرمهال د آډیو ټریک ثبتولو لپاره اړین دی</string>
+    <string name="permission_audio_dlg_title">د آډیو ریزولوشن</string>
+    <string name="permission_camera_dlg_msg">کیمره د ویډیو ثبتولو او کیمرې لیدو لپاره اړینه ده.</string>
+    <string name="permission_camera_dlg_title">د کیمرې ریزولوشن</string>
+    <string name="permission_camera_request_canceled">دا غوښتنلیک د ویډیو ثبتولو لپاره د کیمرې کارولو اجازې ته اړتیا لري. مګر تاسو دا رد کړه. بندول… د دې غوښتنلیک سیسټم ترتیباتو کې کیمرې ته د اجازې ورکولو هڅه وکړئ</string>
+    <string name="permission_location_dlg_explanation_msg">کله چې اپلیکیشن کوچنی شي، دا په شالید کې موقعیت کاروي ترڅو په ثبت شوي ویډیو کې همغږي، پته او سرعت رسم کړي.</string>
+    <string name="permission_location_dlg_title">د ځای اجازه</string>
+    <string name="permission_storage_dlg_msg">ذخیره کولو ته اړتیا ده چې ویډیو په شریک فولډر کې خوندي کړئ او د لوپ ثبت کولو حالت لپاره</string>
+    <string name="permission_storage_dlg_title">د ذخیره کولو اجازه</string>
+    <string name="permissions_audio_storage_dlg_title">د آډیو او اجازې ذخیره کول</string>
+
+    <string name="prefs_audio_bitrate_text">بیټریټ (کیفیت)</string>
+    <string name="prefs_audio_rate_text">د نمونې تعدد</string>
+    <string name="prefs_audio_recording_text">آډیو ثبت کول</string>
+    <string name="prefs_audio_settings_sum_text">کیفیت، بند /د غږ ثبتول</string>
+    <string name="prefs_audio_settings_text">د غږ ترتیبات</string>
+    <string name="prefs_audio_stereo_text">سټیریو</string>
+    <string name="prefs_auto_start_app_launch_sum_text">کله چې ایپ پیل شي په اوتومات ډول د ویډیو ثبت کول پیل کړئ</string>
+    <string name="prefs_auto_start_app_launch_text">کله چې غوښتنلیک پیل کړئ</string>
+    <string name="prefs_battery_optimization_sum_text">د بیټرۍ اصلاح کول ممکن د غوښتنلیک د سم کار کولو مخه ونیسي (د مثال په توګه د کیمرې کارول). د دې اپلیکیشن لپاره اوس د بندولو لپاره دلته کلیک وکړئ</string>
+    <string name="prefs_battery_optimization_text">د بیټرۍ اصلاح کول</string>
+    <string name="prefs_day_night_mode_auto_text">اتومات (ورځ /شپه)، د وخت په واسطه</string>
+    <string name="prefs_day_night_mode_day_text">ورځ</string>
+    <string name="prefs_day_night_mode_night_text">شپه</string>
+    <string name="prefs_donate_action_text">مرسته وکړئ</string>
+    <string name="prefs_donate_disable_ads_text">بسپنه، اعلانونه لرې کړئ</string>
+    <string name="prefs_donate_sum_text">د غوښتنلیک پراختیا ملاتړ کوي</string>
+    <string name="prefs_donate_text">بسپنه</string>
+    <string name="prefs_faq_sum_text">په مکرر ډول پوښتل شوي پوښتنې</string>
+    <string name="prefs_float_size_increase_text">په تیرې کړکۍ کې د بټونو اندازه</string>
+    <string name="from">څخه</string>
+    <string name="to">مخکې</string>
+    <string name="prefs_fps_value_from_to_stable_text">(یوازې ورځ، باثباته)</string>
+    <string name="prefs_fps_value_from_to_text">(ورځ او شپه)</string>
+    <string name="prefs_info_more_category_text">معلومات /نور…</string>
+    <string name="prefs_optical_zoom_text">نظری زوم (زوم) /فوکل اوږدوالی</string>
+    <string name="prefs_orientation_landscape">منظره</string>
+    <string name="prefs_orientation_landscape_reversed">البوم ریورس</string>
+    <string name="prefs_orientation_portrait">پورټریټ</string>
+    <string name="prefs_other_auto_deleting_sum_text">د ثبت کولو پرمهال زاړه ویډیوګانې په اوتومات ډول حذف کړئ که چیرې د نوي ویډیوګانو لپاره کافي ځای شتون ونلري</string>
+    <string name="prefs_other_auto_deleting_text">لوپ ثبت کول</string>
+    <string name="prefs_other_keep_screen_on_text">پرده پریږدئ</string>
+    <string name="prefs_other_path_photo_text">د عکس ځای (فولډر /لاره)</string>
+    <string name="prefs_other_path_text">د ویډیو ځای (فولډر /لاره)</string>
+    <string name="prefs_other_settings_sum_text">د ویډیو موقعیت (د فولډر خوندي کول)، د ویډیو موده، لوپ ثبت کول، د ویډیو اعظمي اندازه</string>
+    <string name="prefs_other_settings_text">نور ترتیبات</string>
+    <string name="prefs_other_video_duration_text">د ویډیو موده - څو ځله خوندي کړئ</string>
+    <string name="prefs_overlay_app_btn_text">اپلیکیشن پیل کړئ</string>
+    <string name="prefs_overlay_buttons_text">تڼۍ /عناصر په یوه تیریدلې کړکۍ کې</string>
+    <string name="prefs_overlay_close_btn_text">یوه کړکۍ بنده کړه</string>
+    <string name="prefs_overlay_drag_btn_text">کړکۍ کش کړئ</string>
+    <string name="prefs_overlay_videos_btn_text">د ویډیو سکرین خلاص کړئ</string>
+    <string name="prefs_pinch_to_zoom_sum_text">د دوو ګوتو سره زوم</string>
+    <string name="prefs_pinch_to_zoom_text">د سکرین زوم فعال کړئ</string>
+    <string name="prefs_policy_text">د پټتیا تګلاره</string>
+    <string name="prefs_rate_sum_text">په Play Store کې اپلیکیشن درجه بندي کړئ</string>
+    <string name="prefs_rate_text">اټکل</string>
+    <string name="prefs_rules_video_space_text">د ټولو ویډیوګانو اعظمي حافظه ظرفیت (لوپ ثبت کول)</string>
+    <string name="prefs_screen_autostart_text">په اتوماتيک ډول ثبت کول</string>
+    <string name="prefs_screen_ui_summary_text">په سکرین کې ګړندي او اوږد فشار ، د پاپ اپ کړکۍ ، په ثبتولو کې وایبریشن ، د غږ خبرتیا ، د سکرین بټنونه ، سکرین بند او نور ډیر څه</string>
+    <string name="prefs_screen_ui_title">انٹرفیس (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">په اوتومات ډول د کیمرې ورځ /شپې حالتونه په ځانګړي وختونو کې بدلوي</string>
+    <string name="prefs_screen_video_day_night_mode_text">د آٹو ورځ /شپې ترتیبات</string>
+    <string name="prefs_settings_bitrate_sum_text">لوړ بټریټ - ښه کیفیت، مګر د ویډیو فایل اندازه لوی</string>
+    <string name="prefs_settings_fps_sum_text">ډیر FPS - اسانه ویډیو ، مګر د بیټرۍ ګړندی جریان. دا غوره ده چې لومړی ارزښت ټیټ ته وټاکئ (دوهم ممکن لوړ وي) په تیاره کې د ښه ثبت کولو لپاره</string>
+    <string name="prefs_share_sum_text">دا اپلیکیشن خپلو ملګرو ته واستوئ</string>
+    <string name="prefs_share_text">دا شریک کړه</string>
+    <string name="prefs_show_audio_btn_text">آن /بند آډیو ثبت کول</string>
+    <string name="prefs_show_buttons_sum_text">د کیمرې بدلولو لپاره تڼۍ، د آډیو ثبت کولو /بندولو، فلش، د شپې حالت، د بیا لیکلو څخه د ویډیو بندول</string>
+    <string name="prefs_show_buttons_text">په سکرین کې تڼۍ</string>
+    <string name="prefs_show_camera_change_btn_text">د کیمرې بدلون</string>
+    <string name="prefs_show_day_night_mode_btn_text">ورځ /شپه /اتومات موډونه</string>
+    <string name="prefs_show_flash_btn_text">فلش آن /بند کړئ</string>
+    <string name="prefs_show_lock_btn_text">د بیا لیکلو څخه د ویډیوګانو بندول</string>
+    <string name="prefs_show_overlay_btn_sum_text">د ټولو غوښتنلیکونو په سر کې د کنټرول بټونو سره یوه کړکۍ ښکاره کوي</string>
+    <string name="prefs_show_overlay_btn_text">تیرې کړکۍ ښکاره کړئ</string>
+    <string name="prefs_show_status_bar_text">د سیسټم حالت بار وښایاست</string>
+    <string name="prefs_show_take_photo_btn_text">د عکس جوړولو لپاره</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">د اوسني کیمرې لخوا نه ملاتړ کیږي. جوړونکي اکثرا د دې کارول محدودوي - دا یوازې د معیاري کیمرې غوښتنلیک کې شتون لري</string>
+    <string name="prefs_start_stop_voice_sum_text">په پیل کې غږ، ودرول یا د ثبت کولو تېروتنه</string>
+    <string name="prefs_start_stop_voice_text">د غږ ثبتولو حالت</string>
+    <string name="prefs_support_sum_text">د بګ راپور ورکړئ، ټکر وکړئ یا وړاندیز وکړئ</string>
+    <string name="prefs_support_text">ملاتړ (فیډبیک)</string>
+    <string name="prefs_system_alert_window_sum_text">دې اپلیکیشن ته اجازه ورکړئ چې د نورو ټولو ایپسونو په سر کې څرګند شي. دا د تیرې کړکۍ ښودلو لپاره اړین دی</string>
+    <string name="prefs_system_alert_window_text">د ټولو وینډوز په سر کې ریزولوشن</string>
+    <string name="prefs_toolbar_title_setting">ترتیبات</string>
+    <string name="prefs_ui_click_none_text">هیڅ د کولو نشته</string>
+    <string name="prefs_ui_click_start_stop_rec_text">ثبت کول پیل /بند کړئ</string>
+    <string name="prefs_ui_click_text">په سکرین کې چټک ټایپ وکړئ</string>
+    <string name="prefs_ui_long_click_text">په سکرین کې اوږد فشار ورکړئ</string>
+    <string name="prefs_version_text">د غوښتنلیک نسخه</string>
+    <string name="prefs_video_bitrate_text">بیټریټ (کیفیت)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">د کیمرې کنټرول صحنې حالت (شپه)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">د کیمرې کنټرول صحنې حالت (ورځ)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">عمومي /مخ لومړیتوب</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (لوړ متحرک سلسله)</string>
+    <string name="prefs_video_control_scene_mode_night_text">شپه (د ټیټ رڼا شرایطو لپاره)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">د لمر ختو وخت (د لمر ختو)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">د لمر لوېدو وخت (لمر غروب)</string>
+    <string name="prefs_video_day_night_mode_text">ورځ، شپه یا اتومات حالت</string>
+    <string name="prefs_video_exposure_night_text">د افشا کولو جبران (شپه)</string>
+    <string name="prefs_video_exposure_text">د افشا کولو جبران (ورځ)</string>
+    <string name="prefs_video_flip_x_sum_text">د ویډیو افقی عکس العمل. عکس یوازې د ویډیو ثبتولو لپاره بدلیږي ، مخکتنه نه بدلیږي</string>
+    <string name="prefs_video_flip_x_text">ویډیو په افقی ډول فلپ کړئ</string>
+    <string name="prefs_video_focus_continuous_picture_text">پرله پسې انځور</string>
+    <string name="prefs_video_focus_continuous_video_text">دوامداره ویډیو (د ورځې په جریان کې وړاندیز شوی)</string>
+    <string name="prefs_video_focus_infinity_text">انفینٹی (په شپه کې وړاندیز شوی)</string>
+    <string name="prefs_video_focus_night_text">د کیمرې تمرکز (شپه)</string>
+    <string name="prefs_video_focus_text">د کیمرې تمرکز (ورځ)</string>
+    <string name="prefs_video_fps_range_text">په ثانیه کې چوکاټونه (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">د ځای خوندي کولو لپاره HEVC (H.265) بڼه کې ثبت کړئ. تاسو ممکن نشئ کولی دا ډول ویډیوګانې په نورو ویډیو پلے بیک وسیلو یا غوښتنلیکونو کې پلی کړئ. د بدلون وروسته به ریزولوشن او بټریټ بیا تنظیم کړي</string>
+    <string name="prefs_video_hevc_text">خورا مؤثره ویډیو کوډ کول</string>
+    <string name="prefs_video_orientation_text">د ویډیو او تلیفون لارښوونو</string>
+    <string name="prefs_video_resolution_text">د ویډیو حل</string>
+    <string name="prefs_video_settings_sum_text">ریزولوشن ، د بټ نرخ ، سمت ، تمرکز ، کیمره ، د شپې حالت</string>
+    <string name="prefs_video_settings_text">د ویډیو ترتیبات</string>
+    <string name="prefs_video_size_sum_text">لوی اندازه - د بیټرۍ ګړندی جریان</string>
+    <string name="prefs_video_space_unlimited">لامحدود</string>
+    <string name="prefs_video_stabilization_text">د ویډیو ثبات</string>
+    <string name="prefs_zoom_text">ډیجیټل زوم (زوم)</string>
+
+    <string name="rec_day_night_btn_auto_text">اتومات</string>
+    <string name="rec_fix_short_text">د سمولو لپاره</string>
+    <string name="rec_fix_text">د سمولو لپاره</string>
+    <string name="rec_free_space_text">وړيا</string>
+    <string name="rec_location_text">ځای</string>
+    <string name="rec_gps_text">جی پی ایس</string>
+    <string name="rec_network_text">جال</string>
+    <string name="rec_off_text">بند</string>
+    <string name="rec_on_text">په شمول</string>
+
+    <string name="recording_start_text">ثبت کول پیل کړئ</string>
+    <string name="recording_started_failed_text">د ثبت پیل کولو کې تېروتنه</string>
+    <string name="recording_started_with_audio_text">د آډیو ثبتولو سره یو نوی ویډیو ریکارډ پیل شو</string>
+    <string name="recording_started_with_text">ثبت پیل شو</string>
+    <string name="recording_started_without_audio_text">د نوي ویډیو ثبت کول د آډیو ثبت کولو پرته پیل شوي</string>
+    <string name="recording_stop_not_enough_space_msg">کافي ذخیره نشته. وړیا ځای</string>
+    <string name="recording_stop_text">ثبت کول بند کړئ</string>
+    <string name="recording_stopped_failed_text">په سمه توګه ریکارډ بشپړ نشو</string>
+    <string name="recording_stopped_with_text">ثبتول بند کړل</string>
+    <string name="recording_text">ثبت کول…</string>
+    <string name="recording_voice_started_text">ثبتول پیل شوي دي</string>
+    <string name="recording_voice_stopped_text">ثبتول ودرول شول</string>
+
+    <string name="service_no_system_alert_window_granted_text">د آټو سټارټ/سټاپ د ثبت کولو غوښتنلیک خدمت پیل نشو ځکه چې SYSTEM_ALERT_WINDOW (د ټولو نورو اپلیکیشن وینډوز په سر کې ښودل) اجازه نه وه ورکړل شوې. یا وسیله په هغه شیبه کې لاک شوې وه (د Android محدودیت دا دی چې وسیله باید لومړی خلاص شي او د دې سکرین باید د اتومات ویډیو ثبتولو خدمت پیل کیدو دمخه فعال شي)</string>
+
+    <string name="storage_external_single">د مایکرو ایس ډی کارت</string>
+    <string name="storage_phone">د تلیفون حافظه</string>
+
+    <string name="videos_count_one">ویډیو</string>
+    <string name="videos_count_other">ویډیو</string>
+    <string name="videos_deleting_text">د فایلونو ړنګول… مهرباني وکړئ انتظار وکړئ!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">ایا تاسو ډاډه یاست چې تاسو غواړئ دا ویډیو فایل حذف کړئ؟</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">ایا تاسو ډاډه یاست چې دا ویډیو فایلونه حذف کول غواړئ؟</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">ایا تاسو ډاډه یاست چې تاسو غواړئ دا ویډیو فولډر حذف کړئ؟</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">ایا تاسو ډاډه یاست چې تاسو غواړئ د ویډیو فولډر ډیټا حذف کړئ؟</string>
+    <string name="videos_dialog_delete_multiple_files_title">د ویډیو فایلونه حذف کړئ</string>
+    <string name="videos_dialog_delete_multiple_folders_title">د ویډیو فولډرونه حذف کړئ</string>
+    <string name="videos_empty_text">ویډیوګانې ورکې دي</string>
+    <string name="videos_file_action_lock_dlg_title">ایا دا ویډیو د اتوماتیک (ډیری لیکلو) حذف کولو څخه بلاک کړئ؟</string>
+    <string name="videos_file_deletion_mode">د حذف کولو حالت</string>
+    <string name="videos_file_item_share">دا شریک کړه</string>
+    <string name="videos_file_item_watch">کتل</string>
+    <string name="videos_file_sort_asc">په ترتیب سره د پورته کیدا</string>
+    <string name="videos_file_sort_desc">په ښکته کې ترتیب کړئ</string>
+    <string name="videos_file_was_locked_text">د ویډیو فایل خوندي فولډر ته لیږدول شوی</string>
+    <string name="videos_item_mode_deletion_exit_text">د حذف کولو حالت څخه وتل</string>
+    <string name="videos_locked_folder_text">د بیا لیکلو خوندي ساتل</string>
+    <string name="videos_menu_delete">ړنګول</string>
+    <string name="videos_menu_refresh">تازه کړئ</string>
+    <string name="videos_menu_select_all">ټول غوره کړئ</string>
+    <string name="videos_menu_sorting">ترتیب کول</string>
+    <string name="videos_menu_storage">حافظه</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">مهرباني وکړئ د غوښتنلیک تنظیمات خلاص کړئ او د تلیفون حافظه کې ذخیره کولو ته د لاسرسي اجازه ورکړئ</string>
+    <string name="videos_no_storage_permission_dlg_title_text">د ذخیره کولو اجازه نشته</string>
+    <string name="videos_select_files_for_deleting">د حذف کولو لپاره ویډیو فایلونه غوره کړئ</string>
+    <string name="videos_storage_select_dlg_title">د ویډیو ذخیره غوره کړئ</string>
+    <string name="videos_toolbar_subtitle">ویډیو ریکارډونه</string>
+
+
+    <string name="prefs_warnings_text">اخطارونه</string>
+    <string name="prefs_beep_each_start_recording_sum_text">د راتلونکي ویډیو فایل ثبتولو په پیل کې سیګنال</string>
+    <string name="prefs_beep_each_start_recording_text">د ثبتولو پرمهال بیپ</string>
+    <string name="prefs_translate_text">د غوښتنلیک ژباړه</string>
+    <string name="prefs_translate_sum_text">ستاسو په ژبه کې د متن ژباړې ښه کولو یا سمولو کې مرسته وکړئ</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">کمرې ته د لاسرسي پر مهال یوه تېروتنه رامنځته شوه. د بیټرۍ اصلاح کول فعال شوي</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">ستاسو د وسیلې په ترتیباتو کې د دې ایپ لپاره د بیټرۍ اصلاح کول غیر فعال کړئ ترڅو د راتلونکي کیمرې غلطیو څخه مخنیوی وشي</string>
+
+
+    <string name="accept_text">زه منم</string>
+
+    <string name="hour">ساعت</string>
+    <string name="hours">ساعتونه</string>
+    <string name="prefs_orientation_sensor_automatic">اتوماتیک</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">وایبریشن کله چې د ثبت پیل کول یا بندول</string>
+    <string name="prefs_start_rec_volume_down_key_text">د حجم ښکته تڼۍ په فشارولو سره ثبت کول پیل یا بند کړئ</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">ایپ به په شالید کې چلیږي (د خبرتیا بار کې پیل شوی) د دې ب featureې کار کولو لپاره</string>
+    <string name="timer_auto_start_recording_cancel_message_text">د اوسني ټایمر لپاره اتوماتیک ویډیو ثبت کول لغوه کړئ؟</string>
+    <string name="timer_auto_start_recording_duration_text">د ویډیو اوږدوالی</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">وخت په تیرو وختونو کې ټاکل شوی و</string>
+    <string name="timer_service_notification_subtitle_text">د ویډیو ثبتولو اتوماتیک ټایمر خدمت</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

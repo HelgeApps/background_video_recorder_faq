@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Background video recording</string>
+
+    <string name="close">Close</string>
+    <string name="default_text">Default</string>
+    <string name="disabled_text">debilitatum</string>
+    <string name="no_ads_text">(Sine vendo)</string>
+    <string name="zoom_text">zoom</string>
+    <string name="reset">missionem</string>
+
+    <string name="camera">Camera</string>
+    <string name="camera_aperture">Diaphragma</string>
+    <string name="camera_back">tergo camera</string>
+    <string name="camera_background_permission_error_msg">Opus app semel currere ut cameram in curriculo accedere possit</string>
+    <string name="camera_error_background_tried_use_text">In Android 11+, antequam in curriculo recordari incipias, applicatio debet currere ac visibilem esse semel saltem in curriculo camera uti. Ergo, postquam fabrica reprimendo, applicatio visibilis fac et postea servitium non claudat, in centro notificationis manere debet.</string>
+    <string name="camera_error_busy">Video recording eo constiterit quod camera adhibetur ab alio applicatione</string>
+    <string name="camera_external">USB Camerae externae</string>
+    <string name="camera_fov_text">angulos inspiciendi (16, 9)</string>
+    <string name="camera_fov_vertical_text">verticalis</string>
+    <string name="camera_fov_horbizonal_text">horizontalem</string>
+    <string name="camera_front">Ante camera</string>
+    <string name="camera_msg_error_in_use_text">Camera alia applicatione usus est. Quaeso ne alias applicationes persequeris quae in camera utendo ut video dum memorare potes. Android modo permittit unum app uti camera ad tempus</string>
+    <string name="camera_msg_error_unknown_text">De camera ad tempus (erat) unavailable ad aperiendum in tuom (camera ratio error)</string>
+    <string name="camera_support_error">Error inciderunt in usura camera.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Haec fabrica in camera aedificata non habet nec cameras externas sustinet. Claudendo…</string>
+    <string name="dialog_camera_not_found_text">Camera non inveni</string>
+    <string name="dialog_go_to_settings_text">Open occasus</string>
+    <string name="dialog_report_the_error_text_btn">Referre ugbay</string>
+    <string name="dialog_select_camera_text">Lego camera</string>
+    <string name="dialog_unlock_video_text">Reserare hodiernam video ab overwritten\?</string>
+
+    <string name="donate_success_thanks_msg_text">Gratias multum pro auxilio tuo!</string>
+    <string name="donation_dlg_has_ads_text">Ad praeconium tollendum, donatio debet esse vel plura.</string>
+    <string name="donation_dlg_no_ads_text">Aliquam nec praeconium.</string>
+    <string name="donation_level_text">Tua donatio gradu:</string>
+    <string name="donation_purchase_info_loading_text">Informationes shopping non sunt adhuc uploaded. Esne online et signatus in ratione tua de Google\?</string>
+    <string name="donation_subs_check_box_text">Menstrua ponere (non ads in quolibet moles)</string>
+    <string name="donation_subs_manage_btn_text">Subscribe</string>
+
+    <string name="format_gb">Gigabyte</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">min.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Applicatio ab altilium optimizatione non excluditur. Si camera non laborat in curriculo vel aliquid aliud non laborat, hanc applicationem ad modum exceptionis salvificae adde.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Si applicationem in Android 11 reinstalled, tunc veteres tabulae manually delendae sunt</string>
+    <string name="msg_battery_optimization_tip_text">Pugna ipsum -&gt; omnia apps -&gt; nomen huius app -&gt; non optimize/salvum</string>
+    <string name="msg_camera_not_opened">Camera non currit</string>
+    <string name="msg_close_settings_before_recording_text">Prope application preferences antequam memoria</string>
+    <string name="msg_could_not_enable_microphone">Deficio ad tortor ligula, in nulla</string>
+    <string name="msg_could_not_found_autostart_settings_text">Has occasus aperire non potui ab hac applicatione, quaeso quaere eas utendo machinae systematis defectus applicationis</string>
+    <string name="msg_could_not_start_floating_window_text">Deficio incipere natantes fenestra</string>
+    <string name="msg_dlg_found_old_videos_message">Videtur quod tu app reinstalled. Vetus videos habes quod app non potest delere in memoria ansa. Eosque manually in screen video priusquam novas videos recording. Incipiens ab Android 11+, applicatio accessum amittit iura ad antiquas tabulas post reinstallationem. Aut scribere licentiam dare potes in memoria folder</string>
+    <string name="msg_dlg_found_old_videos_title">Vetus video files invenerunt</string>
+    <string name="msg_dlg_incorrect_folder_path">Invalida folder. Quaeso ne mutare viam. Licentiam dare debes pro certis folder. Mutare potes tabulas folder in uncinis.</string>
+    <string name="msg_initializing_please_wait">Initialis… Quaeso expecta!</string>
+    <string name="msg_no_browser">Quaeso install telam app aperire nexum</string>
+    <string name="msg_no_permission_to_delete_file">Deficio delere video lima. Potes applicationem reinstalled et permissio tabella perdita est, oro ut illud manually amoveas</string>
+    <string name="msg_not_enough_memory_free_some_text">Liberabo eum aliquo spatio pergere memoria video</string>
+    <string name="msg_not_enough_memory_text">Non satis memoria</string>
+    <string name="msg_photo_failed_to_take">Deficio ad photo</string>
+    <string name="msg_photo_was_saved">Photo salvus erit</string>
+    <string name="msg_please_close_other_app_and_restart_text">Claudere alias applicationes usura camera et sileo hanc applicationem</string>
+    <string name="msg_record_path_has_changed_text">Recordatio folder mutata est. Quia unavailable vel nulla licentia copia (scribe) concessum est</string>
+    <string name="msg_recorder_init_error_file_not_found">Antiquas tabulas dele, SD chartam tuam format, vel alterum experire. Etiam, maximum spatium video recording limit (minus melius est). Magnus numerus videos servatorum causare huiusmodi difficultates potest. Vide etiam FAQ de cards SD in Occasus /FAQ. Experiri etiam potes scribere memoriam telephonicum pro cardo externo</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Recordare desine. Non satis memoria permanere</string>
+    <string name="msg_settings_opened_stopped_recording_text">Subsisto recording… (occasus apertae sunt)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Primum memorare desinas, deinde servitium claudere potes</string>
+    <string name="msg_stop_rec_too_fast_text">Obsecro exspectare alterum ante capto statim incipiens a memoria</string>
+    <string name="msg_stop_recording_to_change_camera_text">Ad cameram mutandam, necesse est hodiernam memoriam tenere</string>
+    <string name="msg_to_close_this_service_close_app">Hoc officium claudere, primum applicationes minuere vel claudere</string>
+    <string name="msg_video_become_locked_text">Video impeditum esse ne overscripte.</string>
+    <string name="msg_video_folder_size">Magnitudo omnium videos ex licet magnitudine maxima</string>
+    <string name="msg_video_rec_battery_not_enough_text">Non satis altilium potentiae in fabrica. Crimen vel satus memoria si crimen est supra I%%</string>
+    <string name="msg_video_recorder_error">Aliquid erravit cum commentariis video.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Lingua sarcina pro TTS (Android cum textu-ad-Speech) non inauguratur. Conversus in interrete ut satus downloading</string>
+    <string name="msg_auto_recording_service_was_stopped">Substitisti auto-satus video background ministerium. Aperi app Background Video Recorder ut iterum immittat.</string>
+
+    <string name="notification_service_checker">analysis</string>
+    <string name="notification_start_service_error_sub_text">De notificatione deprime applicationem strepita. Licentiam non habes super omnibus applicationibus vel fabrica clausum est</string>
+    <string name="notification_start_service_error_text">Deficio incipere memoria officium in fabrica tabernus</string>
+    <string name="notification_stop_text">prohibere</string>
+    <string name="notification_could_not_start_recording_service">Recordatio officii non committitur. Tap inactivandi altilium ipsum hoc app</string>
+
+    <string name="permission_audio_dlg_msg">Audio requiritur ad recordandum an audio semita, cum recording video</string>
+    <string name="permission_audio_dlg_title">Audio Resolution</string>
+    <string name="permission_camera_dlg_msg">Camera requiritur ad recordationem video et ad cameram praevisum.</string>
+    <string name="permission_camera_dlg_title">Camera resolutio</string>
+    <string name="permission_camera_request_canceled">Haec applicationis licentia utendi cameram video recordari. Sed demisisti. Claudendo… Conare licentiam concedere camerae in systematis occasus huius applicationis</string>
+    <string name="permission_location_dlg_explanation_msg">Cum app minimatur, situm in curriculo adhibet ut coordinatas, electronicas, et celeritates coordinatas, electronicas traheret.</string>
+    <string name="permission_location_dlg_title">Locus permission</string>
+    <string name="permission_storage_dlg_msg">Repono opus est ut salvum video in communi folder et pro loop recording modus</string>
+    <string name="permission_storage_dlg_title">Repono permission</string>
+    <string name="permissions_audio_storage_dlg_title">Audio et permissu repono</string>
+
+    <string name="prefs_audio_bitrate_text">Bitrate (qualitas)</string>
+    <string name="prefs_audio_rate_text">Sampling frequency</string>
+    <string name="prefs_audio_recording_text">Audio recording</string>
+    <string name="prefs_audio_settings_sum_text">Qualitas, off /in memoria sana</string>
+    <string name="prefs_audio_settings_text">Sonus occasus</string>
+    <string name="prefs_audio_stereo_text">Stereo</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Satus video recording statim cum app incipit</string>
+    <string name="prefs_auto_start_app_launch_text">Cum incipiens ad applicationem</string>
+    <string name="prefs_battery_optimization_sum_text">Pugna optimiizationis applicatio impedire potest ne recte operando (exempli gratia utens camera). Click here to turn is off pro hoc app nunc</string>
+    <string name="prefs_battery_optimization_text">Pugna ipsum</string>
+    <string name="prefs_day_night_mode_auto_text">Lorem (die /nox), tempore</string>
+    <string name="prefs_day_night_mode_day_text">dies</string>
+    <string name="prefs_day_night_mode_night_text">nox</string>
+    <string name="prefs_donate_action_text">Donate</string>
+    <string name="prefs_donate_disable_ads_text">Donationem, Aufer Ads</string>
+    <string name="prefs_donate_sum_text">Suscipe application evolutionis</string>
+    <string name="prefs_donate_text">donatio</string>
+    <string name="prefs_faq_sum_text">Saepe quaesivit quaestiones</string>
+    <string name="prefs_float_size_increase_text">Magnitudinem bullarum in fluitantem fenestra</string>
+    <string name="from">e*</string>
+    <string name="to">ante</string>
+    <string name="prefs_fps_value_from_to_stable_text">(solum diem, stabulum)</string>
+    <string name="prefs_fps_value_from_to_text">(Die ac nocte)</string>
+    <string name="prefs_info_more_category_text">Information /More…</string>
+    <string name="prefs_optical_zoom_text">Optical Zoom (Zoom) /Focal Longitudo</string>
+    <string name="prefs_orientation_landscape">Orbis Terrarum</string>
+    <string name="prefs_orientation_landscape_reversed">Album reverse</string>
+    <string name="prefs_orientation_portrait">Portrait</string>
+    <string name="prefs_other_auto_deleting_sum_text">Automatarie delere vetustissimam videos dum memorant si non est satis spatii ad novas videos</string>
+    <string name="prefs_other_auto_deleting_text">loop recording</string>
+    <string name="prefs_other_keep_screen_on_text">Leave a screen on</string>
+    <string name="prefs_other_path_photo_text">Photo locus (folder /iter)</string>
+    <string name="prefs_other_path_text">Video locum (folder /iter)</string>
+    <string name="prefs_other_settings_sum_text">Video locum (nisi folder), video durationem, loop recording, maximam magnitudinem video</string>
+    <string name="prefs_other_settings_text">Aliae occasus</string>
+    <string name="prefs_other_video_duration_text">Video durationem quam saepe servare</string>
+    <string name="prefs_overlay_app_btn_text">Ad applicationem launch</string>
+    <string name="prefs_overlay_buttons_text">Bullae /elementa in fluitantem fenestra</string>
+    <string name="prefs_overlay_close_btn_text">Claudere fenestra</string>
+    <string name="prefs_overlay_drag_btn_text">Drag fenestra</string>
+    <string name="prefs_overlay_videos_btn_text">Apertum video screen</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Duo digitos ie</string>
+    <string name="prefs_pinch_to_zoom_text">Admitte screen zoom</string>
+    <string name="prefs_policy_text">Privacy policy</string>
+    <string name="prefs_rate_sum_text">Rate in app in Play Store</string>
+    <string name="prefs_rate_text">Estimate</string>
+    <string name="prefs_rules_video_space_text">Maximum memoriae capacitatem omnium videos (loop recording)</string>
+    <string name="prefs_screen_autostart_text">Autostart memoria</string>
+    <string name="prefs_screen_ui_summary_text">Velox et diu pressum in velamento, pop-sursum fenestra, vibratio in memoria, sonus alacer, globuli in screen, obumbrant et plus</string>
+    <string name="prefs_screen_ui_title">Interface (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Automatice permutat camera diem /noctis modos certis temporibus</string>
+    <string name="prefs_screen_video_day_night_mode_text">Auto Dies /Nocte Occasus</string>
+    <string name="prefs_settings_bitrate_sum_text">Superior bitrate - melior qualitas, sed maior magnitudo fasciculi video</string>
+    <string name="prefs_settings_fps_sum_text">Plures FPS - video leviores, sed citius altilium exhauriunt. Melius est valorem primum infimum (secundum altiorem esse) pro meliore memoria in tenebris ponere</string>
+    <string name="prefs_share_sum_text">Hoc app mitte amicis tuis</string>
+    <string name="prefs_share_text">Participes</string>
+    <string name="prefs_show_audio_btn_text">De /off memoria audio</string>
+    <string name="prefs_show_buttons_sum_text">Bullae mutandi cameras, in /off recordationem audio, mico, modum noctis, claudendo video e overwriting</string>
+    <string name="prefs_show_buttons_text">Bullae in screen</string>
+    <string name="prefs_show_camera_change_btn_text">Camera mutatio</string>
+    <string name="prefs_show_day_night_mode_btn_text">Dies /Noctis /Auto Modi</string>
+    <string name="prefs_show_flash_btn_text">Fulgurare in /off</string>
+    <string name="prefs_show_lock_btn_text">Clausus videos de overwritten</string>
+    <string name="prefs_show_overlay_btn_sum_text">Fenestram cum bullarum potestate super omnibus applicationibus ostendit</string>
+    <string name="prefs_show_overlay_btn_text">Ostende natantes fenestra</string>
+    <string name="prefs_show_status_bar_text">Ostende ratio status talea</string>
+    <string name="prefs_show_take_photo_btn_text">Facere photo</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Vena camera non sustinetur. Artificia saepe suum usum restringere - praesto est tantum in applicatione signa Camerae</string>
+    <string name="prefs_start_stop_voice_sum_text">Sana in initio, stop vel memorare errorem</string>
+    <string name="prefs_start_stop_voice_text">Sana memoria status</string>
+    <string name="prefs_support_sum_text">Referre cimex, fragore aut offeres</string>
+    <string name="prefs_support_text">Support (feedback)</string>
+    <string name="prefs_system_alert_window_sum_text">Patitur hoc app apparere super omnia alia apps. Hoc opus est ut ostenderet fluitantem fenestra</string>
+    <string name="prefs_system_alert_window_text">Resolutio super omnes fenestras</string>
+    <string name="prefs_toolbar_title_setting">Occasus</string>
+    <string name="prefs_ui_click_none_text">Nihil facere</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Satus /stop recording</string>
+    <string name="prefs_ui_click_text">Velox in screen ICTUS</string>
+    <string name="prefs_ui_long_click_text">Donec torcular in screen</string>
+    <string name="prefs_version_text">Applicationem versionem</string>
+    <string name="prefs_video_bitrate_text">Bitrate (qualitas)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Camera Control Scene Modus (Nocte)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Camera Control Scene Modus (dies)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">General /Face Priority</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (High Dynamic dolor)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Noctem (pro low condiciones lucis)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Ortus tempore (Ortus)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Tempus occasum (occasus)</string>
+    <string name="prefs_video_day_night_mode_text">Dies, nox aut auto- modus</string>
+    <string name="prefs_video_exposure_night_text">Patefacio ultricies (nocte)</string>
+    <string name="prefs_video_exposure_text">Patefacio ultricies (dies)</string>
+    <string name="prefs_video_flip_x_sum_text">Horizontalis speculum videndi. Imago mutat solum in memoria video, praevius non mutat</string>
+    <string name="prefs_video_flip_x_text">Flip video horizontaliter</string>
+    <string name="prefs_video_focus_continuous_picture_text">Continua imago</string>
+    <string name="prefs_video_focus_continuous_video_text">Continua video (suadetur interdiu)</string>
+    <string name="prefs_video_focus_infinity_text">Infinitas (commendatur nocte)</string>
+    <string name="prefs_video_focus_night_text">Camera focus (nocte)</string>
+    <string name="prefs_video_focus_text">Camera focus (day)</string>
+    <string name="prefs_video_fps_range_text">Tabulata Per Second (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Record in HEVC (H.265) format ad spatium servandum. Tales videos de aliis machinationibus seu applications playback video ludere non possis. Reset sententia bitrate post mutationem</string>
+    <string name="prefs_video_hevc_text">Plurimum efficiens video coding</string>
+    <string name="prefs_video_orientation_text">Video et phone intentionem</string>
+    <string name="prefs_video_resolution_text">Video resolutio</string>
+    <string name="prefs_video_settings_sum_text">Resolutio, frenum rate, orientatio, focus, camera, modus noctis</string>
+    <string name="prefs_video_settings_text">Video occasus</string>
+    <string name="prefs_video_size_sum_text">Maior mole - citius altilium exhauriunt</string>
+    <string name="prefs_video_space_unlimited">illimitata</string>
+    <string name="prefs_video_stabilization_text">Video stabilization</string>
+    <string name="prefs_zoom_text">Digital zoom (zoom)</string>
+
+    <string name="rec_day_night_btn_auto_text">Auto</string>
+    <string name="rec_fix_short_text">Ad corrigere</string>
+    <string name="rec_fix_text">Ad corrigere</string>
+    <string name="rec_free_space_text">Liber</string>
+    <string name="rec_location_text">Locus</string>
+    <string name="rec_gps_text">GPS</string>
+    <string name="rec_network_text">Net</string>
+    <string name="rec_off_text">Off</string>
+    <string name="rec_on_text">Incl.</string>
+
+    <string name="recording_start_text">Satus memoria</string>
+    <string name="recording_started_failed_text">Error incipiens memoria</string>
+    <string name="recording_started_with_audio_text">Novum video recording cum audio recording incepit</string>
+    <string name="recording_started_with_text">memoria coepi</string>
+    <string name="recording_started_without_audio_text">Novum video recording incepit sine memoria audio</string>
+    <string name="recording_stop_not_enough_space_msg">Non satis repono. Free place</string>
+    <string name="recording_stop_text">Subsisto memoria</string>
+    <string name="recording_stopped_failed_text">Non recte memoria perficere</string>
+    <string name="recording_stopped_with_text">memoria cessaverunt</string>
+    <string name="recording_text">Commentatio…</string>
+    <string name="recording_voice_started_text">Recordatio incepit</string>
+    <string name="recording_voice_stopped_text">Recordatio cessaverunt</string>
+
+    <string name="service_no_system_alert_window_granted_text">Ministerium applicationis auto-satus/statio recordationis inceptum esse non potuit quia SYSTEM_ALERT_WINDOW (praestatio omnium aliarum fenestrarum applicationis) permissio concessa est. Vel fabrica eo tempore clausa est (limitatio Android est ut fabrica primum aperienda sit eiusque tegumentum convertendum sit antequam servitium auto- video recordationis incipiat)</string>
+
+    <string name="storage_external_single">MicroSD card</string>
+    <string name="storage_phone">Phone memoria</string>
+
+    <string name="videos_count_one">video</string>
+    <string name="videos_count_other">video</string>
+    <string name="videos_deleting_text">Files deleting… Please wait!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Visne vero hanc tabulam video delere\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Visne vero has tabellas video delere\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Visne vero hanc video folder delere\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Certus esne vis videre folder delere data\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Delere video files</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Delere video folders</string>
+    <string name="videos_empty_text">Videos missing</string>
+    <string name="videos_file_action_lock_dlg_title">Intercludere hoc video ab ipso (rescribere) deletionem\?</string>
+    <string name="videos_file_deletion_mode">Delere modus</string>
+    <string name="videos_file_item_share">Participes</string>
+    <string name="videos_file_item_watch">Vigilo</string>
+    <string name="videos_file_sort_asc">Sort Ascendens</string>
+    <string name="videos_file_sort_desc">Sort descendens</string>
+    <string name="videos_file_was_locked_text">Video file remotum est ad tutis folder</string>
+    <string name="videos_item_mode_deletion_exit_text">Exitus delete modus</string>
+    <string name="videos_locked_folder_text">Rescribere protected</string>
+    <string name="videos_menu_delete">Delere</string>
+    <string name="videos_menu_refresh">Renovare</string>
+    <string name="videos_menu_select_all">Elige all</string>
+    <string name="videos_menu_sorting">Sorting</string>
+    <string name="videos_menu_storage">Memoria</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Quaeso aperi application occasus et aditum ad repono in phone memoria</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Nulla repono permission</string>
+    <string name="videos_select_files_for_deleting">Lego video files delere</string>
+    <string name="videos_storage_select_dlg_title">Lego video repono</string>
+    <string name="videos_toolbar_subtitle">Video tabulas</string>
+
+
+    <string name="prefs_warnings_text">Monitiones</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Signum in principio documenti sequentis file video</string>
+    <string name="prefs_beep_each_start_recording_text">Custodite, cum memoria</string>
+    <string name="prefs_translate_text">Applicationem Translation</string>
+    <string name="prefs_translate_sum_text">Auxilium emendare vel figere translationem textus in lingua tua</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Error occurrit in camera accessing. Pugna ipsum para</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Inactivare altilium ipsum hoc app in tuom occasus ne futuri camera errores</string>
+
+
+    <string name="accept_text">Accipio</string>
+
+    <string name="hour">hora</string>
+    <string name="hours">horae</string>
+    <string name="prefs_orientation_sensor_automatic">Automatic</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Vibratio cum incipiens vel capto memoria</string>
+    <string name="prefs_start_rec_volume_down_key_text">Satus vel prohibere recording deprimendo in volumine button</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">App currere in curriculo (dimissus in notificatione talea) hoc pluma ad operandum</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Cancel automatic video recording pro currenti timer\?</string>
+    <string name="timer_auto_start_recording_duration_text">Video longitudinem</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Tempus praeteritum</string>
+    <string name="timer_service_notification_subtitle_text">Video recording autoplay timor muneris</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

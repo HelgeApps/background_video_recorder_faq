@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Taifeadadh físeán cúlra</string>
+
+    <string name="close">Dún</string>
+    <string name="default_text">Réamhshocrú</string>
+    <string name="disabled_text">Faoi mhíchumas</string>
+    <string name="no_ads_text">(Gan fógraíocht)</string>
+    <string name="zoom_text">súmáil isteach</string>
+    <string name="reset">urscaoileadh</string>
+
+    <string name="camera">Ceamara</string>
+    <string name="camera_aperture">Diaphragm</string>
+    <string name="camera_back">Ceamara cúil</string>
+    <string name="camera_background_permission_error_msg">Ní mór duit an aip a rith uair amháin chun go mbeidh tú in ann rochtain a fháil ar an gceamara sa chúlra</string>
+    <string name="camera_error_background_tried_use_text">Ar Android 11+, sula dtosaíonn tú ag taifeadadh sa chúlra, caithfidh an feidhmchlár a bheith ag rith agus le feiceáil uair amháin ar a laghad chun a bheith in ann an ceamara sa chúlra a úsáid. Dá bhrí sin, tar éis an fheiste a atosú, déan an feidhmchlár a fheiceáil agus ina dhiaidh sin ní dhúnann sé an tseirbhís taifeadta, ba cheart go bhfanfadh sé san ionad fógra.</string>
+    <string name="camera_error_busy">Stopadh an taifeadadh físe toisc go bhfuil an ceamara á úsáid ag feidhmchlár eile</string>
+    <string name="camera_external">Ceamara USB Seachtrach</string>
+    <string name="camera_fov_text">Uillinneacha féachana (16: 9)</string>
+    <string name="camera_fov_vertical_text">ingearach</string>
+    <string name="camera_fov_horbizonal_text">cothrománach</string>
+    <string name="camera_front">Ceamara tosaigh</string>
+    <string name="camera_msg_error_in_use_text">Bhí an ceamara á úsáid ag feidhmchlár eile. Ná rith feidhmchláir eile a d’fhéadfadh a bheith ag baint úsáide as an gceamara agus tú ag taifeadadh físeáin. Ní cheadaíonn Android ach aip amháin an ceamara a úsáid ag an am</string>
+    <string name="camera_msg_error_unknown_text">Níl an ceamara ar fáil go sealadach (ní raibh) ar oscailt ar do ghléas (earráid chórais ceamara)</string>
+    <string name="camera_support_error">Tharla earráid agus an ceamara á úsáid.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Níl ceamara ionsuite ag an bhfeiste seo agus ní thacaíonn sé le ceamaraí seachtracha. Ag dúnadh…</string>
+    <string name="dialog_camera_not_found_text">Níor aimsíodh an ceamara</string>
+    <string name="dialog_go_to_settings_text">Socruithe oscailte</string>
+    <string name="dialog_report_the_error_text_btn">Tuairiscigh fabht</string>
+    <string name="dialog_select_camera_text">Roghnaigh ceamara</string>
+    <string name="dialog_unlock_video_text">Díghlasáil an físeán reatha ó bheith róscríofa\?</string>
+
+    <string name="donate_success_thanks_msg_text">Go raibh maith agat as do thacaíocht!</string>
+    <string name="donation_dlg_has_ads_text">Chun fógraí a bhaint, caithfear síntiús a bheith nó níos mó.</string>
+    <string name="donation_dlg_no_ads_text">Níl aon fhógraí agat.</string>
+    <string name="donation_level_text">Do leibhéal síntiús:</string>
+    <string name="donation_purchase_info_loading_text">Níor uaslódáil an fhaisnéis siopadóireachta go fóill. An bhfuil tú ar líne agus sínithe isteach i do chuntas Google\?</string>
+    <string name="donation_subs_check_box_text">Coinnigh go míosúil (gan aon fhógraí ar aon mhéid)</string>
+    <string name="donation_subs_manage_btn_text">Díliostáil</string>
+
+    <string name="format_gb">Gigabyte</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">min.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Níl an feidhmchlár eisiata ó bharrfheabhsú ceallraí. Mura bhfuil an ceamara ag obair sa chúlra nó mura bhfuil rud éigin eile ag obair, cuir an feidhmchlár seo leis na heisceachtaí sa mhodh coigilte cumhachta.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Má athshuiteáil tú an feidhmchlár ar Android 11, ansin caithfear na seanchomhaid a scriosadh de láimh</string>
+    <string name="msg_battery_optimization_tip_text">Optimization ceallraí -&gt; Gach aip -&gt; Ainm na haipe seo -&gt; Ná optamaigh /sábháil</string>
+    <string name="msg_camera_not_opened">Níl an ceamara ag rith</string>
+    <string name="msg_close_settings_before_recording_text">Dún sainroghanna an iarratais sula dtosaíonn tú ag taifeadadh</string>
+    <string name="msg_could_not_enable_microphone">Theip ar an micreafón a chasadh air, leanfaidh an taifeadadh gan fuaim</string>
+    <string name="msg_could_not_found_autostart_settings_text">Níorbh fhéidir na socruithe seo a oscailt ón bhfeidhmchlár seo, déan iarracht iad a aimsiú trí úsáid a bhaint as feidhmchlár réamhshocraithe socruithe an chórais feiste réamhshocraithe</string>
+    <string name="msg_could_not_start_floating_window_text">Theip ar fhuinneog snámh a thosú</string>
+    <string name="msg_dlg_found_old_videos_message">Is cosúil go ndearna tú an aip a athshuiteáil. Tá seanfhíseáin agat nach féidir leis an aip a scriosadh le linn taifeadadh lúb. Bain iad de láimh ar an scáileán físe sula ndéantar físeáin nua a thaifeadadh. Ag tosú ó Android 11+, cailleann an feidhmchlár cearta rochtana ar sheanchomhaid tar éis iad a athshuiteáil. Nó is féidir leat cead i scríbhinn a thabhairt don fhillteán taifeadta</string>
+    <string name="msg_dlg_found_old_videos_title">Seanchomhaid físe le fáil</string>
+    <string name="msg_dlg_incorrect_folder_path">Fillteán neamhbhailí. Ná athraigh an cosán le do thoil. Caithfidh tú cead a thabhairt d’fhillteán ar leith. Is féidir leat an fillteán taifeadta a athrú sna socruithe.</string>
+    <string name="msg_initializing_please_wait">Ag tosú… Fan le do thoil!</string>
+    <string name="msg_no_browser">Suiteáil aip gréasáin le do thoil chun an nasc a oscailt</string>
+    <string name="msg_no_permission_to_delete_file">Theip ar scriosadh comhad físe. B’fhéidir go ndearna tú an feidhmchlár a athshuiteáil agus gur cailleadh an cead comhaid, déan iarracht é a dhíshuiteáil de láimh</string>
+    <string name="msg_not_enough_memory_free_some_text">Saor roinnt spáis chun leanúint ar aghaidh ag taifeadadh físeáin</string>
+    <string name="msg_not_enough_memory_text">Gan go leor cuimhne</string>
+    <string name="msg_photo_failed_to_take">Theip ar an ngrianghraf a thógáil</string>
+    <string name="msg_photo_was_saved">Grianghraf sábháilte</string>
+    <string name="msg_please_close_other_app_and_restart_text">Dún feidhmchláir eile agus an ceamara á úsáid agat agus déan an feidhmchlár seo a atosú</string>
+    <string name="msg_record_path_has_changed_text">Athraíodh an fillteán taifeadta. Toisc nach bhfuil sé ar fáil nó nár tugadh cead stórála (scríobh)</string>
+    <string name="msg_recorder_init_error_file_not_found">Scrios seanfhíseáin, formáid do chárta SD, nó bain triail as ceann eile. Chomh maith leis sin, teorainn an spás uasta taifeadta físe (is lú an rud is fearr). Is féidir le líon mór físeán a shábháil fadhbanna den sórt sin a chruthú. Féach freisin na Ceisteanna Coitianta faoi chártaí SD i Socruithe /Ceisteanna Coitianta. Is féidir leat triail a bhaint freisin as scríobh chuig cuimhne an fhóin in ionad cárta seachtrach</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Stop ag taifeadadh. Gan go leor cuimhne chun leanúint ar aghaidh</string>
+    <string name="msg_settings_opened_stopped_recording_text">Stop ag taifeadadh… (osclaíodh socruithe)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Stop taifeadadh ar dtús, ansin is féidir leat an tseirbhís a dhúnadh</string>
+    <string name="msg_stop_rec_too_fast_text">Fan an dara ceann sula stopann tú ag taifeadadh díreach tar éis duit tosú</string>
+    <string name="msg_stop_recording_to_change_camera_text">Chun an ceamara a athrú, ní mór duit an taifeadadh reatha a stopadh</string>
+    <string name="msg_to_close_this_service_close_app">Chun an tseirbhís seo a dhúnadh, déan an feidhmchlár a íoslaghdú nó a dhúnadh ar dtús</string>
+    <string name="msg_video_become_locked_text">Cuirfear bac ar an bhfíseán a bheith róscríofa.</string>
+    <string name="msg_video_folder_size">Méid na bhfíseán go léir ón uasmhéid a cheadaítear</string>
+    <string name="msg_video_rec_battery_not_enough_text">Níl go leor cumhacht ceallraí ar an bhfeiste. Cuir ort muirear nó tosú ag taifeadadh má tá an muirear os cionn 1%%</string>
+    <string name="msg_video_recorder_error">Chuaigh rud éigin cearr leis an bhfístaifeadán.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Níl an pacáiste teanga do TTS (Android Text-to-Speech) suiteáilte. Cas ar an idirlíon chun tosú ag íoslódáil</string>
+    <string name="msg_auto_recording_service_was_stopped">Tá an tseirbhís cúlra físe uathoibríoch-tosaithe stoptha agat. Oscail an aip Background Video Recorder chun é a sheoladh arís.</string>
+
+    <string name="notification_service_checker">anailís</string>
+    <string name="notification_start_service_error_sub_text">Cliceáil ar an bhfógra chun an feidhmchlár a sheoladh. Níl cead agat ar bharr gach feidhmchlár nó tá an gléas faoi ghlas</string>
+    <string name="notification_start_service_error_text">Theip ar an tseirbhís taifeadta a thosú ar tosaithe na feiste</string>
+    <string name="notification_stop_text">Stop</string>
+    <string name="notification_could_not_start_recording_service">Níor éirigh leis an tseirbhís taifeadta a thosú. Beartaíonn chun barrfheabhsú ceallraí don app seo a dhíchumasú</string>
+
+    <string name="permission_audio_dlg_msg">Teastaíonn fuaim chun rian fuaime a thaifeadadh agus físeán á thaifeadadh</string>
+    <string name="permission_audio_dlg_title">Rún Fuaime</string>
+    <string name="permission_camera_dlg_msg">Teastaíonn an ceamara le haghaidh fístaifeadadh agus réamhamharc ceamara.</string>
+    <string name="permission_camera_dlg_title">Réiteach ceamara</string>
+    <string name="permission_camera_request_canceled">Teastaíonn cead ón bhfeidhmchlár seo chun an ceamara a úsáid chun físeán a thaifeadadh. Ach dhiúltaigh tú é. Ag dúnadh… Déan iarracht cead a thabhairt don cheamara i socruithe córais an fheidhmchláir seo</string>
+    <string name="permission_location_dlg_explanation_msg">Nuair a dhéantar an app a íoslaghdú, úsáideann sé an suíomh sa chúlra chun na comhordanáidí, an seoladh agus an luas a tharraingt ar an bhfíseán taifeadta.</string>
+    <string name="permission_location_dlg_title">Cead suímh</string>
+    <string name="permission_storage_dlg_msg">Teastaíonn stóráil chun físeán a shábháil i bhfillteán roinnte agus chun mód taifeadta lúb a dhéanamh</string>
+    <string name="permission_storage_dlg_title">Cead stórála</string>
+    <string name="permissions_audio_storage_dlg_title">Stóráil fuaime agus ceada</string>
+
+    <string name="prefs_audio_bitrate_text">Giotán (cáilíocht)</string>
+    <string name="prefs_audio_rate_text">Minicíocht samplála</string>
+    <string name="prefs_audio_recording_text">Taifeadadh fuaime</string>
+    <string name="prefs_audio_settings_sum_text">Taifeadadh fuaime ar ardchaighdeán, as /ar</string>
+    <string name="prefs_audio_settings_text">Socruithe fuaime</string>
+    <string name="prefs_audio_stereo_text">Steirió</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Tosaigh fístaifeadadh go huathoibríoch nuair a thosaíonn an aip</string>
+    <string name="prefs_auto_start_app_launch_text">Agus an t-iarratas á thosú</string>
+    <string name="prefs_battery_optimization_sum_text">Féadfaidh optamú ceallraí cosc ​​a chur ar an bhfeidhmchlár oibriú i gceart (mar shampla, an ceamara a úsáid). Cliceáil anseo chun é a mhúchadh don aip seo anois</string>
+    <string name="prefs_battery_optimization_text">Optamú ceallraí</string>
+    <string name="prefs_day_night_mode_auto_text">Uathoibríoch (lá /oíche), de réir ama</string>
+    <string name="prefs_day_night_mode_day_text">Lá</string>
+    <string name="prefs_day_night_mode_night_text">Oíche</string>
+    <string name="prefs_donate_action_text">Deonaigh</string>
+    <string name="prefs_donate_disable_ads_text">Deonú, Bain Fógraí</string>
+    <string name="prefs_donate_sum_text">Tacú le forbairt feidhmchlár</string>
+    <string name="prefs_donate_text">Síntiús</string>
+    <string name="prefs_faq_sum_text">Ceisteanna Coitianta</string>
+    <string name="prefs_float_size_increase_text">Méid na gcnaipí ar fhuinneog ar snámh</string>
+    <string name="from">ó</string>
+    <string name="to">roimh</string>
+    <string name="prefs_fps_value_from_to_stable_text">(lá amháin, cobhsaí)</string>
+    <string name="prefs_fps_value_from_to_text">(lá agus oíche)</string>
+    <string name="prefs_info_more_category_text">Eolas /Tuilleadh…</string>
+    <string name="prefs_optical_zoom_text">Zúmáil Optúil (Zúmáil) /Fad Fócasach</string>
+    <string name="prefs_orientation_landscape">Tírdhreach</string>
+    <string name="prefs_orientation_landscape_reversed">Albam droim ar ais</string>
+    <string name="prefs_orientation_portrait">Portráid</string>
+    <string name="prefs_other_auto_deleting_sum_text">Scrios na físeáin is sine go huathoibríoch agus tú ag taifeadadh mura bhfuil go leor spáis ann d’fhíseáin nua</string>
+    <string name="prefs_other_auto_deleting_text">Taifeadadh lúb</string>
+    <string name="prefs_other_keep_screen_on_text">Fág an scáileán ar</string>
+    <string name="prefs_other_path_photo_text">Suíomh grianghraf (fillteán /cosán)</string>
+    <string name="prefs_other_path_text">Suíomh físe (fillteán /cosán)</string>
+    <string name="prefs_other_settings_sum_text">Suíomh físeáin (shábháil fillteán), fad físeáin, taifeadadh lúb, uasmhéid físeáin</string>
+    <string name="prefs_other_settings_text">Socruithe eile</string>
+    <string name="prefs_other_video_duration_text">Fad na físe - cé chomh minic le sábháil</string>
+    <string name="prefs_overlay_app_btn_text">Seoladh an t-iarratas</string>
+    <string name="prefs_overlay_buttons_text">Cnaipí /eilimintí ar fhuinneog ar snámh</string>
+    <string name="prefs_overlay_close_btn_text">Dún fuinneog</string>
+    <string name="prefs_overlay_drag_btn_text">Tarraing fuinneog</string>
+    <string name="prefs_overlay_videos_btn_text">Scáileán físe oscailte</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Zúmáil le dhá mhéar</string>
+    <string name="prefs_pinch_to_zoom_text">Cumasaigh súmáil scáileáin</string>
+    <string name="prefs_policy_text">Beartas Príobháideachais</string>
+    <string name="prefs_rate_sum_text">Déan an aip a rátáil sa Store Súgartha</string>
+    <string name="prefs_rate_text">Meastachán</string>
+    <string name="prefs_rules_video_space_text">Cumas cuimhne uasta gach físeán (lúb a thaifeadadh)</string>
+    <string name="prefs_screen_autostart_text">Taifeadadh autostart</string>
+    <string name="prefs_screen_ui_summary_text">Brúigh tapa agus fada ar an scáileán, preabfhuinneog, tonnchrith ar thaifeadadh, foláireamh fuaime, cnaipí ar an scáileán, scáileán múchta agus go leor eile</string>
+    <string name="prefs_screen_ui_title">Comhéadan (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Athraíonn sé go huathoibríoch modhanna lae /oíche ceamara ag amanna ar leith</string>
+    <string name="prefs_screen_video_day_night_mode_text">Socruithe Lá Auto /Oíche</string>
+    <string name="prefs_settings_bitrate_sum_text">Giotán níos airde - cáilíocht níos fearr, ach méid comhaid físe níos mó</string>
+    <string name="prefs_settings_fps_sum_text">Níos mó CCT - físeán níos rianúla, ach draein ceallraí níos gasta. Is fearr an chéad luach a shocrú go dtí an luach is ísle (d’fhéadfadh an dara ceann a bheith níos airde) le haghaidh taifeadadh níos fearr sa dorchadas</string>
+    <string name="prefs_share_sum_text">Seol an aip seo chuig do chairde</string>
+    <string name="prefs_share_text">Comhroinn é seo</string>
+    <string name="prefs_show_audio_btn_text">Taifeadadh fuaime ar /as</string>
+    <string name="prefs_show_buttons_sum_text">Cnaipí chun ceamaraí a athrú, taifeadadh fuaime ar /as, splanc, modh oíche, blocáil físe ó fhrithscríobh</string>
+    <string name="prefs_show_buttons_text">Cnaipí ar an scáileán</string>
+    <string name="prefs_show_camera_change_btn_text">Athrú ceamara</string>
+    <string name="prefs_show_day_night_mode_btn_text">Modhanna Lae /Oíche /Auto</string>
+    <string name="prefs_show_flash_btn_text">Flash ar /as</string>
+    <string name="prefs_show_lock_btn_text">Físeáin a bhlocáil ó bheith róscríofa</string>
+    <string name="prefs_show_overlay_btn_sum_text">Taispeánann fuinneog le cnaipí rialaithe ar bharr gach feidhmchlár</string>
+    <string name="prefs_show_overlay_btn_text">Taispeáin fuinneog ar snámh</string>
+    <string name="prefs_show_status_bar_text">Taispeáin barra stádais an chórais</string>
+    <string name="prefs_show_take_photo_btn_text">Chun grianghraf a dhéanamh</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Ní thacaíonn an ceamara reatha leis. Is minic a chuireann monaróirí srian ar a úsáid - níl sé ar fáil ach san fheidhmchlár caighdeánach Ceamara</string>
+    <string name="prefs_start_stop_voice_sum_text">Fuaim ag tús, stad nó taifeadadh earráid</string>
+    <string name="prefs_start_stop_voice_text">Stádas taifeadta fuaime</string>
+    <string name="prefs_support_sum_text">Tuairiscigh fabht, tuairteáil nó déan tairiscint</string>
+    <string name="prefs_support_text">Tacaíocht (aiseolas)</string>
+    <string name="prefs_system_alert_window_sum_text">Lig don aip seo a bheith le feiceáil ar bharr gach aip eile. Tá sé seo ag teastáil chun an fhuinneog ar snámh a thaispeáint</string>
+    <string name="prefs_system_alert_window_text">Rún ar bharr na bhfuinneoga go léir</string>
+    <string name="prefs_toolbar_title_setting">Socruithe</string>
+    <string name="prefs_ui_click_none_text">Tada le déanamh</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Tosaigh /stad ag taifeadadh</string>
+    <string name="prefs_ui_click_text">Beartaíonn go tapa ar an scáileán</string>
+    <string name="prefs_ui_long_click_text">Brúigh fada ar an scáileán</string>
+    <string name="prefs_version_text">Leagan iarratais</string>
+    <string name="prefs_video_bitrate_text">Giotán (cáilíocht)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Mód Radharc Rialaithe Ceamara (Oíche)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Mód Radharc Rialaithe Ceamara (Lá)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Tosaíocht Ghinearálta /Aghaidh</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (Raon Ard Dinimiciúla)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Oíche (le haghaidh coinníollacha éadroma ísle)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Am éirí na gréine (Éirí na Gréine)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Am luí na gréine (luí na gréine)</string>
+    <string name="prefs_video_day_night_mode_text">Modh lae, oíche nó uathoibríoch</string>
+    <string name="prefs_video_exposure_night_text">Cúiteamh nochta (oíche)</string>
+    <string name="prefs_video_exposure_text">Cúiteamh nochta (lá)</string>
+    <string name="prefs_video_flip_x_sum_text">Scáthán cothrománach den fhíseán. Ní athraíonn an íomhá ach le haghaidh fístaifeadadh, ní athraíonn an réamhamharc</string>
+    <string name="prefs_video_flip_x_text">Smeach físeán go cothrománach</string>
+    <string name="prefs_video_focus_continuous_picture_text">Íomhá leanúnach</string>
+    <string name="prefs_video_focus_continuous_video_text">Físeán leanúnach (molta i rith an lae)</string>
+    <string name="prefs_video_focus_infinity_text">Infinity (moltar san oíche)</string>
+    <string name="prefs_video_focus_night_text">Fócas ceamara (oíche)</string>
+    <string name="prefs_video_focus_text">Fócas ceamara (lá)</string>
+    <string name="prefs_video_fps_range_text">Frámaí in aghaidh an Dara (CCT)</string>
+    <string name="prefs_video_hevc_sum_text">Taifead i bhformáid HEVC (H.265) chun spás a shábháil. B’fhéidir nach mbeidh tú in ann físeáin den sórt sin a imirt ar ghléasanna nó feidhmchláir athsheinm físe eile. Athshocróidh sé rún agus giotán tar éis an athraithe</string>
+    <string name="prefs_video_hevc_text">Códú físe an-éifeachtach</string>
+    <string name="prefs_video_orientation_text">Treoshuíomh físe agus teileafóin</string>
+    <string name="prefs_video_resolution_text">Réiteach físe</string>
+    <string name="prefs_video_settings_sum_text">Rún, ráta giotán, treoshuíomh, fócas, ceamara, modh oíche</string>
+    <string name="prefs_video_settings_text">Socruithe físe</string>
+    <string name="prefs_video_size_sum_text">Méid níos mó - draein ceallraí níos gasta</string>
+    <string name="prefs_video_space_unlimited">Gan teorainn</string>
+    <string name="prefs_video_stabilization_text">Cobhsú físeáin</string>
+    <string name="prefs_zoom_text">Zúmáil dhigiteach (súmáil isteach)</string>
+
+    <string name="rec_day_night_btn_auto_text">Auto</string>
+    <string name="rec_fix_short_text">A cheartú</string>
+    <string name="rec_fix_text">A cheartú</string>
+    <string name="rec_free_space_text">Saor</string>
+    <string name="rec_location_text">Suíomh</string>
+    <string name="rec_gps_text">Gps</string>
+    <string name="rec_network_text">Glan</string>
+    <string name="rec_off_text">Lasmuigh</string>
+    <string name="rec_on_text">Incl.</string>
+
+    <string name="recording_start_text">Tosaigh ag taifeadadh</string>
+    <string name="recording_started_failed_text">Earráid ag tosú ag taifeadadh</string>
+    <string name="recording_started_with_audio_text">Tá tús curtha le fístaifeadadh nua le taifeadadh fuaime</string>
+    <string name="recording_started_with_text">thosaigh taifeadadh</string>
+    <string name="recording_started_without_audio_text">Cuireadh tús le fístaifeadadh nua gan taifeadadh fuaime</string>
+    <string name="recording_stop_not_enough_space_msg">Gan go leor stórála. Áit saor in aisce</string>
+    <string name="recording_stop_text">Stop ag taifeadadh</string>
+    <string name="recording_stopped_failed_text">Níorbh fhéidir an taifeadadh a chríochnú i gceart</string>
+    <string name="recording_stopped_with_text">stop an taifeadadh</string>
+    <string name="recording_text">Taifeadadh…</string>
+    <string name="recording_voice_started_text">Tá an taifeadadh tosaithe</string>
+    <string name="recording_voice_stopped_text">Stopadh an taifeadadh</string>
+
+    <string name="service_no_system_alert_window_granted_text">Níorbh fhéidir an tseirbhís feidhmchláir taifeadta uath-thosaithe/stop a thosú toisc nár deonaíodh an cead SYSTEM_ALERT_WINDOW (taispeáint ar bharr gach fuinneog feidhmchláir eile). Nó bhí an gléas glasáilte ag an nóiméad sin (is é an teorainn atá le Android ná go gcaithfear an gléas a dhíghlasáil ar dtús agus go gcaithfear a scáileán a chur ar siúl sular féidir tús a chur leis an tseirbhís taifeadta físeáin uathoibríoch)</string>
+
+    <string name="storage_external_single">Cárta MicroSD</string>
+    <string name="storage_phone">Cuimhne teileafóin</string>
+
+    <string name="videos_count_one">físeán</string>
+    <string name="videos_count_other">físeán</string>
+    <string name="videos_deleting_text">Scriosadh comhaid… Fan le do thoil!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">An bhfuil tú cinnte gur mhaith leat an comhad físe seo a scriosadh\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">An bhfuil tú cinnte gur mhaith leat na comhaid físe seo a scriosadh\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">An bhfuil tú cinnte gur mhaith leat an fillteán físe seo a scriosadh\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">An bhfuil tú cinnte gur mhaith leat sonraí an fhillteáin físe a scriosadh\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Scrios comhaid físe</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Scrios fillteáin físe</string>
+    <string name="videos_empty_text">Físeáin ar iarraidh</string>
+    <string name="videos_file_action_lock_dlg_title">Bloc an físeán seo ó scriosadh uathoibríoch (frithscríobh)\?</string>
+    <string name="videos_file_deletion_mode">Scrios an modh</string>
+    <string name="videos_file_item_share">Comhroinn é seo</string>
+    <string name="videos_file_item_watch">Bí ag faire</string>
+    <string name="videos_file_sort_asc">Sórtáil ag dul suas</string>
+    <string name="videos_file_sort_desc">Sórtáil ag teacht anuas</string>
+    <string name="videos_file_was_locked_text">Bogadh an comhad físe chuig fillteán cosanta</string>
+    <string name="videos_item_mode_deletion_exit_text">Modh scriosadh Scoir</string>
+    <string name="videos_locked_folder_text">Frithscríobh faoi chosaint</string>
+    <string name="videos_menu_delete">Scrios</string>
+    <string name="videos_menu_refresh">Athnuachan</string>
+    <string name="videos_menu_select_all">Roghnaigh gach ceann</string>
+    <string name="videos_menu_sorting">Sórtáil</string>
+    <string name="videos_menu_storage">Cuimhne</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Oscail socruithe an fheidhmchláir le do thoil agus lig rochtain ar an stóráil i gcuimhne an fhóin</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Gan aon chead stórála</string>
+    <string name="videos_select_files_for_deleting">Roghnaigh comhaid físe le scriosadh</string>
+    <string name="videos_storage_select_dlg_title">Roghnaigh stóráil físe</string>
+    <string name="videos_toolbar_subtitle">Taifeadtaí físe</string>
+
+
+    <string name="prefs_warnings_text">Rabhaidh</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Comhartha ag tús an taifeadta ar an gcéad chomhad físe eile</string>
+    <string name="prefs_beep_each_start_recording_text">Bíp nuair a taifeadadh</string>
+    <string name="prefs_translate_text">Aistriúchán Feidhmchláir</string>
+    <string name="prefs_translate_sum_text">Cabhraigh le haistriúchán téacs i do theanga a fheabhsú nó a dheisiú</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Tharla earráid agus an ceamara á rochtain. Leas iomlán a bhaint ceallraí cumasaithe</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Díchumasaigh optamú ceallraí don aip seo i socruithe do ghléis chun earráidí ceamara amach anseo a sheachaint</string>
+
+
+    <string name="accept_text">Glacaim</string>
+
+    <string name="hour">uair</string>
+    <string name="hours">uair an chloig</string>
+    <string name="prefs_orientation_sensor_automatic">Uathoibríoch</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Creathadh agus taifeadadh á thosú nó á stopadh</string>
+    <string name="prefs_start_rec_volume_down_key_text">Tosaigh nó stop an taifeadadh tríd an gcnaipe toirt síos a bhrú</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">Rithfidh an aip sa chúlra (seolta sa bharra fógraí) le go n-oibreoidh an ghné seo</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Cealaigh fístaifeadadh uathoibríoch don amadóir reatha\?</string>
+    <string name="timer_auto_start_recording_duration_text">Fad físeáin</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Socraíodh am san am atá caite</string>
+    <string name="timer_service_notification_subtitle_text">Seirbhís uaineadóir uathsheinnte fístaifeadta</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

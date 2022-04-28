@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">پس منظر کی ویڈیو ریکارڈنگ</string>
+
+    <string name="close">بند کریں</string>
+    <string name="default_text">طے شدہ</string>
+    <string name="disabled_text">معذور</string>
+    <string name="no_ads_text">(بغیر اشتہار کے)</string>
+    <string name="zoom_text">زوم</string>
+    <string name="reset">خارج ہونے والے مادہ</string>
+
+    <string name="camera">کیمرہ</string>
+    <string name="camera_aperture">ڈایافرام</string>
+    <string name="camera_back">پچھلا کیمرہ</string>
+    <string name="camera_background_permission_error_msg">پس منظر میں کیمرے تک رسائی حاصل کرنے کے لیے آپ کو ایپ کو ایک بار چلانے کی ضرورت ہے۔</string>
+    <string name="camera_error_background_tried_use_text">Android 11+ پر، بیک گراؤنڈ میں ریکارڈنگ شروع کرنے سے پہلے، بیک گراؤنڈ میں کیمرہ استعمال کرنے کے قابل ہونے کے لیے ایپلیکیشن کا چلنا اور کم از کم ایک بار نظر آنا چاہیے۔ اس لیے ڈیوائس کو ری سٹارٹ کرنے کے بعد ایپلیکیشن کو مرئی بنائیں اور اس کے بعد ریکارڈنگ سروس بند نہ کریں، اسے نوٹیفکیشن سینٹر میں ہی رہنا چاہیے۔</string>
+    <string name="camera_error_busy">ویڈیو ریکارڈنگ رک گئی ہے کیونکہ کیمرہ کسی اور ایپلی کیشن کے ذریعے استعمال کیا جا رہا ہے۔</string>
+    <string name="camera_external">بیرونی USB کیمرہ</string>
+    <string name="camera_fov_text">دیکھنے کے زاویے (16:9)</string>
+    <string name="camera_fov_vertical_text">عمودی</string>
+    <string name="camera_fov_horbizonal_text">افقی</string>
+    <string name="camera_front">سامنے والا کیمرہ</string>
+    <string name="camera_msg_error_in_use_text">کیمرہ کسی اور ایپلی کیشن کے ذریعے استعمال کیا جا رہا تھا۔ براہ کرم ایسی دوسری ایپلیکیشنز نہ چلائیں جو ویڈیو ریکارڈ کرتے وقت کیمرہ استعمال کر رہی ہوں۔ Android ایک وقت میں صرف ایک ایپ کو کیمرہ استعمال کرنے کی اجازت دیتا ہے۔</string>
+    <string name="camera_msg_error_unknown_text">کیمرہ عارضی طور پر (تھا) آپ کے آلے پر کھلنے کے لیے دستیاب نہیں ہے (کیمرہ سسٹم کی خرابی)</string>
+    <string name="camera_support_error">کیمرہ استعمال کرتے وقت ایک خرابی پیش آگئی ہے۔</string>
+
+    <string name="dialog_camera_not_found_msg_text">اس ڈیوائس میں بلٹ ان کیمرہ نہیں ہے اور یہ بیرونی کیمروں کو سپورٹ نہیں کرتا ہے۔ بند ہو رہا ہے…</string>
+    <string name="dialog_camera_not_found_text">کیمرہ نہیں ملا</string>
+    <string name="dialog_go_to_settings_text">ترتیبات کھولیں۔</string>
+    <string name="dialog_report_the_error_text_btn">ایک بگ کی اطلاع دیں۔</string>
+    <string name="dialog_select_camera_text">کیمرہ منتخب کریں۔</string>
+    <string name="dialog_unlock_video_text">موجودہ ویڈیو کو اوور رائٹ ہونے سے غیر مقفل کریں؟</string>
+
+    <string name="donate_success_thanks_msg_text">آپ کی حمایت کے لئے بہت شکریہ!</string>
+    <string name="donation_dlg_has_ads_text">اشتہارات کو ہٹانے کے لیے عطیہ یا اس سے زیادہ ہونا چاہیے۔</string>
+    <string name="donation_dlg_no_ads_text">آپ کے پاس کوئی اشتہار نہیں ہے۔</string>
+    <string name="donation_level_text">آپ کے عطیہ کی سطح:</string>
+    <string name="donation_purchase_info_loading_text">خریداری کی معلومات ابھی تک اپ لوڈ نہیں کی گئی ہے۔ کیا آپ آن لائن ہیں اور اپنے گوگل اکاؤنٹ میں سائن ان ہیں؟</string>
+    <string name="donation_subs_check_box_text">ماہانہ برقرار رکھیں (کسی رقم کے لئے کوئی اشتہار نہیں)</string>
+    <string name="donation_subs_manage_btn_text">ان سبسکرائب کریں۔</string>
+
+    <string name="format_gb">گیگا بائٹ</string>
+    <string name="format_hz">ہرٹز</string>
+    <string name="format_kbits">کیپس</string>
+    <string name="format_mbits">ایم بی پی ایس</string>
+    <string name="format_minutes">منٹ</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">ایپلی کیشن کو بیٹری کی اصلاح سے خارج نہیں کیا گیا ہے۔ اگر بیک گراؤنڈ میں کیمرہ کام نہیں کر رہا ہے یا کوئی اور چیز کام نہیں کر رہی ہے، تو اس ایپلیکیشن کو پاور سیونگ موڈ کے استثناء میں شامل کریں۔</string>
+    <string name="msg_android_r_deleting_manual_tip_text">اگر آپ نے اینڈرائیڈ 11 پر ایپلی کیشن کو دوبارہ انسٹال کیا ہے، تو پرانی فائلوں کو دستی طور پر ڈیلیٹ کرنا ہوگا۔</string>
+    <string name="msg_battery_optimization_tip_text">بیٹری آپٹیمائزیشن -&gt; تمام ایپس -&gt; اس ایپ کا نام -&gt; آپٹمائز/محفوظ نہ کریں</string>
+    <string name="msg_camera_not_opened">کیمرہ نہیں چل رہا ہے۔</string>
+    <string name="msg_close_settings_before_recording_text">ریکارڈنگ شروع کرنے سے پہلے درخواست کی ترجیحات کو بند کریں۔</string>
+    <string name="msg_could_not_enable_microphone">مائیکروفون آن کرنے میں ناکام، آواز کے بغیر ریکارڈنگ جاری رہے گی۔</string>
+    <string name="msg_could_not_found_autostart_settings_text">اس ایپلیکیشن سے ان سیٹنگز کو نہیں کھولا جا سکا، براہ کرم ڈیفالٹ ڈیوائس سسٹم سیٹنگز ڈیفالٹ ایپلیکیشن کا استعمال کرتے ہوئے انہیں تلاش کرنے کی کوشش کریں۔</string>
+    <string name="msg_could_not_start_floating_window_text">تیرتی ونڈو شروع کرنے میں ناکام</string>
+    <string name="msg_dlg_found_old_videos_message">ایسا لگتا ہے کہ آپ نے ایپ کو دوبارہ انسٹال کر لیا ہے۔ آپ کے پاس پرانے ویڈیوز ہیں جنہیں ایپ لوپ ریکارڈنگ کے دوران حذف نہیں کر سکتی۔ نئی ویڈیوز ریکارڈ کرنے سے پہلے انہیں ویڈیو اسکرین پر دستی طور پر ہٹا دیں۔ اینڈرائیڈ 11+ سے شروع کرتے ہوئے، ایپلی کیشن دوبارہ انسٹال ہونے کے بعد پرانی فائلوں تک رسائی کے حقوق کھو دیتی ہے۔ یا آپ ریکارڈنگ فولڈر کو لکھنے کی اجازت دے سکتے ہیں۔</string>
+    <string name="msg_dlg_found_old_videos_title">پرانی ویڈیو فائلیں مل گئیں۔</string>
+    <string name="msg_dlg_incorrect_folder_path">غلط فولڈر۔ براہ کرم راستہ مت بدلیں۔ آپ کو ایک مخصوص فولڈر کے لیے اجازت دینی ہوگی۔ آپ سیٹنگز میں ریکارڈنگ فولڈر کو تبدیل کر سکتے ہیں۔</string>
+    <string name="msg_initializing_please_wait">شروع ہو رہا ہے… براہ کرم انتظار کریں!</string>
+    <string name="msg_no_browser">لنک کو کھولنے کے لیے براہ کرم ایک ویب ایپ انسٹال کریں۔</string>
+    <string name="msg_no_permission_to_delete_file">ویڈیو فائل کو حذف کرنے میں ناکام۔ ہو سکتا ہے آپ نے ایپلیکیشن کو دوبارہ انسٹال کر لیا ہو اور فائل کی اجازت ختم ہو گئی ہو، براہ کرم اسے دستی طور پر ان انسٹال کرنے کی کوشش کریں۔</string>
+    <string name="msg_not_enough_memory_free_some_text">ویڈیو ریکارڈنگ جاری رکھنے کے لیے کچھ جگہ خالی کریں۔</string>
+    <string name="msg_not_enough_memory_text">کافی میموری نہیں ہے۔</string>
+    <string name="msg_photo_failed_to_take">تصویر لینے میں ناکام</string>
+    <string name="msg_photo_was_saved">تصویر محفوظ ہو گئی۔</string>
+    <string name="msg_please_close_other_app_and_restart_text">کیمرہ استعمال کرتے ہوئے دیگر ایپلیکیشنز کو بند کریں اور اس ایپلیکیشن کو دوبارہ شروع کریں۔</string>
+    <string name="msg_record_path_has_changed_text">ریکارڈنگ فولڈر تبدیل کر دیا گیا ہے۔ کیونکہ ذخیرہ کرنے (لکھنے) کی غیر دستیاب یا کوئی اجازت نہیں دی گئی ہے۔</string>
+    <string name="msg_recorder_init_error_file_not_found">پرانی ویڈیوز کو حذف کریں، اپنا SD کارڈ فارمیٹ کریں، یا کوئی اور آزمائیں۔ اس کے علاوہ، زیادہ سے زیادہ ویڈیو ریکارڈنگ کی جگہ کو محدود کریں (کم بہتر ہے)۔ محفوظ شدہ ویڈیوز کی ایک بڑی تعداد اس طرح کے مسائل کا سبب بن سکتی ہے۔ ترتیبات میں SD کارڈز کے بارے میں اکثر پوچھے گئے سوالات بھی دیکھیں۔ آپ ایکسٹرنل کارڈ کے بجائے فون میموری پر لکھنے کی بھی کوشش کر سکتے ہیں۔</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">ریکارڈنگ بند کرو۔ جاری رکھنے کے لیے کافی میموری نہیں ہے۔</string>
+    <string name="msg_settings_opened_stopped_recording_text">ریکارڈنگ بند کرو… (ترتیبات کھول دی گئی تھیں)</string>
+    <string name="msg_should_stop_recording_before_closing_service">پہلے ریکارڈنگ بند کریں، پھر آپ سروس بند کر سکتے ہیں۔</string>
+    <string name="msg_stop_rec_too_fast_text">براہ کرم شروع ہونے کے فوراً بعد ریکارڈنگ بند کرنے سے پہلے ایک سیکنڈ انتظار کریں۔</string>
+    <string name="msg_stop_recording_to_change_camera_text">کیمرہ تبدیل کرنے کے لیے، آپ کو موجودہ ریکارڈنگ کو روکنا چاہیے۔</string>
+    <string name="msg_to_close_this_service_close_app">اس سروس کو بند کرنے کے لیے، پہلے ایپلیکیشن کو چھوٹا یا بند کریں۔</string>
+    <string name="msg_video_become_locked_text">ویڈیو کو اوور رائٹ ہونے سے روک دیا جائے گا۔</string>
+    <string name="msg_video_folder_size">اجازت دی گئی زیادہ سے زیادہ سائز سے تمام ویڈیوز کا سائز</string>
+    <string name="msg_video_rec_battery_not_enough_text">ڈیوائس پر بیٹری کی کافی طاقت نہیں ہے۔ چارج پر رکھیں یا ریکارڈنگ شروع کریں اگر چارج 1%% سے زیادہ ہے</string>
+    <string name="msg_video_recorder_error">ویڈیو ریکارڈر میں کچھ غلط ہو گیا۔</string>
+    <string name="msg_voice_tts_lang_data_missing_text">TTS (Android Text-to-Speech) کے لیے لینگویج پیک انسٹال نہیں ہے۔ ڈاؤن لوڈ شروع کرنے کے لیے انٹرنیٹ آن کریں۔</string>
+    <string name="msg_auto_recording_service_was_stopped">آپ نے آٹو اسٹارٹ ویڈیو بیک گراؤنڈ سروس کو روک دیا ہے۔ Background Video Recorder ایپ کو دوبارہ شروع کرنے کے لیے اسے کھولیں۔</string>
+
+    <string name="notification_service_checker">تجزیہ</string>
+    <string name="notification_start_service_error_sub_text">ایپلیکیشن لانچ کرنے کے لیے نوٹیفکیشن پر کلک کریں۔ آپ کو تمام ایپلیکیشنز کے اوپر اجازت نہیں ہے یا ڈیوائس کو لاک کر دیا گیا ہے۔</string>
+    <string name="notification_start_service_error_text">ڈیوائس بوٹ پر ریکارڈنگ سروس شروع کرنے میں ناکام</string>
+    <string name="notification_stop_text">رک جاؤ</string>
+    <string name="notification_could_not_start_recording_service">ریکارڈنگ سروس شروع نہیں ہو سکی۔ اس ایپ کے لیے بیٹری کی اصلاح کو غیر فعال کرنے کے لیے تھپتھپائیں۔</string>
+
+    <string name="permission_audio_dlg_msg">ویڈیو ریکارڈ کرتے وقت آڈیو ٹریک ریکارڈ کرنے کے لیے آڈیو کی ضرورت ہوتی ہے۔</string>
+    <string name="permission_audio_dlg_title">آڈیو ریزولوشن</string>
+    <string name="permission_camera_dlg_msg">ویڈیو ریکارڈنگ اور کیمرے کے پیش نظارہ کے لیے کیمرہ درکار ہے۔</string>
+    <string name="permission_camera_dlg_title">کیمرہ ریزولوشن</string>
+    <string name="permission_camera_request_canceled">اس ایپلیکیشن کو ویڈیو ریکارڈ کرنے کے لیے کیمرہ استعمال کرنے کی اجازت درکار ہے۔ لیکن آپ نے اسے ٹھکرا دیا۔ بند ہو رہا ہے… اس ایپلیکیشن کی سسٹم سیٹنگز میں کیمرے کو اجازت دینے کی کوشش کریں۔</string>
+    <string name="permission_location_dlg_explanation_msg">جب ایپ کو چھوٹا کیا جاتا ہے، تو یہ ریکارڈ شدہ ویڈیو پر کوآرڈینیٹ، پتہ اور رفتار کھینچنے کے لیے پس منظر میں مقام کا استعمال کرتی ہے۔</string>
+    <string name="permission_location_dlg_title">مقام کی اجازت</string>
+    <string name="permission_storage_dlg_msg">ویڈیو کو مشترکہ فولڈر میں محفوظ کرنے اور لوپ ریکارڈنگ موڈ کے لیے اسٹوریج کی ضرورت ہے۔</string>
+    <string name="permission_storage_dlg_title">ذخیرہ کرنے کی اجازت</string>
+    <string name="permissions_audio_storage_dlg_title">آڈیو اور اجازت اسٹوریج</string>
+
+    <string name="prefs_audio_bitrate_text">بٹریٹ (معیار)</string>
+    <string name="prefs_audio_rate_text">نمونے لینے کی فریکوئنسی</string>
+    <string name="prefs_audio_recording_text">آڈیو ریکارڈنگ</string>
+    <string name="prefs_audio_settings_sum_text">کوالٹی، آف /آن ساؤنڈ ریکارڈنگ</string>
+    <string name="prefs_audio_settings_text">آواز کی ترتیبات</string>
+    <string name="prefs_audio_stereo_text">سٹیریو</string>
+    <string name="prefs_auto_start_app_launch_sum_text">ایپ شروع ہونے پر خود بخود ویڈیو ریکارڈنگ شروع کریں۔</string>
+    <string name="prefs_auto_start_app_launch_text">درخواست شروع کرتے وقت</string>
+    <string name="prefs_battery_optimization_sum_text">بیٹری کی اصلاح ایپلیکیشن کو صحیح طریقے سے کام کرنے سے روک سکتی ہے (مثال کے طور پر، کیمرہ استعمال کرنا)۔ اسے ابھی اس ایپ کے لیے بند کرنے کے لیے یہاں کلک کریں۔</string>
+    <string name="prefs_battery_optimization_text">بیٹری کی اصلاح</string>
+    <string name="prefs_day_night_mode_auto_text">خودکار (دن /رات)، وقت کے لحاظ سے</string>
+    <string name="prefs_day_night_mode_day_text">دن</string>
+    <string name="prefs_day_night_mode_night_text">رات</string>
+    <string name="prefs_donate_action_text">عطیہ کریں۔</string>
+    <string name="prefs_donate_disable_ads_text">عطیہ، اشتہارات ہٹا دیں۔</string>
+    <string name="prefs_donate_sum_text">سپورٹ ایپلی کیشن ڈویلپمنٹ</string>
+    <string name="prefs_donate_text">عطیہ</string>
+    <string name="prefs_faq_sum_text">اکثر پوچھے گئے سوالات</string>
+    <string name="prefs_float_size_increase_text">تیرتی کھڑکی پر بٹنوں کا سائز</string>
+    <string name="from">سے</string>
+    <string name="to">پہلے</string>
+    <string name="prefs_fps_value_from_to_stable_text">(صرف دن، مستحکم)</string>
+    <string name="prefs_fps_value_from_to_text">(دن اور رات)</string>
+    <string name="prefs_info_more_category_text">معلومات/مزید…</string>
+    <string name="prefs_optical_zoom_text">آپٹیکل زوم (زوم) /فوکل لینتھ</string>
+    <string name="prefs_orientation_landscape">زمین کی تزئین</string>
+    <string name="prefs_orientation_landscape_reversed">البم ریورس</string>
+    <string name="prefs_orientation_portrait">پورٹریٹ</string>
+    <string name="prefs_other_auto_deleting_sum_text">اگر نئی ویڈیوز کے لیے کافی جگہ نہ ہو تو ریکارڈنگ کے دوران پرانی ویڈیوز کو خودکار طور پر حذف کر دیں۔</string>
+    <string name="prefs_other_auto_deleting_text">لوپ ریکارڈنگ</string>
+    <string name="prefs_other_keep_screen_on_text">اسکرین کو آن رہنے دیں۔</string>
+    <string name="prefs_other_path_photo_text">تصویر کا مقام (فولڈر /راستہ)</string>
+    <string name="prefs_other_path_text">ویڈیو کا مقام (فولڈر /راستہ)</string>
+    <string name="prefs_other_settings_sum_text">ویڈیو لوکیشن (محفوظ فولڈر)، ویڈیو کا دورانیہ، لوپ ریکارڈنگ، زیادہ سے زیادہ ویڈیو سائز</string>
+    <string name="prefs_other_settings_text">دیگر ترتیبات</string>
+    <string name="prefs_other_video_duration_text">ویڈیو کا دورانیہ - کتنی بار محفوظ کرنا ہے۔</string>
+    <string name="prefs_overlay_app_btn_text">ایپلیکیشن لانچ کریں۔</string>
+    <string name="prefs_overlay_buttons_text">تیرتی کھڑکی پر بٹن /عناصر</string>
+    <string name="prefs_overlay_close_btn_text">ایک کھڑکی بند کریں۔</string>
+    <string name="prefs_overlay_drag_btn_text">کھڑکی کو گھسیٹیں۔</string>
+    <string name="prefs_overlay_videos_btn_text">ویڈیو اسکرین کھولیں۔</string>
+    <string name="prefs_pinch_to_zoom_sum_text">دو انگلیوں سے زوم کریں۔</string>
+    <string name="prefs_pinch_to_zoom_text">اسکرین زوم کو فعال کریں۔</string>
+    <string name="prefs_policy_text">رازداری کی پالیسی</string>
+    <string name="prefs_rate_sum_text">Play Store میں ایپ کی درجہ بندی کریں۔</string>
+    <string name="prefs_rate_text">اندازہ لگانا</string>
+    <string name="prefs_rules_video_space_text">تمام ویڈیوز کی زیادہ سے زیادہ میموری کی گنجائش (لوپ ریکارڈنگ)</string>
+    <string name="prefs_screen_autostart_text">آٹو اسٹارٹ ریکارڈنگ</string>
+    <string name="prefs_screen_ui_summary_text">اسکرین پر فوری اور دیر تک دبائیں، پاپ اپ ونڈو، ریکارڈنگ پر وائبریشن، ساؤنڈ الرٹ، آن اسکرین بٹن، اسکرین آف اور بہت کچھ</string>
+    <string name="prefs_screen_ui_title">انٹرفیس (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">مخصوص اوقات میں خود بخود کیمرہ ڈے/نائٹ موڈز سوئچ کرتا ہے۔</string>
+    <string name="prefs_screen_video_day_night_mode_text">خودکار دن /رات کی ترتیبات</string>
+    <string name="prefs_settings_bitrate_sum_text">اعلی بٹریٹ - بہتر کوالٹی، لیکن ویڈیو فائل کا بڑا سائز</string>
+    <string name="prefs_settings_fps_sum_text">مزید FPS - ہموار ویڈیو، لیکن تیزی سے بیٹری ختم ہو جاتی ہے۔ اندھیرے میں بہتر ریکارڈنگ کے لیے پہلی قدر کو سب سے کم (دوسرا زیادہ ہو سکتا ہے) پر سیٹ کرنا بہتر ہے۔</string>
+    <string name="prefs_share_sum_text">اس ایپ کو اپنے دوستوں کو بھیجیں۔</string>
+    <string name="prefs_share_text">اس کا اشتراک</string>
+    <string name="prefs_show_audio_btn_text">آن/آف آڈیو ریکارڈنگ</string>
+    <string name="prefs_show_buttons_sum_text">کیمرے تبدیل کرنے، آن/آف آڈیو ریکارڈنگ، فلیش، نائٹ موڈ، ویڈیو کو اوور رائٹنگ سے روکنے کے بٹن</string>
+    <string name="prefs_show_buttons_text">اسکرین پر بٹن</string>
+    <string name="prefs_show_camera_change_btn_text">کیمرے کی تبدیلی</string>
+    <string name="prefs_show_day_night_mode_btn_text">دن /رات /آٹو موڈز</string>
+    <string name="prefs_show_flash_btn_text">فلیش آن/آف</string>
+    <string name="prefs_show_lock_btn_text">ویڈیوز کو اوور رائٹ ہونے سے روکنا</string>
+    <string name="prefs_show_overlay_btn_sum_text">تمام ایپلی کیشنز کے اوپر کنٹرول بٹن کے ساتھ ایک ونڈو دکھاتا ہے۔</string>
+    <string name="prefs_show_overlay_btn_text">تیرتی کھڑکی دکھائیں۔</string>
+    <string name="prefs_show_status_bar_text">سسٹم اسٹیٹس بار دکھائیں۔</string>
+    <string name="prefs_show_take_photo_btn_text">تصویر بنانے کے لیے</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">موجودہ کیمرے سے تعاون یافتہ نہیں ہے۔ مینوفیکچررز اکثر اس کے استعمال پر پابندی لگاتے ہیں - یہ صرف معیاری کیمرہ ایپلی کیشن میں دستیاب ہے۔</string>
+    <string name="prefs_start_stop_voice_sum_text">شروع، بند یا ریکارڈنگ کی غلطی پر آواز</string>
+    <string name="prefs_start_stop_voice_text">صوتی ریکارڈنگ کی حیثیت</string>
+    <string name="prefs_support_sum_text">بگ، کریش یا پیشکش کی اطلاع دیں۔</string>
+    <string name="prefs_support_text">سپورٹ (رائے)</string>
+    <string name="prefs_system_alert_window_sum_text">اس ایپ کو دیگر تمام ایپس کے اوپر ظاہر ہونے دیں۔ یہ تیرتی کھڑکی کو ظاہر کرنے کے لیے ضروری ہے۔</string>
+    <string name="prefs_system_alert_window_text">تمام ونڈوز کے اوپر ریزولوشن</string>
+    <string name="prefs_toolbar_title_setting">ترتیبات</string>
+    <string name="prefs_ui_click_none_text">کرنے کیلئے کچھ نہیں</string>
+    <string name="prefs_ui_click_start_stop_rec_text">ریکارڈنگ شروع /بند کریں۔</string>
+    <string name="prefs_ui_click_text">اسکرین پر فوری تھپتھپائیں۔</string>
+    <string name="prefs_ui_long_click_text">اسکرین پر دیر تک دبائیں۔</string>
+    <string name="prefs_version_text">درخواست کا ورژن</string>
+    <string name="prefs_video_bitrate_text">بٹریٹ (معیار)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">کیمرہ کنٹرول سین ​​موڈ (رات)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">کیمرہ کنٹرول سین ​​موڈ (دن)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">عمومی /چہرے کی ترجیح</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (ہائی ڈائنامک رینج)</string>
+    <string name="prefs_video_control_scene_mode_night_text">رات (کم روشنی والے حالات کے لیے)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">طلوع آفتاب کا وقت (سورج طلوع)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">غروب آفتاب کا وقت (غروب آفتاب)</string>
+    <string name="prefs_video_day_night_mode_text">دن، رات یا آٹو موڈ</string>
+    <string name="prefs_video_exposure_night_text">نمائش کا معاوضہ (رات)</string>
+    <string name="prefs_video_exposure_text">نمائش کا معاوضہ (دن)</string>
+    <string name="prefs_video_flip_x_sum_text">ویڈیو کی افقی عکس بندی۔ تصویر صرف ویڈیو ریکارڈنگ کے لیے تبدیل ہوتی ہے، پیش نظارہ تبدیل نہیں ہوتا</string>
+    <string name="prefs_video_flip_x_text">ویڈیو کو افقی طور پر پلٹائیں۔</string>
+    <string name="prefs_video_focus_continuous_picture_text">مسلسل تصویر</string>
+    <string name="prefs_video_focus_continuous_video_text">مسلسل ویڈیو (دن کے وقت تجویز کردہ)</string>
+    <string name="prefs_video_focus_infinity_text">انفینٹی (رات کو تجویز کردہ)</string>
+    <string name="prefs_video_focus_night_text">کیمرہ فوکس (رات)</string>
+    <string name="prefs_video_focus_text">کیمرہ فوکس (دن)</string>
+    <string name="prefs_video_fps_range_text">فریم فی سیکنڈ (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">جگہ بچانے کے لیے HEVC (H.265) فارمیٹ میں ریکارڈ کریں۔ آپ اس طرح کے ویڈیوز کو دوسرے ویڈیو پلے بیک آلات یا ایپلیکیشنز پر نہیں چلا سکتے۔ تبدیلی کے بعد ریزولوشن اور بٹ ریٹ کو دوبارہ ترتیب دے گا۔</string>
+    <string name="prefs_video_hevc_text">انتہائی موثر ویڈیو کوڈنگ</string>
+    <string name="prefs_video_orientation_text">ویڈیو اور فون واقفیت</string>
+    <string name="prefs_video_resolution_text">ویڈیو ریزولوشن</string>
+    <string name="prefs_video_settings_sum_text">ریزولوشن، بٹ ریٹ، واقفیت، فوکس، کیمرہ، نائٹ موڈ</string>
+    <string name="prefs_video_settings_text">ویڈیو کی ترتیبات</string>
+    <string name="prefs_video_size_sum_text">بڑا سائز - تیزی سے بیٹری نکالنا</string>
+    <string name="prefs_video_space_unlimited">لا محدود</string>
+    <string name="prefs_video_stabilization_text">ویڈیو اسٹیبلائزیشن</string>
+    <string name="prefs_zoom_text">ڈیجیٹل زوم (زوم)</string>
+
+    <string name="rec_day_night_btn_auto_text">آٹو</string>
+    <string name="rec_fix_short_text">درست کرنا</string>
+    <string name="rec_fix_text">درست کرنا</string>
+    <string name="rec_free_space_text">مفت</string>
+    <string name="rec_location_text">مقام</string>
+    <string name="rec_gps_text">GPS</string>
+    <string name="rec_network_text">نیٹ</string>
+    <string name="rec_off_text">بند</string>
+    <string name="rec_on_text">بشمول</string>
+
+    <string name="recording_start_text">ریکارڈنگ شروع کریں۔</string>
+    <string name="recording_started_failed_text">ریکارڈنگ شروع کرنے میں خرابی۔</string>
+    <string name="recording_started_with_audio_text">آڈیو ریکارڈنگ کے ساتھ ایک نئی ویڈیو ریکارڈنگ شروع ہو گئی ہے۔</string>
+    <string name="recording_started_with_text">ریکارڈنگ شروع ہو گئی۔</string>
+    <string name="recording_started_without_audio_text">آڈیو ریکارڈنگ کے بغیر نئی ویڈیو ریکارڈنگ شروع ہو گئی۔</string>
+    <string name="recording_stop_not_enough_space_msg">کافی ذخیرہ نہیں ہے۔ مفت جگہ</string>
+    <string name="recording_stop_text">ریکارڈنگ بند کرو</string>
+    <string name="recording_stopped_failed_text">ریکارڈنگ درست طریقے سے مکمل نہیں ہو سکی</string>
+    <string name="recording_stopped_with_text">ریکارڈنگ روک دی گئی۔</string>
+    <string name="recording_text">ریکارڈنگ…</string>
+    <string name="recording_voice_started_text">ریکارڈنگ شروع ہو گئی ہے۔</string>
+    <string name="recording_voice_stopped_text">ریکارڈنگ رک گئی۔</string>
+
+    <string name="service_no_system_alert_window_granted_text">آٹو اسٹارٹ/اسٹاپ ریکارڈنگ ایپلیکیشن سروس شروع نہیں کی جا سکی کیونکہ SYSTEM_ALERT_WINDOW (دیگر تمام ایپلیکیشن ونڈوز کے اوپر ڈسپلے) کی اجازت نہیں دی گئی تھی۔ یا اس وقت ڈیوائس کو لاک کر دیا گیا تھا (Android کی حد یہ ہے کہ آٹو ویڈیو ریکارڈنگ سروس شروع کرنے سے پہلے ڈیوائس کو پہلے انلاک کیا جانا چاہیے اور اس کی اسکرین کو آن کرنا ضروری ہے)</string>
+
+    <string name="storage_external_single">مائیکرو ایس ڈی کارڈ</string>
+    <string name="storage_phone">فون میموری</string>
+
+    <string name="videos_count_one">ویڈیو</string>
+    <string name="videos_count_other">ویڈیو</string>
+    <string name="videos_deleting_text">فائلیں حذف ہو رہی ہیں… براہ کرم انتظار کریں!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">کیا آپ واقعی اس ویڈیو فائل کو حذف کرنا چاہتے ہیں؟</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">کیا آپ واقعی ان ویڈیو فائلوں کو حذف کرنا چاہتے ہیں؟</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">کیا آپ واقعی اس ویڈیو فولڈر کو حذف کرنا چاہتے ہیں؟</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">کیا آپ واقعی ویڈیو فولڈر کا ڈیٹا حذف کرنا چاہتے ہیں؟</string>
+    <string name="videos_dialog_delete_multiple_files_title">ویڈیو فائلوں کو حذف کریں۔</string>
+    <string name="videos_dialog_delete_multiple_folders_title">ویڈیو فولڈرز کو حذف کریں۔</string>
+    <string name="videos_empty_text">ویڈیوز غائب ہیں۔</string>
+    <string name="videos_file_action_lock_dlg_title">اس ویڈیو کو خودکار (اوور رائٹ) حذف کرنے سے مسدود کریں؟</string>
+    <string name="videos_file_deletion_mode">ڈیلیٹ موڈ</string>
+    <string name="videos_file_item_share">اس کا اشتراک</string>
+    <string name="videos_file_item_watch">دیکھو</string>
+    <string name="videos_file_sort_asc">صعودی ترتیب دیں۔</string>
+    <string name="videos_file_sort_desc">نزولی ترتیب دیں۔</string>
+    <string name="videos_file_was_locked_text">ویڈیو فائل کو محفوظ فولڈر میں منتقل کر دیا گیا ہے۔</string>
+    <string name="videos_item_mode_deletion_exit_text">ڈیلیٹ موڈ سے باہر نکلیں۔</string>
+    <string name="videos_locked_folder_text">اوور رائٹ محفوظ ہے۔</string>
+    <string name="videos_menu_delete">حذف کریں۔</string>
+    <string name="videos_menu_refresh">تازہ دم کریں۔</string>
+    <string name="videos_menu_select_all">سب کا انتخاب کریں۔</string>
+    <string name="videos_menu_sorting">چھانٹنا</string>
+    <string name="videos_menu_storage">یاداشت</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">براہ کرم ایپلیکیشن کی ترتیبات کھولیں اور فون میموری میں اسٹوریج تک رسائی کی اجازت دیں۔</string>
+    <string name="videos_no_storage_permission_dlg_title_text">اسٹوریج کی اجازت نہیں ہے۔</string>
+    <string name="videos_select_files_for_deleting">حذف کرنے کے لیے ویڈیو فائلوں کو منتخب کریں۔</string>
+    <string name="videos_storage_select_dlg_title">ویڈیو اسٹوریج کو منتخب کریں۔</string>
+    <string name="videos_toolbar_subtitle">ویڈیو ریکارڈنگ</string>
+
+
+    <string name="prefs_warnings_text">انتباہات</string>
+    <string name="prefs_beep_each_start_recording_sum_text">اگلی ویڈیو فائل کی ریکارڈنگ کے آغاز میں سگنل</string>
+    <string name="prefs_beep_each_start_recording_text">ریکارڈنگ کے وقت بیپ کریں۔</string>
+    <string name="prefs_translate_text">درخواست کا ترجمہ</string>
+    <string name="prefs_translate_sum_text">اپنی زبان میں متن کے ترجمہ کو بہتر یا درست کرنے میں مدد کریں۔</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">کیمرے تک رسائی کے دوران ایک خرابی پیش آگئی۔ بیٹری آپٹیمائزیشن فعال ہے۔</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">مستقبل میں کیمرے کی خرابیوں سے بچنے کے لیے اپنے آلے کی ترتیبات میں اس ایپ کے لیے بیٹری کی اصلاح کو غیر فعال کریں۔</string>
+
+
+    <string name="accept_text">مجھے قبول ہے</string>
+
+    <string name="hour">گھنٹہ</string>
+    <string name="hours">گھنٹے</string>
+    <string name="prefs_orientation_sensor_automatic">خودکار</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">ریکارڈنگ شروع یا بند کرتے وقت کمپن</string>
+    <string name="prefs_start_rec_volume_down_key_text">والیوم ڈاؤن بٹن دبا کر ریکارڈنگ شروع کریں یا بند کریں۔</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">اس فیچر کے کام کرنے کے لیے ایپ بیک گراؤنڈ میں چلے گی (نوٹیفکیشن بار میں لانچ کی گئی)</string>
+    <string name="timer_auto_start_recording_cancel_message_text">موجودہ ٹائمر کے لیے خودکار ویڈیو ریکارڈنگ منسوخ کریں؟</string>
+    <string name="timer_auto_start_recording_duration_text">ویڈیو کی لمبائی</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">وقت ماضی میں مقرر کیا گیا تھا</string>
+    <string name="timer_service_notification_subtitle_text">ویڈیو ریکارڈنگ آٹو پلے ٹائمر سروس</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

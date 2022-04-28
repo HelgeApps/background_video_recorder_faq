@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Фонавы запіс відэа</string>
+
+    <string name="close">Закрыць</string>
+    <string name="default_text">Па змаўчанні</string>
+    <string name="disabled_text">Адключана</string>
+    <string name="no_ads_text">(без рэкламы)</string>
+    <string name="zoom_text">зум</string>
+    <string name="reset">скід</string>
+
+    <string name="camera">Камера</string>
+    <string name="camera_aperture">Дыяфрагма</string>
+    <string name="camera_back">Задняя камера</string>
+    <string name="camera_background_permission_error_msg">Неабходна запусціць адзін раз прыкладанне, каб мець доступ да камеры ў фонавым рэжыме</string>
+    <string name="camera_error_background_tried_use_text">На Android 11+ перад запускам запісу ў фонавым рэжыме прыкладанне павінна быць запушчана і быць бачным хаця б адзін раз, каб мець магчымасць выкарыстоўваць камеру ў фонавым рэжыме. Таму пасля перазагрузкі прылады зрабіце прыкладанне бачным і пасля гэтага не закрывайце сэрвіс запісу, ён павінен заставацца ў цэнтры апавяшчэнняў.</string>
+    <string name="camera_error_busy">Відэазапіс спынена, бо камера выкарыстоўваецца іншым дадаткам</string>
+    <string name="camera_external">Знешняя USB-камера</string>
+    <string name="camera_fov_text">Куты агляду (16:9)</string>
+    <string name="camera_fov_vertical_text">вертыкальны</string>
+    <string name="camera_fov_horbizonal_text">гарызантальны</string>
+    <string name="camera_front">Франтальная камера</string>
+    <string name="camera_msg_error_in_use_text">Камера выкарыстоўвалася іншым дадаткам. Калі ласка, не запускайце іншыя прыкладанні, якія могуць выкарыстоўваць камеру падчас запісу відэа. Android дазваляе адначасова толькі аднаму з дадаткам выкарыстоўваць камеру</string>
+    <string name="camera_msg_error_unknown_text">Камера часова (была) недаступная для адкрыцця на вашым прыладзе (сістэмная памылка камеры)</string>
+    <string name="camera_support_error">Адбылася памылка пры выкарыстанні камеры.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Гэта прылада не мае убудаванай камеры і не падтрымлівае вонкавыя камеры. Закрыццё…</string>
+    <string name="dialog_camera_not_found_text">Камера не знойдзена</string>
+    <string name="dialog_go_to_settings_text">Адкрыць наладкі</string>
+    <string name="dialog_report_the_error_text_btn">Паведаміце пра памылку</string>
+    <string name="dialog_select_camera_text">Выбраць камеру</string>
+    <string name="dialog_unlock_video_text">Адмяніць блакаванне бягучага відэа ад перазапісу\?</string>
+
+    <string name="donate_success_thanks_msg_text">Вялікі дзякуй за падтрымку!</string>
+    <string name="donation_dlg_has_ads_text">Каб прыбраць рэкламу, ахвяраванне павінна складаць ці больш.</string>
+    <string name="donation_dlg_no_ads_text">У вас няма рэклямы.</string>
+    <string name="donation_level_text">Ваш узровень ахвяравання:</string>
+    <string name="donation_purchase_info_loading_text">Інфармацыя аб пакупках яшчэ не загружана. Ці даступна падлучэнне да сеткі і ўваход у Google рахунак выкананы\?</string>
+    <string name="donation_subs_check_box_text">Падтрымліваць штомесяц (без рэкламы пры любой суме)</string>
+    <string name="donation_subs_manage_btn_text">Адмяніць падпіску</string>
+
+    <string name="format_gb">Гігабайт</string>
+    <string name="format_hz">Гц</string>
+    <string name="format_kbits">кбіт/с</string>
+    <string name="format_mbits">Мбіт/с</string>
+    <string name="format_minutes">мін.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Прыкладанне не выключана з аптымізацыі батарэі. Калі камера не працуе ў фонавым рэжыме або што-небудзь яшчэ не працуе, то дадайце гэта дадатак у выключэнні энергазберагальнага рэжыму.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Калі вы пераўсталёўвалі дадатак на Android 11, то старыя файлы неабходна выдаліць уручную</string>
+    <string name="msg_battery_optimization_tip_text">Аптымізацыя батарэі -&gt; Усе прыкладанні -&gt; Назва гэтага прыкладання -&gt; Не аптымізаваць/эканоміць</string>
+    <string name="msg_camera_not_opened">Камера не запушчана</string>
+    <string name="msg_close_settings_before_recording_text">Закрыйце налады прыкладання перад пачаткам запісу</string>
+    <string name="msg_could_not_enable_microphone">Не ўдалося ўключыць мікрафон, запіс працягнецца без гуку</string>
+    <string name="msg_could_not_found_autostart_settings_text">Не атрымалася адкрыць гэтыя наладкі з гэтага прыкладання, паспрабуйце знайсці іх з дапамогай стандартнага прыкладання сістэмных налад прылады па змаўчанні</string>
+    <string name="msg_could_not_start_floating_window_text">Не ўдалося запусціць плаваючае акно</string>
+    <string name="msg_dlg_found_old_videos_message">Здаецца, што вы пераўсталявалі праграму. У вас ёсць старыя відэа, якія прыкладанне не можа выдаліць падчас цыклічнага запісу. Выдаліце ​​іх уручную на экране з відэа перад запісам новых відэа. Пачынаючы з Android 11+ дадатак губляе правы доступу да старых файлаў пасля пераўсталёўкі. Ці вы можаце даць дазвол на запіс для тэчкі запісу</string>
+    <string name="msg_dlg_found_old_videos_title">Знойдзена старыя відэа файлы</string>
+    <string name="msg_dlg_incorrect_folder_path">Няправільная тэчка. Калі ласка, не мяняйце шлях. Вы павінны даць дазвол для канкрэтнай тэчкі. Вы зможаце змяніць тэчку для запісу ў наладах.</string>
+    <string name="msg_initializing_please_wait">Ініцыялізацыя… Пачакайце, калі ласка!</string>
+    <string name="msg_no_browser">Калі ласка, усталюйце вэб-дадатак для адкрыцця спасылкі</string>
+    <string name="msg_no_permission_to_delete_file">Не ўдалося выдаліць відэафайл. Магчыма, вы пераўсталявалі дадатак, і дазвол на файл было страчана, паспрабуйце выдаліць яго ўручную</string>
+    <string name="msg_not_enough_memory_free_some_text">Вызваліце ​​месца, каб працягнуць запіс відэа</string>
+    <string name="msg_not_enough_memory_text">Недастаткова памяці</string>
+    <string name="msg_photo_failed_to_take">Не ўдалося зрабіць фота</string>
+    <string name="msg_photo_was_saved">Фота захавана</string>
+    <string name="msg_please_close_other_app_and_restart_text">Закрыйце іншыя прыкладанні, якія выкарыстоўваюць камеру, і перазапусціце гэта дадатак</string>
+    <string name="msg_record_path_has_changed_text">Тэчка для запісу была зменена. Паколькі недаступны або не быў прадастаўлены дазвол на захоўванне (запіс)</string>
+    <string name="msg_recorder_init_error_file_not_found">Выдаліце ​​старыя відэа, адфарматуйце SD-карту ці паспрабуйце іншую. Таксама абмяжуйце максімальную прастору для запісу відэа (чым менш, тым лепш). Вялікая колькасць захаваных відэа могуць выклікаць такія праблемы. Паглядзіце таксама FAQ аб SD-картах у Наладкі/FAQ. Вы таксама можаце паспрабаваць запісваць у памяць тэлефона замест знешняй карты</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Прыпынак запісу. Недастаткова памяці для працягу</string>
+    <string name="msg_settings_opened_stopped_recording_text">Прыпынак запісу… (былі адкрыты налады)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Спачатку спыніце запіс, затым вы зможаце закрыць сэрвіс</string>
+    <string name="msg_stop_rec_too_fast_text">Калі ласка, пачакайце секунду, перш чым спыняць запіс адразу пасля яе пачатку</string>
+    <string name="msg_stop_recording_to_change_camera_text">Каб змяніць камеру, неабходна спыніць бягучы запіс</string>
+    <string name="msg_to_close_this_service_close_app">Каб закрыць гэтую службу, спачатку згарніце або зачыніце прыкладанне</string>
+    <string name="msg_video_become_locked_text">Відэа будзе заблакавана ад перазапісу</string>
+    <string name="msg_video_folder_size">Памер усіх відэа з дазволенага максімальнага аб\'ёму</string>
+    <string name="msg_video_rec_battery_not_enough_text">Недастаткова зарада батарэі на прыладзе. Пастаўце на зарадку або ўключайце запіс, калі зарад вышэй за 1%%</string>
+    <string name="msg_video_recorder_error">Нешта пайшло не так з відэа модулем для запісу.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Моўны пакет для TTS (Android сінтэзатар гаворкі) не ўсталяваны. Уключыце Інтэрнэт, каб пачаць загрузку</string>
+    <string name="msg_auto_recording_service_was_stopped">Вы спынілі фонавую службу аўтаматычнага пачатку відэазапісы. Адкрыйце Background Video Recorder дадатак, каб запусціць яе зноў.</string>
+
+    <string name="notification_service_checker">аналіз</string>
+    <string name="notification_start_service_error_sub_text">Націсніце на апавяшчэнне для запуску прыкладання. У вас няма дазволу на паверх усіх прыкладанняў або прылада было заблакавана</string>
+    <string name="notification_start_service_error_text">Не атрымалася запусціць службу запісу пры загрузцы прылады</string>
+    <string name="notification_stop_text">Спыніць</string>
+    <string name="notification_could_not_start_recording_service">Не ўдалося запусціць службу запісу. Націсніце, каб адключыць аптымізацыю зарада батарэі для гэтага прыкладання</string>
+
+    <string name="permission_audio_dlg_msg">Аўдыё неабходна для запісу аўдыёдарожкі пры відэазапісе</string>
+    <string name="permission_audio_dlg_title">Аўдыё дазвол</string>
+    <string name="permission_camera_dlg_msg">Камера неабходна для відэазапісу і папярэдняга прагляду камеры.</string>
+    <string name="permission_camera_dlg_title">Камера дазвол</string>
+    <string name="permission_camera_request_canceled">Дадзенае прыкладанне патрабуе дазвол выкарыстання камеры для запісу відэа. Але вы адхілілі яго. Закрыццё… Паспрабуйце даць дазвол на камеру ў наладах сістэмы дадзенаму дадатак</string>
+    <string name="permission_location_dlg_explanation_msg">Калі дадатак згорнута, то яно выкарыстоўвае месцазнаходжанне ў фонавым рэжыме для адмалёўкі каардынат, адрасы і хуткасці на якое запісваецца відэа.</string>
+    <string name="permission_location_dlg_title">Месцазнаходжанне дазвол</string>
+    <string name="permission_storage_dlg_msg">Сховішча неабходна для захавання відэа ў агульную тэчку і для рэжыму цыклічнага запісу</string>
+    <string name="permission_storage_dlg_title">Сховішча дазвол</string>
+    <string name="permissions_audio_storage_dlg_title">Аўдыё і Сховішча дазволу</string>
+
+    <string name="prefs_audio_bitrate_text">Бітрэйт (якасць)</string>
+    <string name="prefs_audio_rate_text">Частата дыскрэтызацыі</string>
+    <string name="prefs_audio_recording_text">Аўдыёзапіс</string>
+    <string name="prefs_audio_settings_sum_text">Якасць, выкл/вкл запіс гуку</string>
+    <string name="prefs_audio_settings_text">Налады гуку</string>
+    <string name="prefs_audio_stereo_text">Стэрэа</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Пачаць відэазапіс аўтаматычна пры запуску прыкладання</string>
+    <string name="prefs_auto_start_app_launch_text">Пры запуску прыкладання</string>
+    <string name="prefs_battery_optimization_sum_text">Аптымізацыя батарэі можа перашкаджаць карэктнай працы прыкладання (напрыклад, выкарыстанне камеры). Націсніце тут, каб адключыць яе для дадзенага прыкладання зараз</string>
+    <string name="prefs_battery_optimization_text">Аптымізацыя батарэі</string>
+    <string name="prefs_day_night_mode_auto_text">Аўтаматычны (дзень/ноч), па часе</string>
+    <string name="prefs_day_night_mode_day_text">Дзень</string>
+    <string name="prefs_day_night_mode_night_text">Ноч</string>
+    <string name="prefs_donate_action_text">Ахвяраваць</string>
+    <string name="prefs_donate_disable_ads_text">Ахвяраванне, Прыбраць рэкламу</string>
+    <string name="prefs_donate_sum_text">Падтрымаць распрацоўку прыкладання</string>
+    <string name="prefs_donate_text">Ахвяраванне</string>
+    <string name="prefs_faq_sum_text">Адказы на частыя пытанні</string>
+    <string name="prefs_float_size_increase_text">Памер кнопак на плывучым акне</string>
+    <string name="from">ад</string>
+    <string name="to">да</string>
+    <string name="prefs_fps_value_from_to_stable_text">(толькі дзень, стабільна)</string>
+    <string name="prefs_fps_value_from_to_text">(дзень і ноч)</string>
+    <string name="prefs_info_more_category_text">Інфармацыя /Больш…</string>
+    <string name="prefs_optical_zoom_text">Аптычны зум (маштабаванне) /Фокусная адлегласць</string>
+    <string name="prefs_orientation_landscape">Альбомная</string>
+    <string name="prefs_orientation_landscape_reversed">Альбомная зваротная</string>
+    <string name="prefs_orientation_portrait">Партрэтная</string>
+    <string name="prefs_other_auto_deleting_sum_text">Аўтаматычна выдаляць самыя старыя відэа падчас запісу, калі для новых відэа недастаткова месца</string>
+    <string name="prefs_other_auto_deleting_text">Цыклічны запіс</string>
+    <string name="prefs_other_keep_screen_on_text">Пакідаць экран уключаным</string>
+    <string name="prefs_other_path_photo_text">Размяшчэнне фота (тэчка/шлях)</string>
+    <string name="prefs_other_path_text">Размяшчэнне відэазапісаў (тэчка/шлях)</string>
+    <string name="prefs_other_settings_sum_text">Размяшчэнне відэазапісаў (тэчка для захавання), працягласць відэа, цыклічны запіс, максімальны памер відэа</string>
+    <string name="prefs_other_settings_text">Іншыя наладкі</string>
+    <string name="prefs_other_video_duration_text">Працягласць відэа - як часта захоўваць</string>
+    <string name="prefs_overlay_app_btn_text">Запусціць дадатак</string>
+    <string name="prefs_overlay_buttons_text">Кнопкі/элементы на плывучым акне</string>
+    <string name="prefs_overlay_close_btn_text">Зачыніць акно</string>
+    <string name="prefs_overlay_drag_btn_text">Перацягнуць акно</string>
+    <string name="prefs_overlay_videos_btn_text">Адкрыць экран з відэа</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Маштабаванне двума пальцамі</string>
+    <string name="prefs_pinch_to_zoom_text">Уключыць зум па экране</string>
+    <string name="prefs_policy_text">Палітыка прыватнасці</string>
+    <string name="prefs_rate_sum_text">Ацаніць дадатак у Плей Маркеце</string>
+    <string name="prefs_rate_text">Ацаніць</string>
+    <string name="prefs_rules_video_space_text">Максімальны аб\'ём памяці ўсіх відэа (цыклічны запіс)</string>
+    <string name="prefs_screen_autostart_text">Аўтазапуск запісу</string>
+    <string name="prefs_screen_ui_summary_text">Хуткі і працяглы націск па экране, усплывальнае акно, вібрацыя пры запісе, гукавое апавяшчэнне, кнопкі на экране, адключэнне экрана і іншае</string>
+    <string name="prefs_screen_ui_title">Інтэрфейс (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Аўтаматычна перамыкае дзённы/начны рэжымы камеры ў пэўны час</string>
+    <string name="prefs_screen_video_day_night_mode_text">Настройкі аўто дзённага/начнога рэжыму</string>
+    <string name="prefs_settings_bitrate_sum_text">Больш бітрэйт - лепш якасць, але больш памер відэафайла</string>
+    <string name="prefs_settings_fps_sum_text">Больш FPS - плаўней відэа, але хутчэй разрад батарэі. Лепш задаць першае значэнне найменшым (другое можа быць больш) для лепшага запісу ў цемры</string>
+    <string name="prefs_share_sum_text">Адпраўце гэта дадатак сваім знаёмым</string>
+    <string name="prefs_share_text">Падзяліцца</string>
+    <string name="prefs_show_audio_btn_text">Укл/выкл аўдыёзапісы</string>
+    <string name="prefs_show_buttons_sum_text">Кнопкі для змены камеры, вкл /выкл аўдыёзапісы, ўспышкі, начны рэжым, блакіроўка відэа ад перазапісу</string>
+    <string name="prefs_show_buttons_text">Кнопкі на экране</string>
+    <string name="prefs_show_camera_change_btn_text">Змена камеры</string>
+    <string name="prefs_show_day_night_mode_btn_text">Дзённы/начны/аўто рэжымы</string>
+    <string name="prefs_show_flash_btn_text">Укл/выкл ўспышкі</string>
+    <string name="prefs_show_lock_btn_text">Блакаванне відэа ад перазапісу</string>
+    <string name="prefs_show_overlay_btn_sum_text">Адлюстроўвае акно з кнопкамі кіравання-над ўсіх прыкладанняў</string>
+    <string name="prefs_show_overlay_btn_text">Адлюстроўваць плаваючае акно</string>
+    <string name="prefs_show_status_bar_text">Паказваць радок стану сістэмы</string>
+    <string name="prefs_show_take_photo_btn_text">Зрабіць фота</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Не падтрымліваецца бягучай камерай. Часта вытворцы абмяжоўваюць яе выкарыстанне - даступная толькі ў стандартным дадатку Камера</string>
+    <string name="prefs_start_stop_voice_sum_text">Агучванне пры пачатку, прыпынку ці памылцы запісу</string>
+    <string name="prefs_start_stop_voice_text">Агучваць стан запісу</string>
+    <string name="prefs_support_sum_text">Паведаміць пра памылку, збоі ці зрабіць прапанову</string>
+    <string name="prefs_support_text">Падтрымка (зваротная сувязь)</string>
+    <string name="prefs_system_alert_window_sum_text">Дазволіць гэтаму з дадаткам адлюстроўвацца па-над усімі іншымі прыкладаннямі. Гэта неабходна для адлюстравання плаваючага акна</string>
+    <string name="prefs_system_alert_window_text">Дазвол па-над усімі вокнамі</string>
+    <string name="prefs_toolbar_title_setting">Наладкі</string>
+    <string name="prefs_ui_click_none_text">Нічога не рабіць</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Пачаць/спыніць запіс</string>
+    <string name="prefs_ui_click_text">Хуткі націск па экране</string>
+    <string name="prefs_ui_long_click_text">Доўгі націск па экране</string>
+    <string name="prefs_version_text">Версія прыкладання</string>
+    <string name="prefs_video_bitrate_text">Бітрэйт (якасць)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Рэжым сцэны кіравання камерай (ноч)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Рэжым сцэны кіравання камерай (дзень)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Агульная/Прыярытэт асоб</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (высокі дынамічны дыяпазон)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Ноч (для ўмоў слабага асвятлення)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Час світання (узыход сонца)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Час заходу (заход сонца)</string>
+    <string name="prefs_video_day_night_mode_text">Дзённы, начны ці аўта рэжым</string>
+    <string name="prefs_video_exposure_night_text">Кампенсацыя экспазіцыі (ноч)</string>
+    <string name="prefs_video_exposure_text">Кампенсацыя экспазіцыі (дзень)</string>
+    <string name="prefs_video_flip_x_sum_text">Люстраное адлюстраванне відэа па гарызанталі. Малюнак мяняецца толькі для відэазапісу, папярэдні прагляд не мяняецца</string>
+    <string name="prefs_video_flip_x_text">Адлюстраваць відэа гарызантальна</string>
+    <string name="prefs_video_focus_continuous_picture_text">Бесперапынны малюнак</string>
+    <string name="prefs_video_focus_continuous_video_text">Бесперапыннае відэа (рэкамендуецца днём)</string>
+    <string name="prefs_video_focus_infinity_text">Бясконцасць (рэкамендуецца ноччу)</string>
+    <string name="prefs_video_focus_night_text">Фокус камеры (ноч)</string>
+    <string name="prefs_video_focus_text">Фокус камеры (дзень)</string>
+    <string name="prefs_video_fps_range_text">Колькасць кадраў у секунду (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Запісваць у фармаце HEVC (H.265), каб зэканоміць месца. Магчыма, вы не зможаце прайграваць такія відэа на іншых прыладах або дадатках для прайгравання відэа. Скіне дазвол і бітрэйт пасля змены</string>
+    <string name="prefs_video_hevc_text">Высокаэфектыўнае кадаваньне відэамалюнкаў</string>
+    <string name="prefs_video_orientation_text">Арыентацыя відэа і тэлефона</string>
+    <string name="prefs_video_resolution_text">Дазвол відэа</string>
+    <string name="prefs_video_settings_sum_text">Дазвол, бітрэйт, арыентацыя, фокус, камера, начны рэжым</string>
+    <string name="prefs_video_settings_text">Налады відэа</string>
+    <string name="prefs_video_size_sum_text">Больш памер - хутчэй разраджаецца батарэя</string>
+    <string name="prefs_video_space_unlimited">Неабмежавана</string>
+    <string name="prefs_video_stabilization_text">Стабілізацыя відэа</string>
+    <string name="prefs_zoom_text">Лічбавы зум (маштабаванне)</string>
+
+    <string name="rec_day_night_btn_auto_text">Аўта</string>
+    <string name="rec_fix_short_text">Выправіць</string>
+    <string name="rec_fix_text">Выправіць</string>
+    <string name="rec_free_space_text">Вольна</string>
+    <string name="rec_location_text">Месцазнаходжанне</string>
+    <string name="rec_gps_text">GPS</string>
+    <string name="rec_network_text">Сетка</string>
+    <string name="rec_off_text">Выкл.</string>
+    <string name="rec_on_text">Укл.</string>
+
+    <string name="recording_start_text">Пачаць запіс</string>
+    <string name="recording_started_failed_text">Памылка пры пачатку запісу</string>
+    <string name="recording_started_with_audio_text">Пачаўся новы запіс відэа з аўдыёзапісам</string>
+    <string name="recording_started_with_text">запіс пачаўся</string>
+    <string name="recording_started_without_audio_text">Пачаўся новы запіс відэа без аўдыёзапісу</string>
+    <string name="recording_stop_not_enough_space_msg">Недастаткова месца. Вольнае месца</string>
+    <string name="recording_stop_text">Спыніць запіс</string>
+    <string name="recording_stopped_failed_text">Не ўдалося завяршыць запіс карэктна</string>
+    <string name="recording_stopped_with_text">запіс спынены</string>
+    <string name="recording_text">Запіс…</string>
+    <string name="recording_voice_started_text">Запіс пачаўся</string>
+    <string name="recording_voice_stopped_text">Запіс спынены</string>
+
+    <string name="service_no_system_alert_window_granted_text">Не атрымалася запусціць сэрвіс прыкладання для аўтаматычнага запуску/прыпынку запісу, паколькі дазвол SYSTEM_ALERT_WINDOW (адлюстраванне па-над усімі вокнамі іншых прыкладанняў) не прадастаўлена. Ці прылада было заблакавана ў гэты момант (абмежаванне на Android складаецца ў тым, што прылада павінна быць спачатку разблакавана і яго экран павінен быць уключаны, перш чым можна будзе запусціць службу для аўтаматычнай відэазапісы)</string>
+
+    <string name="storage_external_single">MicroSD карта</string>
+    <string name="storage_phone">Памяць тэлефона</string>
+
+    <string name="videos_count_one">відэа</string>
+    <string name="videos_count_other">відэа</string>
+    <string name="videos_deleting_text">Выдаленне файлаў… Пачакайце, калі ласка!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Вы ўпэўненыя, што жадаеце выдаліць дадзены відэафайл\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Вы ўпэўненыя, што жадаеце выдаліць дадзеныя відэафайлы\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Вы ўпэўненыя, што жадаеце выдаліць дадзеную відэа тэчку\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Вы ўпэўненыя, што хочаце выдаліць дадзеныя відэа тэчкі\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Выдаліць відэафайлы</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Выдаліць відэа тэчкі</string>
+    <string name="videos_empty_text">Відэа адсутнічаюць</string>
+    <string name="videos_file_action_lock_dlg_title">Заблакаваць гэта відэа ад аўтаматычнага (перазапісу) выдаленні\?</string>
+    <string name="videos_file_deletion_mode">Рэжым выдалення</string>
+    <string name="videos_file_item_share">Падзяліцца</string>
+    <string name="videos_file_item_watch">Глядзець</string>
+    <string name="videos_file_sort_asc">Сартаванне па ўзрастанні</string>
+    <string name="videos_file_sort_desc">Сартаванне па змяншэнні</string>
+    <string name="videos_file_was_locked_text">Відэа файл перамешчаны ў абароненую тэчку</string>
+    <string name="videos_item_mode_deletion_exit_text">Выйсці з рэжыму выдалення</string>
+    <string name="videos_locked_folder_text">Абароненыя ад перазапісу</string>
+    <string name="videos_menu_delete">Выдаліць</string>
+    <string name="videos_menu_refresh">Абнавіць</string>
+    <string name="videos_menu_select_all">Выбраць усе</string>
+    <string name="videos_menu_sorting">Сартаванне</string>
+    <string name="videos_menu_storage">Памяць</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Калі ласка, адкрыйце настройкі прыкладання і дазвольце доступ на захоўванне ў памяці тэлефона</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Няма дазволу на захоўванне</string>
+    <string name="videos_select_files_for_deleting">Абярыце відэа-файлы для выдалення</string>
+    <string name="videos_storage_select_dlg_title">Абярыце сховішча выглядзезапісаў</string>
+    <string name="videos_toolbar_subtitle">Відэазапісы</string>
+
+
+    <string name="prefs_warnings_text">Папярэджанні</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Сігнал у пачатку запісу наступнага відэа файла</string>
+    <string name="prefs_beep_each_start_recording_text">Гукавы сігнал пры запісе</string>
+    <string name="prefs_translate_text">Пераклад прыкладання</string>
+    <string name="prefs_translate_sum_text">Дапамажыце палепшыць ці выправіць пераклад тэксту на вашу мову.</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Адбылася памылка доступу да камеры. Уключана аптымізацыя батарэі</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Адключыце аптымізацыю батарэі для дадзенага прыкладання ў настройках вашага прылады, каб пазбегнуць наступных памылак з камерай</string>
+
+
+    <string name="accept_text">Прымаю</string>
+
+    <string name="hour">гадзіна</string>
+    <string name="hours">гадзін</string>
+    <string name="prefs_orientation_sensor_automatic">Аўтаматычная</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Вібрацыя пры пачатку або прыпынку запісу</string>
+    <string name="prefs_start_rec_volume_down_key_text">Пачаць або спыніць запіс па кнопцы гучнасць уніз</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">Прыкладанне будзе працаваць у фонавым рэжыме (запушчана ў панэлі апавяшчэнняў), каб дадзеная функцыя працавала</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Адмяніць аўтаматычную відэазапіс па бягучым таймеры\?</string>
+    <string name="timer_auto_start_recording_duration_text">Працягласць відэазапісы</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Час было зададзена ў мінулым</string>
+    <string name="timer_service_notification_subtitle_text">Таймер-сэрвіс аўтазапуску відэазапісу</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Pozadinsko snimanje video zapisa</string>
+
+    <string name="close">Zatvori</string>
+    <string name="default_text">Default</string>
+    <string name="disabled_text">Onemogućeno</string>
+    <string name="no_ads_text">(bez reklame)</string>
+    <string name="zoom_text">zum</string>
+    <string name="reset">pražnjenje</string>
+
+    <string name="camera">Kamera</string>
+    <string name="camera_aperture">Dijafragma</string>
+    <string name="camera_back">Zadnja kamera</string>
+    <string name="camera_background_permission_error_msg">Morate jednom pokrenuti aplikaciju da biste mogli pristupiti kameri u pozadini</string>
+    <string name="camera_error_background_tried_use_text">Na Androidu 11+, prije početka snimanja u pozadini, aplikacija mora biti pokrenuta i vidljiva barem jednom da biste mogli koristiti kameru u pozadini. Stoga, nakon ponovnog pokretanja uređaja, učinite aplikaciju vidljivom i nakon toga ne zatvarajte uslugu snimanja, ona bi trebala ostati u centru za obavijesti.</string>
+    <string name="camera_error_busy">Snimanje videa je zaustavljeno jer kameru koristi druga aplikacija</string>
+    <string name="camera_external">Eksterna USB kamera</string>
+    <string name="camera_fov_text">Uglovi gledanja (16:9)</string>
+    <string name="camera_fov_vertical_text">vertikalno</string>
+    <string name="camera_fov_horbizonal_text">horizontalno</string>
+    <string name="camera_front">Prednja kamera</string>
+    <string name="camera_msg_error_in_use_text">Kameru je koristila druga aplikacija. Nemojte pokretati druge aplikacije koje možda koriste kameru dok snimate video. Android dozvoljava samo jednoj aplikaciji da koristi kameru istovremeno</string>
+    <string name="camera_msg_error_unknown_text">Kamera je privremeno (bila) nedostupna za otvaranje na vašem uređaju (greška sistema kamere)</string>
+    <string name="camera_support_error">Došlo je do greške pri korištenju kamere.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Ovaj uređaj nema ugrađenu kameru i ne podržava eksterne kamere. Zatvaranje…</string>
+    <string name="dialog_camera_not_found_text">Kamera nije pronađena</string>
+    <string name="dialog_go_to_settings_text">Otvorite postavke</string>
+    <string name="dialog_report_the_error_text_btn">Prijavite grešku</string>
+    <string name="dialog_select_camera_text">Odaberite kameru</string>
+    <string name="dialog_unlock_video_text">Otključati trenutni video od prepisivanja\?</string>
+
+    <string name="donate_success_thanks_msg_text">Hvala puno na podršci!</string>
+    <string name="donation_dlg_has_ads_text">Da biste uklonili oglase, donacija mora biti ili više.</string>
+    <string name="donation_dlg_no_ads_text">Nemate reklame.</string>
+    <string name="donation_level_text">Vaš nivo donacije:</string>
+    <string name="donation_purchase_info_loading_text">Informacije o kupovini još nisu učitane. Jeste li online i prijavljeni na svoj Google račun\?</string>
+    <string name="donation_subs_check_box_text">Održavanje mjesečno (bez oglasa za bilo koji iznos)</string>
+    <string name="donation_subs_manage_btn_text">Otkaži pretplatu</string>
+
+    <string name="format_gb">Gigabyte</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">min.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Aplikacija nije isključena iz optimizacije baterije. Ako kamera ne radi u pozadini ili nešto drugo ne radi, dodajte ovu aplikaciju u iznimke načina rada za uštedu energije.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Ako ste ponovo instalirali aplikaciju na Android 11, tada se stare datoteke moraju ručno izbrisati</string>
+    <string name="msg_battery_optimization_tip_text">Optimizacija baterije -&gt; Sve aplikacije -&gt; Naziv ove aplikacije -&gt; Nemoj optimizirati/spremiti</string>
+    <string name="msg_camera_not_opened">Kamera ne radi</string>
+    <string name="msg_close_settings_before_recording_text">Zatvorite postavke aplikacije prije početka snimanja</string>
+    <string name="msg_could_not_enable_microphone">Uključivanje mikrofona nije uspjelo, snimanje će se nastaviti bez zvuka</string>
+    <string name="msg_could_not_found_autostart_settings_text">Nije moguće otvoriti ove postavke iz ove aplikacije, pokušajte ih pronaći koristeći zadanu aplikaciju za postavke sistema uređaja</string>
+    <string name="msg_could_not_start_floating_window_text">Pokretanje plutajućeg prozora nije uspjelo</string>
+    <string name="msg_dlg_found_old_videos_message">Čini se da ste ponovo instalirali aplikaciju. Imate stare video zapise koje aplikacija ne može izbrisati tokom snimanja u ciklusu. Uklonite ih ručno na video ekranu prije snimanja novih videozapisa. Počevši od Androida 11+, aplikacija gubi prava pristupa starim fajlovima nakon ponovne instalacije. Ili možete dati dozvolu za pisanje u folder za snimanje</string>
+    <string name="msg_dlg_found_old_videos_title">Pronađeni su stari video fajlovi</string>
+    <string name="msg_dlg_incorrect_folder_path">Nevažeći folder. Molim vas ne mijenjajte putanju. Morate dati dozvolu za određeni folder. Folder za snimanje možete promijeniti u postavkama.</string>
+    <string name="msg_initializing_please_wait">Inicijalizacija… Molimo pričekajte!</string>
+    <string name="msg_no_browser">Molimo instalirajte web aplikaciju da otvorite vezu</string>
+    <string name="msg_no_permission_to_delete_file">Brisanje video datoteke nije uspjelo. Možda ste ponovo instalirali aplikaciju i dozvola za fajl je izgubljena, pokušajte da je deinstalirate ručno</string>
+    <string name="msg_not_enough_memory_free_some_text">Oslobodite malo prostora za nastavak snimanja videa</string>
+    <string name="msg_not_enough_memory_text">Nema dovoljno memorije</string>
+    <string name="msg_photo_failed_to_take">Snimanje fotografije nije uspjelo</string>
+    <string name="msg_photo_was_saved">Fotografija je sačuvana</string>
+    <string name="msg_please_close_other_app_and_restart_text">Zatvorite druge aplikacije pomoću kamere i ponovo pokrenite ovu aplikaciju</string>
+    <string name="msg_record_path_has_changed_text">Folder za snimanje je promijenjen. Zato što je odobreno nedostupno ili nikakva dozvola za pohranjivanje (pisanje).</string>
+    <string name="msg_recorder_init_error_file_not_found">Izbrišite stare video zapise, formatirajte svoju SD karticu ili probajte drugu. Takođe, ograničite maksimalan prostor za snimanje video zapisa (manje je bolje). Veliki broj sačuvanih video zapisa može uzrokovati takve probleme. Pogledajte i FAQ o SD karticama u Postavkama /Često postavljana pitanja. Također možete pokušati pisati u memoriju telefona umjesto na vanjsku karticu</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Zaustavi snimanje. Nema dovoljno memorije za nastavak</string>
+    <string name="msg_settings_opened_stopped_recording_text">Zaustavi snimanje… (otvorene su postavke)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Prvo zaustavite snimanje, a zatim možete zatvoriti uslugu</string>
+    <string name="msg_stop_rec_too_fast_text">Molimo pričekajte sekundu prije nego što zaustavite snimanje odmah nakon početka</string>
+    <string name="msg_stop_recording_to_change_camera_text">Da biste promijenili kameru, morate zaustaviti trenutno snimanje</string>
+    <string name="msg_to_close_this_service_close_app">Da biste zatvorili ovu uslugu, prvo minimizirajte ili zatvorite aplikaciju</string>
+    <string name="msg_video_become_locked_text">Videozapis će biti blokiran od prepisivanja.</string>
+    <string name="msg_video_folder_size">Veličina svih videozapisa od dozvoljene maksimalne veličine</string>
+    <string name="msg_video_rec_battery_not_enough_text">Nema dovoljno snage baterije na uređaju. Napunite ili počnite snimati ako je napunjenost iznad 1%%</string>
+    <string name="msg_video_recorder_error">Nešto nije u redu sa video rekorderom.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Jezički paket za TTS (Android Text-to-Speech) nije instaliran. Uključite internet da započnete preuzimanje</string>
+    <string name="msg_auto_recording_service_was_stopped">Zaustavili ste uslugu automatskog pokretanja video pozadine. Otvorite aplikaciju Background Video Recorder da je ponovo pokrenete.</string>
+
+    <string name="notification_service_checker">analiza</string>
+    <string name="notification_start_service_error_sub_text">Kliknite na obavještenje da pokrenete aplikaciju. Nemate dozvolu za sve aplikacije ili je uređaj zaključan</string>
+    <string name="notification_start_service_error_text">Nije uspjelo pokretanje usluge snimanja pri pokretanju uređaja</string>
+    <string name="notification_stop_text">Stani</string>
+    <string name="notification_could_not_start_recording_service">Usluga snimanja nije uspjela da se pokrene. Dodirnite da onemogućite optimizaciju baterije za ovu aplikaciju</string>
+
+    <string name="permission_audio_dlg_msg">Za snimanje audio zapisa prilikom snimanja videa potreban je zvuk</string>
+    <string name="permission_audio_dlg_title">Audio Rezolucija</string>
+    <string name="permission_camera_dlg_msg">Kamera je potrebna za snimanje video zapisa i pregled kamere.</string>
+    <string name="permission_camera_dlg_title">Rezolucija kamere</string>
+    <string name="permission_camera_request_canceled">Ova aplikacija zahtijeva dozvolu za korištenje kamere za snimanje videa. Ali ti si to odbio. Zatvaranje… Pokušajte dati dozvolu kameri u sistemskim postavkama ove aplikacije</string>
+    <string name="permission_location_dlg_explanation_msg">Kada je aplikacija minimizirana, koristi lokaciju u pozadini da nacrta koordinate, adresu i brzinu na snimljenom videu.</string>
+    <string name="permission_location_dlg_title">Dozvola za lokaciju</string>
+    <string name="permission_storage_dlg_msg">Skladištenje je potrebno za spremanje video zapisa u zajednički folder i za režim snimanja u petlji</string>
+    <string name="permission_storage_dlg_title">Dozvola za skladištenje</string>
+    <string name="permissions_audio_storage_dlg_title">Pohrana zvuka i dozvola</string>
+
+    <string name="prefs_audio_bitrate_text">Brzina prijenosa (kvalitet)</string>
+    <string name="prefs_audio_rate_text">Frekvencija uzorkovanja</string>
+    <string name="prefs_audio_recording_text">Audio snimanje</string>
+    <string name="prefs_audio_settings_sum_text">Kvaliteta, isključeno /uključeno snimanje zvuka</string>
+    <string name="prefs_audio_settings_text">Postavke zvuka</string>
+    <string name="prefs_audio_stereo_text">Stereo</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Automatski pokrenite snimanje videa kada se aplikacija pokrene</string>
+    <string name="prefs_auto_start_app_launch_text">Prilikom pokretanja aplikacije</string>
+    <string name="prefs_battery_optimization_sum_text">Optimizacija baterije može spriječiti ispravan rad aplikacije (na primjer, korištenje kamere). Kliknite ovdje da ga sada isključite za ovu aplikaciju</string>
+    <string name="prefs_battery_optimization_text">Optimizacija baterije</string>
+    <string name="prefs_day_night_mode_auto_text">Automatski (dan/noć), po vremenu</string>
+    <string name="prefs_day_night_mode_day_text">Dan</string>
+    <string name="prefs_day_night_mode_night_text">Noć</string>
+    <string name="prefs_donate_action_text">Donirati</string>
+    <string name="prefs_donate_disable_ads_text">Donacija, uklanjanje oglasa</string>
+    <string name="prefs_donate_sum_text">Podrška razvoju aplikacija</string>
+    <string name="prefs_donate_text">Donacija</string>
+    <string name="prefs_faq_sum_text">Često Postavljena Pitanja</string>
+    <string name="prefs_float_size_increase_text">Veličina dugmadi na plutajućem prozoru</string>
+    <string name="from">od</string>
+    <string name="to">prije</string>
+    <string name="prefs_fps_value_from_to_stable_text">(samo dan, stabilno)</string>
+    <string name="prefs_fps_value_from_to_text">(dan i noć)</string>
+    <string name="prefs_info_more_category_text">Informacije /Više…</string>
+    <string name="prefs_optical_zoom_text">Optički zum (zum) /žižna daljina</string>
+    <string name="prefs_orientation_landscape">Pejzaž</string>
+    <string name="prefs_orientation_landscape_reversed">Revers albuma</string>
+    <string name="prefs_orientation_portrait">Portret</string>
+    <string name="prefs_other_auto_deleting_sum_text">Automatski izbrišite najstarije video zapise tokom snimanja ako nema dovoljno prostora za nove video zapise</string>
+    <string name="prefs_other_auto_deleting_text">Loop recording</string>
+    <string name="prefs_other_keep_screen_on_text">Ostavite ekran uključen</string>
+    <string name="prefs_other_path_photo_text">Lokacija fotografije (fascikla /putanja)</string>
+    <string name="prefs_other_path_text">Lokacija videa (fascikla /putanja)</string>
+    <string name="prefs_other_settings_sum_text">Lokacija videa (sačuvaj folder), trajanje videa, snimanje u petlji, maksimalna veličina videa</string>
+    <string name="prefs_other_settings_text">Ostala podešavanja</string>
+    <string name="prefs_other_video_duration_text">Trajanje videa - koliko često pohranjivati</string>
+    <string name="prefs_overlay_app_btn_text">Pokrenite aplikaciju</string>
+    <string name="prefs_overlay_buttons_text">Dugmad /elementi na plutajućem prozoru</string>
+    <string name="prefs_overlay_close_btn_text">Zatvori prozor</string>
+    <string name="prefs_overlay_drag_btn_text">Povucite prozor</string>
+    <string name="prefs_overlay_videos_btn_text">Otvorite video ekran</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Zumirajte sa dva prsta</string>
+    <string name="prefs_pinch_to_zoom_text">Omogući zumiranje ekrana</string>
+    <string name="prefs_policy_text">Politika privatnosti</string>
+    <string name="prefs_rate_sum_text">Ocijenite aplikaciju u Play Store-u</string>
+    <string name="prefs_rate_text">Procjena</string>
+    <string name="prefs_rules_video_space_text">Maksimalni kapacitet memorije svih video zapisa (snimanje u petlji)</string>
+    <string name="prefs_screen_autostart_text">Automatsko pokretanje snimanja</string>
+    <string name="prefs_screen_ui_summary_text">Brz i dugi pritisak na ekran, iskačući prozor, vibracija pri snimanju, zvučno upozorenje, dugmad na ekranu, isključen ekran i još mnogo toga</string>
+    <string name="prefs_screen_ui_title">Interfejs (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Automatski prebacuje režime kamere dan/noć u određeno vrijeme</string>
+    <string name="prefs_screen_video_day_night_mode_text">Automatske postavke dan/noć</string>
+    <string name="prefs_settings_bitrate_sum_text">Veći bitrate - bolji kvalitet, ali veća veličina video datoteke</string>
+    <string name="prefs_settings_fps_sum_text">Više FPS-a – glatkiji video, ali brže pražnjenje baterije. Bolje je postaviti prvu vrijednost na najnižu (druga može biti veća) za bolje snimanje u mraku</string>
+    <string name="prefs_share_sum_text">Pošaljite ovu aplikaciju svojim prijateljima</string>
+    <string name="prefs_share_text">Podijelite ovo</string>
+    <string name="prefs_show_audio_btn_text">Uključivanje/isključivanje audio snimanja</string>
+    <string name="prefs_show_buttons_sum_text">Dugmad za promjenu kamere, uključivanje/isključivanje audio snimanja, blic, noćni način rada, blokiranje prepisivanja videa</string>
+    <string name="prefs_show_buttons_text">Dugmad na ekranu</string>
+    <string name="prefs_show_camera_change_btn_text">Promjena kamere</string>
+    <string name="prefs_show_day_night_mode_btn_text">Dan/Noć/Automatski načini rada</string>
+    <string name="prefs_show_flash_btn_text">Blic uključen/isključen</string>
+    <string name="prefs_show_lock_btn_text">Blokiranje video zapisa od prepisivanja</string>
+    <string name="prefs_show_overlay_btn_sum_text">Prikazuje prozor sa kontrolnim dugmadima na vrhu svih aplikacija</string>
+    <string name="prefs_show_overlay_btn_text">Prikaži plutajući prozor</string>
+    <string name="prefs_show_status_bar_text">Prikaži statusnu traku sistema</string>
+    <string name="prefs_show_take_photo_btn_text">Da napravim fotografiju</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Trenutna kamera ne podržava. Proizvođači često ograničavaju njegovu upotrebu – dostupna je samo u standardnoj aplikaciji Camera</string>
+    <string name="prefs_start_stop_voice_sum_text">Zvuk pri pokretanju, zaustavljanju ili greška u snimanju</string>
+    <string name="prefs_start_stop_voice_text">Status snimanja zvuka</string>
+    <string name="prefs_support_sum_text">Prijavite grešku, rušenje ili dajte ponudu</string>
+    <string name="prefs_support_text">Podrška (povratne informacije)</string>
+    <string name="prefs_system_alert_window_sum_text">Dozvolite ovoj aplikaciji da se pojavi iznad svih drugih aplikacija. Ovo je potrebno za prikaz plutajućeg prozora</string>
+    <string name="prefs_system_alert_window_text">Rezolucija na vrhu svih prozora</string>
+    <string name="prefs_toolbar_title_setting">Postavke</string>
+    <string name="prefs_ui_click_none_text">Ništa za raditi</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Pokreni/zaustavi snimanje</string>
+    <string name="prefs_ui_click_text">Brzo kucnite na ekran</string>
+    <string name="prefs_ui_long_click_text">Dugo pritisnite na ekranu</string>
+    <string name="prefs_version_text">Verzija aplikacije</string>
+    <string name="prefs_video_bitrate_text">Brzina prijenosa (kvalitet)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Scenski način upravljanja kamerom (noć)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Scenski način upravljanja kamerom (dan)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Općenito /Prioritet lica</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (visoki dinamički raspon)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Noć (za uslove slabog osvetljenja)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Vrijeme izlaska sunca (izlazak sunca)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">vrijeme zalaska sunca (zalazak sunca)</string>
+    <string name="prefs_video_day_night_mode_text">Dan, noć ili automatski način rada</string>
+    <string name="prefs_video_exposure_night_text">Kompenzacija ekspozicije (noć)</string>
+    <string name="prefs_video_exposure_text">Kompenzacija ekspozicije (dan)</string>
+    <string name="prefs_video_flip_x_sum_text">Horizontalno zrcaljenje videa. Slika se mijenja samo za video snimanje, pregled se ne mijenja</string>
+    <string name="prefs_video_flip_x_text">Okrenite video vodoravno</string>
+    <string name="prefs_video_focus_continuous_picture_text">Kontinuirana slika</string>
+    <string name="prefs_video_focus_continuous_video_text">Kontinuirani video (preporučuje se tokom dana)</string>
+    <string name="prefs_video_focus_infinity_text">Infinity (preporučuje se noću)</string>
+    <string name="prefs_video_focus_night_text">Fokus kamere (noć)</string>
+    <string name="prefs_video_focus_text">Fokus kamere (dan)</string>
+    <string name="prefs_video_fps_range_text">Broj sličica u sekundi (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Snimajte u HEVC (H.265) formatu radi uštede prostora. Možda nećete moći da reprodukujete takve video zapise na drugim uređajima ili aplikacijama za reprodukciju video zapisa. Resetirati rezoluciju i bitrate nakon promjene</string>
+    <string name="prefs_video_hevc_text">Visoko efikasno video kodiranje</string>
+    <string name="prefs_video_orientation_text">Video i orijentacija telefona</string>
+    <string name="prefs_video_resolution_text">Video rezolucija</string>
+    <string name="prefs_video_settings_sum_text">Rezolucija, brzina prijenosa, orijentacija, fokus, kamera, noćni način rada</string>
+    <string name="prefs_video_settings_text">Video postavke</string>
+    <string name="prefs_video_size_sum_text">Veća veličina - brže pražnjenje baterije</string>
+    <string name="prefs_video_space_unlimited">Neograničeno</string>
+    <string name="prefs_video_stabilization_text">Video stabilizacija</string>
+    <string name="prefs_zoom_text">Digitalni zum (zum)</string>
+
+    <string name="rec_day_night_btn_auto_text">Auto</string>
+    <string name="rec_fix_short_text">Ispraviti</string>
+    <string name="rec_fix_text">Ispraviti</string>
+    <string name="rec_free_space_text">Besplatno</string>
+    <string name="rec_location_text">Lokacija</string>
+    <string name="rec_gps_text">GPS</string>
+    <string name="rec_network_text">Net</string>
+    <string name="rec_off_text">Isključeno</string>
+    <string name="rec_on_text">Incl.</string>
+
+    <string name="recording_start_text">Započni snimanje</string>
+    <string name="recording_started_failed_text">Greška pri pokretanju snimanja</string>
+    <string name="recording_started_with_audio_text">Počelo je novo video snimanje sa audio snimanjem</string>
+    <string name="recording_started_with_text">snimanje je počelo</string>
+    <string name="recording_started_without_audio_text">Novo snimanje video zapisa je počelo bez audio snimanja</string>
+    <string name="recording_stop_not_enough_space_msg">Nije dovoljno za skladištenje. Slobodno mjesto</string>
+    <string name="recording_stop_text">Zaustavi snimanje</string>
+    <string name="recording_stopped_failed_text">Nije moguće ispravno završiti snimanje</string>
+    <string name="recording_stopped_with_text">snimanje je zaustavljeno</string>
+    <string name="recording_text">Snimanje…</string>
+    <string name="recording_voice_started_text">Snimanje je počelo</string>
+    <string name="recording_voice_stopped_text">Snimanje je zaustavljeno</string>
+
+    <string name="service_no_system_alert_window_granted_text">Usluga aplikacije automatskog pokretanja/zaustavljanja snimanja nije se mogla pokrenuti jer dozvola SYSTEM_ALERT_WINDOW (prikaz na vrhu svih ostalih prozora aplikacije) nije bila odobrena. Ili je uređaj bio zaključan u tom trenutku (Android ograničenje je da se uređaj prvo mora otključati i njegov ekran mora uključiti prije nego što se može pokrenuti usluga automatskog snimanja videa)</string>
+
+    <string name="storage_external_single">MicroSD kartica</string>
+    <string name="storage_phone">Memorija telefona</string>
+
+    <string name="videos_count_one">video</string>
+    <string name="videos_count_other">video</string>
+    <string name="videos_deleting_text">Brisanje fajlova… Molimo pričekajte!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Jeste li sigurni da želite izbrisati ovaj video fajl\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Jeste li sigurni da želite izbrisati ove video fajlove\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Jeste li sigurni da želite izbrisati ovaj video folder\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Jeste li sigurni da želite izbrisati podatke video foldera\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Izbrišite video fajlove</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Izbrišite video foldere</string>
+    <string name="videos_empty_text">Nedostaju videozapisi</string>
+    <string name="videos_file_action_lock_dlg_title">Blokirati ovaj videozapis od automatskog brisanja (prepisivanje)\?</string>
+    <string name="videos_file_deletion_mode">Režim brisanja</string>
+    <string name="videos_file_item_share">Podijelite ovo</string>
+    <string name="videos_file_item_watch">Gledaj</string>
+    <string name="videos_file_sort_asc">Sort Ascending</string>
+    <string name="videos_file_sort_desc">Sortiraj opadajuće</string>
+    <string name="videos_file_was_locked_text">Video fajl je premješten u zaštićeni folder</string>
+    <string name="videos_item_mode_deletion_exit_text">Izađite iz moda brisanja</string>
+    <string name="videos_locked_folder_text">Zaštićeno od prepisivanja</string>
+    <string name="videos_menu_delete">Izbriši</string>
+    <string name="videos_menu_refresh">Osvježiti</string>
+    <string name="videos_menu_select_all">Izaberi sve</string>
+    <string name="videos_menu_sorting">Sortiranje</string>
+    <string name="videos_menu_storage">Memorija</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Otvorite postavke aplikacije i dozvolite pristup memoriji u memoriji telefona</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Nema dozvole za skladištenje</string>
+    <string name="videos_select_files_for_deleting">Odaberite video datoteke za brisanje</string>
+    <string name="videos_storage_select_dlg_title">Odaberite pohranu video zapisa</string>
+    <string name="videos_toolbar_subtitle">Video snimci</string>
+
+
+    <string name="prefs_warnings_text">Upozorenja</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Signal na početku snimanja sljedeće video datoteke</string>
+    <string name="prefs_beep_each_start_recording_text">Zvuk prilikom snimanja</string>
+    <string name="prefs_translate_text">Prevod aplikacija</string>
+    <string name="prefs_translate_sum_text">Pomozite poboljšati ili popraviti prijevod teksta na vašem jeziku</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Došlo je do greške prilikom pristupa kameri. Omogućena optimizacija baterije</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Onemogućite optimizaciju baterije za ovu aplikaciju u postavkama vašeg uređaja kako biste izbjegli buduće greške kamere</string>
+
+
+    <string name="accept_text">prihvatam</string>
+
+    <string name="hour">sat</string>
+    <string name="hours">sati</string>
+    <string name="prefs_orientation_sensor_automatic">Automatski</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Vibracija pri pokretanju ili zaustavljanju snimanja</string>
+    <string name="prefs_start_rec_volume_down_key_text">Započnite ili zaustavite snimanje pritiskom na dugme za smanjenje jačine zvuka</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">Aplikacija će raditi u pozadini (pokrenuta na traci s obavijestima) kako bi ova funkcija radila</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Otkazati automatsko snimanje video zapisa za trenutni tajmer\?</string>
+    <string name="timer_auto_start_recording_duration_text">Dužina videa</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Vrijeme je postavljeno u prošlost</string>
+    <string name="timer_service_notification_subtitle_text">Usluga tajmera za automatsko snimanje video zapisa</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

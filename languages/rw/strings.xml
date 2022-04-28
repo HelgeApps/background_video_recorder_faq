@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Amashusho yerekana amashusho</string>
+
+    <string name="close">Funga</string>
+    <string name="default_text">Mburabuzi</string>
+    <string name="disabled_text">Abamugaye</string>
+    <string name="no_ads_text">(Nta kwamamaza)</string>
+    <string name="zoom_text">zoom</string>
+    <string name="reset">gusohora</string>
+
+    <string name="camera">Kamera</string>
+    <string name="camera_aperture">Diaphragm</string>
+    <string name="camera_back">Kamera y\'inyuma</string>
+    <string name="camera_background_permission_error_msg">Ugomba gukoresha porogaramu rimwe kugirango ubashe kugera kuri kamera inyuma</string>
+    <string name="camera_error_background_tried_use_text">Kuri Android 11+, mbere yo gutangira gufata amajwi inyuma, porogaramu igomba kuba ikora kandi igaragara byibura rimwe kugirango ubashe gukoresha kamera inyuma. Kubwibyo, nyuma yo gutangira igikoresho, kora progaramu igaragara hanyuma nyuma yo kudafunga serivise yo gufata amajwi, igomba kuguma mubimenyesha.</string>
+    <string name="camera_error_busy">Gufata amashusho byahagaritswe kuko kamera ikoreshwa nubundi buryo</string>
+    <string name="camera_external">Kamera yo hanze ya USB</string>
+    <string name="camera_fov_text">Kureba inguni (16: 9)</string>
+    <string name="camera_fov_vertical_text">uhagaritse</string>
+    <string name="camera_fov_horbizonal_text">itambitse</string>
+    <string name="camera_front">Kamera y\'imbere</string>
+    <string name="camera_msg_error_in_use_text">Kamera yakoreshwaga nubundi buryo. Nyamuneka ntukoreshe izindi porogaramu zishobora kuba zikoresha kamera mugihe ufata amashusho. Android yemerera porogaramu imwe gusa gukoresha kamera icyarimwe</string>
+    <string name="camera_msg_error_unknown_text">Kamera yigihe gito (yari) itaboneka gufungura kubikoresho byawe (ikosa rya sisitemu ya kamera)</string>
+    <string name="camera_support_error">Ikosa ryabaye mugihe ukoresha kamera.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Iki gikoresho ntabwo gifite kamera yubatswe kandi ntabwo gishyigikira kamera zo hanze. Gufunga…</string>
+    <string name="dialog_camera_not_found_text">Kamera ntiyabonetse</string>
+    <string name="dialog_go_to_settings_text">Fungura igenamiterere</string>
+    <string name="dialog_report_the_error_text_btn">Menyesha ikosa</string>
+    <string name="dialog_select_camera_text">Hitamo kamera</string>
+    <string name="dialog_unlock_video_text">Fungura amashusho yubu kugirango yandike\?</string>
+
+    <string name="donate_success_thanks_msg_text">Urakoze cyane kubwinkunga yawe!</string>
+    <string name="donation_dlg_has_ads_text">Kuraho amatangazo, impano igomba kuba cyangwa myinshi.</string>
+    <string name="donation_dlg_no_ads_text">Nta matangazo ufite.</string>
+    <string name="donation_level_text">Urwego rw\'impano:</string>
+    <string name="donation_purchase_info_loading_text">Amakuru yo guhaha ntarashyirwaho. Waba uri kumurongo kandi winjiye kuri konte yawe ya Google\?</string>
+    <string name="donation_subs_check_box_text">Komeza buri kwezi (nta matangazo yamamaza ayo ari yo yose)</string>
+    <string name="donation_subs_manage_btn_text">Kwiyandikisha</string>
+
+    <string name="format_gb">Gigabyte</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">min.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Porogaramu ntishobora gukurwaho neza. Niba kamera idakora inyuma cyangwa ikindi kintu kidakora, noneho ongeraho iyi progaramu muburyo bwo kubika ingufu zidasanzwe.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Niba wongeye kwinjizamo porogaramu kuri Android 11, noneho dosiye zishaje zigomba gusibwa intoki</string>
+    <string name="msg_battery_optimization_tip_text">Gukoresha Bateri -&gt; Porogaramu zose -&gt; Izina ryiyi porogaramu -&gt; Ntugahuze /kubika</string>
+    <string name="msg_camera_not_opened">Kamera ntabwo ikora</string>
+    <string name="msg_close_settings_before_recording_text">Funga ibyifuzo byawe mbere yo gutangira gufata amajwi</string>
+    <string name="msg_could_not_enable_microphone">Kunanirwa gufungura mikoro, gufata amajwi bizakomeza nta majwi</string>
+    <string name="msg_could_not_found_autostart_settings_text">Ntushobora gufungura igenamiterere riva muri iyi porogaramu, nyamuneka gerageza uyishakire ukoresheje igikoresho gisanzwe cya sisitemu igenamigambi isanzwe</string>
+    <string name="msg_could_not_start_floating_window_text">Kunanirwa gutangira idirishya rireremba</string>
+    <string name="msg_dlg_found_old_videos_message">Birasa nkaho wongeye kwinjizamo porogaramu. Ufite videwo zishaje porogaramu idashobora gusiba mugihe cyo gufata amajwi. Kubikuramo intoki kuri ecran ya videwo mbere yo gufata amashusho mashya. Guhera kuri Android 11+, porogaramu itakaza uburenganzira bwo kubona dosiye zishaje nyuma yo kongera kuyubaka. Cyangwa urashobora gutanga uruhushya rwo kwandika mububiko</string>
+    <string name="msg_dlg_found_old_videos_title">Amadosiye ya videwo ashaje yabonetse</string>
+    <string name="msg_dlg_incorrect_folder_path">Ububiko butemewe. Nyamuneka ntuhindure inzira. Ugomba gutanga uruhushya kububiko runaka. Urashobora guhindura ububiko bwafashwe amajwi mumiterere.</string>
+    <string name="msg_initializing_please_wait">Gutangiza… Nyamuneka tegereza!</string>
+    <string name="msg_no_browser">Nyamuneka shyiramo urubuga kugirango ufungure umurongo</string>
+    <string name="msg_no_permission_to_delete_file">Kunanirwa gusiba dosiye. Urashobora kuba wongeye kugarura porogaramu kandi uruhushya rwa dosiye rwatakaye, nyamuneka gerageza kuyikuramo intoki</string>
+    <string name="msg_not_enough_memory_free_some_text">Kuramo umwanya kugirango ukomeze gufata amashusho</string>
+    <string name="msg_not_enough_memory_text">Ntabwo kwibuka bihagije</string>
+    <string name="msg_photo_failed_to_take">Kunanirwa gufata ifoto</string>
+    <string name="msg_photo_was_saved">Ifoto yabitswe</string>
+    <string name="msg_please_close_other_app_and_restart_text">Funga izindi porogaramu ukoresheje kamera hanyuma utangire iyi porogaramu</string>
+    <string name="msg_record_path_has_changed_text">Ububiko bwo gufata amajwi bwahinduwe. Kuberako bitabonetse cyangwa nta ruhushya rwo kubika (kwandika) rwatanzwe</string>
+    <string name="msg_recorder_init_error_file_not_found">Siba amashusho ashaje, fata ikarita yawe ya SD, cyangwa ugerageze indi. Kandi, gabanya umwanya ntarengwa wo gufata amashusho (bike ni byiza). Umubare munini wa videwo wabitswe urashobora gutera ibibazo nkibi. Reba kandi Ibibazo bijyanye namakarita ya SD muri Igenamiterere /Ibibazo. Urashobora kandi kugerageza kwandika kuri memoire ya terefone aho kuba ikarita yo hanze</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Hagarika gufata amajwi. Ntabwo kwibuka bihagije kugirango ukomeze</string>
+    <string name="msg_settings_opened_stopped_recording_text">Hagarika gufata amajwi… (igenamiterere ryarafunguwe)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Banza uhagarike gufata amajwi, hanyuma urashobora gufunga serivisi</string>
+    <string name="msg_stop_rec_too_fast_text">Nyamuneka tegereza isegonda mbere yo guhagarika gufata amajwi nyuma yo gutangira</string>
+    <string name="msg_stop_recording_to_change_camera_text">Guhindura kamera, ugomba guhagarika gufata amajwi</string>
+    <string name="msg_to_close_this_service_close_app">Gufunga iyi serivisi, banza ugabanye cyangwa ufunge porogaramu</string>
+    <string name="msg_video_become_locked_text">Amashusho azabuzwa kwandikwa.</string>
+    <string name="msg_video_folder_size">Ingano ya videwo yose kuva mubunini bwemewe</string>
+    <string name="msg_video_rec_battery_not_enough_text">Nta mashanyarazi ahagije afite kuri igikoresho. Shira amafaranga cyangwa utangire gufata amajwi niba amafaranga ari hejuru ya 1%%</string>
+    <string name="msg_video_recorder_error">Ikintu kitagenze neza kumajwi.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Ipaki yindimi ya TTS (Android Text-to-Speech) ntabwo yashyizweho. Fungura kuri enterineti kugirango utangire gukuramo</string>
+    <string name="msg_auto_recording_service_was_stopped">Wahagaritse serivisi yo gutangiza amashusho yimodoka. Fungura porogaramu ya Background Video Recorder kugirango uyongere kuyitangiza.</string>
+
+    <string name="notification_service_checker">isesengura</string>
+    <string name="notification_start_service_error_sub_text">Kanda kumatangazo kugirango utangire porogaramu. Ntabwo ufite uruhushya hejuru ya porogaramu zose cyangwa igikoresho cyafunzwe</string>
+    <string name="notification_start_service_error_text">Kunanirwa gutangira gufata serivise kuri boot ya bikoresho</string>
+    <string name="notification_stop_text">Hagarara</string>
+    <string name="notification_could_not_start_recording_service">Serivisi yo gufata amajwi yananiwe gutangira. Kanda kugirango uhagarike optimizasiyo ya porogaramu</string>
+
+    <string name="permission_audio_dlg_msg">Ijwi rirasabwa gufata amajwi mugihe ufata amashusho</string>
+    <string name="permission_audio_dlg_title">Gukemura amajwi</string>
+    <string name="permission_camera_dlg_msg">Kamera irakenewe kugirango ifate amashusho no kureba kamera.</string>
+    <string name="permission_camera_dlg_title">Kamera</string>
+    <string name="permission_camera_request_canceled">Iyi porogaramu isaba uruhushya rwo gukoresha kamera gufata amashusho. Ariko warabyanze. Gufunga… Gerageza gutanga uruhushya kuri kamera mumiterere ya sisitemu yiyi porogaramu</string>
+    <string name="permission_location_dlg_explanation_msg">Iyo porogaramu igabanutse, ikoresha umwanya uri inyuma kugirango ushushanye imirongo, aderesi, n\'umuvuduko kuri videwo yafashwe.</string>
+    <string name="permission_location_dlg_title">Uruhushya rwaho</string>
+    <string name="permission_storage_dlg_msg">Ububiko burakenewe kugirango ubike videwo mububiko busangiwe no muburyo bwo gufata amajwi</string>
+    <string name="permission_storage_dlg_title">Uruhushya rwo kubika</string>
+    <string name="permissions_audio_storage_dlg_title">Kubika amajwi no kubika uruhushya</string>
+
+    <string name="prefs_audio_bitrate_text">Bitrate (ubuziranenge)</string>
+    <string name="prefs_audio_rate_text">Guhitamo inshuro</string>
+    <string name="prefs_audio_recording_text">Gufata amajwi</string>
+    <string name="prefs_audio_settings_sum_text">Ubwiza, kuzimya /kumajwi yafashwe</string>
+    <string name="prefs_audio_settings_text">Igenamiterere ry\'amajwi</string>
+    <string name="prefs_audio_stereo_text">Stereo</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Tangira gufata amashusho mu buryo bwikora iyo porogaramu itangiye</string>
+    <string name="prefs_auto_start_app_launch_text">Mugihe utangiye gusaba</string>
+    <string name="prefs_battery_optimization_sum_text">Gukoresha Bateri birashobora kubuza porogaramu gukora neza (urugero, ukoresheje kamera). Kanda hano kugirango uzimye iyi porogaramu ubu</string>
+    <string name="prefs_battery_optimization_text">Gukoresha Bateri</string>
+    <string name="prefs_day_night_mode_auto_text">Automatic (amanywa /nijoro), mugihe</string>
+    <string name="prefs_day_night_mode_day_text">Umunsi</string>
+    <string name="prefs_day_night_mode_night_text">Ijoro</string>
+    <string name="prefs_donate_action_text">Tanga impano</string>
+    <string name="prefs_donate_disable_ads_text">Impano, Kuraho Amatangazo</string>
+    <string name="prefs_donate_sum_text">Shigikira iterambere rya porogaramu</string>
+    <string name="prefs_donate_text">Impano</string>
+    <string name="prefs_faq_sum_text">Ibibazo bikunze kubazwa</string>
+    <string name="prefs_float_size_increase_text">Ingano ya buto kumadirishya ireremba</string>
+    <string name="from">Kuva</string>
+    <string name="to">mbere</string>
+    <string name="prefs_fps_value_from_to_stable_text">(umunsi gusa, uhamye)</string>
+    <string name="prefs_fps_value_from_to_text">(amanywa n\'ijoro)</string>
+    <string name="prefs_info_more_category_text">Amakuru /Ibindi…</string>
+    <string name="prefs_optical_zoom_text">Kuzamura neza (Kuzamura) /Uburebure bwibanze</string>
+    <string name="prefs_orientation_landscape">Ahantu nyaburanga</string>
+    <string name="prefs_orientation_landscape_reversed">Album ihinduka</string>
+    <string name="prefs_orientation_portrait">Igishushanyo</string>
+    <string name="prefs_other_auto_deleting_sum_text">Mu buryo bwikora gusiba amashusho ya kera mugihe ufata amajwi niba nta mwanya uhagije wa videwo nshya</string>
+    <string name="prefs_other_auto_deleting_text">Gufata amajwi</string>
+    <string name="prefs_other_keep_screen_on_text">Kureka ecran kuri</string>
+    <string name="prefs_other_path_photo_text">Ahantu ho gufotora (ububiko /inzira)</string>
+    <string name="prefs_other_path_text">Ahantu amashusho (ububiko /inzira)</string>
+    <string name="prefs_other_settings_sum_text">Ahantu amashusho (kubika ububiko), igihe cya videwo, gufata amajwi, ubunini bwa videwo</string>
+    <string name="prefs_other_settings_text">Ibindi bikoresho</string>
+    <string name="prefs_other_video_duration_text">Igihe cya videwo - ni kangahe kubika</string>
+    <string name="prefs_overlay_app_btn_text">Tangiza porogaramu</string>
+    <string name="prefs_overlay_buttons_text">Utubuto /ibintu kumadirishya ireremba</string>
+    <string name="prefs_overlay_close_btn_text">Funga idirishya</string>
+    <string name="prefs_overlay_drag_btn_text">Kurura idirishya</string>
+    <string name="prefs_overlay_videos_btn_text">Fungura amashusho</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Kuzuza intoki ebyiri</string>
+    <string name="prefs_pinch_to_zoom_text">Gushoboza ecran zoom</string>
+    <string name="prefs_policy_text">Politiki Yibanga</string>
+    <string name="prefs_rate_sum_text">Gereranya porogaramu mububiko bukinirwaho</string>
+    <string name="prefs_rate_text">Gereranya</string>
+    <string name="prefs_rules_video_space_text">Ubushobozi ntarengwa bwo kwibuka bwa videwo zose (gufata amajwi)</string>
+    <string name="prefs_screen_autostart_text">Kwandika</string>
+    <string name="prefs_screen_ui_summary_text">Kanda byihuse kandi birebire kuri ecran, pop-up idirishya, kunyeganyega gufata amajwi, kumenyesha amajwi, kuri buto ya ecran, ecran hanyuma nibindi</string>
+    <string name="prefs_screen_ui_title">Imigaragarire (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Mu buryo bwikora uhindura kamera kumunsi /nijoro muburyo bwihariye</string>
+    <string name="prefs_screen_video_day_night_mode_text">Umunsi wimodoka /Igenamiterere rya nijoro</string>
+    <string name="prefs_settings_bitrate_sum_text">Bitrate yo hejuru - ubuziranenge bwiza, ariko ubunini bwa dosiye nini</string>
+    <string name="prefs_settings_fps_sum_text">Ibindi byinshi FPS - videwo yoroshye, ariko byihuta ya bateri. Nibyiza gushiraho agaciro kambere kurwego rwo hasi (iyakabiri irashobora kuba hejuru) kugirango yandike neza mwijimye</string>
+    <string name="prefs_share_sum_text">Ohereza iyi porogaramu inshuti zawe</string>
+    <string name="prefs_share_text">Sangira ibi</string>
+    <string name="prefs_show_audio_btn_text">Kuri /kuzimya amajwi</string>
+    <string name="prefs_show_buttons_sum_text">Utubuto two guhindura kamera, kuri /kuzimya amajwi, flash, uburyo bwijoro, guhagarika amashusho hejuru</string>
+    <string name="prefs_show_buttons_text">Utubuto kuri ecran</string>
+    <string name="prefs_show_camera_change_btn_text">Guhindura kamera</string>
+    <string name="prefs_show_day_night_mode_btn_text">Umunsi /Ijoro /Imodoka</string>
+    <string name="prefs_show_flash_btn_text">Koresha /kuzimya</string>
+    <string name="prefs_show_lock_btn_text">Guhagarika amashusho kugirango yandike</string>
+    <string name="prefs_show_overlay_btn_sum_text">Yerekana idirishya hamwe na buto yo kugenzura hejuru ya progaramu zose</string>
+    <string name="prefs_show_overlay_btn_text">Erekana idirishya rireremba</string>
+    <string name="prefs_show_status_bar_text">Erekana sisitemu imiterere</string>
+    <string name="prefs_show_take_photo_btn_text">Gukora ifoto</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Ntabwo ashyigikiwe na kamera iriho. Ababikora akenshi babuza imikoreshereze yabyo - iraboneka gusa muri porogaramu isanzwe ya Kamera</string>
+    <string name="prefs_start_stop_voice_sum_text">Ijwi mugitangira, guhagarika cyangwa gufata amakosa</string>
+    <string name="prefs_start_stop_voice_text">Imiterere yo gufata amajwi</string>
+    <string name="prefs_support_sum_text">Menyesha ikosa, impanuka cyangwa utange igitekerezo</string>
+    <string name="prefs_support_text">Inkunga (ibitekerezo)</string>
+    <string name="prefs_system_alert_window_sum_text">Emerera iyi porogaramu kugaragara hejuru yizindi porogaramu zose. Ibi birasabwa kwerekana idirishya rireremba</string>
+    <string name="prefs_system_alert_window_text">Icyemezo hejuru ya Windows yose</string>
+    <string name="prefs_toolbar_title_setting">Igenamiterere</string>
+    <string name="prefs_ui_click_none_text">Ntacyo gukora</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Tangira /uhagarike gufata amajwi</string>
+    <string name="prefs_ui_click_text">Kanda vuba kuri ecran</string>
+    <string name="prefs_ui_long_click_text">Kanda cyane kuri ecran</string>
+    <string name="prefs_version_text">Inyandiko isaba</string>
+    <string name="prefs_video_bitrate_text">Bitrate (ubuziranenge)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Uburyo bwo Kugenzura Kamera (Ijoro)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Uburyo bwo Kugenzura Kamera Uburyo (Umunsi)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Rusange /Isura Yibanze</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (Urwego rwohejuru)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Ijoro (kubintu bito bito)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Igihe izuba rirashe (Izuba Rirashe)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Igihe cyo kurenga (izuba rirenze)</string>
+    <string name="prefs_video_day_night_mode_text">Umunsi, ijoro cyangwa imodoka</string>
+    <string name="prefs_video_exposure_night_text">Indishyi zerekana (ijoro)</string>
+    <string name="prefs_video_exposure_text">Indishyi zerekana (umunsi)</string>
+    <string name="prefs_video_flip_x_sum_text">Indorerwamo ya horizontal. Ishusho irahinduka gusa gufata amashusho, kureba ntabwo bihinduka</string>
+    <string name="prefs_video_flip_x_text">Fungura amashusho mu buryo butambitse</string>
+    <string name="prefs_video_focus_continuous_picture_text">Ishusho ikomeza</string>
+    <string name="prefs_video_focus_continuous_video_text">Video ikomeza (bisabwa kumunsi)</string>
+    <string name="prefs_video_focus_infinity_text">Infinity (bisabwa nijoro)</string>
+    <string name="prefs_video_focus_night_text">Kamera yibanze (ijoro)</string>
+    <string name="prefs_video_focus_text">Kamera yibanze (umunsi)</string>
+    <string name="prefs_video_fps_range_text">Amakadiri kumasegonda (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Andika muburyo bwa HEVC (H.265) kugirango ubike umwanya. Ntushobora gukina amashusho nkayandi mashusho yo gukina amashusho cyangwa porogaramu. Uzasubiramo ibyemezo na bitrate nyuma yo guhinduka</string>
+    <string name="prefs_video_hevc_text">Kode ya videwo ikora neza</string>
+    <string name="prefs_video_orientation_text">Icyerekezo cya videwo na terefone</string>
+    <string name="prefs_video_resolution_text">Gukemura amashusho</string>
+    <string name="prefs_video_settings_sum_text">Gukemura, igipimo cya biti, icyerekezo, kwibanda, kamera, uburyo bwijoro</string>
+    <string name="prefs_video_settings_text">Igenamiterere rya videwo</string>
+    <string name="prefs_video_size_sum_text">Ingano nini - yihuta ya batiri</string>
+    <string name="prefs_video_space_unlimited">Ntarengwa</string>
+    <string name="prefs_video_stabilization_text">Guhindura amashusho</string>
+    <string name="prefs_zoom_text">Gukoresha Digital (zoom)</string>
+
+    <string name="rec_day_night_btn_auto_text">Imodoka</string>
+    <string name="rec_fix_short_text">Gukosora</string>
+    <string name="rec_fix_text">Gukosora</string>
+    <string name="rec_free_space_text">Ubuntu</string>
+    <string name="rec_location_text">Aho biherereye</string>
+    <string name="rec_gps_text">Gps</string>
+    <string name="rec_network_text">Net</string>
+    <string name="rec_off_text">Hanze</string>
+    <string name="rec_on_text">Incl.</string>
+
+    <string name="recording_start_text">Tangira gufata amajwi</string>
+    <string name="recording_started_failed_text">Ikosa ryo gutangira gufata amajwi</string>
+    <string name="recording_started_with_audio_text">Amashusho mashya yafashwe amajwi yafashwe</string>
+    <string name="recording_started_with_text">gufata amajwi byatangiye</string>
+    <string name="recording_started_without_audio_text">Gufata amashusho mashya byatangiye nta majwi yafashwe</string>
+    <string name="recording_stop_not_enough_space_msg">Ububiko budahagije. Ahantu h\'ubuntu</string>
+    <string name="recording_stop_text">Hagarika gufata amajwi</string>
+    <string name="recording_stopped_failed_text">Ntushobora kurangiza gufata amajwi neza</string>
+    <string name="recording_stopped_with_text">gufata amajwi byahagaritswe</string>
+    <string name="recording_text">Gufata amajwi…</string>
+    <string name="recording_voice_started_text">Gufata amajwi byatangiye</string>
+    <string name="recording_voice_stopped_text">Gufata amajwi byarahagaze</string>
+
+    <string name="service_no_system_alert_window_granted_text">Serivisi yo gutangiza /guhagarika gufata amajwi ya porogaramu ntishobora gutangira kubera ko SYSTEM_ALERT_WINDOW (kwerekana hejuru yizindi Windows zose zisaba) uruhushya ntirwatanzwe. Cyangwa igikoresho cyari gifunze muri ako kanya (imbogamizi ya Android ni uko igikoresho kigomba kubanza gukingurwa kandi ecran yacyo igomba gufungura mbere yuko serivisi yo gufata amashusho yimodoka ishobora gutangira)</string>
+
+    <string name="storage_external_single">Ikarita ya MicroSD</string>
+    <string name="storage_phone">Ububiko bwa terefone</string>
+
+    <string name="videos_count_one">videwo</string>
+    <string name="videos_count_other">videwo</string>
+    <string name="videos_deleting_text">Gusiba dosiye… Nyamuneka tegereza!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Uzi neza ko ushaka gusiba iyi dosiye\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Uzi neza ko ushaka gusiba dosiye\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Uzi neza ko ushaka gusiba ubu bubiko bwa videwo\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Uzi neza ko ushaka gusiba amakuru yububiko bwa videwo\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Siba dosiye</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Siba ububiko bwa videwo</string>
+    <string name="videos_empty_text">Amashusho yabuze</string>
+    <string name="videos_file_action_lock_dlg_title">Hagarika iyi videwo gusiba mu buryo bwikora (overrite)\?</string>
+    <string name="videos_file_deletion_mode">Gusiba uburyo</string>
+    <string name="videos_file_item_share">Sangira ibi</string>
+    <string name="videos_file_item_watch">Reba</string>
+    <string name="videos_file_sort_asc">Gutondeka Kuzamuka</string>
+    <string name="videos_file_sort_desc">Kumanuka</string>
+    <string name="videos_file_was_locked_text">Idosiye ya videwo yimuriwe mububiko burinzwe</string>
+    <string name="videos_item_mode_deletion_exit_text">Sohora uburyo bwo gusiba</string>
+    <string name="videos_locked_folder_text">Kwandika birenze</string>
+    <string name="videos_menu_delete">Gusiba</string>
+    <string name="videos_menu_refresh">Ongera</string>
+    <string name="videos_menu_select_all">Hitamo byose</string>
+    <string name="videos_menu_sorting">Gutondeka</string>
+    <string name="videos_menu_storage">Kwibuka</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Nyamuneka fungura igenamiterere rya porogaramu hanyuma wemerere kwinjira mububiko bwa terefone</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Nta ruhushya rwo kubika</string>
+    <string name="videos_select_files_for_deleting">Hitamo dosiye zo gusiba</string>
+    <string name="videos_storage_select_dlg_title">Hitamo ububiko bwa videwo</string>
+    <string name="videos_toolbar_subtitle">Amashusho</string>
+
+
+    <string name="prefs_warnings_text">Umuburo</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Ikimenyetso mugitangiriro cyo gufata amajwi ya dosiye ikurikira</string>
+    <string name="prefs_beep_each_start_recording_text">Beep mugihe ufata amajwi</string>
+    <string name="prefs_translate_text">Gusobanura</string>
+    <string name="prefs_translate_sum_text">Fasha kunoza cyangwa gutunganya ibisobanuro byanditse mururimi rwawe</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Ikosa ryabaye mugihe wagera kuri kamera. Gukoresha Bateri birashoboka</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Hagarika ibikoresho bya batiri kuriyi porogaramu mugikoresho cyawe kugirango wirinde amakosa ya kamera</string>
+
+
+    <string name="accept_text">Ndabyemera</string>
+
+    <string name="hour">isaha</string>
+    <string name="hours">amasaha</string>
+    <string name="prefs_orientation_sensor_automatic">Automatic</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Kunyeganyega mugihe utangiye cyangwa uhagarika gufata amajwi</string>
+    <string name="prefs_start_rec_volume_down_key_text">Tangira cyangwa uhagarike gufata amajwi ukanda buto hasi</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">Porogaramu izakorera inyuma (yatangijwe mukumenyesha) kugirango iyi mikorere ikore</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Kureka gufata amashusho yikora kubihe byubu\?</string>
+    <string name="timer_auto_start_recording_duration_text">Uburebure bwa videwo</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Igihe cyagenwe kera</string>
+    <string name="timer_service_notification_subtitle_text">Amashusho yerekana amashusho ya autoplay igihe</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Duubista muuqaalka asalka ah</string>
+
+    <string name="close">Xir</string>
+    <string name="default_text">Asal ahaan</string>
+    <string name="disabled_text">Naafada</string>
+    <string name="no_ads_text">(Xayeysiis la\'aan)</string>
+    <string name="zoom_text">zoom</string>
+    <string name="reset">dheecaan</string>
+
+    <string name="camera">Kamarada</string>
+    <string name="camera_aperture">Diaphragm</string>
+    <string name="camera_back">Kamarada danbe</string>
+    <string name="camera_background_permission_error_msg">Waxa aad u baahantahay in aad hal mar shido app-ka si aad awood ugu yeelato galida kamarada gadaasha</string>
+    <string name="camera_error_background_tried_use_text">Android 11+, ka hor inta aanad bilaabin duubista gadaasha, codsigu waa inuu socdaa oo la arki karaa ugu yaraan hal mar si loo isticmaalo kamarada gadaasha. Sidaa darteed, ka dib markaad dib u bilowdo qalabka, samee codsiga mid muuqda oo markaa ka dib ha xidhin adeegga duubista, waa inay ku sii jirtaa xarunta ogeysiiska.</string>
+    <string name="camera_error_busy">Duubista fiidiyowgu waa joogsatay sababtoo ah kamarada waxaa isticmaalaya codsi kale</string>
+    <string name="camera_external">Kaameeraha USB-ga ee dibadda</string>
+    <string name="camera_fov_text">Xaglaha daawashada (16: 9)</string>
+    <string name="camera_fov_vertical_text">toosan</string>
+    <string name="camera_fov_horbizonal_text">jiifsan</string>
+    <string name="camera_front">Kamarada hore</string>
+    <string name="camera_msg_error_in_use_text">Kamarada waxaa isticmaalayey codsi kale. Fadlan ha ku shubin codsiyada kale ee laga yaabo inay isticmaalayaan kamarada marka ay duubanayaan muqaal. Android waxa ay ogolaataa hal app in uu isticmaalo kamarada markiiba</string>
+    <string name="camera_msg_error_unknown_text">Kamaradu si ku meel gaadh ah (waxay ahayd) kuma furna qalabkaaga (khaladaadka nidaamka kamarada)</string>
+    <string name="camera_support_error">Khalad ayaa dhacay markii la isticmaalayey kamarada</string>
+
+    <string name="dialog_camera_not_found_msg_text">Qalabkani ma laha kamarad ku dhex jirta mana taageerto kamaradaha dibadda. Xiritaanka…</string>
+    <string name="dialog_camera_not_found_text">Kamarada lama helin</string>
+    <string name="dialog_go_to_settings_text">Dejinta fur</string>
+    <string name="dialog_report_the_error_text_btn">Ka warbixi cillad</string>
+    <string name="dialog_select_camera_text">Dooro kamarad</string>
+    <string name="dialog_unlock_video_text">Fiidiyowga hadda socda ka fur in dib loo qoro\?</string>
+
+    <string name="donate_success_thanks_msg_text">Aad baad ugu mahadsantahay taageeradaada!</string>
+    <string name="donation_dlg_has_ads_text">Si meesha looga saaro xayaysiimaha, deeqdu waa inay noqotaa ama ka badan tahay.</string>
+    <string name="donation_dlg_no_ads_text">Ma haysatid xayeysiis</string>
+    <string name="donation_level_text">Heerka deeqdaada:</string>
+    <string name="donation_purchase_info_loading_text">Macluumaadka wax iibsiga weli lama soo dejin Ma online ayaad gashay oo ma gashay akoonkaaga Google\?</string>
+    <string name="donation_subs_check_box_text">Ilaali bishiiba (wax xayaysiis ah lacag kasta)</string>
+    <string name="donation_subs_manage_btn_text">Is-diiwaangelinta</string>
+
+    <string name="format_gb">Gigabyte</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">min.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Codsiga kama saarayo hagaajinta batteriga. Haddii kamaradu aanay ka shaqaynaynin gadaasha ama shay kale aanu shaqaynayn, dabadeed ku dar codsigan habka kaydinta awooda.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Haddii aad dib ugu rakibtay codsiga Android 11, markaa faylalka hore waa in gacanta lagu tirtiraa</string>
+    <string name="msg_battery_optimization_tip_text">Hagaajinta baytariga -&gt; Dhammaan abka -&gt; Magaca abka -&gt; Ha hagaajin/kaydin</string>
+    <string name="msg_camera_not_opened">Kamaradu ma soconayso</string>
+    <string name="msg_close_settings_before_recording_text">Xir dookhyada codsiga ka hor inta aanad bilaabin duubista</string>
+    <string name="msg_could_not_enable_microphone">Ku guuldarraystay inuu shido makarafoonka, duubitaanku wuxuu socon doonaa dhawaaq la\'aan</string>
+    <string name="msg_could_not_found_autostart_settings_text">Lagama furi karo goobahan arjigan, fadlan isku day inaad hesho iyaga oo isticmaalaya nidaamka habaynka caadiga ah ee codsiga caadiga ah</string>
+    <string name="msg_could_not_start_floating_window_text">Ku guuldareystay inuu bilaabo daaqada sabaynaysa</string>
+    <string name="msg_dlg_found_old_videos_message">Waxa ay u muuqataa in aad dib u rakibtay abka Waxaad haysaa muuqaalo hore oo appku aanu tirtiri karin inta lagu jiro duubista loop-ka. Ka saar iyaga gacanta shaashadda fiidiyowga ka hor intaadan duubin fiidiyowyo cusub. Laga bilaabo Android 11+, codsigu wuxuu luminayaa xuquuqaha gelitaanka faylalka duugga ah ka dib dib-u-dajinta. Ama waxaad ku siin kartaa ogolaansho qoraal ah galka duubista</string>
+    <string name="msg_dlg_found_old_videos_title">Galalka fiidyaha hore waa la helay</string>
+    <string name="msg_dlg_incorrect_folder_path">Gal aan sax ahayn Fadlan jidka ha beddelin. Waa inaad fasax u siisaa gal gaar ah. Waxaad ka bedeli kartaa galka duubista ee goobaha.</string>
+    <string name="msg_initializing_please_wait">Bilaabida… Fadlan sug!</string>
+    <string name="msg_no_browser">Fadlan ku rakib abka shabakada si aad u furto xidhiidhka</string>
+    <string name="msg_no_permission_to_delete_file">Ku guuldareystay in la tirtiro faylka fiidiyowga Waxaa laga yaabaa inaad dib u rakibtay arjiga oo ogolaanshaha faylka uu lumay, fadlan isku day inaad gacanta ka saarto</string>
+    <string name="msg_not_enough_memory_free_some_text">Soo bandhi meel bannaan si aad u sii wadato duubista muqaalka</string>
+    <string name="msg_not_enough_memory_text">Xasuus ku filan kuma filna</string>
+    <string name="msg_photo_failed_to_take">Ku guuldareystay inuu sawir qaado</string>
+    <string name="msg_photo_was_saved">Sawirka waa la keydiyay</string>
+    <string name="msg_please_close_other_app_and_restart_text">Xir codsiyada kale addoo isticmaalaya kamarada oo dib u billow codsigan</string>
+    <string name="msg_record_path_has_changed_text">Galka wax lagu duubo waa la bedelay Sababtoo ah lama heli karo ama ma jirto ogolaansho lagu kaydiyo (qoraal) ayaa la siiyay</string>
+    <string name="msg_recorder_init_error_file_not_found">Tirtir fiidiyowyadii hore, qaabe kaadhka SD-gaaga, ama isku day mid kale. Sidoo kale, xaddid meesha ugu badan ee duubista fiidyaha (wax yar ayaa ka fiican). Fiidiyowyo badan oo la keydiyay ayaa sababi kara dhibaatooyinkan oo kale. Sidoo kale ka eeg FAQ ku saabsan kaararka SD gudaha Settings /FAQ. Waxa kale oo aad isku dayi kartaa in aad wax ku qorto xusuusta telefoonka halkii aad ka qori lahayd dibadda</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Jooji duubista Xasuus ku filan ma sii socoto</string>
+    <string name="msg_settings_opened_stopped_recording_text">Jooji duubista… (dejinta waa la furay)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Marka hore jooji duubista, ka dib waad xidhi kartaa adeegga</string>
+    <string name="msg_stop_rec_too_fast_text">Fadlan sug ilbidhiqsi ka hor inta aanad joojin duubista isla markiiba ka dib markaad bilowdo</string>
+    <string name="msg_stop_recording_to_change_camera_text">Si aad u bedesho kamarada, waa inaad joojisaa duubista hadda</string>
+    <string name="msg_to_close_this_service_close_app">Si aad u xidhid adeegan, marka hore yare ama xidh codsiga</string>
+    <string name="msg_video_become_locked_text">Fiidiyowga ayaa laga joojin doonaa in dib loo qoro.</string>
+    <string name="msg_video_folder_size">Cabbirka dhammaan fiidiyowyada laga soo bilaabo cabbirka ugu sarreeya ee la oggol yahay</string>
+    <string name="msg_video_rec_battery_not_enough_text">Ma jiro batari ku filan qalabka. Ku dallaci ama bilow duubista haddii kharashku ka sarreeyo 1%%</string>
+    <string name="msg_video_recorder_error">Wax baa ka khaldamay muqaal duubaha</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Xidhmada luqadda ee TTS (Android Text-to-Speech) lama rakibin. Daar intarneedka si aad u bilowdo soo dejinta</string>
+    <string name="msg_auto_recording_service_was_stopped">Waxaad joojisay adeegga asalka ah ee muuqaalka muuqaalka ah ee si toos ah u bilaabaya. Fur Background Video Recorder abka si aad mar kale u bilowdo.</string>
+
+    <string name="notification_service_checker">falanqaynta</string>
+    <string name="notification_start_service_error_sub_text">Guji ogeysiiska si aad u bilowdo codsiga Ma haysatid ogolaansho korka codsiyada oo dhan ama qalabku waa la xidhay</string>
+    <string name="notification_start_service_error_text">Ku guuldarraystay inuu bilaabo adeegga duubista bootinta aaladda</string>
+    <string name="notification_stop_text">Jooji</string>
+    <string name="notification_could_not_start_recording_service">Adeegga duubista ayaa ku guuldareystay inuu bilaabo. Taabo si aad u damiso hagaajinta batteriga abkan</string>
+
+    <string name="permission_audio_dlg_msg">Maqalka ayaa loo baahan yahay si loo duubo raad-raaca maqalka marka la duubayo muqaal</string>
+    <string name="permission_audio_dlg_title">Qaraarka Maqalka</string>
+    <string name="permission_camera_dlg_msg">Kamarada ayaa looga baahan yahay duubista fiidyowga iyo horu-u-eegida kamarada.</string>
+    <string name="permission_camera_dlg_title">xallinta kamarada</string>
+    <string name="permission_camera_request_canceled">Codsigan wuxuu u baahan yahay ogolaansho si loo isticmaalo kamarada si loo duubo muqaal. Laakiin waad diiday. Xiritaanka</string>
+    <string name="permission_location_dlg_explanation_msg">Marka app-ka la yareeyo, wuxuu isticmaalaa goobta dambe si uu u sawiro isku-duwayaasha, ciwaanka, iyo xawaaraha fiidyaha la duubay.</string>
+    <string name="permission_location_dlg_title">Ogolaansho goobta</string>
+    <string name="permission_storage_dlg_msg">Kaydinta ayaa loo baahan yahay si fiidyaha loogu kaydiyo galka la wadaago iyo qaabka duubista loop-ka</string>
+    <string name="permission_storage_dlg_title">Ogolaanshaha kaydinta</string>
+    <string name="permissions_audio_storage_dlg_title">Kaydinta maqalka iyo ogolaanshaha</string>
+
+    <string name="prefs_audio_bitrate_text">Bitrate (tayada)</string>
+    <string name="prefs_audio_rate_text">Inta jeer ee muunada</string>
+    <string name="prefs_audio_recording_text">Duubista maqalka</string>
+    <string name="prefs_audio_settings_sum_text">Tayada, off/daran duubista codka</string>
+    <string name="prefs_audio_settings_text">Dejinta codka</string>
+    <string name="prefs_audio_stereo_text">Stereo</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Bilow duubista fiidiyowga si toos ah marka abka uu bilaabo</string>
+    <string name="prefs_auto_start_app_launch_text">Marka codsiga la bilaabayo</string>
+    <string name="prefs_battery_optimization_sum_text">Hagaajinta baytarigu waxa laga yaabaa inay ka hor istaagto arjiga inuu si sax ah u shaqeeyo (tusaale ahaan, isticmaalka kamarada). Riix halkan si aad u damiso abkan hadda</string>
+    <string name="prefs_battery_optimization_text">Hagaajinta baytariyada</string>
+    <string name="prefs_day_night_mode_auto_text">Si otomaatig ah (maalin /habeen), waqti ahaan</string>
+    <string name="prefs_day_night_mode_day_text">Maalinta</string>
+    <string name="prefs_day_night_mode_night_text">Habeenkii</string>
+    <string name="prefs_donate_action_text">Ku deeq</string>
+    <string name="prefs_donate_disable_ads_text">Deeq, Ka saar Xayeysiiska</string>
+    <string name="prefs_donate_sum_text">Taageero horumarinta codsiga</string>
+    <string name="prefs_donate_text">Deeq</string>
+    <string name="prefs_faq_sum_text">Su\'aalaha soo noqnoqda</string>
+    <string name="prefs_float_size_increase_text">Cabirka badhamada daaqada sabaynaysa</string>
+    <string name="from">ka</string>
+    <string name="to">ka hor</string>
+    <string name="prefs_fps_value_from_to_stable_text">(maalin keliya, xasilloon)</string>
+    <string name="prefs_fps_value_from_to_text">(maalin iyo habeen)</string>
+    <string name="prefs_info_more_category_text">Warbixin /Wax ka badan…</string>
+    <string name="prefs_optical_zoom_text">Soo Dhawaynta Aragga (Soo dhawaynta) /Dhererka Focal</string>
+    <string name="prefs_orientation_landscape">Muuqaal muuqaal ah</string>
+    <string name="prefs_orientation_landscape_reversed">Albamka rogan</string>
+    <string name="prefs_orientation_portrait">Sawirka</string>
+    <string name="prefs_other_auto_deleting_sum_text">Si toos ah u tirtir fiidyaha ugu da\'da weyn marka la duubayo haddii aysan jirin meel ku filan fiidyaha cusub</string>
+    <string name="prefs_other_auto_deleting_text">Duubista loop</string>
+    <string name="prefs_other_keep_screen_on_text">Shaashada ka daa</string>
+    <string name="prefs_other_path_photo_text">Goobta sawirka (faylka /jidka)</string>
+    <string name="prefs_other_path_text">Goobta fiidiyaha (faylka /dariiqa)</string>
+    <string name="prefs_other_settings_sum_text">Goobta fiidyaha (keyd galka), muddada fiidyaha, duubista wareegga, cabbirka fiidyaha ee ugu sarreeya</string>
+    <string name="prefs_other_settings_text">Dejinta kale</string>
+    <string name="prefs_other_video_duration_text">Mudada fiidyaha - inta jeer ee la kaydiyo</string>
+    <string name="prefs_overlay_app_btn_text">Bilaw codsiga</string>
+    <string name="prefs_overlay_buttons_text">Badhamada /walxaha ku yaal daaqad sabaynaysa</string>
+    <string name="prefs_overlay_close_btn_text">Xir daaqad</string>
+    <string name="prefs_overlay_drag_btn_text">Jiid daaqada</string>
+    <string name="prefs_overlay_videos_btn_text">Fur muraayadda muuqaalka</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Ku soo dhawoow laba farood</string>
+    <string name="prefs_pinch_to_zoom_text">Daar soo-dhoweynta shaashadda</string>
+    <string name="prefs_policy_text">Qaanuunka Arrimaha Khaaska ah</string>
+    <string name="prefs_rate_sum_text">Ku qiimee abka gudaha Play Store</string>
+    <string name="prefs_rate_text">Qiyaas</string>
+    <string name="prefs_rules_video_space_text">Awoodda xusuusta ugu badan ee dhammaan fiidiyowyada ( duubista loop)</string>
+    <string name="prefs_screen_autostart_text">Bilow duubista</string>
+    <string name="prefs_screen_ui_summary_text">Si degdeg ah oo dheer u cadaadi shaashadda, daaqada soo baxday, gariirka duubista, feejignaanta codka, badhamada shaashadda, shaashad dami iyo in ka badan</string>
+    <string name="prefs_screen_ui_title">Interface (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Waxay si toos ah u damisaa hababka maalinta/habeenka kamarada waqtiyo gaar ah</string>
+    <string name="prefs_screen_video_day_night_mode_text">Habaynta Maalinta otomaatiga ah /Habeenka</string>
+    <string name="prefs_settings_bitrate_sum_text">Bitrate sare - tayo wanaagsan, laakiin cabbirka faylka fiidiyowga ee weyn</string>
+    <string name="prefs_settings_fps_sum_text">FPS badan - muuqaal jilicsan, laakiin batteriga si dhakhso leh u daadiya. Way fiicantahay in qiimaha koowaad la dhigo kan ugu hooseeya (ka labaad ayaa laga yaabaa inuu sarreeyo) si loo duubo si ka wanaagsan mugdiga</string>
+    <string name="prefs_share_sum_text">Appkan u soo dir asxaabtaada</string>
+    <string name="prefs_share_text">La wadaag tan</string>
+    <string name="prefs_show_audio_btn_text">Daar/dami duubista codka</string>
+    <string name="prefs_show_buttons_sum_text">Badhannada beddelka kamaradaha, duubista codka shid/dami, toosh, hab habeen, ka xannibaya muuqaalka in dib loo qoro</string>
+    <string name="prefs_show_buttons_text">Badhamada shaashadda</string>
+    <string name="prefs_show_camera_change_btn_text">Kaamirada beddelka</string>
+    <string name="prefs_show_day_night_mode_btn_text">Maalinta /Habeenka /Hababka Gawaarida</string>
+    <string name="prefs_show_flash_btn_text">Shid /dami</string>
+    <string name="prefs_show_lock_btn_text">Ka-hortagga fiidiyowyada in dib loo qoro</string>
+    <string name="prefs_show_overlay_btn_sum_text">Wuxuu soo bandhigaa daaqad leh badhamada kantaroolka ee dhammaan codsiyada</string>
+    <string name="prefs_show_overlay_btn_text">Muuji daaqad sabaynaysa</string>
+    <string name="prefs_show_status_bar_text">Muuji heerka nidaamka</string>
+    <string name="prefs_show_take_photo_btn_text">Si aad sawir u samayso</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Ma taageerto kamarada hadda Soo-saareyaashu waxay inta badan xaddidaan isticmaalkooda - waxa kaliya oo lagu heli karaa codsiga caadiga ah ee kamaradaha</string>
+    <string name="prefs_start_stop_voice_sum_text">Dhawaaq bilawga, joojinta ama qaladka duubista</string>
+    <string name="prefs_start_stop_voice_text">Heerka duubista codka</string>
+    <string name="prefs_support_sum_text">Ka warbixi cilad, shil ama soo bandhig</string>
+    <string name="prefs_support_text">Taageero ( jawaab celin)</string>
+    <string name="prefs_system_alert_window_sum_text">Oggolow abkan inuu ka soo muuqdo dhammaan abka kale. Tani waxa loo baahan yahay si loo muujiyo daaqada sabaynaysa</string>
+    <string name="prefs_system_alert_window_text">Qaraarka sare ee daaqadaha oo dhan</string>
+    <string name="prefs_toolbar_title_setting">Dejinta</string>
+    <string name="prefs_ui_click_none_text">Wax la sameeyo</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Bilow/jooji duubista</string>
+    <string name="prefs_ui_click_text">Taabo degdeg ah shaashadda</string>
+    <string name="prefs_ui_long_click_text">Riix dheer shaashadda</string>
+    <string name="prefs_version_text">Nooca codsiga</string>
+    <string name="prefs_video_bitrate_text">Bitrate (tayada)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Habka Xakamaynta Kaamirada (Habeen)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Habka Xakamaynta Kaamirada (Maalinta)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Mudnaanta Guud /Wajiga</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (Range Dhaqdhaqaaq Sare)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Habeen (xaaladaha iftiinka hooseeya)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Waqtiga qorrax ka soo baxa (Sunrise)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Waqtiga qorrax dhaca (qorrax dhaca)</string>
+    <string name="prefs_video_day_night_mode_text">Maalin, habeen ama hab auto</string>
+    <string name="prefs_video_exposure_night_text">Magdhowga kashifaadda (habeen)</string>
+    <string name="prefs_video_exposure_text">Magdhawga kashifaadda (maalin)</string>
+    <string name="prefs_video_flip_x_sum_text">Muraayadaha tooska ah ee muuqaalka. Sawirku wuxuu u beddelaa oo keliya duubista muuqalka, horu-u-eeggu isma beddelo</string>
+    <string name="prefs_video_flip_x_text">U rog muuqaalka si siman</string>
+    <string name="prefs_video_focus_continuous_picture_text">Sawir joogto ah</string>
+    <string name="prefs_video_focus_continuous_video_text">Fiidiyow joogto ah (lagu taliyay inta lagu jiro maalinta)</string>
+    <string name="prefs_video_focus_infinity_text">Infinity (waxaa lagu taliyaa habeenkii)</string>
+    <string name="prefs_video_focus_night_text">Diirada kaamerada (habeen)</string>
+    <string name="prefs_video_focus_text">Diirada kaamerada (maalin)</string>
+    <string name="prefs_video_fps_range_text">Frames halkii ilbiriqsi (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Ku duub qaabka HEVC (H.265) si loo badbaadiyo meel bannaan. Waxaa laga yaabaa inaadan awoodin inaad ku daawato fiidiyowyada noocaas ah aaladaha kale ee dib-u-ciyaarista fiidyaha ama codsiyada. Dib u dajin doona xallinta oo wuu dejin doonaa isbeddelka ka dib</string>
+    <string name="prefs_video_hevc_text">Codayn muuqaal aad u hufan</string>
+    <string name="prefs_video_orientation_text">Jihaynta muuqaalka iyo telefoonka</string>
+    <string name="prefs_video_resolution_text">Xallinta muuqaalka</string>
+    <string name="prefs_video_settings_sum_text">Qaraarka, heerka yara, hanuuninta, diiradda, kamarad, hab habeen</string>
+    <string name="prefs_video_settings_text">Dejinta fiidiyowga</string>
+    <string name="prefs_video_size_sum_text">Cabbir ka weyn - daadinta batteriga degdega ah</string>
+    <string name="prefs_video_space_unlimited">Aan xad lahayn</string>
+    <string name="prefs_video_stabilization_text">Xasilinta fiidiyowga</string>
+    <string name="prefs_zoom_text">zoom dhijitaal ah</string>
+
+    <string name="rec_day_night_btn_auto_text">Baabuur</string>
+    <string name="rec_fix_short_text">Si loo saxo</string>
+    <string name="rec_fix_text">Si loo saxo</string>
+    <string name="rec_free_space_text">Bilaash</string>
+    <string name="rec_location_text">Goobta</string>
+    <string name="rec_gps_text">GPS</string>
+    <string name="rec_network_text">Net</string>
+    <string name="rec_off_text">Demin</string>
+    <string name="rec_on_text">Incl.</string>
+
+    <string name="recording_start_text">Bilow duubista</string>
+    <string name="recording_started_failed_text">Khalad bilawga duubista</string>
+    <string name="recording_started_with_audio_text">Muuqaal cusub oo la duubay oo cod la duubay ayaa bilaabmay</string>
+    <string name="recording_started_with_text">duubis ayaa bilaabatay</string>
+    <string name="recording_started_without_audio_text">Duubista muuqaal cusub ayaa bilaabatay iyada oo aan cod la duubin</string>
+    <string name="recording_stop_not_enough_space_msg">Kaydinta kuma filna. Meel bilaash ah</string>
+    <string name="recording_stop_text">Jooji duubista</string>
+    <string name="recording_stopped_failed_text">Ma dhammayn kari waayay duubista si sax ah</string>
+    <string name="recording_stopped_with_text">duubistii waa la joojiyay</string>
+    <string name="recording_text">Duubista…</string>
+    <string name="recording_voice_started_text">Duubista ayaa bilaabatay</string>
+    <string name="recording_voice_stopped_text">Duubista waa la joojiyay</string>
+
+    <string name="service_no_system_alert_window_granted_text">Adeegga codsiga duubista tooska ah ee bilawga/joojinta lama bilaabi karo sababtoo ah SYSTEM_ALERT_WINDOW (muujinta korka dhammaan codsiyada kale ee daaqadaha) lama ogolaan. Ama aaladda waa la qufulay isla markaas</string>
+
+    <string name="storage_external_single">MicroSD kaarka</string>
+    <string name="storage_phone">Xusuusta taleefanka</string>
+
+    <string name="videos_count_one">muuqaal</string>
+    <string name="videos_count_other">muuqaal</string>
+    <string name="videos_deleting_text">Tirtirka faylasha… Fadlan sug!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Ma hubtaa inaad doonayso inaad tirtirto faylkan muuqaalka ah\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Ma hubtaa inaad doonayso inaad tirtirto faylalkan muuqaalka ah\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Ma hubtaa inaad doonayso inaad tirtirto gal-galkan muuqaalka ah\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Ma hubtaa in aad rabto in aad tirtirto xogta gal muqaalka\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Tirtir faylasha muuqaalka</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Tirtir galka fiidyaha</string>
+    <string name="videos_empty_text">Muuqaalo maqan</string>
+    <string name="videos_file_action_lock_dlg_title">Ka jooji muuqaalkan tirtirka tooska ah\?</string>
+    <string name="videos_file_deletion_mode">Habka tirtir</string>
+    <string name="videos_file_item_share">La wadaag tan</string>
+    <string name="videos_file_item_watch">Daawo</string>
+    <string name="videos_file_sort_asc">Kala soocida kor u kaca</string>
+    <string name="videos_file_sort_desc">Kala soocida soo degaysa</string>
+    <string name="videos_file_was_locked_text">Faylka fiidyaha waxa loo raray gal la ilaaliyo</string>
+    <string name="videos_item_mode_deletion_exit_text">Ka bax qaabka tirtirka</string>
+    <string name="videos_locked_folder_text">Dib u qor waa la ilaaliyay</string>
+    <string name="videos_menu_delete">Tirtir</string>
+    <string name="videos_menu_refresh">Dib u cusboonaysii</string>
+    <string name="videos_menu_select_all">Dooro dhammaan</string>
+    <string name="videos_menu_sorting">Kala soocida</string>
+    <string name="videos_menu_storage">Xusuusta</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Fadlan fur goobaha arjiga oo oggolow kaydinta xusuusta taleefanka</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Ogolaansho kaydinta ma jiro</string>
+    <string name="videos_select_files_for_deleting">Dooro faylalka fiidyaha si aad u tirtirto</string>
+    <string name="videos_storage_select_dlg_title">Dooro kaydinta muuqaalka</string>
+    <string name="videos_toolbar_subtitle">Muuqaalo laga duubay</string>
+
+
+    <string name="prefs_warnings_text">Digniin</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Signal bilawga duubista faylka fiidyaha xiga</string>
+    <string name="prefs_beep_each_start_recording_text">dhawaaq marka la duubayo</string>
+    <string name="prefs_translate_text">Turjumaada Codsiga</string>
+    <string name="prefs_translate_sum_text">Caawi hagaajinta ama hagaajinta tarjumaada qoraalka luqadaada</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Khalad ayaa dhacay markii la gelayay kamarada Kor u qaadida baytarigu waa la furay</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Dami hagaajinta batteriga ee abkan ku jira habaynta qalabkaaga si aad uga fogaato khaladaadka kamarada mustaqbalka</string>
+
+
+    <string name="accept_text">waan aqbalay</string>
+
+    <string name="hour">saac</string>
+    <string name="hours">saacadood</string>
+    <string name="prefs_orientation_sensor_automatic">Si toos ah</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Gariir marka la bilaabayo ama la joojinayo duubista</string>
+    <string name="prefs_start_rec_volume_down_key_text">Bilow ama jooji duubista adiga oo riixaya badhanka hoos u dhaca</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">App-ka waxa uu ku shaqayn doonaa gadaasha (waxa laga bilaabay barta wargelinta) si uu sifadan u shaqeyso</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Jooji duubista fiidyaha tooska ah ee wakhtiga hadda socda\?</string>
+    <string name="timer_auto_start_recording_duration_text">Dhererka muuqaalka</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Waqti ayaa la dhigay waqti hore</string>
+    <string name="timer_service_notification_subtitle_text">Duubista fiidyaha adeegga saacadeeyaha otomaatiga ah</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

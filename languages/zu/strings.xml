@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Ukuqoshwa kwevidiyo yangemuva</string>
+
+    <string name="close">Vala</string>
+    <string name="default_text">Okuzenzakalelayo</string>
+    <string name="disabled_text">Ikhutshaziwe</string>
+    <string name="no_ads_text">(Ngaphandle kokukhangisa)</string>
+    <string name="zoom_text">sondeza</string>
+    <string name="reset">khipha</string>
+
+    <string name="camera">Ikhamera</string>
+    <string name="camera_aperture">I-diaphragm</string>
+    <string name="camera_back">Ikhamera yangemuva</string>
+    <string name="camera_background_permission_error_msg">Udinga ukusebenzisa uhlelo lokusebenza kanye ukuze ukwazi ukufinyelela ikhamera ngemuva</string>
+    <string name="camera_error_background_tried_use_text">Ku-Android 11+, ngaphambi kokuqala ukurekhoda ngemuva, uhlelo lokusebenza kufanele lusebenze futhi lubonakale okungenani kanye ukuze lukwazi ukusebenzisa ikhamera engemuva. Ngakho-ke, ngemva kokuqalisa kabusha idivayisi, yenza uhlelo lokusebenza lubonakale futhi ngemva kwalokho ungavali isevisi yokuqopha, kufanele ihlale esikhungweni sezaziso.</string>
+    <string name="camera_error_busy">I-Ukuqoshwa kwevidiyo kumile ngoba ikhamera isetshenziswa olunye uhlelo lokusebenza</string>
+    <string name="camera_external">Ikhamera ye-USB yangaphandle</string>
+    <string name="camera_fov_text">Ama-engeli wokubuka (16: 9)</string>
+    <string name="camera_fov_vertical_text">mpo</string>
+    <string name="camera_fov_horbizonal_text">evundlile</string>
+    <string name="camera_front">Ikhamera yangaphambili</string>
+    <string name="camera_msg_error_in_use_text">Ikhamera ibisetshenziswa olunye uhlelo lokusebenza. Sicela ungasebenzisi ezinye izinhlelo zokusebenza okungenzeka zisebenzisa ikhamera ngenkathi uqopha ividiyo. I-Android ivumela uhlelo lokusebenza olulodwa kuphela ukusebenzisa ikhamera ngesikhathi</string>
+    <string name="camera_msg_error_unknown_text">Ikhamera okwamanje (beyikade) ayitholakali ukuze ivuleke kudivayisi yakho (iphutha lesistimu yekhamera)</string>
+    <string name="camera_support_error">Kwenzeke iphutha ngenkathi kusetshenziswa ikhamera.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Le divayisi ayinayo ikhamera eyakhelwe ngaphakathi futhi ayisekeli amakhamera angaphandle. Iyavala…</string>
+    <string name="dialog_camera_not_found_text">Ikhamera ayitholakali</string>
+    <string name="dialog_go_to_settings_text">Vula izilungiselelo</string>
+    <string name="dialog_report_the_error_text_btn">Bika iphutha</string>
+    <string name="dialog_select_camera_text">Khetha ikhamera</string>
+    <string name="dialog_unlock_video_text">Vula ividiyo yamanje ukuthi ingalotshwa\?</string>
+
+    <string name="donate_success_thanks_msg_text">Siyabonga kakhulu ngokusekela kwakho!</string>
+    <string name="donation_dlg_has_ads_text">Ukuze ususe izikhangiso, umnikelo kufanele ube noma ngaphezulu.</string>
+    <string name="donation_dlg_no_ads_text">Awunazo izikhangiso.</string>
+    <string name="donation_level_text">Ileveli yomnikelo wakho:</string>
+    <string name="donation_purchase_info_loading_text">Ulwazi lokuthenga alukalayishwa okwamanje. Ingabe uku-inthanethi futhi ungene ngemvume ku-akhawunti yakho ye-Google\?</string>
+    <string name="donation_subs_check_box_text">Gcina nyanga zonke (azikho izikhangiso zanoma yiliphi inani)</string>
+    <string name="donation_subs_manage_btn_text">Zikhiphe ohlwini</string>
+
+    <string name="format_gb">I-Gigabyte</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">imiz.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">Uhlelo lokusebenza alukhishiwe ekulungiselelweni kwebhethri. Uma ikhamera ingasebenzi ngemuva noma okunye kungasebenzi, ngeza lolu hlelo lokusebenza kokuhlukile kwemodi yokonga amandla.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Uma uphinde wafaka uhlelo ku-Android 11, amafayela amadala kufanele asuswe ngesandla</string>
+    <string name="msg_battery_optimization_tip_text">Ukuthuthukisa ibhethri -&gt; Zonke izinhlelo zokusebenza -&gt; Igama lalolu hlelo lokusebenza -&gt; Ungalungisi/ulondoloze</string>
+    <string name="msg_camera_not_opened">Ikhamera ayisebenzi</string>
+    <string name="msg_close_settings_before_recording_text">Vala izintandokazi zohlelo lokusebenza ngaphambi kokuqala ukurekhoda</string>
+    <string name="msg_could_not_enable_microphone">Yehlulekile ukuvula imakrofoni, ukurekhoda kuzoqhubeka ngaphandle komsindo</string>
+    <string name="msg_could_not_found_autostart_settings_text">Ayikwazanga ukuvula lezi zilungiselelo kulolu hlelo lokusebenza, sicela uzame ukuzithola usebenzisa uhlelo lokusebenza oluzenzakalelayo lwezilungiselelo zedivayisi</string>
+    <string name="msg_could_not_start_floating_window_text">Yehlulekile ukuqala iwindi elintantayo</string>
+    <string name="msg_dlg_found_old_videos_message">Kubonakala sengathi ulufakile kabusha uhlelo lokusebenza. Unamavidiyo amadala uhlelo lokusebenza olungakwazi ukuwasusa ngesikhathi sokurekhoda. Wasuse mathupha esikrinini sevidiyo ngaphambi kokurekhoda amavidiyo amasha. Kusukela ku-Android 11+, uhlelo lokusebenza lulahlekelwa amalungelo okufinyelela kumafayela amadala ngemva kokufakwa kabusha. Noma unganikeza imvume yokubhala kufolda yokurekhoda</string>
+    <string name="msg_dlg_found_old_videos_title">Kutholwe amafayela evidiyo amadala</string>
+    <string name="msg_dlg_incorrect_folder_path">Ifolda engavumelekile. Sicela ungashintshi indlela. Kufanele unikeze imvume yefolda ethile. Ungashintsha ifolda yokurekhoda kuzilungiselelo.</string>
+    <string name="msg_initializing_please_wait">Iyaqaliswa… Sicela ulinde!</string>
+    <string name="msg_no_browser">Sicela ufake uhlelo lokusebenza lwewebhu ukuze uvule isixhumanisi</string>
+    <string name="msg_no_permission_to_delete_file">Yehlulekile ukususa ifayela levidiyo. Kungenzeka ukuthi ulufake kabusha uhlelo lokusebenza futhi imvume yefayela yalahleka, sicela uzame ukulikhipha mathupha</string>
+    <string name="msg_not_enough_memory_free_some_text">Khulula isikhala ukuze uqhubeke uqopha ividiyo</string>
+    <string name="msg_not_enough_memory_text">Ayikho inkumbulo eyanele</string>
+    <string name="msg_photo_failed_to_take">Yehlulekile ukuthatha isithombe</string>
+    <string name="msg_photo_was_saved">Isithombe silondoloziwe</string>
+    <string name="msg_please_close_other_app_and_restart_text">Vala ezinye izinhlelo zokusebenza usebenzisa ikhamera bese uqala kabusha lolu hlelo lokusebenza</string>
+    <string name="msg_record_path_has_changed_text">Ifolda yokurekhoda ishintshiwe. Ngoba imvume yokugcina (yokubhala) ayitholakali noma ayikho</string>
+    <string name="msg_recorder_init_error_file_not_found">Susa amavidiyo amadala, fometha ikhadi lakho le-SD, noma uzame elinye. Futhi, khawulela indawo enkulu yokuqopha ividiyo (okuncane kungcono). Inani elikhulu lamavidiyo alondoloziwe lingabangela izinkinga ezinjalo. Bona futhi i-FAQ mayelana namakhadi e-SD kokuthi Izilungiselelo /Imibuzo Evame Ukubuzwa. Ungazama nokubhalela imemori yefoni esikhundleni sekhadi langaphandle</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Misa ukurekhoda. Ayikho inkumbulo eyanele ukuqhubeka</string>
+    <string name="msg_settings_opened_stopped_recording_text">Misa ukurekhoda… (izilungiselelo zivuliwe)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Qala umise ukurekhoda, bese ungavala isevisi</string>
+    <string name="msg_stop_rec_too_fast_text">Sicela ulinde isekhondi ngaphambi kokumisa ukurekhoda ngokushesha ngemva kokuqala</string>
+    <string name="msg_stop_recording_to_change_camera_text">Ukuze ushintshe ikhamera, kufanele umise ukurekhoda kwamanje</string>
+    <string name="msg_to_close_this_service_close_app">Ukuvala le sevisi, qala unciphise noma uvale uhlelo lokusebenza</string>
+    <string name="msg_video_become_locked_text">Ividiyo izovinjwa ukuthi ibhalwe phezu.</string>
+    <string name="msg_video_folder_size">Usayizi wawo wonke amavidiyo asuka kusayizi ovunyelwe</string>
+    <string name="msg_video_rec_battery_not_enough_text">Awekho amandla ebhethri anele kudivayisi. Khokha noma uqale ukurekhoda uma inkokhiso ingaphezulu kuka-1%%</string>
+    <string name="msg_video_recorder_error">Kukhona okungahambanga kahle ngerekhoda yevidiyo.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">Iphekhi yolimi ye-TTS (Android Text-to-Speech) ayifakiwe. Vula i-inthanethi ukuze uqale ukulanda</string>
+    <string name="msg_auto_recording_service_was_stopped">Umise isevisi yangemuva yokuqalisa ividiyo ngokuzenzakalelayo. Vula uhlelo lokusebenza lwe-Background Video Recorder ukuze uluqalise futhi.</string>
+
+    <string name="notification_service_checker">ukuhlaziya</string>
+    <string name="notification_start_service_error_sub_text">Chofoza kusaziso ukuze uqalise uhlelo lokusebenza. Awunayo imvume phezu kwazo zonke izinhlelo zokusebenza noma idivayisi ikhiyiwe</string>
+    <string name="notification_start_service_error_text">Yehlulekile ukuqala isevisi yokurekhoda ekuqaliseni idivayisi</string>
+    <string name="notification_stop_text">Ima</string>
+    <string name="notification_could_not_start_recording_service">Isevisi yokurekhoda yehlulekile ukuqala. Thepha ukuze ukhubaze ukulungiselelwa kwebhethri kulolu hlelo lokusebenza</string>
+
+    <string name="permission_audio_dlg_msg">Umsindo uyadingeka ukuze urekhode ithrekhi yomsindo lapho uqopha ividiyo</string>
+    <string name="permission_audio_dlg_title">Ukulungiswa Komsindo</string>
+    <string name="permission_camera_dlg_msg">Ikhamera iyadingeka ukuze kuqoshwe ividiyo kanye nokuhlola kuqala kwekhamera.</string>
+    <string name="permission_camera_dlg_title">Ukulungiswa kwekhamera</string>
+    <string name="permission_camera_request_canceled">Lolu hlelo lokusebenza ludinga imvume yokusebenzisa ikhamera ukurekhoda ividiyo. Kodwa wenqaba. Iyavala… Zama ukunikeza imvume kukhamera kuzilungiselelo zesistimu zalolu hlelo lokusebenza</string>
+    <string name="permission_location_dlg_explanation_msg">Uma uhlelo lokusebenza luncishiswa, lisebenzisa indawo engemuva ukudweba izixhumanisi, ikheli, nesivinini kuvidiyo erekhodiwe.</string>
+    <string name="permission_location_dlg_title">Imvume yendawo</string>
+    <string name="permission_storage_dlg_msg">Isitoreji siyadingeka ukuze ulondoloze ividiyo kufolda eyabelwe kanye nemodi yokuqopha loop</string>
+    <string name="permission_storage_dlg_title">Imvume yesitoreji</string>
+    <string name="permissions_audio_storage_dlg_title">Isitoreji somsindo nemvume</string>
+
+    <string name="prefs_audio_bitrate_text">I-Bitrate (ikhwalithi)</string>
+    <string name="prefs_audio_rate_text">Imvamisa yesampula</string>
+    <string name="prefs_audio_recording_text">Ukurekhoda komsindo</string>
+    <string name="prefs_audio_settings_sum_text">Ikhwalithi, ivaliwe /ekurekhodweni komsindo</string>
+    <string name="prefs_audio_settings_text">Izilungiselelo zomsindo</string>
+    <string name="prefs_audio_stereo_text">Isitiriyo</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Qala ukuqoshwa kwevidiyo ngokuzenzakalelayo uma uhlelo luqala</string>
+    <string name="prefs_auto_start_app_launch_text">Uma uqala uhlelo lokusebenza</string>
+    <string name="prefs_battery_optimization_sum_text">Ukuthuthukisa ibhethri kungase kuvimbele uhlelo lokusebenza ekusebenzeni kahle (isibonelo, ukusebenzisa ikhamera). Chofoza lapha ukuze uyivale kulolu hlelo lokusebenza manje</string>
+    <string name="prefs_battery_optimization_text">Ukulungiselela ibhethri</string>
+    <string name="prefs_day_night_mode_auto_text">Okuzenzakalelayo (imini /ubusuku), ngesikhathi</string>
+    <string name="prefs_day_night_mode_day_text">Usuku</string>
+    <string name="prefs_day_night_mode_night_text">Ebusuku</string>
+    <string name="prefs_donate_action_text">Nikela</string>
+    <string name="prefs_donate_disable_ads_text">Umnikelo, Susa Izikhangiso</string>
+    <string name="prefs_donate_sum_text">Sekela ukuthuthukiswa kohlelo lokusebenza</string>
+    <string name="prefs_donate_text">Umnikelo</string>
+    <string name="prefs_faq_sum_text">Imibuzo ejwayelekile ukubuzwa</string>
+    <string name="prefs_float_size_increase_text">Usayizi wezinkinobho efasiteleni elintantayo</string>
+    <string name="from">kusuka</string>
+    <string name="to">ngaphambili</string>
+    <string name="prefs_fps_value_from_to_stable_text">(usuku kuphela, uzinzile)</string>
+    <string name="prefs_fps_value_from_to_text">(imini nobusuku)</string>
+    <string name="prefs_info_more_category_text">Ulwazi /Okwengeziwe…</string>
+    <string name="prefs_optical_zoom_text">I-Optical Zoom (Sondeza) /Ubude be-Focal</string>
+    <string name="prefs_orientation_landscape">Ukuma kwezwe</string>
+    <string name="prefs_orientation_landscape_reversed">I-albhamu ibuyele emuva</string>
+    <string name="prefs_orientation_portrait">Ukuma ngobude</string>
+    <string name="prefs_other_auto_deleting_sum_text">Susa ngokuzenzakalelayo amavidiyo amadala ngenkathi uqopha uma singekho isikhala esanele samavidiyo amasha</string>
+    <string name="prefs_other_auto_deleting_text">Ukuqoshwa kweluphu</string>
+    <string name="prefs_other_keep_screen_on_text">Shiya isikrini sivuliwe</string>
+    <string name="prefs_other_path_photo_text">Indawo yesithombe (ifolda /indlela)</string>
+    <string name="prefs_other_path_text">Indawo yevidiyo (ifolda /indlela)</string>
+    <string name="prefs_other_settings_sum_text">Indawo yevidiyo (gcina ifolda), ubude bevidiyo, ukuqoshwa kweluphu, usayizi wevidiyo omkhulu</string>
+    <string name="prefs_other_settings_text">Ezinye izilungiselelo</string>
+    <string name="prefs_other_video_duration_text">Ubude bevidiyo - ukonga kangaki</string>
+    <string name="prefs_overlay_app_btn_text">Yethula uhlelo lokusebenza</string>
+    <string name="prefs_overlay_buttons_text">Izinkinobho /izakhi efasiteleni elintantayo</string>
+    <string name="prefs_overlay_close_btn_text">Vala iwindi</string>
+    <string name="prefs_overlay_drag_btn_text">Hudula iwindi</string>
+    <string name="prefs_overlay_videos_btn_text">Vula isikrini sevidiyo</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Sondeza ngeminwe emibili</string>
+    <string name="prefs_pinch_to_zoom_text">Nika amandla ukusondeza kwesikrini</string>
+    <string name="prefs_policy_text">Inqubomgomo yobumfihlo</string>
+    <string name="prefs_rate_sum_text">Linganisela uhlelo lokusebenza ku-Google Play Isitolo</string>
+    <string name="prefs_rate_text">Linganisa</string>
+    <string name="prefs_rules_video_space_text">Umthamo omkhulu wememori wawo wonke amavidiyo (ukurekhoda kweluphu)</string>
+    <string name="prefs_screen_autostart_text">Qala ukurekhoda ngokuzenzakalela</string>
+    <string name="prefs_screen_ui_summary_text">Cindezela ngokushesha esikrinini, iwindi le-pop-up, ukudlidliza ekurekhodweni, isixwayiso somsindo, izinkinobho ezisesikrinini, ukuvala isikrini nokunye.</string>
+    <string name="prefs_screen_ui_title">Isixhumi esibonakalayo (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Ishintsha ngokuzenzakalela izindlela zekhamera zemini /zasebusuku ngezikhathi ezithile</string>
+    <string name="prefs_screen_video_day_night_mode_text">Izilungiselelo zosuku oluzenzakalelayo /zasebusuku</string>
+    <string name="prefs_settings_bitrate_sum_text">I-bitrate ephezulu - ikhwalithi engcono, kodwa usayizi wefayela wevidiyo omkhulu</string>
+    <string name="prefs_settings_fps_sum_text">I-FPS eyengeziwe - ividiyo ebushelelezi, kodwa ibhethri liphela ngokushesha. Kungcono ukusetha inani lokuqala libe eliphansi kakhulu (eyesibili lingase libe phezulu) ukuze kuqoshwe kangcono ebumnyameni</string>
+    <string name="prefs_share_sum_text">Thumela lolu hlelo lokusebenza kubangani bakho</string>
+    <string name="prefs_share_text">Yabelana ngalokhu</string>
+    <string name="prefs_show_audio_btn_text">Vuliwe /vala ukurekhodwa komsindo</string>
+    <string name="prefs_show_buttons_sum_text">Izinkinobho zokushintsha amakhamera, ukuvula /ukuvala ukuqoshwa komsindo, i-flash, imodi yasebusuku, ukuvimba ividiyo ekubhalweni ngaphezulu</string>
+    <string name="prefs_show_buttons_text">Izinkinobho esikrinini</string>
+    <string name="prefs_show_camera_change_btn_text">Ushintsho lwekhamera</string>
+    <string name="prefs_show_day_night_mode_btn_text">Imini /Ebusuku /Amamodi Okuzenzakalelayo</string>
+    <string name="prefs_show_flash_btn_text">I-Flash ivuliwe /icishiwe</string>
+    <string name="prefs_show_lock_btn_text">Ivimba amavidiyo ukuthi abhalwe phezu</string>
+    <string name="prefs_show_overlay_btn_sum_text">Ibonisa iwindi elinezinkinobho zokulawula phezu kwazo zonke izinhlelo zokusebenza</string>
+    <string name="prefs_show_overlay_btn_text">Bonisa iwindi elintantayo</string>
+    <string name="prefs_show_status_bar_text">Bonisa ibha yesimo sesistimu</string>
+    <string name="prefs_show_take_photo_btn_text">Ukwenza isithombe</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Ayisekelwe ikhamera yamanje. Abakhiqizi bavame ukukhawulela ukusetshenziswa kwayo - itholakala kuphela kuhlelo lokusebenza olujwayelekile lwekhamera</string>
+    <string name="prefs_start_stop_voice_sum_text">Umsindo ekuqaleni, ima noma iphutha lokurekhoda</string>
+    <string name="prefs_start_stop_voice_text">Isimo somsindo oqoshiwe</string>
+    <string name="prefs_support_sum_text">Bika iphutha, ukuphahlazeka noma wenze umnikelo</string>
+    <string name="prefs_support_text">Ukusekela (impendulo)</string>
+    <string name="prefs_system_alert_window_sum_text">Vumela lolu hlelo lokusebenza ukuthi luvele phezu kwazo zonke ezinye izinhlelo zokusebenza. Lokhu kuyadingeka ukuze ubonise iwindi elintantayo</string>
+    <string name="prefs_system_alert_window_text">Ukulungiswa phezu kwawo wonke amawindi</string>
+    <string name="prefs_toolbar_title_setting">Izilungiselelo</string>
+    <string name="prefs_ui_click_none_text">Akukho okumele ukwenze</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Qala /yeka ukurekhoda</string>
+    <string name="prefs_ui_click_text">Thepha ngokushesha esikrinini</string>
+    <string name="prefs_ui_long_click_text">Cindezela isikhathi eside esikrinini</string>
+    <string name="prefs_version_text">Inguqulo yohlelo lokusebenza</string>
+    <string name="prefs_video_bitrate_text">I-Bitrate (ikhwalithi)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Imodi yesigcawu sokulawula ikhamera (Ebusuku)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Imodi Yesigcawu Sokulawula Ikhamera (Usuku)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Okujwayelekile /Okubalulekile Okubhekana Nakho</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">I-HDR (High Dynamic Range)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Ubusuku (ngezimo zokukhanya okuphansi)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Isikhathi sokuphuma kwelanga (Sunrise)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Isikhathi sokushona kwelanga (ukushona kwelanga)</string>
+    <string name="prefs_video_day_night_mode_text">Imini, ubusuku noma imodi ezenzakalelayo</string>
+    <string name="prefs_video_exposure_night_text">Isinxephezelo sokuvezwa (ubusuku)</string>
+    <string name="prefs_video_exposure_text">Isinxephezelo sokuvezwa (usuku)</string>
+    <string name="prefs_video_flip_x_sum_text">Isibuko esivundlile sevidiyo. Isithombe sishintsha kuphela ekurekhodweni kwevidiyo, ukubuka kuqala akushintshi</string>
+    <string name="prefs_video_flip_x_text">Phenya ividiyo ngokuvundlile</string>
+    <string name="prefs_video_focus_continuous_picture_text">Isithombe esiqhubekayo</string>
+    <string name="prefs_video_focus_continuous_video_text">Ividiyo eqhubekayo (inconyiwe phakathi nosuku)</string>
+    <string name="prefs_video_focus_infinity_text">Okungapheli (kunconyiwe ebusuku)</string>
+    <string name="prefs_video_focus_night_text">Ukugxila kwekhamera (ubusuku)</string>
+    <string name="prefs_video_focus_text">Ukugxila kwekhamera (usuku)</string>
+    <string name="prefs_video_fps_range_text">Amafreyimu ngesekhondi (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Rekhoda ngefomethi ye-HEVC (H.265) ukuze wonge isikhala. Ungase ungakwazi ukudlala amavidiyo anjalo kwezinye izisetshenziswa zokudlala amavidiyo noma izinhlelo zokusebenza. Izosetha kabusha ukulungiswa kanye ne-bitrate ngemva koshintsho</string>
+    <string name="prefs_video_hevc_text">Ukurekhoda kwevidiyo okuphumelelayo kakhulu</string>
+    <string name="prefs_video_orientation_text">Ukuma kwevidiyo nefoni</string>
+    <string name="prefs_video_resolution_text">Ukulungiswa kwevidiyo</string>
+    <string name="prefs_video_settings_sum_text">Ukulungiswa, isilinganiso sebhithi, umumo, ukugxila, ikhamera, imodi yasebusuku</string>
+    <string name="prefs_video_settings_text">Izilungiselelo zevidiyo</string>
+    <string name="prefs_video_size_sum_text">Usayizi omkhulu - ukuphuma kwebhethri ngokushesha</string>
+    <string name="prefs_video_space_unlimited">Okungenamkhawulo</string>
+    <string name="prefs_video_stabilization_text">Ukuqiniswa kwevidiyo</string>
+    <string name="prefs_zoom_text">Ukusondeza kwedijithali (zoom)</string>
+
+    <string name="rec_day_night_btn_auto_text">Okuzenzakalelayo</string>
+    <string name="rec_fix_short_text">Ukulungisa</string>
+    <string name="rec_fix_text">Ukulungisa</string>
+    <string name="rec_free_space_text">Mahhala</string>
+    <string name="rec_location_text">Indawo</string>
+    <string name="rec_gps_text">Gps</string>
+    <string name="rec_network_text">Net</string>
+    <string name="rec_off_text">Valiwe</string>
+    <string name="rec_on_text">Kuhlanganisa.</string>
+
+    <string name="recording_start_text">Qala ukurekhoda</string>
+    <string name="recording_started_failed_text">Iphutha lokuqala ukurekhoda</string>
+    <string name="recording_started_with_audio_text">Ukuqoshwa kwevidiyo entsha ngomsindo oqoshiwe sekuqalile</string>
+    <string name="recording_started_with_text">ukurekhoda kuqalile</string>
+    <string name="recording_started_without_audio_text">Ukuqoshwa kwevidiyo entsha kuqale ngaphandle kokurekhoda komsindo</string>
+    <string name="recording_stop_not_enough_space_msg">Asikho isitoreji esanele. Indawo yamahhala</string>
+    <string name="recording_stop_text">Misa ukurekhoda</string>
+    <string name="recording_stopped_failed_text">Ayikwazanga ukuqedela ukurekhoda ngendlela efanele</string>
+    <string name="recording_stopped_with_text">ukurekhoda kumisiwe</string>
+    <string name="recording_text">Iyarekhoda…</string>
+    <string name="recording_voice_started_text">Ukuqopha sekuqalile</string>
+    <string name="recording_voice_stopped_text">Ukurekhoda kumisiwe</string>
+
+    <string name="service_no_system_alert_window_granted_text">Isevisi yohlelo lokusebenza lokuqalisa/lokumisa ukurekhoda ayikwazanga ukuqalwa ngoba SYSTEM_ALERT_WINDOW (bonisa phezu kwawo wonke amanye amawindi ohlelo lokusebenza) imvume ayizange inikezwe. Noma idivayisi ibikhiyiwe ngaleso sikhathi (umkhawulo we-Android ukuthi idivayisi kufanele iqale ivulwe futhi isikrini sayo kufanele sivulwe ngaphambi kokuthi isevisi yokuqopha ividiyo ezenzakalelayo iqale)</string>
+
+    <string name="storage_external_single">Ikhadi le-MicroSD</string>
+    <string name="storage_phone">Imemori yefoni</string>
+
+    <string name="videos_count_one">ividiyo</string>
+    <string name="videos_count_other">ividiyo</string>
+    <string name="videos_deleting_text">Isusa amafayela… Sicela ulinde!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Uqinisekile ukuthi ufuna ukususa leli fayela levidiyo\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Uqinisekile ukuthi ufuna ukususa lawa mafayela evidiyo\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Uqinisekile ukuthi ufuna ukususa le folda yevidiyo\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Uqinisekile ukuthi ufuna ukususa idatha yefolda yevidiyo\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Susa amafayela evidiyo</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Susa amafolda evidiyo</string>
+    <string name="videos_empty_text">Amavidiyo alahlekile</string>
+    <string name="videos_file_action_lock_dlg_title">Vimbela le vidiyo ekususweni ngokuzenzakalela (bhala phezu)\?</string>
+    <string name="videos_file_deletion_mode">Susa imodi</string>
+    <string name="videos_file_item_share">Yabelana ngalokhu</string>
+    <string name="videos_file_item_watch">Buka</string>
+    <string name="videos_file_sort_asc">Hlunga Ngokwenyuka</string>
+    <string name="videos_file_sort_desc">Hlunga ngokwehla</string>
+    <string name="videos_file_was_locked_text">Ifayela levidiyo lihanjiswe kufolda evikelekile</string>
+    <string name="videos_item_mode_deletion_exit_text">Phuma kwimodi yokususa</string>
+    <string name="videos_locked_folder_text">Bhala ngaphezulu kuvikelwe</string>
+    <string name="videos_menu_delete">Susa</string>
+    <string name="videos_menu_refresh">Vuselela</string>
+    <string name="videos_menu_select_all">Khetha konke</string>
+    <string name="videos_menu_sorting">Iyahlunga</string>
+    <string name="videos_menu_storage">Inkumbulo</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Sicela uvule izilungiselelo zohlelo bese uvumela ukufinyelela endaweni yokugcina kumemori yefoni</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Ayikho imvume yokugcina</string>
+    <string name="videos_select_files_for_deleting">Khetha amafayela evidiyo ozowasusa</string>
+    <string name="videos_storage_select_dlg_title">Khetha isitoreji sevidiyo</string>
+    <string name="videos_toolbar_subtitle">Ukuqoshwa kwamavidiyo</string>
+
+
+    <string name="prefs_warnings_text">Izixwayiso</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Isiginali ekuqaleni kokuqoshwa kwefayela levidiyo elilandelayo</string>
+    <string name="prefs_beep_each_start_recording_text">Bhephu uma uqopha</string>
+    <string name="prefs_translate_text">Uhlelo Lokuhumusha</string>
+    <string name="prefs_translate_sum_text">Siza ukuthuthukisa noma ukulungisa ukuhumushwa kombhalo ngolimi lwakho</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Kwenzeke iphutha ngenkathi ufinyelela ikhamera. Ukuthuthukisa ibhethri kunikwe amandla</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Khubaza ukulungiselelwa kwebhethri kwalolu hlelo lokusebenza kuzilungiselelo zedivayisi yakho ukuze ugweme amaphutha ekhamera azayo</string>
+
+
+    <string name="accept_text">Ngiyamukela</string>
+
+    <string name="hour">ihora</string>
+    <string name="hours">amahora</string>
+    <string name="prefs_orientation_sensor_automatic">Okuzenzakalelayo</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Ukudlidliza lapho uqala noma umisa ukurekhoda</string>
+    <string name="prefs_start_rec_volume_down_key_text">Qala noma yeka ukurekhoda ngokucindezela inkinobho yevolumu yokwehlisa</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">Uhlelo lokusebenza luzosebenza ngemuva (lwethulwe kubha yesaziso) ukuze lesi sici sisebenze</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Khansela ukuqoshwa kwevidiyo okuzenzakalelayo kwesibali sikhathi samanje\?</string>
+    <string name="timer_auto_start_recording_duration_text">Ubude bevidiyo</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">Isikhathi sabekwa esikhathini esidlule</string>
+    <string name="timer_service_notification_subtitle_text">Isevisi yesibali sikhathi sokuqoshwa kwevidiyo</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

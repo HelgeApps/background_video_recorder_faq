@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Fona videoregistrado</string>
+
+    <string name="close">Fermu</string>
+    <string name="default_text">Defaŭlte</string>
+    <string name="disabled_text">Malebligita</string>
+    <string name="no_ads_text">(Sen reklamado)</string>
+    <string name="zoom_text">zomi</string>
+    <string name="reset">malŝarĝo</string>
+
+    <string name="camera">Fotilo</string>
+    <string name="camera_aperture">Diafragmo</string>
+    <string name="camera_back">Malantaŭa fotilo</string>
+    <string name="camera_background_permission_error_msg">Vi devas ruli la apon unufoje por povi aliri la fotilon en la fono</string>
+    <string name="camera_error_background_tried_use_text">Ĉe Android 11+, antaŭ ol komenci registradon en la fono, la aplikaĵo devas funkcii kaj videbla almenaŭ unufoje por povi uzi la fotilon en la fono. Sekve, post rekomenco de la aparato, faru la aplikaĵon videbla kaj post tio ne fermu la registradon, ĝi restu en la sciiga centro.</string>
+    <string name="camera_error_busy">Videoregistrado ĉesis ĉar la fotilo estas uzata de alia aplikaĵo</string>
+    <string name="camera_external">Ekstera USB-Ĉambro</string>
+    <string name="camera_fov_text">Rigardaj anguloj (16: 9)</string>
+    <string name="camera_fov_vertical_text">vertikala</string>
+    <string name="camera_fov_horbizonal_text">horizontala</string>
+    <string name="camera_front">Antaŭa fotilo</string>
+    <string name="camera_msg_error_in_use_text">La fotilo estis uzata de alia aplikaĵo. Bonvolu ne ruli aliajn aplikaĵojn, kiuj povus uzi la fotilon dum registrado de video. Android nur permesas al unu aplikaĵo uzi la fotilon samtempe</string>
+    <string name="camera_msg_error_unknown_text">La fotilo estas provizore (estis) nedisponebla por malfermiĝi sur via aparato (eraro de la fotila sistemo)</string>
+    <string name="camera_support_error">Eraro okazis dum uzado de la fotilo.</string>
+
+    <string name="dialog_camera_not_found_msg_text">Ĉi tiu aparato ne havas enkonstruitan fotilon kaj ne subtenas eksterajn fotilojn. Fermo…</string>
+    <string name="dialog_camera_not_found_text">Fotilo ne trovita</string>
+    <string name="dialog_go_to_settings_text">Malfermu agordojn</string>
+    <string name="dialog_report_the_error_text_btn">Raportu cimon</string>
+    <string name="dialog_select_camera_text">Elektu fotilon</string>
+    <string name="dialog_unlock_video_text">Ĉu malŝlosi la nunan videon por esti anstataŭita\?</string>
+
+    <string name="donate_success_thanks_msg_text">Koran dankon pro via subteno!</string>
+    <string name="donation_dlg_has_ads_text">Por forigi reklamojn, donaco devas esti aŭ pli.</string>
+    <string name="donation_dlg_no_ads_text">Vi ne havas reklamojn.</string>
+    <string name="donation_level_text">Via donacnivelo:</string>
+    <string name="donation_purchase_info_loading_text">La aĉetinformoj ankoraŭ ne estis alŝutitaj. Ĉu vi estas enreta kaj ensalutinta al via Google-konto\?</string>
+    <string name="donation_subs_check_box_text">Konservu ĉiumonate (sen reklamoj por ajna kvanto)</string>
+    <string name="donation_subs_manage_btn_text">Malaboniĝi</string>
+
+    <string name="format_gb">Gigabajto</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">min.</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">La aplikaĵo ne estas ekskludita de bateria optimumigo. Se la fotilo ne funkcias en la fono aŭ io alia ne funkcias, tiam aldonu ĉi tiun aplikaĵon al la esceptoj de energiŝpara reĝimo.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">Se vi reinstalis la aplikaĵon sur Android 11, tiam la malnovaj dosieroj devas esti forigitaj permane</string>
+    <string name="msg_battery_optimization_tip_text">Bateria optimumigo -&gt; Ĉiuj programoj -&gt; Nomo de ĉi tiu aplikaĵo -&gt; Ne optimumu/konservu</string>
+    <string name="msg_camera_not_opened">Fotilo ne funkcias</string>
+    <string name="msg_close_settings_before_recording_text">Fermu aplikajn preferojn antaŭ ol komenci registradon</string>
+    <string name="msg_could_not_enable_microphone">Malsukcesis ŝalti la mikrofonon, registrado daŭros sen sono</string>
+    <string name="msg_could_not_found_autostart_settings_text">Ne eblis malfermi ĉi tiujn agordojn de ĉi tiu aplikaĵo, bonvolu provi trovi ilin per la defaŭlta aplikaĵo pri agordoj de la aparata sistemo</string>
+    <string name="msg_could_not_start_floating_window_text">Malsukcesis komenci ŝveban fenestron</string>
+    <string name="msg_dlg_found_old_videos_message">Ŝajnas, ke vi reinstalis la apon. Vi havas malnovajn filmetojn, kiujn la programo ne povas forigi dum bukloregistrado. Forigu ilin permane sur la videa ekrano antaŭ ol registri novajn filmetojn. Komencante de Android 11+, la aplikaĵo perdas alirrajtojn al malnovaj dosieroj post reinstalo. Aŭ vi povas doni skribpermeson al la registra dosierujo</string>
+    <string name="msg_dlg_found_old_videos_title">Malnovaj videodosieroj trovitaj</string>
+    <string name="msg_dlg_incorrect_folder_path">Nevalida dosierujo. Bonvolu ne ŝanĝi la vojon. Vi devas doni permeson por specifa dosierujo. Vi povas ŝanĝi la registran dosierujon en la agordoj.</string>
+    <string name="msg_initializing_please_wait">Inicializante… Bonvolu atendi!</string>
+    <string name="msg_no_browser">Bonvolu instali retan apon por malfermi la ligilon</string>
+    <string name="msg_no_permission_to_delete_file">Malsukcesis forigi videodosieron. Vi eble reinstalis la aplikaĵon kaj la dosierpermeso estis perdita, bonvolu provi malinstali ĝin permane</string>
+    <string name="msg_not_enough_memory_free_some_text">Liberigu iom da spaco por daŭrigi registri filmeton</string>
+    <string name="msg_not_enough_memory_text">Ne sufiĉa memoro</string>
+    <string name="msg_photo_failed_to_take">Malsukcesis preni foton</string>
+    <string name="msg_photo_was_saved">Foto konservita</string>
+    <string name="msg_please_close_other_app_and_restart_text">Fermu aliajn aplikojn uzante la fotilon kaj rekomencu ĉi tiun aplikaĵon</string>
+    <string name="msg_record_path_has_changed_text">La registra dosierujo estis ŝanĝita. Ĉar nedisponebla aŭ neniu permeso konservi (skribi) estis donita</string>
+    <string name="msg_recorder_init_error_file_not_found">Forigu malnovajn filmetojn, formatu vian SD-karton aŭ provu alian. Ankaŭ limigu la maksimuman videoregistradspacon (malpli estas pli bone). Granda nombro da konservitaj filmetoj povas kaŭzi tiajn problemojn. Vidu ankaŭ la Oftaj Demandoj pri SD-kartoj en Agordoj /Oftaj Demandoj. Vi ankaŭ povas provi skribi al la telefona memoro anstataŭ ekstera karto</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">Ĉesu registradon. Ne sufiĉa memoro por daŭrigi</string>
+    <string name="msg_settings_opened_stopped_recording_text">Ĉesu registradon… (agordoj estis malfermitaj)</string>
+    <string name="msg_should_stop_recording_before_closing_service">Unue ĉesu registradon, tiam vi povas fermi la servon</string>
+    <string name="msg_stop_rec_too_fast_text">Bonvolu atendi sekundon antaŭ ĉesi registradon tuj post komenci</string>
+    <string name="msg_stop_recording_to_change_camera_text">Por ŝanĝi la fotilon, vi devas ĉesigi la nunan registradon</string>
+    <string name="msg_to_close_this_service_close_app">Por fermi ĉi tiun servon, unue minimumigu aŭ fermu la aplikaĵon</string>
+    <string name="msg_video_become_locked_text">La video estos blokita por esti anstataŭita.</string>
+    <string name="msg_video_folder_size">Grandeco de ĉiuj videoj de la permesita maksimuma grandeco</string>
+    <string name="msg_video_rec_battery_not_enough_text">Ne estas sufiĉe da bateria potenco sur la aparato. Ŝargu aŭ komencu registri se la ŝarĝo superas 1%%</string>
+    <string name="msg_video_recorder_error">Io misfunkciis kun la videoregistrilo.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">La lingvopakaĵo por TTS (Androida Teksto-al-Parolado) ne estas instalita. Enŝaltu la interreton por komenci elŝuti</string>
+    <string name="msg_auto_recording_service_was_stopped">Vi ĉesigis la aŭtomatan startan videofonan servon. Malfermu la Background Video Recorder-apon por lanĉi ĝin denove.</string>
+
+    <string name="notification_service_checker">analizo</string>
+    <string name="notification_start_service_error_sub_text">Alklaku la sciigon por lanĉi la aplikaĵon. Vi ne havas permeson super ĉiuj aplikoj aŭ la aparato estis ŝlosita</string>
+    <string name="notification_start_service_error_text">Malsukcesis komenci registradservon ĉe la ekfunkciigo de la aparato</string>
+    <string name="notification_stop_text">Haltu</string>
+    <string name="notification_could_not_start_recording_service">Registradservo malsukcesis komenci. Frapu por malŝalti baterian optimumigon por ĉi tiu programo</string>
+
+    <string name="permission_audio_dlg_msg">Aŭdio estas bezonata por registri sontrakon dum registrado de video</string>
+    <string name="permission_audio_dlg_title">Audio Rezolucio</string>
+    <string name="permission_camera_dlg_msg">La fotilo estas postulata por videoregistrado kaj fotila antaŭrigardo.</string>
+    <string name="permission_camera_dlg_title">Fotila rezolucio</string>
+    <string name="permission_camera_request_canceled">Ĉi tiu aplikaĵo postulas permeson uzi la fotilon por registri videon. Sed vi malakceptis ĝin. Fermante… Provu doni permeson al la fotilo en la sistemaj agordoj de ĉi tiu aplikaĵo</string>
+    <string name="permission_location_dlg_explanation_msg">Kiam la programo estas minimumigita, ĝi uzas la lokon en la fono por desegni la koordinatojn, adreson kaj rapidecon sur la registrita video.</string>
+    <string name="permission_location_dlg_title">Loka permeso</string>
+    <string name="permission_storage_dlg_msg">Stokado necesas por konservi videon en komuna dosierujo kaj por bukla registra reĝimo</string>
+    <string name="permission_storage_dlg_title">Permeso pri konservado</string>
+    <string name="permissions_audio_storage_dlg_title">Stokado de audio kaj permeso</string>
+
+    <string name="prefs_audio_bitrate_text">Bitrapideco (kvalito)</string>
+    <string name="prefs_audio_rate_text">Specimena ofteco</string>
+    <string name="prefs_audio_recording_text">Sonregistrado</string>
+    <string name="prefs_audio_settings_sum_text">Kvalito, malŝaltita /sur sonregistrado</string>
+    <string name="prefs_audio_settings_text">Sonaj agordoj</string>
+    <string name="prefs_audio_stereo_text">Stereo</string>
+    <string name="prefs_auto_start_app_launch_sum_text">Komencu videoregistradon aŭtomate kiam la programo komenciĝas</string>
+    <string name="prefs_auto_start_app_launch_text">Komencante la aplikaĵon</string>
+    <string name="prefs_battery_optimization_sum_text">Bateria optimumigo povas malhelpi la aplikaĵon funkcii ĝuste (ekzemple, uzante la fotilon). Klaku ĉi tie por malŝalti ĝin por ĉi tiu programo nun</string>
+    <string name="prefs_battery_optimization_text">Bateria optimumigo</string>
+    <string name="prefs_day_night_mode_auto_text">Aŭtomata (tago /nokto), laŭ tempo</string>
+    <string name="prefs_day_night_mode_day_text">Tago</string>
+    <string name="prefs_day_night_mode_night_text">Nokto</string>
+    <string name="prefs_donate_action_text">Doni</string>
+    <string name="prefs_donate_disable_ads_text">Donaco, Forigi Reklamojn</string>
+    <string name="prefs_donate_sum_text">Subtenu aplikaĵan disvolviĝon</string>
+    <string name="prefs_donate_text">Donaco</string>
+    <string name="prefs_faq_sum_text">Oftaj Demandoj</string>
+    <string name="prefs_float_size_increase_text">Grandeco de butonoj sur flosanta fenestro</string>
+    <string name="from">de</string>
+    <string name="to">antaŭe</string>
+    <string name="prefs_fps_value_from_to_stable_text">(nur tago, stabila)</string>
+    <string name="prefs_fps_value_from_to_text">(tage kaj nokto)</string>
+    <string name="prefs_info_more_category_text">Informoj /Pli…</string>
+    <string name="prefs_optical_zoom_text">Optika Zoom (Zoom) /Foksa Longo</string>
+    <string name="prefs_orientation_landscape">Pejzaĝo</string>
+    <string name="prefs_orientation_landscape_reversed">Album reverso</string>
+    <string name="prefs_orientation_portrait">Portreto</string>
+    <string name="prefs_other_auto_deleting_sum_text">Aŭtomate forigu la plej malnovajn filmetojn dum registrado se ne estas sufiĉe da spaco por novaj videoj</string>
+    <string name="prefs_other_auto_deleting_text">Bukloregistrado</string>
+    <string name="prefs_other_keep_screen_on_text">Lasu la ekranon ŝaltita</string>
+    <string name="prefs_other_path_photo_text">Foto-loko (dosierujo /vojo)</string>
+    <string name="prefs_other_path_text">Videoloko (dosierujo /vojo)</string>
+    <string name="prefs_other_settings_sum_text">Videoloko (konservi dosierujon), videodaŭro, bukloregistrado, maksimuma videograndeco</string>
+    <string name="prefs_other_settings_text">Aliaj agordoj</string>
+    <string name="prefs_other_video_duration_text">Daŭro de video - kiom ofte ŝpari</string>
+    <string name="prefs_overlay_app_btn_text">Lanĉu la aplikaĵon</string>
+    <string name="prefs_overlay_buttons_text">Butonoj /elementoj sur ŝveba fenestro</string>
+    <string name="prefs_overlay_close_btn_text">Fermu fenestron</string>
+    <string name="prefs_overlay_drag_btn_text">Trenu fenestron</string>
+    <string name="prefs_overlay_videos_btn_text">Malfermu videan ekranon</string>
+    <string name="prefs_pinch_to_zoom_sum_text">Zomu per du fingroj</string>
+    <string name="prefs_pinch_to_zoom_text">Ebligu ekranan zomon</string>
+    <string name="prefs_policy_text">Privateca Politiko</string>
+    <string name="prefs_rate_sum_text">Tatu la apon en la Play Store</string>
+    <string name="prefs_rate_text">Takso</string>
+    <string name="prefs_rules_video_space_text">Maksimuma memorkapacito de ĉiuj videoj (bukloregistrado)</string>
+    <string name="prefs_screen_autostart_text">Aŭtokomenca registrado</string>
+    <string name="prefs_screen_ui_summary_text">Rapida kaj longa premo sur la ekrano, ŝprucfenestro, vibro dum registrado, sona alarmo, surekranaj butonoj, ekrano malŝaltita kaj pli</string>
+    <string name="prefs_screen_ui_title">Interfaco (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">Aŭtomate ŝanĝas fotilajn tagajn/noktajn reĝimojn en specifaj tempoj</string>
+    <string name="prefs_screen_video_day_night_mode_text">Aŭtomataj Tagaj /Noktaj Agordoj</string>
+    <string name="prefs_settings_bitrate_sum_text">Pli alta bitrate - pli bona kvalito, sed pli granda videodosiergrandeco</string>
+    <string name="prefs_settings_fps_sum_text">Pli da FPS - pli glata video, sed pli rapida kuirilaro. Pli bone estas agordi la unuan valoron al la plej malalta (la dua eble estas pli alta) por pli bona registrado en la mallumo</string>
+    <string name="prefs_share_sum_text">Sendu ĉi tiun apon al viaj amikoj</string>
+    <string name="prefs_share_text">Kunhavigu ĉi tion</string>
+    <string name="prefs_show_audio_btn_text">Aktivigi /malŝalti sonregistradon</string>
+    <string name="prefs_show_buttons_sum_text">Butonoj por ŝanĝi fotilojn, ŝalti/malŝalti sonregistradon, ekbrilon, noktan reĝimon, bloki videon de anstataŭigo</string>
+    <string name="prefs_show_buttons_text">Butonoj sur la ekrano</string>
+    <string name="prefs_show_camera_change_btn_text">Ŝanĝo de fotilo</string>
+    <string name="prefs_show_day_night_mode_btn_text">Tago /Nokto /Aŭtomataj Reĝimoj</string>
+    <string name="prefs_show_flash_btn_text">Ekbrilo ŝaltita /malŝaltita</string>
+    <string name="prefs_show_lock_btn_text">Blokante videojn por esti anstataŭitaj</string>
+    <string name="prefs_show_overlay_btn_sum_text">Montras fenestron kun kontrolbutonoj supre de ĉiuj aplikaĵoj</string>
+    <string name="prefs_show_overlay_btn_text">Montru flosantan fenestron</string>
+    <string name="prefs_show_status_bar_text">Montru sisteman statusbreton</string>
+    <string name="prefs_show_take_photo_btn_text">Por fari foton</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">Ne subtenata de la nuna fotilo. Fabrikistoj ofte limigas ĝian uzon - ĝi haveblas nur en la norma aplikaĵo Fotilo</string>
+    <string name="prefs_start_stop_voice_sum_text">Sono ĉe komenco, halto aŭ registra eraro</string>
+    <string name="prefs_start_stop_voice_text">Sonregistra stato</string>
+    <string name="prefs_support_sum_text">Raportu cimon, kraŝon aŭ faru oferton</string>
+    <string name="prefs_support_text">Subteno (reago)</string>
+    <string name="prefs_system_alert_window_sum_text">Permesu ĉi tiun apon aperi super ĉiuj aliaj apoj. Ĉi tio estas bezonata por montri la ŝveban fenestron</string>
+    <string name="prefs_system_alert_window_text">Rezolucio super ĉiuj fenestroj</string>
+    <string name="prefs_toolbar_title_setting">Agordoj</string>
+    <string name="prefs_ui_click_none_text">Nenio por fari</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Komencu /ĉesu registradon</string>
+    <string name="prefs_ui_click_text">Rapida frapeto sur la ekrano</string>
+    <string name="prefs_ui_long_click_text">Longe premu sur la ekrano</string>
+    <string name="prefs_version_text">Aplika versio</string>
+    <string name="prefs_video_bitrate_text">Bitrapideco (kvalito)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">Fotila Kontrola Scena Reĝimo (Nokto)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">Fotila Kontrola Scena Reĝimo (Tago)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Ĝenerala /Vizaĝa Prioritato</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (Alta Dinamika Intervalo)</string>
+    <string name="prefs_video_control_scene_mode_night_text">Nokto (por malfortaj kondiĉoj)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">Sunleviĝo tempo (Sunleviĝo)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">Sunsubira tempo (sunsubiro)</string>
+    <string name="prefs_video_day_night_mode_text">Taga, nokta aŭ aŭtomata reĝimo</string>
+    <string name="prefs_video_exposure_night_text">Eksponkompenso (nokto)</string>
+    <string name="prefs_video_exposure_text">Eksponkompenso (tago)</string>
+    <string name="prefs_video_flip_x_sum_text">Horizontala spegulo de video. La bildo ŝanĝiĝas nur por videoregistrado, la antaŭvido ne ŝanĝiĝas</string>
+    <string name="prefs_video_flip_x_text">Turnu filmeton horizontale</string>
+    <string name="prefs_video_focus_continuous_picture_text">Kontinua bildo</string>
+    <string name="prefs_video_focus_continuous_video_text">Kontinua video (rekomendita dum la tago)</string>
+    <string name="prefs_video_focus_infinity_text">Senfineco (rekomendita nokte)</string>
+    <string name="prefs_video_focus_night_text">Fotila fokuso (nokte)</string>
+    <string name="prefs_video_focus_text">Fotila fokuso (tago)</string>
+    <string name="prefs_video_fps_range_text">Kadroj por Sekundo (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">Registri en HEVC (H.265) formato por ŝpari spacon. Vi eble ne povos ludi tiajn videojn sur aliaj videoludiloj aŭ aplikoj. Restarigos rezolucion kaj bitrapidecon post ŝanĝo</string>
+    <string name="prefs_video_hevc_text">Tre efika videokodado</string>
+    <string name="prefs_video_orientation_text">Video kaj telefona orientiĝo</string>
+    <string name="prefs_video_resolution_text">Video rezolucio</string>
+    <string name="prefs_video_settings_sum_text">Rezolucio, bitrapideco, orientiĝo, fokuso, fotilo, nokta reĝimo</string>
+    <string name="prefs_video_settings_text">Video-agordoj</string>
+    <string name="prefs_video_size_sum_text">Pli granda grandeco - pli rapida kuirilaro</string>
+    <string name="prefs_video_space_unlimited">Senlima</string>
+    <string name="prefs_video_stabilization_text">Videostabiligo</string>
+    <string name="prefs_zoom_text">Cifereca zomo (zomo)</string>
+
+    <string name="rec_day_night_btn_auto_text">Aŭtomate</string>
+    <string name="rec_fix_short_text">Por korekti</string>
+    <string name="rec_fix_text">Por korekti</string>
+    <string name="rec_free_space_text">Senpaga</string>
+    <string name="rec_location_text">Loko</string>
+    <string name="rec_gps_text">Gps</string>
+    <string name="rec_network_text">Reto</string>
+    <string name="rec_off_text">Malŝaltita</string>
+    <string name="rec_on_text">Inkl.</string>
+
+    <string name="recording_start_text">Komencu registri</string>
+    <string name="recording_started_failed_text">Eraro dum komencado de registrado</string>
+    <string name="recording_started_with_audio_text">Nova videoregistrado kun sonregistrado komenciĝis</string>
+    <string name="recording_started_with_text">registrado komenciĝis</string>
+    <string name="recording_started_without_audio_text">Nova videoregistrado komenciĝis sen sonregistrado</string>
+    <string name="recording_stop_not_enough_space_msg">Ne sufiĉa stokado. Senpaga loko</string>
+    <string name="recording_stop_text">Ĉesu registradon</string>
+    <string name="recording_stopped_failed_text">Ne eblis kompletigi la registradon ĝuste</string>
+    <string name="recording_stopped_with_text">registrado ĉesis</string>
+    <string name="recording_text">Registrado…</string>
+    <string name="recording_voice_started_text">Registrado komenciĝis</string>
+    <string name="recording_voice_stopped_text">Registrado ĉesis</string>
+
+    <string name="service_no_system_alert_window_granted_text">La servo de aŭtomate starto/haltiga registrado de aplikaĵo ne povis esti komencita ĉar la permeso SYSTEM_ALERT_WINDOW (montraĵo super ĉiuj aliaj aplikaĵfenestroj) ne estis donita. Aŭ la aparato estis ŝlosita en tiu momento (Android-limigo estas, ke la aparato unue devas esti malŝlosita kaj ĝia ekrano devas esti ŝaltita antaŭ ol la servo de aŭtomata videoregistrado povas esti komencita)</string>
+
+    <string name="storage_external_single">MicroSD-karto</string>
+    <string name="storage_phone">Telefona memoro</string>
+
+    <string name="videos_count_one">video</string>
+    <string name="videos_count_other">video</string>
+    <string name="videos_deleting_text">Forigante dosierojn… Bonvolu atendi!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">Ĉu vi certas, ke vi volas forigi ĉi tiun videodosieron\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">Ĉu vi certas, ke vi volas forigi ĉi tiujn videodosierojn\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">Ĉu vi certas, ke vi volas forigi ĉi tiun videodosierujon\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">Ĉu vi certas, ke vi volas forigi la datumojn de la videodosierujo\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">Forigi videodosierojn</string>
+    <string name="videos_dialog_delete_multiple_folders_title">Forigu video-dosierujojn</string>
+    <string name="videos_empty_text">Videoj mankas</string>
+    <string name="videos_file_action_lock_dlg_title">Ĉu bloki ĉi tiun videon kontraŭ aŭtomata (anstataŭigo) forigo\?</string>
+    <string name="videos_file_deletion_mode">Forigi reĝimon</string>
+    <string name="videos_file_item_share">Kunhavigu ĉi tion</string>
+    <string name="videos_file_item_watch">Rigardu</string>
+    <string name="videos_file_sort_asc">Ordigi Ascendenta</string>
+    <string name="videos_file_sort_desc">Ordigi malsupren</string>
+    <string name="videos_file_was_locked_text">La videodosiero estis movita al protektita dosierujo</string>
+    <string name="videos_item_mode_deletion_exit_text">Eliru forigan reĝimon</string>
+    <string name="videos_locked_folder_text">Overwrite protektita</string>
+    <string name="videos_menu_delete">Forigi</string>
+    <string name="videos_menu_refresh">Refreŝigi</string>
+    <string name="videos_menu_select_all">Elektu ĉiujn</string>
+    <string name="videos_menu_sorting">Ordigo</string>
+    <string name="videos_menu_storage">Memoro</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">Bonvolu malfermi la aplikaĵajn agordojn kaj permesi aliron al la stokado en la telefona memoro</string>
+    <string name="videos_no_storage_permission_dlg_title_text">Neniu konserva permeso</string>
+    <string name="videos_select_files_for_deleting">Elektu videodosierojn por forigi</string>
+    <string name="videos_storage_select_dlg_title">Elektu video-stokadon</string>
+    <string name="videos_toolbar_subtitle">Videoregistraĵoj</string>
+
+
+    <string name="prefs_warnings_text">Avertoj</string>
+    <string name="prefs_beep_each_start_recording_sum_text">Signalo ĉe la komenco de la registrado de la sekva videodosiero</string>
+    <string name="prefs_beep_each_start_recording_text">Bipu dum registrado</string>
+    <string name="prefs_translate_text">Tradukado de aplikaĵo</string>
+    <string name="prefs_translate_sum_text">Helpu plibonigi aŭ ripari la tradukon de teksto en via lingvo</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">Okazis eraro dum aliro al la fotilo. Bateria optimumigo ebligita</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">Malebligu baterian optimumigon por ĉi tiu programo en via aparato-agordoj por eviti estontajn fotilajn erarojn</string>
+
+
+    <string name="accept_text">mi akceptas</string>
+
+    <string name="hour">horo</string>
+    <string name="hours">horoj</string>
+    <string name="prefs_orientation_sensor_automatic">Aŭtomata</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">Vibro dum komencado aŭ ĉesigo de registrado</string>
+    <string name="prefs_start_rec_volume_down_key_text">Komencu aŭ ĉesu registradon premante la butonon de volumo malsupren</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">La programo funkcios en la fono (lanĉita en la sciiga trinkejo) por ke ĉi tiu funkcio funkcias</string>
+    <string name="timer_auto_start_recording_cancel_message_text">Ĉu nuligi aŭtomatan videoregistradon por la nuna tempigilo\?</string>
+    <string name="timer_auto_start_recording_duration_text">Longo de video</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">La tempo estis fiksita en la pasinteco</string>
+    <string name="timer_service_notification_subtitle_text">Servo de temporizilo de aŭtomata ludado de videoregistrado</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>

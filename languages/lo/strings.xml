@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">ການບັນທຶກວິດີໂອພື້ນຫຼັງ</string>
+
+    <string name="close">ປິດ</string>
+    <string name="default_text">ຄ່າເລີ່ມຕົ້ນ</string>
+    <string name="disabled_text">ຄົນພິການ</string>
+    <string name="no_ads_text">(ໂດຍ​ບໍ່​ມີ​ການ​ໂຄ​ສະ​ນາ​)</string>
+    <string name="zoom_text">ຊູມ</string>
+    <string name="reset">ລົງຂາວ</string>
+
+    <string name="camera">ກ້ອງ​ຖ່າຍ​ຮູບ</string>
+    <string name="camera_aperture">Diaphragm</string>
+    <string name="camera_back">ກ້ອງຫຼັງ</string>
+    <string name="camera_background_permission_error_msg">ທ່ານ​ຈໍາ​ເປັນ​ຕ້ອງ​ດໍາ​ເນີນ​ການ app ຄັ້ງ​ດຽວ​ເພື່ອ​ໃຫ້​ສາ​ມາດ​ເຂົ້າ​ເຖິງ​ກ້ອງ​ຖ່າຍ​ຮູບ​ໃນ​ພື້ນ​ຖານ​</string>
+    <string name="camera_error_background_tried_use_text">ໃນ Android 11+, ກ່ອນທີ່ຈະເລີ່ມການບັນທຶກໃນພື້ນຫຼັງ, ແອັບພລິເຄຊັນຕ້ອງເຮັດວຽກ ແລະສາມາດເບິ່ງເຫັນໄດ້ຢ່າງໜ້ອຍໜຶ່ງຄັ້ງເພື່ອຈະສາມາດໃຊ້ກ້ອງຖ່າຍຮູບໃນພື້ນຫຼັງໄດ້. ດັ່ງນັ້ນ, ຫຼັງຈາກ restart ອຸປະກອນ, ເຮັດໃຫ້ຄໍາຮ້ອງສະຫມັກສາມາດເຫັນໄດ້ແລະຫຼັງຈາກນັ້ນບໍ່ໄດ້ປິດການບໍລິການບັນທຶກ, ມັນຄວນຈະຢູ່ໃນສູນການແຈ້ງເຕືອນ.</string>
+    <string name="camera_error_busy">ການ​ບັນ​ທຶກ​ວິ​ດີ​ໂອ​ໄດ້​ຢຸດ​ເຊົາ​ເນື່ອງ​ຈາກ​ວ່າ​ກ້ອງ​ຖ່າຍ​ຮູບ​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ໂດຍ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ອື່ນ​</string>
+    <string name="camera_external">ກ້ອງ USB ພາຍນອກ</string>
+    <string name="camera_fov_text">ມຸມເບິ່ງ (16:9)</string>
+    <string name="camera_fov_vertical_text">ຕັ້ງ</string>
+    <string name="camera_fov_horbizonal_text">ລວງນອນ</string>
+    <string name="camera_front">ກ້ອງໜ້າ</string>
+    <string name="camera_msg_error_in_use_text">ກ້ອງຖືກໃຊ້ໂດຍແອັບພລິເຄຊັນອື່ນ. ກະລຸນາຢ່າແລ່ນແອັບພລິເຄຊັນອື່ນທີ່ອາດຈະໃຊ້ກ້ອງຖ່າຍຮູບໃນຂະນະທີ່ບັນທຶກວິດີໂອ. Android ພຽງແຕ່ອະນຸຍາດໃຫ້ແອັບຯຫນຶ່ງໃຊ້ກ້ອງຖ່າຍຮູບຕໍ່ຄັ້ງ</string>
+    <string name="camera_msg_error_unknown_text">ກ້ອງຖ່າຍຮູບບໍ່ສາມາດໃຊ້ໄດ້ຊົ່ວຄາວ (ແມ່ນ) ບໍ່ສາມາດໃຊ້ໄດ້ໃນອຸປະກອນຂອງທ່ານ (ລະບົບກ້ອງຖ່າຍຮູບຜິດພາດ)</string>
+    <string name="camera_support_error">ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ໃຊ້ກ້ອງຖ່າຍຮູບ.</string>
+
+    <string name="dialog_camera_not_found_msg_text">ອຸປະກອນນີ້ບໍ່ມີກ້ອງຖ່າຍຮູບໃນຕົວ ແລະບໍ່ຮອງຮັບກ້ອງຖ່າຍຮູບພາຍນອກ. ປິດ…</string>
+    <string name="dialog_camera_not_found_text">ບໍ່ພົບກ້ອງຖ່າຍຮູບ</string>
+    <string name="dialog_go_to_settings_text">ເປີດການຕັ້ງຄ່າ</string>
+    <string name="dialog_report_the_error_text_btn">ລາຍງານຂໍ້ຜິດພາດ</string>
+    <string name="dialog_select_camera_text">ເລືອກກ້ອງຖ່າຍຮູບ</string>
+    <string name="dialog_unlock_video_text">ປົດລັອກວິດີໂອປັດຈຸບັນຈາກການຖືກຂຽນທັບບໍ\?</string>
+
+    <string name="donate_success_thanks_msg_text">ຂອບໃຈຫຼາຍໆສໍາລັບການສະຫນັບສະຫນູນຂອງທ່ານ!</string>
+    <string name="donation_dlg_has_ads_text">ເພື່ອລຶບໂຄສະນາອອກ, ການບໍລິຈາກຈະຕ້ອງມີ ຫຼືຫຼາຍກວ່ານັ້ນ.</string>
+    <string name="donation_dlg_no_ads_text">ທ່ານບໍ່ມີໂຄສະນາ.</string>
+    <string name="donation_level_text">ລະດັບການບໍລິຈາກຂອງທ່ານ:</string>
+    <string name="donation_purchase_info_loading_text">ຂໍ້ມູນການຊື້ເຄື່ອງຍັງບໍ່ໄດ້ຖືກອັບໂຫລດເທື່ອ. ທ່ານອອນລາຍ ແລະເຂົ້າສູ່ລະບົບບັນຊີ Google ຂອງທ່ານບໍ\?</string>
+    <string name="donation_subs_check_box_text">ຮັກສາປະຈໍາເດືອນ (ບໍ່ມີການໂຄສະນາສໍາລັບຈໍານວນເງິນໃດໆ)</string>
+    <string name="donation_subs_manage_btn_text">ເຊົາຕິດຕາມ</string>
+
+    <string name="format_gb">ກິກາໄບ</string>
+    <string name="format_hz">Hz</string>
+    <string name="format_kbits">kbps</string>
+    <string name="format_mbits">Mbps</string>
+    <string name="format_minutes">ນາທີ</string>
+
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">ແອັບພລິເຄຊັນບໍ່ໄດ້ຖືກຍົກເວັ້ນຈາກການເພີ່ມປະສິດທິພາບຫມໍ້ໄຟ. ຖ້າກ້ອງຖ່າຍຮູບບໍ່ເຮັດວຽກຢູ່ໃນພື້ນຫລັງຫຼືສິ່ງອື່ນບໍ່ເຮັດວຽກ, ຫຼັງຈາກນັ້ນໃຫ້ເພີ່ມແອັບພລິເຄຊັນນີ້ໃສ່ຂໍ້ຍົກເວັ້ນຂອງໂຫມດປະຫຍັດພະລັງງານ.</string>
+    <string name="msg_android_r_deleting_manual_tip_text">ຖ້າທ່ານຕິດຕັ້ງແອັບພລິເຄຊັນໃຫມ່ໃນ Android 11, ຫຼັງຈາກນັ້ນໄຟລ໌ເກົ່າຈະຕ້ອງຖືກລຶບດ້ວຍຕົນເອງ</string>
+    <string name="msg_battery_optimization_tip_text">ການເພີ່ມປະສິດທິພາບຂອງແບດເຕີຣີ -&gt; ແອັບຯທັງຫມົດ -&gt; ຊື່ຂອງແອັບຯນີ້ -&gt; ບໍ່ເພີ່ມປະສິດທິພາບ /ປະຫຍັດ</string>
+    <string name="msg_camera_not_opened">ກ້ອງຖ່າຍຮູບບໍ່ເຮັດວຽກ</string>
+    <string name="msg_close_settings_before_recording_text">ປິດການຕັ້ງຄ່າແອັບພລິເຄຊັນກ່ອນທີ່ຈະເລີ່ມການບັນທຶກ</string>
+    <string name="msg_could_not_enable_microphone">ການເປີດໄມໂຄຣໂຟນລົ້ມເຫລວ, ການບັນທຶກຈະສືບຕໍ່ໂດຍບໍ່ມີສຽງ</string>
+    <string name="msg_could_not_found_autostart_settings_text">ບໍ່​ສາ​ມາດ​ເປີດ​ການ​ຕັ້ງ​ຄ່າ​ເຫຼົ່າ​ນີ້​ຈາກ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້​, ກະ​ລຸ​ນາ​ພະ​ຍາ​ຍາມ​ຊອກ​ຫາ​ພວກ​ເຂົາ​ໂດຍ​ການ​ນໍາ​ໃຊ້​ອຸ​ປະ​ກອນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ຕັ້ງ​ຄ່າ​ມາດ​ຕະ​ຖານ​ຂອງ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​</string>
+    <string name="msg_could_not_start_floating_window_text">ລົ້ມເຫລວໃນການເລີ່ມຕົ້ນປ່ອງຢ້ຽມທີ່ເລື່ອນໄດ້</string>
+    <string name="msg_dlg_found_old_videos_message">ເບິ່ງຄືວ່າທ່ານໄດ້ຕິດຕັ້ງແອັບຄືນໃໝ່ແລ້ວ. ທ່ານມີວິດີໂອເກົ່າທີ່ແອັບຯບໍ່ສາມາດລຶບໄດ້ໃນລະຫວ່າງການບັນທຶກ loop. ເອົາພວກມັນອອກດ້ວຍຕົນເອງໃນໜ້າຈໍວິດີໂອກ່ອນທີ່ຈະບັນທຶກວິດີໂອໃໝ່. ໂດຍເລີ່ມຈາກ Android 11+, ແອັບພລິເຄຊັນຈະສູນເສຍສິດການເຂົ້າເຖິງໄຟລ໌ເກົ່າຫຼັງຈາກການຕິດຕັ້ງຄືນໃໝ່. ຫຼືທ່ານສາມາດໃຫ້ສິດຂຽນກັບໂຟນເດີການບັນທຶກ</string>
+    <string name="msg_dlg_found_old_videos_title">ພົບໄຟລ໌ວິດີໂອເກົ່າ</string>
+    <string name="msg_dlg_incorrect_folder_path">ໂຟນເດີບໍ່ຖືກຕ້ອງ. ກະລຸນາຢ່າປ່ຽນເສັ້ນທາງ. ທ່ານຕ້ອງໃຫ້ການອະນຸຍາດສໍາລັບໂຟນເດີສະເພາະ. ທ່ານສາມາດປ່ຽນໂຟນເດີການບັນທຶກໃນການຕັ້ງຄ່າ.</string>
+    <string name="msg_initializing_please_wait">ກຳລັງເລີ່ມ… ກະລຸນາລໍຖ້າ!</string>
+    <string name="msg_no_browser">ກະລຸນາຕິດຕັ້ງແອັບເວັບເພື່ອເປີດລິ້ງ</string>
+    <string name="msg_no_permission_to_delete_file">ລຶບໄຟລ໌ວິດີໂອບໍ່ສຳເລັດ. ທ່ານອາດຈະໄດ້ຕິດຕັ້ງແອັບພລິເຄຊັນຄືນໃຫມ່ ແລະການອະນຸຍາດໄຟລ໌ຫາຍໄປ, ກະລຸນາລອງຖອນການຕິດຕັ້ງມັນດ້ວຍຕົນເອງ</string>
+    <string name="msg_not_enough_memory_free_some_text">ສ້າງພື້ນທີ່ຫວ່າງເພື່ອສືບຕໍ່ການບັນທຶກວິດີໂອ</string>
+    <string name="msg_not_enough_memory_text">ຄວາມຈຳບໍ່ພຽງພໍ</string>
+    <string name="msg_photo_failed_to_take">ຖ່າຍຮູບບໍ່ສຳເລັດ</string>
+    <string name="msg_photo_was_saved">ບັນທຶກຮູບແລ້ວ</string>
+    <string name="msg_please_close_other_app_and_restart_text">ປິດແອັບພລິເຄຊັນອື່ນໂດຍໃຊ້ກ້ອງຖ່າຍຮູບ ແລະປິດເປີດແອັບພລິເຄຊັນນີ້ຄືນໃໝ່</string>
+    <string name="msg_record_path_has_changed_text">ໂຟນເດີບັນທຶກໄດ້ຖືກປ່ຽນ. ເນື່ອງຈາກວ່າບໍ່ສາມາດໃຊ້ໄດ້ຫຼືບໍ່ມີການອະນຸຍາດໃຫ້ເກັບຮັກສາ (ຂຽນ) ໄດ້</string>
+    <string name="msg_recorder_init_error_file_not_found">ລຶບວິດີໂອເກົ່າ, ຟໍແມັດ SD ຂອງທ່ານ, ຫຼືລອງອັນອື່ນ. ນອກຈາກນີ້, ຈໍາກັດພື້ນທີ່ການບັນທຶກວິດີໂອສູງສຸດ (ຫນ້ອຍແມ່ນດີກວ່າ). ຈໍານວນຂະຫນາດໃຫຍ່ຂອງວິດີໂອທີ່ບັນທຶກໄວ້ສາມາດເຮັດໃຫ້ເກີດບັນຫາດັ່ງກ່າວ. ເບິ່ງຄຳຖາມທີ່ຖາມເລື້ອຍໆກ່ຽວກັບບັດ SD ໃນການຕັ້ງຄ່າ /FAQ. ນອກນັ້ນທ່ານຍັງສາມາດພະຍາຍາມຂຽນໃສ່ຫນ່ວຍຄວາມຈໍາໂທລະສັບແທນທີ່ຈະເປັນບັດພາຍນອກ</string>
+    <string name="msg_recording_stopping_not_enough_memory_text">ຢຸດການບັນທຶກ. ບໍ່ມີໜ່ວຍຄວາມຈຳພຽງພໍໃຫ້ສືບຕໍ່</string>
+    <string name="msg_settings_opened_stopped_recording_text">ຢຸດການບັນທຶກ… (ການຕັ້ງຄ່າຖືກເປີດ)</string>
+    <string name="msg_should_stop_recording_before_closing_service">ທໍາອິດຢຸດການບັນທຶກ, ຫຼັງຈາກນັ້ນທ່ານສາມາດປິດການບໍລິການ</string>
+    <string name="msg_stop_rec_too_fast_text">ກະລຸນາລໍຖ້າວິນາທີກ່ອນທີ່ຈະຢຸດການບັນທຶກທັນທີຫຼັງຈາກເລີ່ມຕົ້ນ</string>
+    <string name="msg_stop_recording_to_change_camera_text">ເພື່ອປ່ຽນກ້ອງຖ່າຍຮູບ, ທ່ານຕ້ອງຢຸດການບັນທຶກປະຈຸບັນ</string>
+    <string name="msg_to_close_this_service_close_app">ເພື່ອປິດການບໍລິການນີ້, ທໍາອິດໃຫ້ຫຍໍ້ ຫຼືປິດແອັບພລິເຄຊັນ</string>
+    <string name="msg_video_become_locked_text">ວິດີໂອຈະຖືກບລັອກບໍ່ໃຫ້ຂຽນທັບ.</string>
+    <string name="msg_video_folder_size">ຂະໜາດຂອງວິດີໂອທັງໝົດຈາກຂະໜາດສູງສຸດທີ່ອະນຸຍາດ</string>
+    <string name="msg_video_rec_battery_not_enough_text">ບໍ່ມີພະລັງງານຫມໍ້ໄຟພຽງພໍໃນອຸປະກອນ. ໃສ່ການສາກໄຟ ຫຼືເລີ່ມບັນທຶກຖ້າຄ່າເກີນ 1%%</string>
+    <string name="msg_video_recorder_error">ມີບາງຢ່າງຜິດພາດກັບເຄື່ອງບັນທຶກວິດີໂອ.</string>
+    <string name="msg_voice_tts_lang_data_missing_text">ຊຸດພາສາສຳລັບ TTS (Android Text-to-Speech) ບໍ່ໄດ້ຖືກຕິດຕັ້ງ. ເປີດອິນເຕີເນັດເພື່ອເລີ່ມການດາວໂຫຼດ</string>
+    <string name="msg_auto_recording_service_was_stopped">ທ່ານໄດ້ຢຸດການບໍລິການພື້ນຫຼັງວິດີໂອເລີ່ມຕົ້ນອັດຕະໂນມັດ. ເປີດແອັບ Background Video Recorder ເພື່ອເປີດມັນອີກຄັ້ງ.</string>
+
+    <string name="notification_service_checker">ການວິເຄາະ</string>
+    <string name="notification_start_service_error_sub_text">ໃຫ້ຄລິກໃສ່ການແຈ້ງເຕືອນເພື່ອເປີດແອັບພລິເຄຊັນ. ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດຢູ່ເທິງສຸດຂອງທຸກແອັບພລິເຄຊັນ ຫຼືອຸປະກອນໄດ້ຖືກລັອກ</string>
+    <string name="notification_start_service_error_text">ລົ້ມເຫລວໃນການເລີ່ມຕົ້ນການບໍລິການການບັນທຶກໃນ boot ອຸປະກອນ</string>
+    <string name="notification_stop_text">ຢຸດ</string>
+    <string name="notification_could_not_start_recording_service">ການບໍລິການການບັນທຶກລົ້ມເຫລວໃນການເລີ່ມຕົ້ນ. ແຕະເພື່ອປິດການເພີ່ມປະສິດທິພາບແບັດເຕີຣີສຳລັບແອັບນີ້</string>
+
+    <string name="permission_audio_dlg_msg">ສຽງແມ່ນຕ້ອງການເພື່ອບັນທຶກສຽງໃນເວລາທີ່ບັນທຶກວິດີໂອ</string>
+    <string name="permission_audio_dlg_title">ຄວາມລະອຽດສຽງ</string>
+    <string name="permission_camera_dlg_msg">ກ້ອງແມ່ນຕ້ອງການສໍາລັບການບັນທຶກວິດີໂອ ແລະເບິ່ງຕົວຢ່າງກ້ອງຖ່າຍຮູບ.</string>
+    <string name="permission_camera_dlg_title">ຄວາມລະອຽດກ້ອງຖ່າຍຮູບ</string>
+    <string name="permission_camera_request_canceled">ແອັບພລິເຄຊັນນີ້ຕ້ອງການການອະນຸຍາດເພື່ອໃຊ້ກ້ອງຖ່າຍຮູບເພື່ອບັນທຶກວິດີໂອ. ແຕ່ເຈົ້າໄດ້ປະຕິເສດມັນ. ປິດ… ພະຍາຍາມອະນຸຍາດໃຫ້ກ້ອງຖ່າຍຮູບໃນການຕັ້ງຄ່າລະບົບຂອງຄໍາຮ້ອງສະຫມັກນີ້</string>
+    <string name="permission_location_dlg_explanation_msg">ເມື່ອແອັບຖືກຫຍໍ້ລົງ, ມັນໃຊ້ສະຖານທີ່ໃນພື້ນຫຼັງເພື່ອແຕ້ມຈຸດປະສານງານ, ທີ່ຢູ່ ແລະຄວາມໄວໃນວິດີໂອທີ່ບັນທຶກໄວ້.</string>
+    <string name="permission_location_dlg_title">ການອະນຸຍາດສະຖານທີ່</string>
+    <string name="permission_storage_dlg_msg">ບ່ອນຈັດເກັບຂໍ້ມູນແມ່ນຈຳເປັນເພື່ອບັນທຶກວິດີໂອໃສ່ໂຟນເດີທີ່ແບ່ງປັນ ແລະສຳລັບໂໝດການບັນທຶກຮອບ</string>
+    <string name="permission_storage_dlg_title">ການອະນຸຍາດເກັບຮັກສາ</string>
+    <string name="permissions_audio_storage_dlg_title">ການເກັບຮັກສາສຽງແລະການອະນຸຍາດ</string>
+
+    <string name="prefs_audio_bitrate_text">ອັດຕາບິດ (ຄຸນນະພາບ)</string>
+    <string name="prefs_audio_rate_text">ຄວາມຖີ່ຂອງການເກັບຕົວຢ່າງ</string>
+    <string name="prefs_audio_recording_text">ການບັນທຶກສຽງ</string>
+    <string name="prefs_audio_settings_sum_text">ຄຸນະພາບ, ປິດ /ບັນທຶກສຽງ</string>
+    <string name="prefs_audio_settings_text">ການຕັ້ງຄ່າສຽງ</string>
+    <string name="prefs_audio_stereo_text">ສະເຕຣິໂອ</string>
+    <string name="prefs_auto_start_app_launch_sum_text">ເລີ່ມການບັນທຶກວິດີໂອອັດຕະໂນມັດເມື່ອແອັບຯເລີ່ມຕົ້ນ</string>
+    <string name="prefs_auto_start_app_launch_text">ເມື່ອເລີ່ມຕົ້ນຄໍາຮ້ອງສະຫມັກ</string>
+    <string name="prefs_battery_optimization_sum_text">ການເພີ່ມປະສິດທິພາບຂອງແບດເຕີຣີອາດຈະປ້ອງກັນບໍ່ໃຫ້ແອັບພລິເຄຊັນເຮັດວຽກຢ່າງຖືກຕ້ອງ (ຕົວຢ່າງເຊັ່ນການໃຊ້ກ້ອງຖ່າຍຮູບ). ຄລິກທີ່ນີ້ເພື່ອປິດມັນສໍາລັບແອັບນີ້ດຽວນີ້</string>
+    <string name="prefs_battery_optimization_text">ການເພີ່ມປະສິດທິພາບຫມໍ້ໄຟ</string>
+    <string name="prefs_day_night_mode_auto_text">ອັດຕະໂນມັດ (ມື້ /ຄືນ), ຕາມເວລາ</string>
+    <string name="prefs_day_night_mode_day_text">ມື້</string>
+    <string name="prefs_day_night_mode_night_text">ກາງຄືນ</string>
+    <string name="prefs_donate_action_text">ບໍ​ລິ​ຈາກ</string>
+    <string name="prefs_donate_disable_ads_text">ການບໍລິຈາກ, ລົບໂຄສະນາ</string>
+    <string name="prefs_donate_sum_text">ສະຫນັບສະຫນູນການພັດທະນາຄໍາຮ້ອງສະຫມັກ</string>
+    <string name="prefs_donate_text">ການບໍລິຈາກ</string>
+    <string name="prefs_faq_sum_text">ຄໍາ​ຖາມ​ທີ່​ຖືກ​ຖາມ​ເລື້ອຍໆ</string>
+    <string name="prefs_float_size_increase_text">ຂະໜາດຂອງປຸ່ມຢູ່ໃນປ່ອງຢ້ຽມທີ່ເລື່ອນໄດ້</string>
+    <string name="from">ຈາກ</string>
+    <string name="to">ກ່ອນ</string>
+    <string name="prefs_fps_value_from_to_stable_text">(ມື້​ດຽວ​, ຫມັ້ນ​ຄົງ​)</string>
+    <string name="prefs_fps_value_from_to_text">(ກາງເວັນແລະກາງຄືນ)</string>
+    <string name="prefs_info_more_category_text">ຂໍ້ມູນ /ເພີ່ມເຕີມ…</string>
+    <string name="prefs_optical_zoom_text">Optical Zoom (ຊູມ) /Focal Length</string>
+    <string name="prefs_orientation_landscape">ພູມສັນຖານ</string>
+    <string name="prefs_orientation_landscape_reversed">ອະລະບໍ້າປີ້ນກັບກັນ</string>
+    <string name="prefs_orientation_portrait">ຮູບຄົນ</string>
+    <string name="prefs_other_auto_deleting_sum_text">ລຶບວິດີໂອເກົ່າທີ່ສຸດໂດຍອັດຕະໂນມັດໃນຂະນະທີ່ບັນທຶກຖ້າບໍ່ມີພື້ນທີ່ພຽງພໍສໍາລັບວິດີໂອໃໝ່</string>
+    <string name="prefs_other_auto_deleting_text">ການບັນທຶກວົງ</string>
+    <string name="prefs_other_keep_screen_on_text">ອອກຈາກໜ້າຈໍ</string>
+    <string name="prefs_other_path_photo_text">ສະຖານທີ່ຮູບ (ໂຟນເດີ /ເສັ້ນທາງ)</string>
+    <string name="prefs_other_path_text">ສະຖານທີ່ວິດີໂອ (ໂຟນເດີ /ເສັ້ນທາງ)</string>
+    <string name="prefs_other_settings_sum_text">ສະຖານທີ່ວິດີໂອ (ບັນທຶກໂຟນເດີ), ໄລຍະເວລາວິດີໂອ, ການບັນທຶກ loop, ຂະຫນາດວິດີໂອສູງສຸດ</string>
+    <string name="prefs_other_settings_text">ການຕັ້ງຄ່າອື່ນໆ</string>
+    <string name="prefs_other_video_duration_text">ໄລຍະເວລາວິດີໂອ - ບັນທຶກເລື້ອຍໆສໍ່າໃດ</string>
+    <string name="prefs_overlay_app_btn_text">ເປີດຕົວແອັບພລິເຄຊັນ</string>
+    <string name="prefs_overlay_buttons_text">ປຸ່ມ /ອົງປະກອບຢູ່ໃນປ່ອງຢ້ຽມທີ່ເລື່ອນໄດ້</string>
+    <string name="prefs_overlay_close_btn_text">ປິດປ່ອງຢ້ຽມ</string>
+    <string name="prefs_overlay_drag_btn_text">ລາກປ່ອງຢ້ຽມ</string>
+    <string name="prefs_overlay_videos_btn_text">ເປີດ​ຫນ້າ​ຈໍ​ວິ​ດີ​ໂອ​</string>
+    <string name="prefs_pinch_to_zoom_sum_text">ຊູມດ້ວຍສອງນິ້ວ</string>
+    <string name="prefs_pinch_to_zoom_text">ເປີດໃຊ້ການຊູມໜ້າຈໍ</string>
+    <string name="prefs_policy_text">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="prefs_rate_sum_text">ໃຫ້ຄະແນນແອັບໃນ Play Store</string>
+    <string name="prefs_rate_text">ຄາດຄະເນ</string>
+    <string name="prefs_rules_video_space_text">ຄວາມອາດສາມາດຄວາມຈໍາສູງສຸດຂອງວິດີໂອທັງຫມົດ (ການບັນທຶກ loop)</string>
+    <string name="prefs_screen_autostart_text">ການບັນທຶກອັດຕະໂນມັດ</string>
+    <string name="prefs_screen_ui_summary_text">ກົດໄວແລະຍາວໃນຫນ້າຈໍ, ປ່ອງຢ້ຽມປ໊ອບອັບ, ການສັ່ນສະເທືອນໃນການບັນທຶກ, ການແຈ້ງເຕືອນສຽງ, ປຸ່ມໃນຫນ້າຈໍ, ປິດຫນ້າຈໍແລະອື່ນໆ</string>
+    <string name="prefs_screen_ui_title">ການໂຕ້ຕອບ (UI)</string>
+    <string name="prefs_screen_video_day_night_mode_sum_text">ສະຫຼັບກ້ອງຖ່າຍຮູບອັດຕະໂນມັດທັງກາງເວັນ/ກາງຄືນໃນເວລາສະເພາະ</string>
+    <string name="prefs_screen_video_day_night_mode_text">ການຕັ້ງຄ່າວັນ/ກາງຄືນອັດຕະໂນມັດ</string>
+    <string name="prefs_settings_bitrate_sum_text">ອັດຕາບິດທີ່ສູງຂຶ້ນ - ຄຸນນະພາບທີ່ດີກວ່າ, ແຕ່ຂະຫນາດໄຟລ໌ວິດີໂອໃຫຍ່ກວ່າ</string>
+    <string name="prefs_settings_fps_sum_text">FPS ຫຼາຍຂຶ້ນ - ວິດີໂອທີ່ລຽບກວ່າ, ແຕ່ແບັດເຕີຣີໝົດໄວ. ມັນດີກວ່າທີ່ຈະຕັ້ງຄ່າທໍາອິດທີ່ຕໍ່າສຸດ (ທີສອງອາດຈະສູງກວ່າ) ສໍາລັບການບັນທຶກທີ່ດີກວ່າໃນຄວາມມືດ</string>
+    <string name="prefs_share_sum_text">ສົ່ງ app ນີ້​ກັບ​ຫມູ່​ເພື່ອນ​ຂອງ​ທ່ານ​</string>
+    <string name="prefs_share_text">ແບ່ງປັນສິ່ງນີ້</string>
+    <string name="prefs_show_audio_btn_text">ເປີດ /ປິດການບັນທຶກສຽງ</string>
+    <string name="prefs_show_buttons_sum_text">ປຸ່ມ​ສໍາ​ລັບ​ການ​ປ່ຽນ​ແປງ​ກ້ອງ​ຖ່າຍ​ຮູບ​, ເປີດ /ປິດ​ການ​ບັນ​ທຶກ​ສຽງ​, flash​, ຮູບ​ແບບ​ໃນ​ຕອນ​ກາງ​ຄືນ​, ຕັນ​ວິ​ດີ​ໂອ​ຈາກ​ການ​ຂຽນ​ທັບ</string>
+    <string name="prefs_show_buttons_text">ປຸ່ມໃນຫນ້າຈໍ</string>
+    <string name="prefs_show_camera_change_btn_text">ການ​ປ່ຽນ​ແປງ​ກ້ອງ​ຖ່າຍ​ຮູບ​</string>
+    <string name="prefs_show_day_night_mode_btn_text">ໂໝດກາງເວັນ/ກາງຄືນ/ອັດຕະໂນມັດ</string>
+    <string name="prefs_show_flash_btn_text">ເປີດ/ປິດ Flash</string>
+    <string name="prefs_show_lock_btn_text">ການຂັດຂວາງວິດີໂອຈາກການຖືກຂຽນທັບ</string>
+    <string name="prefs_show_overlay_btn_sum_text">ສະແດງປ່ອງຢ້ຽມທີ່ມີປຸ່ມຄວບຄຸມຢູ່ເທິງສຸດຂອງທຸກແອັບພລິເຄຊັນ</string>
+    <string name="prefs_show_overlay_btn_text">ສະແດງປ່ອງຢ້ຽມທີ່ເລື່ອນໄດ້</string>
+    <string name="prefs_show_status_bar_text">ສະແດງແຖບສະຖານະຂອງລະບົບ</string>
+    <string name="prefs_show_take_photo_btn_text">ເພື່ອເຮັດໃຫ້ຮູບ</string>
+    <string name="prefs_stabilization_not_supported_by_camera_or_device_text">ບໍ່ຮອງຮັບກ້ອງປະຈຸບັນ. ຜູ້ຜະລິດມັກຈະຈໍາກັດການນໍາໃຊ້ຂອງມັນ - ມັນມີຢູ່ໃນຄໍາຮ້ອງສະຫມັກກ້ອງຖ່າຍຮູບມາດຕະຖານເທົ່ານັ້ນ</string>
+    <string name="prefs_start_stop_voice_sum_text">ສຽງໃນຕອນເລີ່ມຕົ້ນ, ຢຸດຫຼືບັນທຶກຄວາມຜິດພາດ</string>
+    <string name="prefs_start_stop_voice_text">ສະຖານະການບັນທຶກສຽງ</string>
+    <string name="prefs_support_sum_text">ລາຍງານຂໍ້ຜິດພາດ, ຂັດຂ້ອງ ຫຼືສະເໜີໃຫ້</string>
+    <string name="prefs_support_text">ສະ​ຫນັບ​ສະ​ຫນູນ (ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ​)</string>
+    <string name="prefs_system_alert_window_sum_text">ອະນຸຍາດໃຫ້ແອັບຯນີ້ປາກົດຢູ່ເທິງສຸດຂອງແອັບຯອື່ນໆທັງໝົດ. ນີ້ແມ່ນຕ້ອງການເພື່ອສະແດງປ່ອງຢ້ຽມທີ່ເລື່ອນໄດ້</string>
+    <string name="prefs_system_alert_window_text">ຄວາມລະອຽດຢູ່ເທິງສຸດຂອງປ່ອງຢ້ຽມທັງຫມົດ</string>
+    <string name="prefs_toolbar_title_setting">ການຕັ້ງຄ່າ</string>
+    <string name="prefs_ui_click_none_text">ບໍ່​ມີ​ຫຍັງ​ເຮັດ</string>
+    <string name="prefs_ui_click_start_stop_rec_text">ເລີ່ມ /ຢຸດການບັນທຶກ</string>
+    <string name="prefs_ui_click_text">ແຕະໄວໃນຫນ້າຈໍ</string>
+    <string name="prefs_ui_long_click_text">ກົດຄ້າງໄວ້ເທິງໜ້າຈໍ</string>
+    <string name="prefs_version_text">ເວີຊັນແອັບພລິເຄຊັນ</string>
+    <string name="prefs_video_bitrate_text">ອັດຕາບິດ (ຄຸນນະພາບ)</string>
+    <string name="prefs_video_camera_control_scene_mode_night_text">ໂໝດສາກຄວບຄຸມກ້ອງຖ່າຍຮູບ (ກາງຄືນ)</string>
+    <string name="prefs_video_camera_control_scene_mode_text">ໂໝດສາກຄວບຄຸມກ້ອງຖ່າຍຮູບ (ມື້)</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">ຄວາມສໍາຄັນທົ່ວໄປ /ໃບຫນ້າ</string>
+    <string name="prefs_video_control_scene_mode_hdr_text">HDR (ຊ່ວງໄດນາມິກສູງ)</string>
+    <string name="prefs_video_control_scene_mode_night_text">ກາງຄືນ (ສຳລັບສະພາບແສງໜ້ອຍ)</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">ເວລາຕາເວັນຂຶ້ນ (ຕາເວັນຂຶ້ນ)</string>
+    <string name="prefs_video_day_night_auto_mode_night_start_time_text">ເວລາຕາເວັນຕົກ (ຕາເວັນຕົກ)</string>
+    <string name="prefs_video_day_night_mode_text">ໂໝດກາງເວັນ, ກາງຄືນ ຫຼື ອັດຕະໂນມັດ</string>
+    <string name="prefs_video_exposure_night_text">ການຊົດເຊີຍຄ່າແສງ (ກາງຄືນ)</string>
+    <string name="prefs_video_exposure_text">ການຊົດເຊີຍຄ່າແສງ (ມື້)</string>
+    <string name="prefs_video_flip_x_sum_text">ການສະທ້ອນຕາມແນວນອນຂອງວິດີໂອ. ຮູບພາບມີການປ່ຽນແປງພຽງແຕ່ສໍາລັບການບັນທຶກວິດີໂອ, ການສະແດງຕົວຢ່າງບໍ່ມີການປ່ຽນແປງ</string>
+    <string name="prefs_video_flip_x_text">ພິກວິດີໂອຕາມແນວນອນ</string>
+    <string name="prefs_video_focus_continuous_picture_text">ຮູບພາບຢ່າງຕໍ່ເນື່ອງ</string>
+    <string name="prefs_video_focus_continuous_video_text">ວິດີໂອຕໍ່ເນື່ອງ (ແນະນຳໃນລະຫວ່າງມື້)</string>
+    <string name="prefs_video_focus_infinity_text">Infinity (ແນະນໍາໃນຕອນກາງຄືນ)</string>
+    <string name="prefs_video_focus_night_text">ໂຟກັສກ້ອງ (ກາງຄືນ)</string>
+    <string name="prefs_video_focus_text">ໂຟກັສກ້ອງ (ມື້)</string>
+    <string name="prefs_video_fps_range_text">ເຟຣມຕໍ່ວິນາທີ (FPS)</string>
+    <string name="prefs_video_hevc_sum_text">ບັນທຶກໃນຮູບແບບ HEVC (H.265) ເພື່ອປະຢັດພື້ນທີ່. ທ່ານອາດຈະບໍ່ສາມາດຫຼິ້ນວິດີໂອດັ່ງກ່າວໃນອຸປະກອນຫຼິ້ນວິດີໂອອື່ນ ຫຼືແອັບພລິເຄຊັນ. ຈະຣີເຊັດຄວາມລະອຽດ ແລະອັດຕາບິດຫຼັງຈາກການປ່ຽນແປງ</string>
+    <string name="prefs_video_hevc_text">ການເຂົ້າລະຫັດວິດີໂອທີ່ມີປະສິດທິພາບສູງ</string>
+    <string name="prefs_video_orientation_text">ວິດີໂອແລະທິດທາງໂທລະສັບ</string>
+    <string name="prefs_video_resolution_text">ຄວາມລະອຽດວິດີໂອ</string>
+    <string name="prefs_video_settings_sum_text">ຄວາມລະອຽດ, ອັດຕາບິດ, ປະຖົມນິເທດ, ໂຟກັສ, ກ້ອງຖ່າຍຮູບ, ໂໝດກາງຄືນ</string>
+    <string name="prefs_video_settings_text">ການຕັ້ງຄ່າວິດີໂອ</string>
+    <string name="prefs_video_size_sum_text">ຂະໜາດໃຫຍ່ຂຶ້ນ - ແບັດເຕີຣີໝົດໄວ</string>
+    <string name="prefs_video_space_unlimited">ບໍ່ຈຳກັດ</string>
+    <string name="prefs_video_stabilization_text">ສະຖຽນລະພາບວິດີໂອ</string>
+    <string name="prefs_zoom_text">ຊູມດິຈິຕອນ (ຊູມ)</string>
+
+    <string name="rec_day_night_btn_auto_text">ອັດຕະໂນມັດ</string>
+    <string name="rec_fix_short_text">ເພື່ອແກ້ໄຂ</string>
+    <string name="rec_fix_text">ເພື່ອແກ້ໄຂ</string>
+    <string name="rec_free_space_text">ຟຣີ</string>
+    <string name="rec_location_text">ສະຖານທີ່</string>
+    <string name="rec_gps_text">Gps</string>
+    <string name="rec_network_text">ສຸດທິ</string>
+    <string name="rec_off_text">ປິດ</string>
+    <string name="rec_on_text">ລວມ.</string>
+
+    <string name="recording_start_text">ເລີ່ມການບັນທຶກ</string>
+    <string name="recording_started_failed_text">ເກີດຄວາມຜິດພາດໃນການເລີ່ມຕົ້ນການບັນທຶກ</string>
+    <string name="recording_started_with_audio_text">ການ​ບັນ​ທຶກ​ວິ​ດີ​ໂອ​ໃຫມ່​ທີ່​ມີ​ການ​ບັນ​ທຶກ​ສຽງ​ໄດ້​ເລີ່ມ​ຕົ້ນ​</string>
+    <string name="recording_started_with_text">ການ​ບັນ​ທຶກ​ໄດ້​ເລີ່ມ​ຕົ້ນ​</string>
+    <string name="recording_started_without_audio_text">ການບັນທຶກວິດີໂອໃໝ່ເລີ່ມຕົ້ນໂດຍບໍ່ມີການບັນທຶກສຽງ</string>
+    <string name="recording_stop_not_enough_space_msg">ການ​ເກັບ​ຮັກ​ສາ​ບໍ່​ພຽງ​ພໍ. ສະຖານທີ່ຟຣີ</string>
+    <string name="recording_stop_text">ຢຸດການບັນທຶກ</string>
+    <string name="recording_stopped_failed_text">ບໍ່ສາມາດສຳເລັດການບັນທຶກໄດ້ຢ່າງຖືກຕ້ອງ</string>
+    <string name="recording_stopped_with_text">ຢຸດການບັນທຶກ</string>
+    <string name="recording_text">ການບັນທຶກ…</string>
+    <string name="recording_voice_started_text">ການບັນທຶກໄດ້ເລີ່ມຕົ້ນແລ້ວ</string>
+    <string name="recording_voice_stopped_text">ຢຸດການບັນທຶກ</string>
+
+    <string name="service_no_system_alert_window_granted_text">ການບໍລິການແອັບພລິເຄຊັນເລີ່ມຕົ້ນ /ຢຸດອັດຕະໂນມັດບໍ່ສາມາດເລີ່ມຕົ້ນໄດ້ເພາະວ່າ SYSTEM_ALERT_WINDOW (ສະແດງຢູ່ເທິງປ່ອງຢ້ຽມແອັບພລິເຄຊັນອື່ນໆທັງຫມົດ) ບໍ່ໄດ້ຮັບອະນຸຍາດ. ຫຼືອຸປະກອນຖືກລັອກໃນຂະນະນັ້ນ (ຂໍ້ຈຳກັດຂອງ Android ແມ່ນວ່າອຸປະກອນຕ້ອງຖືກປົດລັອກກ່ອນ ແລະຕ້ອງເປີດໜ້າຈໍຂອງມັນກ່ອນທີ່ຈະສາມາດເລີ່ມບໍລິການບັນທຶກວິດີໂອອັດຕະໂນມັດໄດ້)</string>
+
+    <string name="storage_external_single">ກາດ microSD</string>
+    <string name="storage_phone">ໜ່ວຍຄວາມຈຳໂທລະສັບ</string>
+
+    <string name="videos_count_one">ວິດີໂອ</string>
+    <string name="videos_count_other">ວິດີໂອ</string>
+    <string name="videos_deleting_text">ກຳລັງລຶບໄຟລ໌… ກະລຸນາລໍຖ້າ!</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບໄຟລ໌ວິດີໂອນີ້\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບໄຟລ໌ວິດີໂອເຫຼົ່ານີ້\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບໂຟນເດີວິດີໂອນີ້\?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຂໍ້ມູນໂຟນເດີວິດີໂອ\?</string>
+    <string name="videos_dialog_delete_multiple_files_title">ລຶບໄຟລ໌ວິດີໂອ</string>
+    <string name="videos_dialog_delete_multiple_folders_title">ລຶບໂຟນເດີວິດີໂອ</string>
+    <string name="videos_empty_text">ບໍ່ມີວິດີໂອ</string>
+    <string name="videos_file_action_lock_dlg_title">ບລັອກວິດີໂອນີ້ຈາກການລຶບອັດຕະໂນມັດ (ຂຽນທັບ) ບໍ\?</string>
+    <string name="videos_file_deletion_mode">ລຶບໂໝດ</string>
+    <string name="videos_file_item_share">ແບ່ງປັນສິ່ງນີ້</string>
+    <string name="videos_file_item_watch">ສັງເກດເບິ່ງ</string>
+    <string name="videos_file_sort_asc">ຮຽງຈາກໃຫຍ່ຫານ້ອຍ</string>
+    <string name="videos_file_sort_desc">ຮຽງລຳດັບ</string>
+    <string name="videos_file_was_locked_text">ໄຟລ໌ວິດີໂອໄດ້ຖືກຍ້າຍໄປໂຟນເດີທີ່ມີການປ້ອງກັນ</string>
+    <string name="videos_item_mode_deletion_exit_text">ອອກຈາກໂໝດລຶບ</string>
+    <string name="videos_locked_folder_text">ຂຽນທັບຖືກປ້ອງກັນ</string>
+    <string name="videos_menu_delete">ລຶບ</string>
+    <string name="videos_menu_refresh">ໂຫຼດຂໍ້ມູນຄືນໃໝ່</string>
+    <string name="videos_menu_select_all">ເລືອກທັງໝົດ</string>
+    <string name="videos_menu_sorting">ການຈັດຮຽງ</string>
+    <string name="videos_menu_storage">ຄວາມຊົງຈໍາ</string>
+    <string name="videos_no_storage_permission_dlg_msg_text">ກະລຸນາເປີດການຕັ້ງຄ່າແອັບພລິເຄຊັນ ແລະອະນຸຍາດໃຫ້ເຂົ້າເຖິງບ່ອນເກັບຂໍ້ມູນໃນໜ່ວຍຄວາມຈຳໂທລະສັບ</string>
+    <string name="videos_no_storage_permission_dlg_title_text">ບໍ່ມີການອະນຸຍາດບ່ອນຈັດເກັບຂໍ້ມູນ</string>
+    <string name="videos_select_files_for_deleting">ເລືອກໄຟລ໌ວິດີໂອທີ່ຈະລຶບ</string>
+    <string name="videos_storage_select_dlg_title">ເລືອກບ່ອນເກັບຂໍ້ມູນວິດີໂອ</string>
+    <string name="videos_toolbar_subtitle">ການບັນທຶກວິດີໂອ</string>
+
+
+    <string name="prefs_warnings_text">ຄຳເຕືອນ</string>
+    <string name="prefs_beep_each_start_recording_sum_text">ສັນຍານໃນຕອນຕົ້ນຂອງການບັນທຶກໄຟລ໌ວິດີໂອຕໍ່ໄປ</string>
+    <string name="prefs_beep_each_start_recording_text">Beep ເມື່ອບັນທຶກ</string>
+    <string name="prefs_translate_text">ການແປແອັບພລິເຄຊັນ</string>
+    <string name="prefs_translate_sum_text">ຊ່ວຍປັບປຸງ ຫຼືແກ້ໄຂການແປຂໍ້ຄວາມໃນພາສາຂອງເຈົ້າ</string>
+
+    <string name="msg_dialog_camera_battery_optimization_title">ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ເຂົ້າເຖິງກ້ອງຖ່າຍຮູບ. ເປີດໃຊ້ການເພີ່ມປະສິດທິພາບແບັດເຕີຣີແລ້ວ</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">ປິດການນຳໃຊ້ການປັບແຕ່ງແບັດເຕີຣີສຳລັບແອັບນີ້ໃນການຕັ້ງຄ່າອຸປະກອນຂອງທ່ານເພື່ອຫຼີກເວັ້ນຄວາມຜິດພາດຂອງກ້ອງໃນອະນາຄົດ</string>
+
+
+    <string name="accept_text">ຂ້ອຍ​ຍອມ​ຮັບ</string>
+
+    <string name="hour">ຊົ່ວໂມງ</string>
+    <string name="hours">ຊົ່ວໂມງ</string>
+    <string name="prefs_orientation_sensor_automatic">ອັດຕະໂນມັດ</string>
+    
+    <string name="prefs_vibrate_rec_start_stop_text">ການສັ່ນສະເທືອນໃນເວລາເລີ່ມຕົ້ນຫຼືຢຸດການບັນທຶກ</string>
+    <string name="prefs_start_rec_volume_down_key_text">ເລີ່ມຕົ້ນ ຫຼືຢຸດການບັນທຶກໂດຍການກົດປຸ່ມຫຼຸດສຽງລົງ</string>
+    <string name="prefs_start_rec_volume_down_key_summary_text">ແອັບຈະແລ່ນໃນພື້ນຫຼັງ (ເປີດຢູ່ໃນແຖບການແຈ້ງເຕືອນ) ເພື່ອໃຫ້ຄຸນສົມບັດນີ້ເຮັດວຽກໄດ້</string>
+    <string name="timer_auto_start_recording_cancel_message_text">ຍົກເລີກການບັນທຶກວິດີໂອອັດຕະໂນມັດສໍາລັບການຈັບເວລາປະຈຸບັນບໍ\?</string>
+    <string name="timer_auto_start_recording_duration_text">ຄວາມຍາວວິດີໂອ</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">ເວລາໄດ້ຖືກກໍານົດໄວ້ໃນອະດີດ</string>
+    <string name="timer_service_notification_subtitle_text">ບໍລິການຈັບເວລາການຫຼິ້ນອັດຕະໂນມັດການບັນທຶກວິດີໂອ</string>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+</resources>
