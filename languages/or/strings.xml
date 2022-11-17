@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ସାମ୍ପ୍ରତିକ ଟାଇମର୍ ପାଇଁ ସ୍ୱୟଂଚାଳିତ ଭିଡିଓ ରେକର୍ଡିଂ ବାତିଲ୍ କରନ୍ତୁ\?</string>
     <string name="timer_auto_start_recording_duration_text">ଭିଡିଓ ଲମ୍ବ |</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ଅତୀତରେ ସମୟ ସ୍ଥିର କରାଯାଇଥିଲା |</string>
-    <string name="timer_service_notification_subtitle_text">ଭିଡିଓ ରେକର୍ଡିଂ ଅଟୋପ୍ଲେ ଟାଇମର୍ ସେବା |</string>
+    <string name="timer_service_notification_subtitle_text">ଭିଡିଓ ରେକର୍ଡିଂର ସ୍ୱୟଂଚାଳିତ ଆରମ୍ଭ ପାଇଁ ଟାଇମର୍ ସେବା |</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -534,7 +534,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Anulować automatyczne nagrywanie wideo dla bieżącego timera\?</string>
     <string name="timer_auto_start_recording_duration_text">Długość wideo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Czas został ustawiony w przeszłości</string>
-    <string name="timer_service_notification_subtitle_text">Usługa timera automatycznego odtwarzania wideo</string>
+    <string name="timer_service_notification_subtitle_text">Usługa timera do automatycznego rozpoczęcia nagrywania wideo</string>
     
     
     
@@ -547,4 +547,6 @@
     
 
     
+
+	
 </resources>

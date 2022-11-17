@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Manafoana ny firaketana horonantsary mandeha ho azy ho an\'ny fameram-potoana ankehitriny\?</string>
     <string name="timer_auto_start_recording_duration_text">Halavan\'ny horonan-tsary</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ny fotoana dia napetraka tamin\'ny lasa</string>
-    <string name="timer_service_notification_subtitle_text">Serivisy fameram-potoana autoplay firaketana video</string>
+    <string name="timer_service_notification_subtitle_text">Serivisy fameram-potoana ho an\'ny fanombohana mandeha ho azy ny firaketana horonantsary</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

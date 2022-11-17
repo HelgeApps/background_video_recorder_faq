@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Anulați înregistrarea video automată pentru cronometrul actual\?</string>
     <string name="timer_auto_start_recording_duration_text">Durata videoclipului</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Timpul a fost stabilit în trecut</string>
-    <string name="timer_service_notification_subtitle_text">Serviciu de temporizator de redare automată a înregistrării video</string>
+    <string name="timer_service_notification_subtitle_text">Serviciu de cronometru pentru pornirea automată a înregistrării video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

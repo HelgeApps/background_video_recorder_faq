@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ĉu nuligi aŭtomatan videoregistradon por la nuna tempigilo\?</string>
     <string name="timer_auto_start_recording_duration_text">Longo de video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">La tempo estis fiksita en la pasinteco</string>
-    <string name="timer_service_notification_subtitle_text">Servo de temporizilo de aŭtomata ludado de videoregistrado</string>
+    <string name="timer_service_notification_subtitle_text">Temporizilo por aŭtomata komenco de videoregistrado</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

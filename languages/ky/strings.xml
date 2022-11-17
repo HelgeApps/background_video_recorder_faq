@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Учурдагы таймер үчүн автоматтык видео жазуу жокко чыгарылсынбы\?</string>
     <string name="timer_auto_start_recording_duration_text">Видеонун узундугу</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Убакыт өткөндө белгиленген</string>
-    <string name="timer_service_notification_subtitle_text">Видео жазууну автоматтык түрдө ойнотуу таймер кызматы</string>
+    <string name="timer_service_notification_subtitle_text">Видео жазууну автоматтык түрдө баштоо үчүн таймер кызматы</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

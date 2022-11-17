@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Cancelar a gravação automática de vídeo para o temporizador atual\?</string>
     <string name="timer_auto_start_recording_duration_text">Duração do vídeo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">O tempo foi definido no passado</string>
-    <string name="timer_service_notification_subtitle_text">Serviço de temporizador de reprodução automática de gravação de vídeo</string>
+    <string name="timer_service_notification_subtitle_text">Serviço de temporizador para início automático de gravação de vídeo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

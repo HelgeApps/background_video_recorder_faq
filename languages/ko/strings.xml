@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">현재 타이머에 대한 자동 동영상 녹화를 취소하시겠습니까\?</string>
     <string name="timer_auto_start_recording_duration_text">동영상 길이</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">시간은 과거로 설정</string>
-    <string name="timer_service_notification_subtitle_text">동영상 녹화 자동 재생 타이머 서비스</string>
+    <string name="timer_service_notification_subtitle_text">동영상 녹화 자동 시작을 위한 타이머 서비스</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

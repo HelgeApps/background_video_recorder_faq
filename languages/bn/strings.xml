@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">বর্তমান টাইমারের জন্য স্বয়ংক্রিয় ভিডিও রেকর্ডিং বাতিল করবেন\?</string>
     <string name="timer_auto_start_recording_duration_text">ভিডিও দৈর্ঘ্য</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">অতীতে সময় নির্ধারিত ছিল</string>
-    <string name="timer_service_notification_subtitle_text">ভিডিও রেকর্ডিং অটোপ্লে টাইমার পরিষেবা</string>
+    <string name="timer_service_notification_subtitle_text">ভিডিও রেকর্ডিং স্বয়ংক্রিয়ভাবে শুরু করার জন্য টাইমার পরিষেবা</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Vil du avbryte automatisk videoopptak for gjeldende tidtaker\?</string>
     <string name="timer_auto_start_recording_duration_text">Videolengde</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Tiden ble satt i fortiden</string>
-    <string name="timer_service_notification_subtitle_text">Timertjeneste for automatisk avspilling av videoopptak</string>
+    <string name="timer_service_notification_subtitle_text">Timertjeneste for automatisk start av videoopptak</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

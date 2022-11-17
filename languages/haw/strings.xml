@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Hoʻopau i ka hoʻopaʻa wikiō ʻakomi no ka manawa o kēia manawa\?</string>
     <string name="timer_auto_start_recording_duration_text">Ka lōʻihi wikiō</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ua hoʻonohonoho ʻia ka manawa ma mua</string>
-    <string name="timer_service_notification_subtitle_text">Hana manawa hoʻopaʻa wikiō hoʻopaʻa manawa</string>
+    <string name="timer_service_notification_subtitle_text">Hana manawa no ka hoʻomaka ʻakomi o ka hoʻopaʻa wikiō</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

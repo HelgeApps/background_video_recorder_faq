@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Zrušit automatické nahrávání videa pro aktuální časovač\?</string>
     <string name="timer_auto_start_recording_duration_text">Délka videa</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Čas byl nastaven v minulosti</string>
-    <string name="timer_service_notification_subtitle_text">Služba časovače automatického přehrávání nahrávání videa</string>
+    <string name="timer_service_notification_subtitle_text">Služba časovače pro automatické spuštění nahrávání videa</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

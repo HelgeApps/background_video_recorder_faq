@@ -17,6 +17,8 @@
         символы, которые начинаются на % используются для поставления чисел или текстов при запущенной программы
     -->
 
+    <string name="app_name">Фоновая запись видео</string>
+
     <string name="close">Закрыть</string>
     <string name="default_text">По умолчанию</string>
     <string name="disabled_text">Отключено</string>
@@ -292,13 +294,12 @@
     <string name="timer_auto_start_recording_cancel_message_text">Отменить автоматическую видеозапись по текущему таймеру?</string>
     <string name="timer_auto_start_recording_duration_text">Продолжительность видеозаписи</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Время было задано в прошлом</string>
-    <string name="timer_service_notification_subtitle_text">Таймер-сервис автозапуска видеозаписи</string>
+    <string name="timer_service_notification_subtitle_text">Таймер-сервис автоматического начала видеозаписи</string>
     <string name="prefs_system_alert_window_sum_text">Разрешить этому приложению отображаться поверх всех других приложений. Это необходимо для отображения плавающего окна</string>
     <string name="prefs_battery_optimization_sum_text">Оптимизация батареи может препятствовать корректной работе приложения (например, использование камеры). Нажмите здесь, чтобы отключить ее для данного приложения сейчас</string>
     <string name="prefs_other_settings_sum_text">Расположение видеозаписей (папка для сохранения), продолжительность видео, циклическая запись, максимальный размер видео</string>
 
 
-    <string name="app_name">Фоновая запись видео</string>
     <string name="msg_activity_battery_is_not_ignoring_msg_text">Приложение не исключено из оптимизации батареи. Если камера не работает в фоновом режиме или что-нибудь еще не работает, то добавьте это приложение в исключения энергосберегающего режима.</string>
     <string name="msg_battery_optimization_tip_text">Оптимизация батареи -> Все приложения -> Название этого приложения -> Не оптимизировать/экономить</string>
     <string name="msg_to_close_this_service_close_app">Чтобы закрыть эту службу, сначала сверните или закройте приложение</string>

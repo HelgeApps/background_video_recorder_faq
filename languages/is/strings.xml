@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Hætta við sjálfvirka myndbandsupptöku fyrir núverandi tímamæli\?</string>
     <string name="timer_auto_start_recording_duration_text">Lengd myndbands</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Tíminn var ákveðinn í fortíðinni</string>
-    <string name="timer_service_notification_subtitle_text">Sjálfvirk spilun tímamælis fyrir myndbandsupptöku</string>
+    <string name="timer_service_notification_subtitle_text">Tímamælirþjónusta fyrir sjálfvirka byrjun myndbandsupptöku</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

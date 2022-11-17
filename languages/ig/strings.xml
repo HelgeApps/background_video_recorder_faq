@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kagbuo ndekọ vidiyo akpaka maka ngụ oge dị ugbu a\?</string>
     <string name="timer_auto_start_recording_duration_text">Ogologo vidiyo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Edebere oge n\'oge gara aga</string>
-    <string name="timer_service_notification_subtitle_text">Ọrụ ngụ oge na-edekọ vidiyo autoplay</string>
+    <string name="timer_service_notification_subtitle_text">Ọrụ ngụ oge maka mmalite ndekọ vidiyo na akpaghị aka</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Να ακυρωθεί η αυτόματη εγγραφή βίντεο για το τρέχον χρονόμετρο;</string>
     <string name="timer_auto_start_recording_duration_text">Μήκος βίντεο</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ο χρόνος είχε οριστεί στο παρελθόν</string>
-    <string name="timer_service_notification_subtitle_text">Υπηρεσία χρονοδιακόπτη αυτόματης αναπαραγωγής εγγραφής βίντεο</string>
+    <string name="timer_service_notification_subtitle_text">Υπηρεσία χρονοδιακόπτη για αυτόματη έναρξη εγγραφής βίντεο</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

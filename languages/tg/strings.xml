@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Сабти автоматии видео барои таймери ҷорӣ бекор карда шавад\?</string>
     <string name="timer_auto_start_recording_duration_text">Давомнокии видео</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Вақт дар гузашта муқаррар карда шуд</string>
-    <string name="timer_service_notification_subtitle_text">Хизматрасонии таймери сабти худкори видео</string>
+    <string name="timer_service_notification_subtitle_text">Хидмати таймер барои оғози автоматии сабти видео</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

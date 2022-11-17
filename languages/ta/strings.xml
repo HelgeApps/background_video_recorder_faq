@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">தற்போதைய டைமருக்கான தானியங்கி வீடியோ பதிவை ரத்துசெய்யவா\?</string>
     <string name="timer_auto_start_recording_duration_text">வீடியோ நீளம்</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">கடந்த காலத்தில் நேரம் அமைக்கப்பட்டது</string>
-    <string name="timer_service_notification_subtitle_text">வீடியோ பதிவு ஆட்டோபிளே டைமர் சேவை</string>
+    <string name="timer_service_notification_subtitle_text">வீடியோ பதிவை தானாக தொடங்குவதற்கான டைமர் சேவை</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

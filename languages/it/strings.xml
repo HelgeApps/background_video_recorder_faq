@@ -533,7 +533,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Annullare la registrazione video automatica per il timer corrente\?</string>
     <string name="timer_auto_start_recording_duration_text">Durata del video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Il tempo era fissato nel passato</string>
-    <string name="timer_service_notification_subtitle_text">Servizio timer di riproduzione automatica della registrazione video</string>
+    <string name="timer_service_notification_subtitle_text">Servizio timer per l\'avvio automatico della registrazione video</string>
     
     
     
@@ -546,4 +546,6 @@
     
 
     
+
+	
 </resources>

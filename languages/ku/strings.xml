@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Tomarkirina vîdyoya otomatîkî ya ji bo demjimêra heyî betal bike\?</string>
     <string name="timer_auto_start_recording_duration_text">Dirêjahiya vîdyoyê</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Dem berê hatibû danîn</string>
-    <string name="timer_service_notification_subtitle_text">Karûbarê demjimêra otoplaya tomarkirina vîdyoyê</string>
+    <string name="timer_service_notification_subtitle_text">Karûbarê demjimêr ji bo destpêkirina otomatîkî ya tomarkirina vîdyoyê</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Automatyske fideo-opname annulearje foar de hjoeddeistige timer\?</string>
     <string name="timer_auto_start_recording_duration_text">Video lingte</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">De tiid wie yn it ferline ynsteld</string>
-    <string name="timer_service_notification_subtitle_text">Timertsjinst foar automatyske opname fan fideo-opname</string>
+    <string name="timer_service_notification_subtitle_text">Timertsjinst foar automatyske start fan fideo-opname</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

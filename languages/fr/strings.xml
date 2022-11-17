@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Annuler l\'enregistrement vidéo automatique pour le minuteur actuel \?</string>
     <string name="timer_auto_start_recording_duration_text">Durée de la vidéo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Le temps était fixé dans le passé</string>
-    <string name="timer_service_notification_subtitle_text">Service de minuterie de lecture automatique d\'enregistrement vidéo</string>
+    <string name="timer_service_notification_subtitle_text">Service de minuterie pour le démarrage automatique de l\'enregistrement vidéo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

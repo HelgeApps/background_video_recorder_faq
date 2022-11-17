@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ਮੌਜੂਦਾ ਟਾਈਮਰ ਲਈ ਆਟੋਮੈਟਿਕ ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਰੱਦ ਕਰਨਾ ਹੈ\?</string>
     <string name="timer_auto_start_recording_duration_text">ਵੀਡੀਓ ਦੀ ਲੰਬਾਈ</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ਸਮਾਂ ਪਹਿਲਾਂ ਤੈਅ ਕੀਤਾ ਗਿਆ ਸੀ</string>
-    <string name="timer_service_notification_subtitle_text">ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਆਟੋਪਲੇ ਟਾਈਮਰ ਸੇਵਾ</string>
+    <string name="timer_service_notification_subtitle_text">ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਦੀ ਆਟੋਮੈਟਿਕ ਸ਼ੁਰੂਆਤ ਲਈ ਟਾਈਮਰ ਸੇਵਾ</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

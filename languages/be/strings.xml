@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Адмяніць аўтаматычную відэазапіс па бягучым таймеры\?</string>
     <string name="timer_auto_start_recording_duration_text">Працягласць відэазапісы</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Час было зададзена ў мінулым</string>
-    <string name="timer_service_notification_subtitle_text">Таймер-сэрвіс аўтазапуску відэазапісу</string>
+    <string name="timer_service_notification_subtitle_text">Таймер-сэрвіс аўтаматычнага пачатку відэазапісу</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

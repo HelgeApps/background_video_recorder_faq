@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Soke rikodin bidiyo ta atomatik don mai ƙidayar lokaci\?</string>
     <string name="timer_auto_start_recording_duration_text">Tsawon bidiyo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">An saita lokaci a baya</string>
-    <string name="timer_service_notification_subtitle_text">Sabis na lokacin rikodin bidiyo ta atomatik</string>
+    <string name="timer_service_notification_subtitle_text">Sabis na ƙidayar lokaci don farawa ta atomatik na rikodin bidiyo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

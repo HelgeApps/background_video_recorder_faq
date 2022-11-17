@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ikkanċella r-reġistrazzjoni awtomatika tal-vidjo għat-tajmer attwali\?</string>
     <string name="timer_auto_start_recording_duration_text">Tul tal-vidjo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Iż-żmien ġie stabbilit fil-passat</string>
-    <string name="timer_service_notification_subtitle_text">Servizz ta\' timer ta\' reġistrazzjoni awtomatika tal-vidjo</string>
+    <string name="timer_service_notification_subtitle_text">Servizz ta\' timer għall-bidu awtomatiku tar-reġistrazzjoni tal-vidjo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

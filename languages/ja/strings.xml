@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">現在のタイマーの自動ビデオ録画をキャンセルしますか？</string>
     <string name="timer_auto_start_recording_duration_text">ビデオの長さ</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">過去に時間が設定されました</string>
-    <string name="timer_service_notification_subtitle_text">ビデオ録画自動再生タイマーサービス</string>
+    <string name="timer_service_notification_subtitle_text">動画撮影を自動で開始するタイマーサービス</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

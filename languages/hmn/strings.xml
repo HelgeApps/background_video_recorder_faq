@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ncua tseg tsis siv neeg kaw video rau lub sijhawm tam sim no\?</string>
     <string name="timer_auto_start_recording_duration_text">Video ntev</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Lub sijhawm tau teem tseg yav dhau los</string>
-    <string name="timer_service_notification_subtitle_text">Video kaw autoplay timer pabcuam</string>
+    <string name="timer_service_notification_subtitle_text">Kev pabcuam timer rau kev pib tsis siv neeg kaw video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

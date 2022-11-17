@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ለአሁኑ ሰዓት ቆጣሪ አውቶማቲክ የቪዲዮ ቀረጻ ይሰረዝ\?</string>
     <string name="timer_auto_start_recording_duration_text">የቪዲዮ ርዝመት</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ጊዜው ያለፈበት ነበር</string>
-    <string name="timer_service_notification_subtitle_text">የቪዲዮ ቀረጻ ራስ-አጫውት የሰዓት ቆጣሪ አገልግሎት</string>
+    <string name="timer_service_notification_subtitle_text">የቪዲዮ ቀረጻ በራስ ሰር ለመጀመር የሰዓት ቆጣሪ አገልግሎት</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Atšaukti automatinį vaizdo įrašymą pagal dabartinį laikmatį\?</string>
     <string name="timer_auto_start_recording_duration_text">Vaizdo įrašo trukmė</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Laikas buvo nustatytas praeityje</string>
-    <string name="timer_service_notification_subtitle_text">Vaizdo įrašymo automatinio paleidimo laikmačio paslauga</string>
+    <string name="timer_service_notification_subtitle_text">Laikmačio paslauga, skirta automatiškai pradėti vaizdo įrašymą</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

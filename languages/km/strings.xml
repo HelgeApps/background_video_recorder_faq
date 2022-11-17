@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">បោះបង់ការថតវីដេអូដោយស្វ័យប្រវត្តិសម្រាប់កម្មវិធីកំណត់ម៉ោងបច្ចុប្បន្ន\?</string>
     <string name="timer_auto_start_recording_duration_text">ប្រវែងវីដេអូ</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ពេលវេលាត្រូវបានកំណត់កាលពីអតីតកាល</string>
-    <string name="timer_service_notification_subtitle_text">ការថតវីដេអូ សេវាកម្មកំណត់ម៉ោងចាក់ដោយស្វ័យប្រវត្តិ</string>
+    <string name="timer_service_notification_subtitle_text">សេវាកម្មកំណត់ម៉ោងសម្រាប់ការចាប់ផ្តើមថតវីដេអូដោយស្វ័យប្រវត្តិ</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

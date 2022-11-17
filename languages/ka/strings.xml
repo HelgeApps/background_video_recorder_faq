@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">გააუქმოს ვიდეოს ავტომატური ჩაწერა მიმდინარე ტაიმერისთვის\?</string>
     <string name="timer_auto_start_recording_duration_text">ვიდეოს სიგრძე</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">დრო წარსულში დაინიშნა</string>
-    <string name="timer_service_notification_subtitle_text">ვიდეო ჩაწერის ავტომატური დაკვრის ტაიმერის სერვისი</string>
+    <string name="timer_service_notification_subtitle_text">ტაიმერის სერვისი ვიდეოს ჩაწერის ავტომატური დაწყებისთვის</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

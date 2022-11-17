@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Geçerli zamanlayıcı için otomatik video kaydı iptal edilsin mi\?</string>
     <string name="timer_auto_start_recording_duration_text">video uzunluğu</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Zaman geçmişte ayarlandı</string>
-    <string name="timer_service_notification_subtitle_text">Video kaydı otomatik oynatma zamanlayıcı hizmeti</string>
+    <string name="timer_service_notification_subtitle_text">Video kaydının otomatik olarak başlatılması için zamanlayıcı hizmeti</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

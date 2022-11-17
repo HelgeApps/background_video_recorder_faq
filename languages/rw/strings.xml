@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kureka gufata amashusho yikora kubihe byubu\?</string>
     <string name="timer_auto_start_recording_duration_text">Uburebure bwa videwo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Igihe cyagenwe kera</string>
-    <string name="timer_service_notification_subtitle_text">Amashusho yerekana amashusho ya autoplay igihe</string>
+    <string name="timer_service_notification_subtitle_text">Serivise yigihe cyo gutangira gufata amashusho mu buryo bwikora</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

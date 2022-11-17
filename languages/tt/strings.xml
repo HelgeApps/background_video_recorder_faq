@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Хәзерге таймер өчен автоматик видео язуны кире кагарга\?</string>
     <string name="timer_auto_start_recording_duration_text">Видео озынлыгы</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Вакыт үткәндә билгеләнде</string>
-    <string name="timer_service_notification_subtitle_text">Видео язу автоплей таймер хезмәте</string>
+    <string name="timer_service_notification_subtitle_text">Видео язуны автоматик башлау өчен таймер хезмәте</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

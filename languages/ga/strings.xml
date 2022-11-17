@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Cealaigh fístaifeadadh uathoibríoch don amadóir reatha\?</string>
     <string name="timer_auto_start_recording_duration_text">Fad físeáin</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Socraíodh am san am atá caite</string>
-    <string name="timer_service_notification_subtitle_text">Seirbhís uaineadóir uathsheinnte fístaifeadta</string>
+    <string name="timer_service_notification_subtitle_text">Seirbhís lasc ama chun fístaifeadadh a thosú go huathoibríoch</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

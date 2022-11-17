@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Uneko tenporizadorerako bideo-grabaketa automatikoa bertan behera utzi nahi duzu\?</string>
     <string name="timer_auto_start_recording_duration_text">Bideoaren luzera</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Denbora iraganean ezarri zen</string>
-    <string name="timer_service_notification_subtitle_text">Bideoa grabatzeko automatikoki erreproduzitzeko tenporizadore zerbitzua</string>
+    <string name="timer_service_notification_subtitle_text">Bideo-grabaketa automatikoki hasteko tenporizadore zerbitzua</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

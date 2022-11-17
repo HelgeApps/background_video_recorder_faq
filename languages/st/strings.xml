@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Hlakola ho rekota lifitio tsa othomathike bakeng sa sebali sa nako hajoale\?</string>
     <string name="timer_auto_start_recording_duration_text">Bolelele ba video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Nako e ne e behiloe nakong e fetileng</string>
-    <string name="timer_service_notification_subtitle_text">Tšebeletso ea sebali sa nako ea ho rekota video</string>
+    <string name="timer_service_notification_subtitle_text">Tšebeletso ea nako bakeng sa ho qala ho rekota video ka boiketsetso</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

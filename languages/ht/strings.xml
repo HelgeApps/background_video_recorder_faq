@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Anile anrejistreman videyo otomatik pou revèy aktyèl la\?</string>
     <string name="timer_auto_start_recording_duration_text">Longè videyo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Tan te fikse nan tan lontan an</string>
-    <string name="timer_service_notification_subtitle_text">Anrejistreman videyo sèvis revèy otomatik</string>
+    <string name="timer_service_notification_subtitle_text">Sèvis revèy pou kòmanse otomatik anrejistreman videyo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

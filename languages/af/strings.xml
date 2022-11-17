@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kanselleer outomatiese video-opname vir die huidige tydteller\?</string>
     <string name="timer_auto_start_recording_duration_text">Video lengte</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Tyd is in die verlede vasgestel</string>
-    <string name="timer_service_notification_subtitle_text">Video-opname-outospeeltydtyddiens</string>
+    <string name="timer_service_notification_subtitle_text">Timer diens vir outomatiese begin van video-opname</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

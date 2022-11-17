@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">取消当前定时器的自动录像？</string>
     <string name="timer_auto_start_recording_duration_text">视频长度</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">时间已定在过去</string>
-    <string name="timer_service_notification_subtitle_text">录像自动播放定时服务</string>
+    <string name="timer_service_notification_subtitle_text">自动开始录像的定时器服务</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

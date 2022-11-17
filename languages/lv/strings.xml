@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Vai atcelt automātisko video ierakstīšanu pašreizējam taimeram\?</string>
     <string name="timer_auto_start_recording_duration_text">Video garums</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Laiks tika noteikts pagātnē</string>
-    <string name="timer_service_notification_subtitle_text">Video ierakstīšanas automātiskās atskaņošanas taimera pakalpojums</string>
+    <string name="timer_service_notification_subtitle_text">Taimera pakalpojums automātiskai video ierakstīšanas uzsākšanai</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

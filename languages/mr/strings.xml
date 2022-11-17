@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">वर्तमान टाइमरसाठी स्वयंचलित व्हिडिओ रेकॉर्डिंग रद्द करायचे\?</string>
     <string name="timer_auto_start_recording_duration_text">व्हिडिओ लांबी</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">भूतकाळात वेळ ठरलेली होती</string>
-    <string name="timer_service_notification_subtitle_text">व्हिडिओ रेकॉर्डिंग ऑटोप्ले टाइमर सेवा</string>
+    <string name="timer_service_notification_subtitle_text">व्हिडिओ रेकॉर्डिंगच्या स्वयंचलित प्रारंभासाठी टाइमर सेवा</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

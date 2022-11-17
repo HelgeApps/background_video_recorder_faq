@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kas tühistada praeguse taimeriga automaatne videosalvestus\?</string>
     <string name="timer_auto_start_recording_duration_text">Video pikkus</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Aeg pandi minevikku</string>
-    <string name="timer_service_notification_subtitle_text">Videosalvestuse automaatesituse taimeri teenus</string>
+    <string name="timer_service_notification_subtitle_text">Taimeriteenus videosalvestuse automaatseks käivitamiseks</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

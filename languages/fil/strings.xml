@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kanselahin ang awtomatikong pag-record ng video para sa kasalukuyang timer\?</string>
     <string name="timer_auto_start_recording_duration_text">Haba ng video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ang oras ay itinakda sa nakaraan</string>
-    <string name="timer_service_notification_subtitle_text">Serbisyo ng autoplay timer ng pag-record ng video</string>
+    <string name="timer_service_notification_subtitle_text">Serbisyo ng timer para sa awtomatikong pagsisimula ng pag-record ng video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

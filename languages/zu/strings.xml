@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Khansela ukuqoshwa kwevidiyo okuzenzakalelayo kwesibali sikhathi samanje\?</string>
     <string name="timer_auto_start_recording_duration_text">Ubude bevidiyo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Isikhathi sabekwa esikhathini esidlule</string>
-    <string name="timer_service_notification_subtitle_text">Isevisi yesibali sikhathi sokuqoshwa kwevidiyo</string>
+    <string name="timer_service_notification_subtitle_text">Isevisi yesibali sikhathi sokuqala okuzenzakalelayo kokuqoshwa kwevidiyo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

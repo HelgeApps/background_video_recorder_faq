@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Urhoxisa ushicilelo lwevidiyo oluzenzekelayo kwisibali-xesha sangoku\?</string>
     <string name="timer_auto_start_recording_duration_text">Ubude bevidiyo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ixesha lalimiselwe ngaphambili</string>
-    <string name="timer_service_notification_subtitle_text">Inkonzo yexesha lokudlala ngokuzenzekelayo ividiyo</string>
+    <string name="timer_service_notification_subtitle_text">Inkonzo yesibali-xesha ukuqalisa ngokuzenzekelayo ukurekhodwa kwevidiyo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

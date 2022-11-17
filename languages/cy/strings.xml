@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Canslo recordiad fideo awtomatig ar gyfer yr amserydd cyfredol\?</string>
     <string name="timer_auto_start_recording_duration_text">Hyd fideo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Gosodwyd amser yn y gorffennol</string>
-    <string name="timer_service_notification_subtitle_text">Gwasanaeth amserydd awtochwarae recordio fideo</string>
+    <string name="timer_service_notification_subtitle_text">Gwasanaeth amserydd ar gyfer dechrau recordio fideo yn awtomatig</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

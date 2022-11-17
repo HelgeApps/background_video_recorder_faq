@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Vols cancel·lar la gravació automàtica de vídeo amb el temporitzador actual\?</string>
     <string name="timer_auto_start_recording_duration_text">Durada del vídeo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">El temps es va fixar en el passat</string>
-    <string name="timer_service_notification_subtitle_text">Servei de temporitzador de reproducció automàtica de gravació de vídeo</string>
+    <string name="timer_service_notification_subtitle_text">Servei de temporitzador per a l\'inici automàtic de la gravació de vídeo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

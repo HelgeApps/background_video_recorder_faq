@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Jooji duubista fiidyaha tooska ah ee wakhtiga hadda socda\?</string>
     <string name="timer_auto_start_recording_duration_text">Dhererka muuqaalka</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Waqti ayaa la dhigay waqti hore</string>
-    <string name="timer_service_notification_subtitle_text">Duubista fiidyaha adeegga saacadeeyaha otomaatiga ah</string>
+    <string name="timer_service_notification_subtitle_text">Adeegga saacada ee bilawga tooska ah ee duubista fiidiyowga</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

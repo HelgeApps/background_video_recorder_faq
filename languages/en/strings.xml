@@ -300,7 +300,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Cancel automatic video recording for the current timer\?</string>
     <string name="timer_auto_start_recording_duration_text">Video length</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Time was set in the past</string>
-    <string name="timer_service_notification_subtitle_text">Video recording autoplay timer service</string>
+    <string name="timer_service_notification_subtitle_text">Timer service for automatic start of video recording</string>
 
     <!-- aren't translatable: -->
 
@@ -352,4 +352,6 @@
     <string name="donate_sub_2" translatable="false">&#128513;</string>
     <string name="donate_sub_3" translatable="false">&#129297;</string>
     <string name="donate_sub_4" translatable="false">&#128525;</string>
+
+	
 </resources>

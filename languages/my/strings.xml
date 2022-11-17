@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">လက်ရှိအချိန်တိုင်းကိရိယာအတွက် အလိုအလျောက် ဗီဒီယိုရိုက်ကူးခြင်းကို ပယ်ဖျက်လိုပါသလား။</string>
     <string name="timer_auto_start_recording_duration_text">ဗီဒီယို အရှည်</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">အချိန်က အရင်တုန်းက သတ်မှတ်ထားတယ်။</string>
-    <string name="timer_service_notification_subtitle_text">ဗီဒီယိုရိုက်ကူးခြင်း အလိုအလျောက်ဖွင့်ချိန်တိုင်းကိရိယာဝန်ဆောင်မှု</string>
+    <string name="timer_service_notification_subtitle_text">ဗီဒီယိုရိုက်ကူးမှုကို အလိုအလျောက်စတင်ရန်အတွက် အချိန်တိုင်းကိရိယာဝန်ဆောင်မှု</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

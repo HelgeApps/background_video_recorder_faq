@@ -304,7 +304,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Otkazati automatsko snimanje videa za trenutni mjerač vremena\?</string>
     <string name="timer_auto_start_recording_duration_text">Dužina videa</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Vrijeme je postavljeno u prošlost</string>
-    <string name="timer_service_notification_subtitle_text">Usluga timera za automatsko snimanje video zapisa</string>
+    <string name="timer_service_notification_subtitle_text">Timer usluga za automatski početak video snimanja</string>
     
     
     
@@ -317,4 +317,6 @@
     
 
     
+
+	
 </resources>

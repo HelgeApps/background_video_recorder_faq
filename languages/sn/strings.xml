@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kurekodha otomatiki vhidhiyo yenguva iripo\?</string>
     <string name="timer_auto_start_recording_duration_text">Video urefu</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Nguva yakarongwa kare</string>
-    <string name="timer_service_notification_subtitle_text">Vhidhiyo yekurekodha autoplay timer sevhisi</string>
+    <string name="timer_service_notification_subtitle_text">Timer sevhisi yekutanga otomatiki yekurekodha vhidhiyo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

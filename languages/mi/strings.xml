@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Whakakorehia te hopu ataata aunoa mo te matawā onāianei\?</string>
     <string name="timer_auto_start_recording_duration_text">Te roa o te ataata</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">I whakaritea te wa i mua</string>
-    <string name="timer_service_notification_subtitle_text">Te ratonga matawā rekoata whakaata aunoa</string>
+    <string name="timer_service_notification_subtitle_text">Ratonga taima mo te tiimata aunoa o te tuhi ataata</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

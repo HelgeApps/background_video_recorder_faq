@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ప్రస్తుత టైమర్ కోసం ఆటోమేటిక్ వీడియో రికార్డింగ్‌ని రద్దు చేయాలా\?</string>
     <string name="timer_auto_start_recording_duration_text">వీడియో నిడివి</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">గతంలో టైమ్ సెట్ చేయబడింది</string>
-    <string name="timer_service_notification_subtitle_text">వీడియో రికార్డింగ్ ఆటోప్లే టైమర్ సేవ</string>
+    <string name="timer_service_notification_subtitle_text">వీడియో రికార్డింగ్ యొక్క స్వయంచాలక ప్రారంభం కోసం టైమర్ సేవ</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

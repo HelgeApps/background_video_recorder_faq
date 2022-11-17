@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Törli az automatikus videorögzítést az aktuális időzítőhöz\?</string>
     <string name="timer_auto_start_recording_duration_text">Videó hossza</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Az időt a múltban határozták meg</string>
-    <string name="timer_service_notification_subtitle_text">Videorögzítés automatikus lejátszási időzítő szolgáltatás</string>
+    <string name="timer_service_notification_subtitle_text">Időzítő szolgáltatás a videofelvétel automatikus indításához</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

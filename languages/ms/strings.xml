@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Batalkan rakaman video automatik untuk pemasa semasa\?</string>
     <string name="timer_auto_start_recording_duration_text">Panjang video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Masa telah ditetapkan pada masa lalu</string>
-    <string name="timer_service_notification_subtitle_text">Perkhidmatan pemasa automain rakaman video</string>
+    <string name="timer_service_notification_subtitle_text">Perkhidmatan pemasa untuk permulaan automatik rakaman video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

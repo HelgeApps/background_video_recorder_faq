@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ikansela ang awtomatik nga pagrekord sa video alang sa karon nga timer\?</string>
     <string name="timer_auto_start_recording_duration_text">Ang gitas-on sa video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ang panahon gitakda sa nangagi</string>
-    <string name="timer_service_notification_subtitle_text">Serbisyo sa autoplay timer sa pagrekord sa video</string>
+    <string name="timer_service_notification_subtitle_text">Serbisyo sa timer alang sa awtomatikong pagsugod sa pagrekord sa video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

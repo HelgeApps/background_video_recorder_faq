@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">د اوسني ټایمر لپاره اتوماتیک ویډیو ثبت کول لغوه کړئ؟</string>
     <string name="timer_auto_start_recording_duration_text">د ویډیو اوږدوالی</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">وخت په تیرو وختونو کې ټاکل شوی و</string>
-    <string name="timer_service_notification_subtitle_text">د ویډیو ثبتولو اتوماتیک ټایمر خدمت</string>
+    <string name="timer_service_notification_subtitle_text">د ویډیو ثبتولو اتوماتیک پیل لپاره د ټیمر خدمت</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

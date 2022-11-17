@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ಪ್ರಸ್ತುತ ಟೈಮರ್‌ಗಾಗಿ ಸ್ವಯಂಚಾಲಿತ ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ರದ್ದುಗೊಳಿಸುವುದೇ\?</string>
     <string name="timer_auto_start_recording_duration_text">ವೀಡಿಯೊ ಉದ್ದ</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ಹಿಂದೆ ಸಮಯ ನಿಗದಿಪಡಿಸಲಾಗಿತ್ತು</string>
-    <string name="timer_service_notification_subtitle_text">ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್ ಸ್ವಯಂಪ್ಲೇ ಟೈಮರ್ ಸೇವೆ</string>
+    <string name="timer_service_notification_subtitle_text">ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್‌ನ ಸ್ವಯಂಚಾಲಿತ ಪ್ರಾರಂಭಕ್ಕಾಗಿ ಟೈಮರ್ ಸೇವೆ</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

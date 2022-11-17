@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">إلغاء تسجيل الفيديو التلقائي للمؤقت الحالي؟</string>
     <string name="timer_auto_start_recording_duration_text">طول الفيديو</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">تم ضبط الوقت في الماضي</string>
-    <string name="timer_service_notification_subtitle_text">خدمة مؤقت التشغيل التلقائي لتسجيل الفيديو</string>
+    <string name="timer_service_notification_subtitle_text">خدمة الموقت لبدء تسجيل الفيديو تلقائيًا</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

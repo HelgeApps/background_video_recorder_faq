@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ali želite preklicati samodejno snemanje videa za trenutni časovnik\?</string>
     <string name="timer_auto_start_recording_duration_text">Dolžina videa</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Čas je bil postavljen v preteklost</string>
-    <string name="timer_service_notification_subtitle_text">Storitev časovnika za samodejno predvajanje snemanja videa</string>
+    <string name="timer_service_notification_subtitle_text">Storitev časovnika za samodejni začetek snemanja videa</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

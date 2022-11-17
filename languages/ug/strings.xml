@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">نۆۋەتتىكى ۋاقىت ئۈچۈن ئاپتوماتىك سىن خاتىرىسىنى بىكار قىلامسىز؟</string>
     <string name="timer_auto_start_recording_duration_text">سىن ئۇزۇنلۇقى</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ۋاقىت ئۆتمۈشتە بېكىتىلگەن</string>
-    <string name="timer_service_notification_subtitle_text">سىن خاتىرىلەش ئاپتوماتىك ۋاقىت ماشىنىسى مۇلازىمىتى</string>
+    <string name="timer_service_notification_subtitle_text">سىن خاتىرىسىنى ئاپتوماتىك باشلاش ئۈچۈن ۋاقىت مۇلازىمىتى</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

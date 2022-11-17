@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Automatesch Videoopnam fir den aktuellen Timer annuléieren\?</string>
     <string name="timer_auto_start_recording_duration_text">Video Längt</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Zäit war an der Vergaangenheet gesat</string>
-    <string name="timer_service_notification_subtitle_text">Video Recording Autoplay Timer Service</string>
+    <string name="timer_service_notification_subtitle_text">Timer Service fir automatesch Start vun Video Opnam</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

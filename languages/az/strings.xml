@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Cari taymer üçün avtomatik video qeydi ləğv edilsin\?</string>
     <string name="timer_auto_start_recording_duration_text">Video uzunluğu</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Vaxt keçmişdə təyin olundu</string>
-    <string name="timer_service_notification_subtitle_text">Video qeydinin avtomatik oynatma taymer xidməti</string>
+    <string name="timer_service_notification_subtitle_text">Video çəkilişin avtomatik başlaması üçün taymer xidməti</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

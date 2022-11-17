@@ -507,7 +507,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Automatische Videoaufnahme für den aktuellen Timer abbrechen\?</string>
     <string name="timer_auto_start_recording_duration_text">Videolänge</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Die Zeit wurde in der Vergangenheit eingestellt</string>
-    <string name="timer_service_notification_subtitle_text">Autoplay-Timer-Dienst für Videoaufzeichnungen</string>
+    <string name="timer_service_notification_subtitle_text">Timer-Dienst zum automatischen Start der Videoaufzeichnung</string>
     
     
     
@@ -520,4 +520,6 @@
     
 
     
+
+	
 </resources>

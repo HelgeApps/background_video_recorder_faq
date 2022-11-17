@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Fagilee gbigbasilẹ fidio aifọwọyi fun aago lọwọlọwọ bi\?</string>
     <string name="timer_auto_start_recording_duration_text">Video ipari</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Akoko ti ṣeto ni igba atijọ</string>
-    <string name="timer_service_notification_subtitle_text">Fidio gbigbasilẹ laifọwọyi aago iṣẹ</string>
+    <string name="timer_service_notification_subtitle_text">Iṣẹ aago fun ibẹrẹ laifọwọyi ti gbigbasilẹ fidio</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">موجودہ ٹائمر کے لیے خودکار ویڈیو ریکارڈنگ منسوخ کریں؟</string>
     <string name="timer_auto_start_recording_duration_text">ویڈیو کی لمبائی</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">وقت ماضی میں مقرر کیا گیا تھا</string>
-    <string name="timer_service_notification_subtitle_text">ویڈیو ریکارڈنگ آٹو پلے ٹائمر سروس</string>
+    <string name="timer_service_notification_subtitle_text">ویڈیو ریکارڈنگ کے خودکار آغاز کے لیے ٹائمر سروس</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

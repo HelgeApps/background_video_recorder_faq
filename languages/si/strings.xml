@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">වත්මන් ටයිමරය සඳහා ස්වයංක්‍රීය වීඩියෝ පටිගත කිරීම අවලංගු කරන්නද\?</string>
     <string name="timer_auto_start_recording_duration_text">වීඩියෝ දිග</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">කාලය නියම කළේ අතීතයේ ය</string>
-    <string name="timer_service_notification_subtitle_text">වීඩියෝ පටිගත කිරීමේ ස්වයංක්‍රීය ධාවන කාල ගණක සේවාව</string>
+    <string name="timer_service_notification_subtitle_text">වීඩියෝ පටිගත කිරීම ස්වයංක්‍රීයව ආරම්භ කිරීම සඳහා ටයිමර් සේවාව</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

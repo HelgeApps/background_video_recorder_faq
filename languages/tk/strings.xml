@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Häzirki taýmer üçin awtomatiki wideo ýazgyny ýatyrmalymy\?</string>
     <string name="timer_auto_start_recording_duration_text">Wideo uzynlygy</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Wagt geçmişde bellendi</string>
-    <string name="timer_service_notification_subtitle_text">Wideo ýazgy awtopleý taýmer hyzmaty</string>
+    <string name="timer_service_notification_subtitle_text">Wideo ýazgyny awtomatiki başlamak üçin taýmer hyzmaty</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

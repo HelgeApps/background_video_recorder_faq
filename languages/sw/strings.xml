@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ungependa kughairi kurekodi video kiotomatiki kwa kipima muda cha sasa\?</string>
     <string name="timer_auto_start_recording_duration_text">Urefu wa video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Wakati uliwekwa zamani</string>
-    <string name="timer_service_notification_subtitle_text">Huduma ya kipima muda cha kurekodi video</string>
+    <string name="timer_service_notification_subtitle_text">Huduma ya kipima muda kwa kuanza kiotomatiki kwa kurekodi video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

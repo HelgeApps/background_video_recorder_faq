@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Չեղարկե՞լ ընթացիկ ժամանակաչափի ավտոմատ տեսագրումը:</string>
     <string name="timer_auto_start_recording_duration_text">Տեսանյութի երկարությունը</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Ժամանակը դրված էր անցյալում</string>
-    <string name="timer_service_notification_subtitle_text">Տեսագրման ավտոմատ նվագարկման ժմչփի ծառայություն</string>
+    <string name="timer_service_notification_subtitle_text">Ժամաչափի ծառայություն՝ տեսանկարահանման ավտոմատ մեկնարկի համար</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

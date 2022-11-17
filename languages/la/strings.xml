@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Cancel automatic video recording pro currenti timer\?</string>
     <string name="timer_auto_start_recording_duration_text">Video longitudinem</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Tempus praeteritum</string>
-    <string name="timer_service_notification_subtitle_text">Video recording autoplay timor muneris</string>
+    <string name="timer_service_notification_subtitle_text">Timor muneris pro ipso initio video recording</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Да се ​​отмени ли автоматичното записване на видео за текущия таймер\?</string>
     <string name="timer_auto_start_recording_duration_text">Дължина на видеото</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Времето беше определено в миналото</string>
-    <string name="timer_service_notification_subtitle_text">Услуга таймер за автоматично възпроизвеждане на видео запис</string>
+    <string name="timer_service_notification_subtitle_text">Таймер услуга за автоматично стартиране на видеозапис</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

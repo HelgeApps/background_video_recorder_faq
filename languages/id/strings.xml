@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Batalkan perekaman video otomatis untuk pengatur waktu saat ini\?</string>
     <string name="timer_auto_start_recording_duration_text">Durasi video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Waktu telah ditentukan di masa lalu</string>
-    <string name="timer_service_notification_subtitle_text">Layanan penghitung waktu putar otomatis perekaman video</string>
+    <string name="timer_service_notification_subtitle_text">Layanan pengatur waktu untuk memulai perekaman video secara otomatis</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Fa\'aleaogaina le pu\'eina otometi mo le taimi nei\?</string>
     <string name="timer_auto_start_recording_duration_text">Le umi o le vitiō</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Sa faatulagaina le taimi i aso ua mavae</string>
-    <string name="timer_service_notification_subtitle_text">Au\'aunaga taimi e pu\'e ta\'i ai le taimi</string>
+    <string name="timer_service_notification_subtitle_text">Au\'aunaga o le taimi mo le amataina otometi o le pueina o vitio</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

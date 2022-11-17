@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Kodi mungatani kuti muthe kujambula mavidiyo pachomwe chilipo\?</string>
     <string name="timer_auto_start_recording_duration_text">Kutalika kwamavidiyo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Nthawi idakhazikitsidwa kale</string>
-    <string name="timer_service_notification_subtitle_text">Sewero lanthawi yojambulira makanema</string>
+    <string name="timer_service_notification_subtitle_text">Ntchito yowerengera nthawi yoyambira yokha kujambula makanema</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

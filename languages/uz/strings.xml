@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Joriy taymer uchun avtomatik video yozib olish bekor qilinsinmi\?</string>
     <string name="timer_auto_start_recording_duration_text">Video uzunligi</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Vaqt o\'tmishda belgilandi</string>
-    <string name="timer_service_notification_subtitle_text">Video yozishni avtomatik ijro etish taymer xizmati</string>
+    <string name="timer_service_notification_subtitle_text">Video yozishni avtomatik boshlash uchun taymer xizmati</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

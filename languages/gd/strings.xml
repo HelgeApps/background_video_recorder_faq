@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Sguir dheth clàradh bhidio fèin-ghluasadach airson an timer gnàthach\?</string>
     <string name="timer_auto_start_recording_duration_text">Fad bhidio</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Chaidh ùine a shuidheachadh san àm a dh\'fhalbh</string>
-    <string name="timer_service_notification_subtitle_text">Seirbheis timer autoplay clàraidh bhidio</string>
+    <string name="timer_service_notification_subtitle_text">Seirbheis timer airson tòiseachadh fèin-ghluasadach air clàradh bhidio</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

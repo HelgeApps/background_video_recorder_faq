@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Скасувати автоматичний відеозапис за поточним таймером\?</string>
     <string name="timer_auto_start_recording_duration_text">Тривалість відеозапису</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Час був поставлений у минулому</string>
-    <string name="timer_service_notification_subtitle_text">Таймер-сервіс автозапуску відеозапису</string>
+    <string name="timer_service_notification_subtitle_text">Таймер-сервіс автоматичного початку відеозапису</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

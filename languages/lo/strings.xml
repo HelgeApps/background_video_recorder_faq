@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ຍົກເລີກການບັນທຶກວິດີໂອອັດຕະໂນມັດສໍາລັບການຈັບເວລາປະຈຸບັນບໍ\?</string>
     <string name="timer_auto_start_recording_duration_text">ຄວາມຍາວວິດີໂອ</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">ເວລາໄດ້ຖືກກໍານົດໄວ້ໃນອະດີດ</string>
-    <string name="timer_service_notification_subtitle_text">ບໍລິການຈັບເວລາການຫຼິ້ນອັດຕະໂນມັດການບັນທຶກວິດີໂອ</string>
+    <string name="timer_service_notification_subtitle_text">ບໍລິການຈັບເວລາສໍາລັບການເລີ່ມຕົ້ນອັດຕະໂນມັດຂອງການບັນທຶກວິດີໂອ</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

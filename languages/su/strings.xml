@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Ngabatalkeun ngarékam pidéo otomatis pikeun timer ayeuna\?</string>
     <string name="timer_auto_start_recording_duration_text">Panjang pidéo</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Waktos diatur dina jaman baheula</string>
-    <string name="timer_service_notification_subtitle_text">Ladenan otomatis ngarekam pidéo</string>
+    <string name="timer_service_notification_subtitle_text">Ladenan timer pikeun ngamimitian otomatis ngarékam pidéo</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">לבטל הקלטת וידאו אוטומטית עבור הטיימר הנוכחי\?</string>
     <string name="timer_auto_start_recording_duration_text">אורך הסרטון</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">הזמן נקבע בעבר</string>
-    <string name="timer_service_notification_subtitle_text">שירות טיימר להפעלה אוטומטית של הקלטת וידאו</string>
+    <string name="timer_service_notification_subtitle_text">שירות טיימר להתחלה אוטומטית של הקלטת וידאו</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

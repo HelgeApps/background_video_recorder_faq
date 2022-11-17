@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Hủy quay video tự động cho bộ hẹn giờ hiện tại\?</string>
     <string name="timer_auto_start_recording_duration_text">Thời lượng video</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Thời gian được đặt trong quá khứ</string>
-    <string name="timer_service_notification_subtitle_text">Dịch vụ hẹn giờ quay video tự động phát</string>
+    <string name="timer_service_notification_subtitle_text">Dịch vụ hẹn giờ để tự động bắt đầu quay video</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

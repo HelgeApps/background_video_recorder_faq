@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">Vill du avbryta automatisk videoinspelning för den aktuella timern\?</string>
     <string name="timer_auto_start_recording_duration_text">Videolängd</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">Tiden var satt i det förflutna</string>
-    <string name="timer_service_notification_subtitle_text">Timertjänst för automatisk uppspelning av videoinspelning</string>
+    <string name="timer_service_notification_subtitle_text">Timertjänst för automatisk start av videoinspelning</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>

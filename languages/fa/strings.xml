@@ -286,7 +286,7 @@
     <string name="timer_auto_start_recording_cancel_message_text">ضبط ویدیوی خودکار برای تایمر فعلی لغو شود؟</string>
     <string name="timer_auto_start_recording_duration_text">طول ویدیو</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">زمان در گذشته تعیین شده بود</string>
-    <string name="timer_service_notification_subtitle_text">سرویس تایمر پخش خودکار فیلمبرداری</string>
+    <string name="timer_service_notification_subtitle_text">سرویس تایمر برای شروع خودکار ضبط ویدیو</string>
     
     
     
@@ -299,4 +299,6 @@
     
 
     
+
+	
 </resources>
