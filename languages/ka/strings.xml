@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ავტო</string>
     <string name="rec_fix_short_text">Შესწორება</string>
     <string name="rec_fix_text">Შესწორება</string>
-    <string name="rec_free_space_text">უფასო</string>
+    <string name="rec_free_space_text">ხელმისაწვდომია</string>
     <string name="rec_location_text">მდებარეობა</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">წმინდა</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">დრო წარსულში დაინიშნა</string>
     <string name="timer_service_notification_subtitle_text">ტაიმერის სერვისი ვიდეოს ჩაწერის ავტომატური დაწყებისთვის</string>
     
+
+    <string name="timer_auto_start_every_day_text">Ყოველ დღე</string>
+    <string name="timer_auto_start_once">ერთხელ</string>
+    <string name="timer_auto_start_dlg_type_title">დააყენეთ ტაიმერი ჩაწერის დასაწყებად</string>
+
+    <string name="prefs_zoom_out_desc_text">ულტრა ფართო კუთხის კამერაზე (ლინზაზე) წვდომისთვის შეგიძლიათ დააყენოთ მასშტაბირების ფაქტორი</string>
+    <string name="prefs_warning_notifications_sum_text">საჭიროა ფონური ჩაწერის სერვისის და სტატუსების ჩვენება შეტყობინებების პანელზე. დააწკაპუნეთ გასაგზავნად</string>
+    <string name="prefs_warning_notifications_text">შეტყობინების ნებართვა</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">კამერის გადახედვის ჩვენება მთავარ ეკრანზე</string>
+    <string name="prefs_ui_camera_preview_text">კამერის გადახედვა</string>orientation
+    <string name="photos_folder_name">ფოტოები</string>
+    <string name="photos_count_one">ფოტო</string>
+    <string name="photos_count_other">ფოტოები</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">მალსახმობის დამატება (გამშვები)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ჩაწერის დაწყება/შეწყვეტა მთავარი ეკრანის გაშვების გარეშე</string>
+   
+    <string name="prefs_audio_priority_title">პრიორიტეტული აუდიო ამ აპისთვის</string>
+    <string name="prefs_audio_priority_sum">თუ ჩართულია, სხვა აპლიკაციები ვერ გამოიყენებენ მიკროფონს. თუ გამორთულია, ამ აპლიკაციას შეიძლება არ შეეძლოს აუდიოს ჩაწერა, როდესაც მიკროფონის გამოყენებით რამდენიმე აპლიკაცია მუშაობს (Android ყოველთვის არ იძლევა მიკროფონის ერთდროულ გამოყენებას)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">ამ დროისთვის აუდიოჩანაწერი შეუძლებელია, რადგან მიკროფონს სხვა აპლიკაცია წყვეტს</string>
+
     
     
     
 
+    <string name="donate_text">შემოწირულობა</string>
+    <string name="donate_disable_ads_text">შემოწირულობა, გამორთეთ რეკლამები</string>
+    <string name="donate_dialog_item_no_ads_text">(რეკლამების გარეშე)</string>
+    <string name="donation_dlg_limited_ads_message_text">დაბალი შემოწირულობებით რეკლამები ამოღებულია მხოლოდ მთავარი ეკრანისთვის</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">მოწყობილობის მწარმოებელმა შეიძლება არ უზრუნველყოს წვდომა ყველა კამერაზე, ამიტომ ზოგიერთი შეიძლება არ გაიხსნას</string>
+
+    <string name="camera_msg_error_non_exposed_error">არჩეული კამერის გახსნა ვერ მოხერხდა. ისე ხდება, რომ ყველა ფარული კამერა ვერ გამოიყენებს ნებისმიერ აპლიკაციას. ბევრი მწარმოებელი უშვებს მათ გამოყენებას მხოლოდ მშობლიურ აპლიკაციებში. სტანდარტული კამერა გაიხსნება.</string>
+
+    <string name="rec_service_msg">კონფიდენციალურობა: თქვენ მიერ ჩაწერილი ყველა ვიდეო შეინახება მხოლოდ თქვენს ადგილობრივ მოწყობილობაზე. აპლიკაცია არ ახდენს თქვენი ვიდეოების სარეზერვო ასლს (არ აქვს კავშირი სერვერებთან)\n\nაპი გააგრძელებს მუშაობას ფონზე (წინა პლანზე გამოსახული სერვისი, რომელიც გამოჩნდება შეტყობინებების ზოლში), თუ დაიწყებთ ახალ ჩაწერას და დაბრუნდებით მთავარ ეკრანზე, გადაერთვებით სხვა აპზე ან ჩაკეტავთ ტელეფონს ჩაწერის გასაგრძელებლად.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">გთხოვთ, სცადოთ აირჩიოთ სხვა გზა (მოწყობილობის ადგილობრივი მეხსიერება)</string>
+
+    <string name="permissions_grant_storage_btn_text">მიანიჭეთ ჩაწერის მეხსიერება</string>
+
+    <string name="donation_subs_text">ყოველთვიურად შემოწირულობა</string>
+    <string name="donation_any_amount_text">არ არის რეკლამა რაიმე თანხისთვის</string>
+    <string name="donation_subs_any_amount_text">ასევე, რეკლამა მთლიანად იშლება, როცა გამოწერთ ნებისმიერ თანხას.</string>
+    <string name="donation_remove_ads_by_any_amount_text">სამუდამოდ წაშალეთ რეკლამები ნებისმიერი თანხის ერთჯერადი შემოწირულობით. ასევე შეგიძლიათ ყოველთვიურად შემოწიროთ ნებისმიერი თანხა რეკლამის წასაშლელად</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: კამერამ უცებ შეწყვიტა მუშაობა, გადატვირთა...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: ვიდეოს ჩაწერა შეწყდა, რადგან მოწყობილობის კამერამ შეწყვიტა მუშაობა</string>
+
+    <string name="prefs_audio_bt_recording_text">აუდიოს ჩაწერა Bluetooth მოწყობილობიდან</string>
 </resources>

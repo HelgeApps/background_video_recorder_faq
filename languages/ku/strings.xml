@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Ji bo rastkirinê</string>
     <string name="rec_fix_text">Ji bo rastkirinê</string>
-    <string name="rec_free_space_text">Belaş</string>
+    <string name="rec_free_space_text">Berdeste</string>
     <string name="rec_location_text">Cîh</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Tor</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Dem berê hatibû danîn</string>
     <string name="timer_service_notification_subtitle_text">Karûbarê demjimêr ji bo destpêkirina otomatîkî ya tomarkirina vîdyoyê</string>
     
+
+    <string name="timer_auto_start_every_day_text">Her roj</string>
+    <string name="timer_auto_start_once">Carek</string>
+    <string name="timer_auto_start_dlg_type_title">Demjimêr destnîşan bikin ku dest bi tomarkirinê bike</string>
+
+    <string name="prefs_zoom_out_desc_text">Ji bo ku hûn bigihîjin kameraya ultra-goşeya fireh (lens), hûn dikarin faktora mezinbûnê destnîşan bikin</string>
+    <string name="prefs_warning_notifications_sum_text">Pêdivî ye ku meriv karûbarê tomarkirina paşîn û statûyan li ser panela ragihandinê nîşan bide. Ji bo şandinê bikirtînin</string>
+    <string name="prefs_warning_notifications_text">Destûra ragihandinê</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Pêşdîtina kamerayê li ser ekrana malê nîşan bide</string>
+    <string name="prefs_ui_camera_preview_text">Pêşdîtina Kamera</string>orientation
+    <string name="photos_folder_name">Photos</string>
+    <string name="photos_count_one">wêne</string>
+    <string name="photos_count_other">photos</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Kurtenivîsê zêde bike (destpêker)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Ji bo destpêkirina /rawestandina tomarkirinê bêyî destpêkirina ekrana sereke</string>
+   
+    <string name="prefs_audio_priority_title">Ji bo vê sepanê deng bidin pêşîn</string>
+    <string name="prefs_audio_priority_sum">Ger çalak be, sepanên din dê nikaribin mîkrofonê bikar bînin. Heke neçalak be, dibe ku ev serîlêdan nekare deng tomar bike dema ku pir sepan bi karanîna mîkrofonê dixebitin (Android her gav destûrê nade karanîna hevdemî ya mîkrofonê)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Heya nuha, tomarkirina deng ne gengaz e ji ber ku mîkrofon ji hêla serîlêdanek din ve tê girtin</string>
+
     
     
     
 
+    <string name="donate_text">Bêşdan</string>
+    <string name="donate_disable_ads_text">Bexş bikin, reklaman neçalak bikin</string>
+    <string name="donate_dialog_item_no_ads_text">(bê reklam)</string>
+    <string name="donation_dlg_limited_ads_message_text">Bi bexşên kêmtir reklam tenê ji bo ekrana sereke têne rakirin</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Dibe ku çêkerê cîhazê gihîştina hemî kamerayan peyda neke, ji ber vê yekê dibe ku hin venebin</string>
+
+    <string name="camera_msg_error_non_exposed_error">Vekirina kameraya hilbijartî bi ser neket. Wusa diqewime ku ne hemî kamerayên veşartî ji hêla her serîlêdanê ve têne bikar anîn. Pir hilberîner tenê di sepanên xwe yên xwecihî de destûrê didin karanîna wan. Kamera xwerû dê vebe.</string>
+
+    <string name="rec_service_msg">Nepenî: Hemî vîdyoyên ku hûn tomar dikin dê tenê li ser cîhaza weya herêmî bêne tomar kirin. Serlêdan vîdyoyên we paşve nagire (têkiliyek bi serveran re tune)\n\nHeke hûn tomarek nû dest pê bikin û vegerin ser ekrana malê, biguhezînin serîlêdanek din an jî têlefona xwe kilît bikin da ku hûn tomarkirinê bidomînin, sepan dê di paşperdeyê de bixebite (karûbarê pêşîn a ku di barika ragihandinê de xuya dike).</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Ji kerema xwe biceribînin ku rêyek cûda hilbijêrin (hilberîna herêmî ya cîhazê)</string>
+
+    <string name="permissions_grant_storage_btn_text">Depoya nivîsandinê bide</string>
+
+    <string name="donation_subs_text">Her meh bexş bikin</string>
+    <string name="donation_any_amount_text">tu reklam ji bo her mîqdara</string>
+    <string name="donation_subs_any_amount_text">Di heman demê de, dema ku hûn ji bo her mîqdarê bibin abone, reklam bi tevahî tê rakirin.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Bi bexşîna yek-carî ya her mîqdar re reklaman her û her jêbirin. Her weha hûn dikarin her mehê her mîqdarê bidin da ku reklaman jêbirin</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera ji nişka ve ji kar rawestiya, ji nû ve dest pê kir ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Tomarkirina vîdyoyê rawestiyaye ji ber ku kameraya amûrê rawestiyaye</string>
+
+    <string name="prefs_audio_bt_recording_text">Ji cîhazek Bluetooth-ê deng tomar bikin</string>
 </resources>

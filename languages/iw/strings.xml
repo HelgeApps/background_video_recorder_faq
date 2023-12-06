@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">אוטומטי</string>
     <string name="rec_fix_short_text">לתקן</string>
     <string name="rec_fix_text">לתקן</string>
-    <string name="rec_free_space_text">חינם</string>
+    <string name="rec_free_space_text">זמין</string>
     <string name="rec_location_text">מקום</string>
     <string name="rec_gps_text">ג\'י.פי. אס</string>
     <string name="rec_network_text">נֶטוֹ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">הזמן נקבע בעבר</string>
     <string name="timer_service_notification_subtitle_text">שירות טיימר להתחלה אוטומטית של הקלטת וידאו</string>
     
+
+    <string name="timer_auto_start_every_day_text">כל יום</string>
+    <string name="timer_auto_start_once">פַּעַם</string>
+    <string name="timer_auto_start_dlg_type_title">הגדר טיימר כדי להתחיל בהקלטה</string>
+
+    <string name="prefs_zoom_out_desc_text">כדי לגשת למצלמה רחבה במיוחד (עדשה), אתה יכול להגדיר את מקדם הזום</string>
+    <string name="prefs_warning_notifications_sum_text">נדרש כדי להיות מסוגל להציג את שירות ההקלטה ברקע ואת הסטטוסים בלוח ההתראות. לחץ להגשה</string>
+    <string name="prefs_warning_notifications_text">הרשאת הודעה</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">הצג תצוגה מקדימה של המצלמה במסך הבית</string>
+    <string name="prefs_ui_camera_preview_text">תצוגה מקדימה של המצלמה</string>orientation
+    <string name="photos_folder_name">תמונות</string>
+    <string name="photos_count_one">תמונה</string>
+    <string name="photos_count_other">תמונות</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">הוסף קיצור דרך (משגר)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">כדי להתחיל/להפסיק את ההקלטה מבלי להפעיל את המסך הראשי</string>
+   
+    <string name="prefs_audio_priority_title">תעדוף אודיו לאפליקציה זו</string>
+    <string name="prefs_audio_priority_sum">אם מופעל, יישומים אחרים לא יוכלו להשתמש במיקרופון. אם מושבת, ייתכן שאפליקציה זו לא תוכל להקליט אודיו כאשר מספר יישומים פועלים באמצעות המיקרופון (אנדרואיד לא תמיד מאפשר שימוש בו זמנית במיקרופון)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">כרגע, הקלטת אודיו אינה אפשרית מכיוון שהמיקרופון יורט על ידי אפליקציה אחרת</string>
+
     
     
     
 
+    <string name="donate_text">לִתְרוֹם</string>
+    <string name="donate_disable_ads_text">תרומה, השבת מודעות</string>
+    <string name="donate_dialog_item_no_ads_text">(ללא פרסומות)</string>
+    <string name="donation_dlg_limited_ads_message_text">עם תרומות נמוכות יותר, המודעות מוסרות רק עבור המסך הראשי</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ייתכן שיצרן המכשיר לא יספק גישה לכל המצלמות, כך שחלקן לא ייפתחו</string>
+
+    <string name="camera_msg_error_non_exposed_error">פתיחת המצלמה שנבחרה נכשלה. כך קורה שלא כל המצלמות הנסתרות יכולות לשמש כל אפליקציה. יצרנים רבים מאפשרים את השימוש בהם רק ביישומים המקוריים שלהם. מצלמת ברירת המחדל תיפתח.</string>
+
+    <string name="rec_service_msg">פרטיות: כל הסרטונים שתקליט יישמרו רק במכשיר המקומי שלך. האפליקציה לא מגבה את הסרטונים שלך (אין לה חיבורים לשרתים)\n\nהאפליקציה תמשיך לפעול ברקע (שירות החזית המופיע בשורת ההתראות) אם תתחיל הקלטה חדשה ותחזור למסך הבית, תעבור לאפליקציה אחרת או תנעל את הטלפון כדי שתוכל להמשיך להקליט.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">נסה לבחור נתיב אחר (אחסון מקומי במכשיר)</string>
+
+    <string name="permissions_grant_storage_btn_text">הענק אחסון כתיבה</string>
+
+    <string name="donation_subs_text">לתרום מדי חודש</string>
+    <string name="donation_any_amount_text">אין פרסום בשום סכום</string>
+    <string name="donation_subs_any_amount_text">כמו כן, הפרסום מוסר לחלוטין כאשר אתה מנוי עבור כל סכום.</string>
+    <string name="donation_remove_ads_by_any_amount_text">הסר מודעות לתמיד עם תרומה חד פעמית בכל סכום. אתה יכול גם לתרום כל סכום מדי חודש כדי להסיר מודעות</string>
+
+    <string name="msg_camera_died_text">רקע וידאו מקליט: המצלמה הפסיקה לפתע לעבוד, הופעלה מחדש...</string>
+	<string name="camera_error_text">מקליט וידאו רקע: הקלטת הווידאו הופסקה מכיוון שהמצלמה של המכשיר הפסיקה לפעול</string>
+
+    <string name="prefs_audio_bt_recording_text">הקלט אודיו ממכשיר Bluetooth</string>
 </resources>

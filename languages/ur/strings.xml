@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">آٹو</string>
     <string name="rec_fix_short_text">درست کرنا</string>
     <string name="rec_fix_text">درست کرنا</string>
-    <string name="rec_free_space_text">مفت</string>
+    <string name="rec_free_space_text">دستیاب</string>
     <string name="rec_location_text">مقام</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">نیٹ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">وقت ماضی میں مقرر کیا گیا تھا</string>
     <string name="timer_service_notification_subtitle_text">ویڈیو ریکارڈنگ کے خودکار آغاز کے لیے ٹائمر سروس</string>
     
+
+    <string name="timer_auto_start_every_day_text">ہر روز</string>
+    <string name="timer_auto_start_once">ایک بار</string>
+    <string name="timer_auto_start_dlg_type_title">ریکارڈنگ شروع کرنے کے لیے ٹائمر سیٹ کریں۔</string>
+
+    <string name="prefs_zoom_out_desc_text">الٹرا وائیڈ اینگل کیمرے (لینس) تک رسائی کے لیے، آپ زوم فیکٹر سیٹ کر سکتے ہیں۔</string>
+    <string name="prefs_warning_notifications_sum_text">نوٹیفکیشن پینل پر بیک گراؤنڈ ریکارڈنگ سروس اور اسٹیٹس ڈسپلے کرنے کے قابل ہونے کے لیے ضروری ہے۔ جمع کرانے کے لیے کلک کریں۔</string>
+    <string name="prefs_warning_notifications_text">اطلاع کی اجازت</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ہوم اسکرین پر کیمرے کا پیش نظارہ دکھائیں۔</string>
+    <string name="prefs_ui_camera_preview_text">کیمرہ پیش نظارہ</string>orientation
+    <string name="photos_folder_name">تصاویر</string>
+    <string name="photos_count_one">تصویر</string>
+    <string name="photos_count_other">تصاویر</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">شارٹ کٹ شامل کریں (لانچر)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">مین اسکرین کو شروع کیے بغیر ریکارڈنگ شروع کرنا/روکنا</string>
+   
+    <string name="prefs_audio_priority_title">اس ایپ میں آڈیو کو ترجیح دیں۔</string>
+    <string name="prefs_audio_priority_sum">فعال ہونے پر، دیگر ایپلیکیشنز مائیکروفون استعمال نہیں کر سکیں گی۔ غیر فعال ہونے پر، یہ ایپلیکیشن آڈیو ریکارڈ کرنے کے قابل نہیں ہو سکتی جب مائیکروفون کا استعمال کرتے ہوئے متعدد ایپلیکیشنز چل رہی ہوں (Android ہمیشہ مائیکروفون کے بیک وقت استعمال کی اجازت نہیں دیتا)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">اس وقت آڈیو ریکارڈنگ ممکن نہیں ہے کیونکہ مائیکروفون کو کسی اور ایپلیکیشن نے روکا ہے۔</string>
+
     
     
     
 
+    <string name="donate_text">عطیہ کریں۔</string>
+    <string name="donate_disable_ads_text">عطیہ کریں، اشتہارات کو غیر فعال کریں۔</string>
+    <string name="donate_dialog_item_no_ads_text">(کوئی اشتہار نہیں)</string>
+    <string name="donation_dlg_limited_ads_message_text">کم عطیات کے ساتھ اشتہارات کو صرف مرکزی اسکرین کے لیے ہٹا دیا جاتا ہے۔</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ہو سکتا ہے کہ آلہ بنانے والا تمام کیمروں تک رسائی فراہم نہ کرے، اس لیے ہو سکتا ہے کچھ نہ کھلیں۔</string>
+
+    <string name="camera_msg_error_non_exposed_error">منتخب کیمرہ کھولنے میں ناکام۔ ایسا ہوتا ہے کہ تمام خفیہ کیمرے کسی بھی ایپلی کیشن کے ذریعے استعمال نہیں کیے جا سکتے۔ بہت سے مینوفیکچررز صرف اپنے مقامی ایپلی کیشنز میں ان کے استعمال کی اجازت دیتے ہیں۔ پہلے سے طے شدہ کیمرہ کھل جائے گا۔</string>
+
+    <string name="rec_service_msg">رازداری: آپ کی ریکارڈ کردہ تمام ویڈیوز صرف آپ کے مقامی ڈیوائس پر محفوظ کی جائیں گی۔ ایپلیکیشن آپ کے ویڈیوز کا بیک اپ نہیں لیتی ہے (سرور سے کوئی کنکشن نہیں ہے)\n\nاگر آپ ایک نئی ریکارڈنگ شروع کرتے ہیں اور ہوم اسکرین پر واپس آتے ہیں، کسی دوسری ایپ پر سوئچ کرتے ہیں، یا ریکارڈنگ جاری رکھنے کے لیے اپنے فون کو لاک کرتے ہیں تو ایپ پس منظر میں چلتی رہے گی (فوری گراؤنڈ سروس جو نوٹیفکیشن بار میں ظاہر ہوتی ہے۔</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">براہ کرم ایک مختلف راستہ منتخب کرنے کی کوشش کریں (آلہ مقامی اسٹوریج)</string>
+
+    <string name="permissions_grant_storage_btn_text">تحریری ذخیرہ فراہم کریں۔</string>
+
+    <string name="donation_subs_text">ماہانہ عطیہ کریں۔</string>
+    <string name="donation_any_amount_text">کسی بھی رقم کے لیے کوئی اشتہار نہیں۔</string>
+    <string name="donation_subs_any_amount_text">نیز، جب آپ کسی بھی رقم کے لیے سبسکرائب کرتے ہیں تو اشتہارات کو مکمل طور پر ہٹا دیا جاتا ہے۔</string>
+    <string name="donation_remove_ads_by_any_amount_text">کسی بھی رقم کے ایک بار عطیہ کے ساتھ اشتہارات کو ہمیشہ کے لیے ہٹا دیں۔ آپ اشتہارات کو ہٹانے کے لیے ماہانہ کوئی بھی رقم بھی عطیہ کر سکتے ہیں۔</string>
+
+    <string name="msg_camera_died_text">بیک گراؤنڈ ویڈیو ریکارڈر: کیمرے نے اچانک کام کرنا چھوڑ دیا، دوبارہ شروع ہو گیا...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: ویڈیو ریکارڈنگ رک گئی ہے کیونکہ ڈیوائس کے کیمرے نے کام کرنا چھوڑ دیا ہے۔</string>
+
+    <string name="prefs_audio_bt_recording_text">بلوٹوتھ ڈیوائس سے آڈیو ریکارڈ کریں۔</string>
 </resources>

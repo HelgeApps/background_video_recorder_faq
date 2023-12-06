@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Autoa</string>
     <string name="rec_fix_short_text">Zuzentzeko</string>
     <string name="rec_fix_text">Zuzentzeko</string>
-    <string name="rec_free_space_text">Doan</string>
+    <string name="rec_free_space_text">Eskuragarri</string>
     <string name="rec_location_text">Kokapena</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Sarea</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Denbora iraganean ezarri zen</string>
     <string name="timer_service_notification_subtitle_text">Bideo-grabaketa automatikoki hasteko tenporizadore zerbitzua</string>
     
+
+    <string name="timer_auto_start_every_day_text">Egunero</string>
+    <string name="timer_auto_start_once">Behin</string>
+    <string name="timer_auto_start_dlg_type_title">Ezarri tenporizadorea grabatzen hasteko</string>
+
+    <string name="prefs_zoom_out_desc_text">Ultra angelu zabaleko kamerara (lentea) sartzeko, zoom faktorea ezar dezakezu</string>
+    <string name="prefs_warning_notifications_sum_text">Beharrezkoa da atzeko planoko grabazio zerbitzua eta egoerak jakinarazpen-panelean bistaratu ahal izateko. Egin klik bidaltzeko</string>
+    <string name="prefs_warning_notifications_text">Jakinarazpen-baimena</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Erakutsi kameraren aurrebista hasierako pantailan</string>
+    <string name="prefs_ui_camera_preview_text">Kameraren aurrebista</string>orientation
+    <string name="photos_folder_name">Argazkiak</string>
+    <string name="photos_count_one">argazkia</string>
+    <string name="photos_count_other">argazkiak</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Gehitu lasterbidea (abiarazlea)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Grabaketa hasteko/gelditzeko pantaila nagusia abiarazi gabe</string>
+   
+    <string name="prefs_audio_priority_title">Lehenetsi audioa aplikazio honi</string>
+    <string name="prefs_audio_priority_sum">Gaituta badago, beste aplikazio batzuek ezin izango dute mikrofonoa erabili. Desgaituta badago, baliteke aplikazio honek ezin izango duela audioa grabatu hainbat aplikazio exekutatzen ari direnean mikrofonoa erabiliz (Androidek ez du beti onartzen mikrofonoa aldi berean erabiltzea)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Momentuz, audioa grabatzea ezinezkoa da beste aplikazio batek mikrofonoa atzematen duelako</string>
+
     
     
     
 
+    <string name="donate_text">Dohaintza eman</string>
+    <string name="donate_disable_ads_text">Eman, desgaitu iragarkiak</string>
+    <string name="donate_dialog_item_no_ads_text">(iragarkirik ez)</string>
+    <string name="donation_dlg_limited_ads_message_text">Dohaintza baxuagoekin iragarkiak pantaila nagusirako soilik kentzen dira</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Baliteke gailuaren fabrikatzaileak kamera guztietarako sarbidea ez ematea; beraz, baliteke batzuk ez irekitzea</string>
+
+    <string name="camera_msg_error_non_exposed_error">Ezin izan da hautatutako kamera ireki. Gertatzen da ezkutuko kamera guztiak ezin dituela edozein aplikaziok erabili. Fabrikatzaile askok beren jatorrizko aplikazioetan soilik onartzen dute. Kamera lehenetsia irekiko da.</string>
+
+    <string name="rec_service_msg">Pribatutasuna: grabatzen dituzun bideo guztiak zure tokiko gailuan soilik gordeko dira. Aplikazioak ez ditu zure bideoen babeskopiak egiten (ez du zerbitzarietarako konexiorik)\n\nAplikazioak atzeko planoan exekutatzen jarraituko du (jakinarazpen-barran agertzen den lehen planoko zerbitzua) grabaketa berri bat hasi eta hasierako pantailara itzultzen bazara, beste aplikazio batera aldatzen baduzu edo telefonoa blokeatzen baduzu, grabatzen jarraitu ahal izateko.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Mesedez, saiatu beste bide bat hautatzen (gailuaren biltegiratze lokala)</string>
+
+    <string name="permissions_grant_storage_btn_text">Eman idazketa biltegiratzea</string>
+
+    <string name="donation_subs_text">Dohaintza hilero</string>
+    <string name="donation_any_amount_text">inolako publizitaterik ez</string>
+    <string name="donation_subs_any_amount_text">Gainera, publizitatea guztiz kentzen da edozein kopurutan harpidetzen zarenean.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Kendu iragarkiak betiko edozein zenbatekoaren dohaintza batekin. Hilero edozein zenbatekoa ere eman dezakezu iragarkiak kentzeko</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: kamerak bat-batean funtzionatzeari utzi zion, berrabiarazi egin zen...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Bideo-grabaketa gelditu egin da gailuaren kamerak funtzionatzeari utzi diolako</string>
+
+    <string name="prefs_audio_bt_recording_text">Grabatu audioa Bluetooth gailu batetik</string>
 </resources>

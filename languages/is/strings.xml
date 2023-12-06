@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Sjálfvirk</string>
     <string name="rec_fix_short_text">Að leiðrétta</string>
     <string name="rec_fix_text">Að leiðrétta</string>
-    <string name="rec_free_space_text">Ókeypis</string>
+    <string name="rec_free_space_text">Laus</string>
     <string name="rec_location_text">Staðsetning</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Nettó</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Tíminn var ákveðinn í fortíðinni</string>
     <string name="timer_service_notification_subtitle_text">Tímamælirþjónusta fyrir sjálfvirka byrjun myndbandsupptöku</string>
     
+
+    <string name="timer_auto_start_every_day_text">Daglega</string>
+    <string name="timer_auto_start_once">Einu sinni</string>
+    <string name="timer_auto_start_dlg_type_title">Stilltu tímamæli til að hefja upptöku</string>
+
+    <string name="prefs_zoom_out_desc_text">Til að fá aðgang að ofur gleiðhornsmyndavélinni (linsunni) geturðu stillt aðdráttarstuðulinn</string>
+    <string name="prefs_warning_notifications_sum_text">Nauðsynlegt til að geta sýnt bakgrunnsupptökuþjónustuna og stöður á tilkynningaborðinu. Smelltu til að senda inn</string>
+    <string name="prefs_warning_notifications_text">Tilkynningaleyfi</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Sýna forskoðun myndavélar á heimaskjánum</string>
+    <string name="prefs_ui_camera_preview_text">Forskoðun myndavélar</string>orientation
+    <string name="photos_folder_name">Myndir</string>
+    <string name="photos_count_one">mynd</string>
+    <string name="photos_count_other">myndir</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Bæta við flýtileið (ræsiforriti)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Til að hefja/stöðva upptöku án þess að ræsa aðalskjáinn</string>
+   
+    <string name="prefs_audio_priority_title">Forgangsraðaðu hljóði í þetta forrit</string>
+    <string name="prefs_audio_priority_sum">Ef það er virkt munu önnur forrit ekki geta notað hljóðnemann. Ef slökkt er á því gæti þetta forrit ekki tekið upp hljóð þegar mörg forrit eru í gangi með hljóðnemanum (Android leyfir ekki alltaf samtímis notkun hljóðnemans)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Sem stendur er hljóðupptaka ekki möguleg vegna þess að hljóðneminn er hleraður af öðru forriti</string>
+
     
     
     
 
+    <string name="donate_text">Gefðu</string>
+    <string name="donate_disable_ads_text">Gefðu, slökktu á auglýsingum</string>
+    <string name="donate_dialog_item_no_ads_text">(engar auglýsingar)</string>
+    <string name="donation_dlg_limited_ads_message_text">Með lægri framlögum eru auglýsingarnar aðeins fjarlægðar fyrir aðalskjáinn</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Framleiðandi tækisins veitir kannski ekki aðgang að öllum myndavélum, þannig að sumar opnast ekki</string>
+
+    <string name="camera_msg_error_non_exposed_error">Mistókst að opna valda myndavél. Það vill svo til að ekki er hægt að nota allar faldar myndavélar af hvaða forriti sem er. Margir framleiðendur leyfa aðeins notkun þeirra í eigin forritum. Sjálfgefin myndavél opnast.</string>
+
+    <string name="rec_service_msg">Persónuvernd: Öll myndbönd sem þú tekur upp verða aðeins vistuð á þínu staðbundna tæki. Forritið tekur ekki afrit af myndböndunum þínum (er ekki með neinar tengingar við netþjóna)\n\nForritið mun halda áfram að keyra í bakgrunni (forgrunnsþjónustan sem birtist á tilkynningastikunni) ef þú byrjar nýja upptöku og fer aftur á heimaskjáinn, skiptir yfir í annað forrit eða læsir símanum þínum til að geta haldið áfram upptöku.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Vinsamlegast reyndu að velja aðra slóð (staðbundin geymsla tækis)</string>
+
+    <string name="permissions_grant_storage_btn_text">Veita skrifgeymslu</string>
+
+    <string name="donation_subs_text">Gefðu mánaðarlega</string>
+    <string name="donation_any_amount_text">engar auglýsingar fyrir neina upphæð</string>
+    <string name="donation_subs_any_amount_text">Einnig eru auglýsingar algjörlega fjarlægðar þegar þú gerist áskrifandi fyrir hvaða upphæð sem er.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Fjarlægðu auglýsingar að eilífu með einu sinni framlagi af hvaða upphæð sem er. Þú getur líka gefið hvaða upphæð sem er mánaðarlega til að fjarlægja auglýsingar</string>
+
+    <string name="msg_camera_died_text">BackgroundVideo Recorder: Myndavélin hætti skyndilega að virka, endurræsti...</string>
+	<string name="camera_error_text">BackgroundVideo Recorder: Myndbandsupptaka hefur hætt vegna þess að myndavél tækisins er hætt að virka</string>
+
+    <string name="prefs_audio_bt_recording_text">Taktu upp hljóð úr Bluetooth tæki</string>
 </resources>

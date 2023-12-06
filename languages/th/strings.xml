@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">รถยนต์</string>
     <string name="rec_fix_short_text">ถูกต้อง</string>
     <string name="rec_fix_text">ถูกต้อง</string>
-    <string name="rec_free_space_text">ฟรี</string>
+    <string name="rec_free_space_text">มีอยู่</string>
     <string name="rec_location_text">ที่ตั้ง</string>
     <string name="rec_gps_text">จีพีเอส</string>
     <string name="rec_network_text">สุทธิ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">เวลาถูกกำหนดไว้ในอดีต</string>
     <string name="timer_service_notification_subtitle_text">บริการตั้งเวลาสำหรับการเริ่มบันทึกวิดีโออัตโนมัติ</string>
     
+
+    <string name="timer_auto_start_every_day_text">ทุกวัน</string>
+    <string name="timer_auto_start_once">ครั้งหนึ่ง</string>
+    <string name="timer_auto_start_dlg_type_title">ตั้งเวลาเพื่อเริ่มบันทึก</string>
+
+    <string name="prefs_zoom_out_desc_text">หากต้องการเข้าถึงกล้องมุมกว้างพิเศษ (เลนส์) คุณสามารถตั้งค่าปัจจัยการซูมได้</string>
+    <string name="prefs_warning_notifications_sum_text">จำเป็นเพื่อให้สามารถแสดงบริการบันทึกพื้นหลังและสถานะบนแผงการแจ้งเตือนได้ คลิกเพื่อส่ง</string>
+    <string name="prefs_warning_notifications_text">อนุญาตการแจ้งเตือน</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">แสดงตัวอย่างกล้องบนหน้าจอหลัก</string>
+    <string name="prefs_ui_camera_preview_text">ดูตัวอย่างกล้อง</string>orientation
+    <string name="photos_folder_name">ภาพถ่าย</string>
+    <string name="photos_count_one">รูปถ่าย</string>
+    <string name="photos_count_other">ภาพถ่าย</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">เพิ่มทางลัด (ตัวเรียกใช้งาน)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">เพื่อเริ่ม/หยุดการบันทึกโดยไม่ต้องเปิดหน้าจอหลัก</string>
+   
+    <string name="prefs_audio_priority_title">จัดลำดับความสำคัญของเสียงให้กับแอปนี้</string>
+    <string name="prefs_audio_priority_sum">หากเปิดใช้งาน แอปพลิเคชันอื่นจะไม่สามารถใช้ไมโครโฟนได้ หากปิดใช้งาน แอปพลิเคชันนี้อาจไม่สามารถบันทึกเสียงได้เมื่อมีแอปพลิเคชันหลายตัวทำงานโดยใช้ไมโครโฟน (Android ไม่อนุญาตให้ใช้ไมโครโฟนพร้อมกันทุกครั้ง)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">ในขณะนี้ ไม่สามารถบันทึกเสียงได้เนื่องจากไมโครโฟนถูกขัดขวางโดยแอปพลิเคชันอื่น</string>
+
     
     
     
 
+    <string name="donate_text">บริจาค</string>
+    <string name="donate_disable_ads_text">บริจาค ปิดโฆษณา</string>
+    <string name="donate_dialog_item_no_ads_text">(ไม่มีโฆษณา)</string>
+    <string name="donation_dlg_limited_ads_message_text">ด้วยการบริจาคที่น้อยลง โฆษณาจะถูกลบออกเฉพาะหน้าจอหลักเท่านั้น</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ผู้ผลิตอุปกรณ์อาจไม่ได้ให้การเข้าถึงกล้องทั้งหมด ดังนั้นบางกล้องอาจไม่เปิด</string>
+
+    <string name="camera_msg_error_non_exposed_error">ไม่สามารถเปิดกล้องที่เลือก มันเกิดขึ้นที่แอปพลิเคชันใด ๆ ไม่สามารถใช้กล้องที่ซ่อนอยู่ได้ทั้งหมด ผู้ผลิตหลายรายอนุญาตให้ใช้ในแอปพลิเคชันดั้งเดิมเท่านั้น กล้องเริ่มต้นจะเปิดขึ้น</string>
+
+    <string name="rec_service_msg">ความเป็นส่วนตัว: วิดีโอทั้งหมดที่คุณบันทึกจะถูกบันทึกไว้ในอุปกรณ์ท้องถิ่นของคุณเท่านั้น แอปพลิเคชันไม่ได้สำรองวิดีโอของคุณ (ไม่มีการเชื่อมต่อกับเซิร์ฟเวอร์)\n\nแอปจะทำงานต่อไปในเบื้องหลัง (บริการเบื้องหน้าที่ปรากฏในแถบการแจ้งเตือน) หากคุณเริ่มการบันทึกใหม่และกลับไปที่หน้าจอหลัก สลับไปที่แอปอื่น หรือล็อกโทรศัพท์ของคุณเพื่อให้สามารถบันทึกต่อได้</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">โปรดลองเลือกเส้นทางอื่น (ที่จัดเก็บข้อมูลในตัวเครื่อง)</string>
+
+    <string name="permissions_grant_storage_btn_text">ให้สิทธิ์พื้นที่เก็บข้อมูลการเขียน</string>
+
+    <string name="donation_subs_text">บริจาครายเดือน</string>
+    <string name="donation_any_amount_text">ไม่มีการโฆษณาจำนวนใด ๆ</string>
+    <string name="donation_subs_any_amount_text">นอกจากนี้ โฆษณาจะถูกลบออกโดยสมบูรณ์เมื่อคุณสมัครรับข้อมูลจำนวนเท่าใดก็ได้</string>
+    <string name="donation_remove_ads_by_any_amount_text">ลบโฆษณาออกอย่างถาวรด้วยการบริจาคครั้งเดียวในจำนวนเท่าใดก็ได้ คุณสามารถบริจาคเงินจำนวนเท่าใดก็ได้ทุกเดือนเพื่อลบโฆษณา</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: กล้องหยุดทำงานกะทันหัน เริ่มใหม่...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: การบันทึกวิดีโอหยุดลงเนื่องจากกล้องของอุปกรณ์หยุดทำงาน</string>
+
+    <string name="prefs_audio_bt_recording_text">บันทึกเสียงจากอุปกรณ์บลูทูธ</string>
 </resources>

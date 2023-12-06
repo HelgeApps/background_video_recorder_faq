@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ஆட்டோ</string>
     <string name="rec_fix_short_text">சரிப்படுத்த</string>
     <string name="rec_fix_text">சரிப்படுத்த</string>
-    <string name="rec_free_space_text">இலவசம்</string>
+    <string name="rec_free_space_text">கிடைக்கும்</string>
     <string name="rec_location_text">இடம்</string>
     <string name="rec_gps_text">ஜி.பி.எஸ்</string>
     <string name="rec_network_text">நிகர</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">கடந்த காலத்தில் நேரம் அமைக்கப்பட்டது</string>
     <string name="timer_service_notification_subtitle_text">வீடியோ பதிவை தானாக தொடங்குவதற்கான டைமர் சேவை</string>
     
+
+    <string name="timer_auto_start_every_day_text">தினமும்</string>
+    <string name="timer_auto_start_once">ஒருமுறை</string>
+    <string name="timer_auto_start_dlg_type_title">பதிவைத் தொடங்க டைமரை அமைக்கவும்</string>
+
+    <string name="prefs_zoom_out_desc_text">அல்ட்ரா வைட் ஆங்கிள் கேமராவை (லென்ஸ்) அணுக, நீங்கள் ஜூம் காரணியை அமைக்கலாம்</string>
+    <string name="prefs_warning_notifications_sum_text">அறிவிப்பு பேனலில் பின்னணி பதிவு சேவை மற்றும் நிலைகளைக் காட்ட முடியும். சமர்ப்பிக்க கிளிக் செய்யவும்</string>
+    <string name="prefs_warning_notifications_text">அறிவிப்பு அனுமதி</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">முகப்புத் திரையில் கேமரா முன்னோட்டத்தைக் காட்டு</string>
+    <string name="prefs_ui_camera_preview_text">கேமரா முன்னோட்டம்</string>orientation
+    <string name="photos_folder_name">புகைப்படங்கள்</string>
+    <string name="photos_count_one">புகைப்படம்</string>
+    <string name="photos_count_other">புகைப்படங்கள்</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">குறுக்குவழியைச் சேர் (துவக்கி)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">முதன்மைத் திரையைத் தொடங்காமல் பதிவைத் தொடங்க/நிறுத்த</string>
+   
+    <string name="prefs_audio_priority_title">இந்தப் பயன்பாட்டிற்கு ஆடியோவை முதன்மைப்படுத்தவும்</string>
+    <string name="prefs_audio_priority_sum">இயக்கப்பட்டால், பிற பயன்பாடுகளால் மைக்ரோஃபோனைப் பயன்படுத்த முடியாது. முடக்கப்பட்டிருந்தால், மைக்ரோஃபோனைப் பயன்படுத்தி பல பயன்பாடுகள் இயங்கும் போது இந்தப் பயன்பாடு ஆடியோவைப் பதிவு செய்ய முடியாமல் போகலாம் (Android எப்போதும் மைக்ரோஃபோனை ஒரே நேரத்தில் பயன்படுத்த அனுமதிக்காது)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">இந்த நேரத்தில், ஒலிப்பதிவு சாத்தியமில்லை, ஏனெனில் மைக்ரோஃபோன் மற்றொரு பயன்பாட்டால் இடைமறிக்கப்படுகிறது</string>
+
     
     
     
 
+    <string name="donate_text">தானம் செய்</string>
+    <string name="donate_disable_ads_text">நன்கொடை, விளம்பரங்களை முடக்கு</string>
+    <string name="donate_dialog_item_no_ads_text">(விளம்பரங்கள் இல்லை)</string>
+    <string name="donation_dlg_limited_ads_message_text">குறைந்த நன்கொடைகள் மூலம் விளம்பரங்கள் பிரதான திரைக்கு மட்டுமே அகற்றப்படும்</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">சாதன உற்பத்தியாளர் அனைத்து கேமராக்களுக்கும் அணுகலை வழங்காமல் இருக்கலாம், அதனால் சில கேமராக்கள் திறக்கப்படாமல் போகலாம்</string>
+
+    <string name="camera_msg_error_non_exposed_error">தேர்ந்தெடுத்த கேமராவைத் திறக்க முடியவில்லை. எல்லா மறைக்கப்பட்ட கேமராக்களையும் எந்த பயன்பாட்டாலும் பயன்படுத்த முடியாது. பல உற்பத்தியாளர்கள் தங்கள் சொந்த பயன்பாடுகளில் மட்டுமே பயன்படுத்த அனுமதிக்கின்றனர். இயல்புநிலை கேமரா திறக்கும்.</string>
+
+    <string name="rec_service_msg">தனியுரிமை: நீங்கள் பதிவுசெய்த அனைத்து வீடியோக்களும் உங்கள் உள்ளூர் சாதனத்தில் மட்டுமே சேமிக்கப்படும். பயன்பாடு உங்கள் வீடியோக்களை காப்புப் பிரதி எடுக்காது (சேவையகங்களுடன் எந்த இணைப்பும் இல்லை)\n\nநீங்கள் புதிய பதிவைத் தொடங்கி முகப்புத் திரைக்குத் திரும்பினால், வேறொரு பயன்பாட்டிற்கு மாறினால் அல்லது உங்கள் மொபைலைப் பூட்டினால், பின்புலத்தில் (அறிவிப்புப் பட்டியில் தோன்றும் முன்புற சேவை) பயன்பாடு தொடர்ந்து இயங்கும்.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">வேறொரு பாதையைத் தேர்ந்தெடுக்க முயற்சிக்கவும் (சாதன உள்ளூர் சேமிப்பு)</string>
+
+    <string name="permissions_grant_storage_btn_text">எழுதும் சேமிப்பகத்தை வழங்கவும்</string>
+
+    <string name="donation_subs_text">மாதந்தோறும் தானம் செய்யுங்கள்</string>
+    <string name="donation_any_amount_text">எந்த தொகைக்கும் விளம்பரம் இல்லை</string>
+    <string name="donation_subs_any_amount_text">மேலும், நீங்கள் எந்த தொகைக்கும் சந்தா செலுத்தும்போது விளம்பரம் முற்றிலும் அகற்றப்படும்.</string>
+    <string name="donation_remove_ads_by_any_amount_text">எந்த தொகையையும் ஒரு முறை நன்கொடையாக வழங்குவதன் மூலம் விளம்பரங்களை நிரந்தரமாக அகற்றவும். விளம்பரங்களை அகற்ற, மாதந்தோறும் எந்தத் தொகையையும் நன்கொடையாக அளிக்கலாம்</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: கேமரா திடீரென்று வேலை செய்வதை நிறுத்தியது, மறுதொடக்கம் செய்யப்பட்டது...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: சாதனத்தின் கேமரா வேலை செய்வதை நிறுத்தியதால் வீடியோ பதிவு நிறுத்தப்பட்டது</string>
+
+    <string name="prefs_audio_bt_recording_text">புளூடூத் சாதனத்திலிருந்து ஆடியோவைப் பதிவுசெய்யவும்</string>
 </resources>

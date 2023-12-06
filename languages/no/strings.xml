@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Å rette</string>
     <string name="rec_fix_text">Å rette</string>
-    <string name="rec_free_space_text">Gratis</string>
+    <string name="rec_free_space_text">Tilgjengelig</string>
     <string name="rec_location_text">plassering</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Nett</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Tiden ble satt i fortiden</string>
     <string name="timer_service_notification_subtitle_text">Timertjeneste for automatisk start av videoopptak</string>
     
+
+    <string name="timer_auto_start_every_day_text">Hver dag</string>
+    <string name="timer_auto_start_once">En gang</string>
+    <string name="timer_auto_start_dlg_type_title">Still inn timeren for å starte opptaket</string>
+
+    <string name="prefs_zoom_out_desc_text">For å få tilgang til ultravidvinkelkameraet (objektivet), kan du stille inn zoomfaktoren</string>
+    <string name="prefs_warning_notifications_sum_text">Påkrevd for å kunne vise bakgrunnsopptakstjenesten og statuser på varslingspanelet. Klikk for å sende inn</string>
+    <string name="prefs_warning_notifications_text">Varslingstillatelse</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Vis kameraforhåndsvisning på startskjermen</string>
+    <string name="prefs_ui_camera_preview_text">Forhåndsvisning av kamera</string>orientation
+    <string name="photos_folder_name">Bilder</string>
+    <string name="photos_count_one">bilde</string>
+    <string name="photos_count_other">bilder</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Legg til snarvei (starter)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">For å starte/stoppe opptaket uten å starte hovedskjermen</string>
+   
+    <string name="prefs_audio_priority_title">Prioriter lyd til denne appen</string>
+    <string name="prefs_audio_priority_sum">Hvis aktivert, vil ikke andre applikasjoner kunne bruke mikrofonen. Hvis den er deaktivert, kan det hende at denne applikasjonen ikke kan ta opp lyd når flere applikasjoner kjører med mikrofonen (Android tillater ikke alltid samtidig bruk av mikrofonen)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">For øyeblikket er ikke lydopptak mulig fordi mikrofonen blir fanget opp av en annen applikasjon</string>
+
     
     
     
 
+    <string name="donate_text">Donere</string>
+    <string name="donate_disable_ads_text">Doner, deaktiver annonser</string>
+    <string name="donate_dialog_item_no_ads_text">(ingen annonser)</string>
+    <string name="donation_dlg_limited_ads_message_text">Med lavere donasjoner fjernes annonsene kun for hovedskjermen</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Enhetsprodusenten gir kanskje ikke tilgang til alle kameraer, så noen kan ikke åpnes</string>
+
+    <string name="camera_msg_error_non_exposed_error">Kunne ikke åpne det valgte kameraet. Det har seg slik at ikke alle skjulte kameraer kan brukes av noen applikasjoner. Mange produsenter tillater kun bruk i deres opprinnelige applikasjoner. Standardkameraet åpnes.</string>
+
+    <string name="rec_service_msg">Personvern: Alle videoer du tar opp vil bare bli lagret på din lokale enhet. Applikasjonen sikkerhetskopierer ikke videoene dine (har ingen tilkoblinger til servere)\n\nAppen vil fortsette å kjøre i bakgrunnen (forgrunnstjenesten som vises i varslingslinjen) hvis du starter et nytt opptak og går tilbake til startskjermen, bytter til en annen app eller låser telefonen for å kunne fortsette opptaket.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Prøv å velge en annen bane (lokal lagring på enheten)</string>
+
+    <string name="permissions_grant_storage_btn_text">Gi skrivelagring</string>
+
+    <string name="donation_subs_text">Doner månedlig</string>
+    <string name="donation_any_amount_text">ingen reklame for noe beløp</string>
+    <string name="donation_subs_any_amount_text">Dessuten fjernes reklame fullstendig når du abonnerer for et hvilket som helst beløp.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Fjern annonser for alltid med en engangsdonasjon uansett beløp. Du kan også donere et hvilket som helst beløp månedlig for å fjerne annonser</string>
+
+    <string name="msg_camera_died_text">Bakgrunnsvideoopptaker: Kameraet sluttet plutselig å fungere, startet på nytt...</string>
+	<string name="camera_error_text">Bakgrunnsvideoopptaker: Videoopptaket har stoppet fordi enhetens kamera har sluttet å fungere</string>
+
+    <string name="prefs_audio_bt_recording_text">Ta opp lyd fra en Bluetooth-enhet</string>
 </resources>

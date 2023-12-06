@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Për të korrigjuar</string>
     <string name="rec_fix_text">Për të korrigjuar</string>
-    <string name="rec_free_space_text">Falas</string>
+    <string name="rec_free_space_text">Në dispozicion</string>
     <string name="rec_location_text">Vendndodhja</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Neto</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Koha ishte vendosur në të kaluarën</string>
     <string name="timer_service_notification_subtitle_text">Shërbimi i kohëmatësit për fillimin automatik të regjistrimit të videos</string>
     
+
+    <string name="timer_auto_start_every_day_text">Çdo ditë</string>
+    <string name="timer_auto_start_once">Një herë</string>
+    <string name="timer_auto_start_dlg_type_title">Vendosni kohëmatësin për të filluar regjistrimin</string>
+
+    <string name="prefs_zoom_out_desc_text">Për të përdorur kamerën me kënd ultra të gjerë (lentet), mund të vendosni faktorin e zmadhimit</string>
+    <string name="prefs_warning_notifications_sum_text">Kërkohet për të qenë në gjendje të shfaqni shërbimin e regjistrimit të sfondit dhe statuset në panelin e njoftimeve. Kliko për të dorëzuar</string>
+    <string name="prefs_warning_notifications_text">Leja e njoftimit</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Shfaq pamjen paraprake të kamerës në ekranin bazë</string>
+    <string name="prefs_ui_camera_preview_text">Pamja paraprake e kamerës</string>orientation
+    <string name="photos_folder_name">Fotografitë</string>
+    <string name="photos_count_one">Foto</string>
+    <string name="photos_count_other">Fotografitë</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Shto shkurtore (nisëse)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Për të nisur/ndaluar regjistrimin pa hapur ekranin kryesor</string>
+   
+    <string name="prefs_audio_priority_title">Jepi përparësi audios në këtë aplikacion</string>
+    <string name="prefs_audio_priority_sum">Nëse aktivizohet, aplikacionet e tjera nuk do të mund të përdorin mikrofonin. Nëse është i çaktivizuar, ky aplikacion mund të mos jetë në gjendje të regjistrojë audio kur shumë aplikacione janë duke përdorur mikrofonin (Android nuk lejon gjithmonë përdorimin e njëkohshëm të mikrofonit)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Për momentin, regjistrimi audio nuk është i mundur sepse mikrofoni përgjohet nga një aplikacion tjetër</string>
+
     
     
     
 
+    <string name="donate_text">Dhuroni</string>
+    <string name="donate_disable_ads_text">Dhuroni, çaktivizoni reklamat</string>
+    <string name="donate_dialog_item_no_ads_text">(pa reklama)</string>
+    <string name="donation_dlg_limited_ads_message_text">Me donacione më të ulëta reklamat hiqen vetëm për ekranin kryesor</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Prodhuesi i pajisjes mund të mos sigurojë qasje në të gjitha kamerat, kështu që disa mund të mos hapen</string>
+
+    <string name="camera_msg_error_non_exposed_error">Hapja e kamerës së zgjedhur dështoi. Ndodh që jo të gjitha kamerat e fshehura mund të përdoren nga çdo aplikacion. Shumë prodhues lejojnë përdorimin e tyre vetëm në aplikacionet e tyre vendase. Kamera e paracaktuar do të hapet.</string>
+
+    <string name="rec_service_msg">Privatësia: Të gjitha videot që regjistroni do të ruhen vetëm në pajisjen tuaj lokale. Aplikacioni nuk rezervon videot tuaja (nuk ka asnjë lidhje me serverët)\n\nAplikacioni do të vazhdojë të funksionojë në sfond (shërbimi në plan të parë që shfaqet në shiritin e njoftimeve) nëse filloni një regjistrim të ri dhe ktheheni në ekranin bazë, kaloni në një aplikacion tjetër ose bllokoni telefonin tuaj për të vazhduar regjistrimin.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Ju lutemi provoni të zgjidhni një shteg tjetër (ruajtje lokale e pajisjes)</string>
+
+    <string name="permissions_grant_storage_btn_text">Jep hapësirë ​​ruajtëse për shkrim</string>
+
+    <string name="donation_subs_text">Dhuroni çdo muaj</string>
+    <string name="donation_any_amount_text">asnjë reklamë për asnjë shumë</string>
+    <string name="donation_subs_any_amount_text">Gjithashtu, reklamimi hiqet plotësisht kur abonoheni për çdo shumë.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Hiqni reklamat përgjithmonë me një donacion një herë të çdo shume. Ju gjithashtu mund të dhuroni çdo shumë mujore për të hequr reklamat</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRegjistrues: Kamera papritmas ndaloi së punuari, rifilloi...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Regjistrimi i videos ka ndaluar sepse kamera e pajisjes ka ndaluar së punuari</string>
+
+    <string name="prefs_audio_bt_recording_text">Regjistroni audio nga një pajisje Bluetooth</string>
 </resources>

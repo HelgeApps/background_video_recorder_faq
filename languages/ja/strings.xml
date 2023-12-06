@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">自動</string>
     <string name="rec_fix_short_text">なおす</string>
     <string name="rec_fix_text">なおす</string>
-    <string name="rec_free_space_text">無料</string>
+    <string name="rec_free_space_text">利用可能</string>
     <string name="rec_location_text">位置</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">ネット</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">過去に時間が設定されました</string>
     <string name="timer_service_notification_subtitle_text">動画撮影を自動で開始するタイマーサービス</string>
     
+
+    <string name="timer_auto_start_every_day_text">毎日</string>
+    <string name="timer_auto_start_once">一度</string>
+    <string name="timer_auto_start_dlg_type_title">タイマーをセットして録画開始</string>
+
+    <string name="prefs_zoom_out_desc_text">超広角カメラ (レンズ) にアクセスするには、ズーム倍率を設定できます</string>
+    <string name="prefs_warning_notifications_sum_text">通知パネルにバックグラウンド録画サービスとステータスを表示できるようにするために必要です。クリックして送信</string>
+    <string name="prefs_warning_notifications_text">通知許可</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ホーム画面にカメラのプレビューを表示する</string>
+    <string name="prefs_ui_camera_preview_text">カメラのプレビュー</string>orientation
+    <string name="photos_folder_name">写真</string>
+    <string name="photos_count_one">写真</string>
+    <string name="photos_count_other">写真</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">ショートカット（ランチャー）を追加</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">メイン画面を起動せずに記録を開始/停止するには</string>
+   
+    <string name="prefs_audio_priority_title">このアプリのオーディオを優先する</string>
+    <string name="prefs_audio_priority_sum">有効にすると、他のアプリケーションはマイクを使用できなくなります。無効にすると、マイクを使用して複数のアプリケーションが実行されている場合、このアプリケーションはオーディオを録音できない場合があります (Android では常にマイクの同時使用が許可されているわけではありません)。</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">現在、マイクが別のアプリケーションによって傍受されているため、音声録音はできません</string>
+
     
     
     
 
+    <string name="donate_text">寄付</string>
+    <string name="donate_disable_ads_text">寄付、広告の無効化</string>
+    <string name="donate_dialog_item_no_ads_text">（広告なし）</string>
+    <string name="donation_dlg_limited_ads_message_text">寄付が少ない場合は、メイン画面の広告のみが削除されます。</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">デバイスの製造元がすべてのカメラへのアクセスを提供しているわけではないため、一部のカメラが開けない場合があります。</string>
+
+    <string name="camera_msg_error_non_exposed_error">選択したカメラを開けませんでした。すべての隠しカメラがどのアプリケーションでも使用できるわけではありません。多くのメーカーは、ネイティブ アプリケーションでの使用のみを許可しています。デフォルトのカメラが開きます。</string>
+
+    <string name="rec_service_msg">プライバシー: 録画したすべてのビデオはローカル デバイスにのみ保存されます。アプリケーションはビデオをバックアップしません (サーバーに接続しません)\n\n新しい録音を開始してホーム画面に戻ったり、別のアプリに切り替えたり、録音を継続できるように携帯電話をロックしたりしても、アプリはバックグラウンド (通知バーに表示されるフォアグラウンド サービス) で実行され続けます。</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">別のパス (デバイスのローカル ストレージ) を選択してみてください。</string>
+
+    <string name="permissions_grant_storage_btn_text">書き込みストレージの付与</string>
+
+    <string name="donation_subs_text">毎月寄付する</string>
+    <string name="donation_any_amount_text">いくらでも広告を掲載しない</string>
+    <string name="donation_subs_any_amount_text">また、いくらでも購読すると、広告は完全に削除されます。</string>
+    <string name="donation_remove_ads_by_any_amount_text">任意の金額を 1 回寄付するだけで、広告を永久に削除できます。広告を削除するために毎月任意の金額を寄付することもできます</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: カメラが突然動作を停止し、再起動しました...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: デバイスのカメラが動作を停止したため、ビデオ録画が停止しました</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth デバイスから音声を録音する</string>
 </resources>

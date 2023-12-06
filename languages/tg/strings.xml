@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Авто</string>
     <string name="rec_fix_short_text">Барои ислоҳ</string>
     <string name="rec_fix_text">Барои ислоҳ</string>
-    <string name="rec_free_space_text">Озод</string>
+    <string name="rec_free_space_text">дастрас</string>
     <string name="rec_location_text">Ҷойгиршавӣ</string>
     <string name="rec_gps_text">Низоми муайянкунии ҷаҳонии ҷои ист</string>
     <string name="rec_network_text">соф</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Вақт дар гузашта муқаррар карда шуд</string>
     <string name="timer_service_notification_subtitle_text">Хидмати таймер барои оғози автоматии сабти видео</string>
     
+
+    <string name="timer_auto_start_every_day_text">Ҳар рӯз</string>
+    <string name="timer_auto_start_once">Боре</string>
+    <string name="timer_auto_start_dlg_type_title">Вақтсанҷро барои оғози сабт таъин кунед</string>
+
+    <string name="prefs_zoom_out_desc_text">Барои дастрасӣ ба камераи ултра кунҷи васеъ (линза), шумо метавонед омили масштабро танзим кунед</string>
+    <string name="prefs_warning_notifications_sum_text">Барои намоиш додани хидмати сабти пасзамина ва вазъиятҳо дар панели огоҳинома талаб карда мешавад. Барои пешниҳод кардан клик кунед</string>
+    <string name="prefs_warning_notifications_text">Иҷозати огоҳӣ</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Пешнамоиши камераро дар экрани хонагӣ нишон диҳед</string>
+    <string name="prefs_ui_camera_preview_text">Пешнамоиши камера</string>orientation
+    <string name="photos_folder_name">Суратҳо</string>
+    <string name="photos_count_one">сурат</string>
+    <string name="photos_count_other">суратхо</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Иловаи миёнабур (оғозкунанда)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Барои оғоз/қатъ кардани сабт бидуни оғоз кардани экрани асосӣ</string>
+   
+    <string name="prefs_audio_priority_title">Ба аудиои ин барнома афзалият диҳед</string>
+    <string name="prefs_audio_priority_sum">Агар фаъол бошад, дигар барномаҳо микрофонро истифода бурда наметавонанд. Агар ғайрифаъол бошад, ин барнома метавонад ҳангоми кор бо микрофон якчанд замимаҳо сабти аудио натавонад (Android на ҳама вақт истифодаи ҳамзамон микрофонро иҷозат медиҳад)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Дар ҳоли ҳозир сабти аудио имконнопазир аст, зеро микрофонро як барномаи дигар боздоштааст</string>
+
     
     
     
 
+    <string name="donate_text">Хайрия</string>
+    <string name="donate_disable_ads_text">Хайрия кунед, таблиғро хомӯш кунед</string>
+    <string name="donate_dialog_item_no_ads_text">(бе реклама)</string>
+    <string name="donation_dlg_limited_ads_message_text">Бо хайрияҳои камтар таблиғ танҳо барои экрани асосӣ нест карда мешавад</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Истеҳсолкунандаи дастгоҳ метавонад дастрасӣ ба ҳама камераҳоро таъмин накунад, бинобар ин баъзеҳо кушода намешаванд</string>
+
+    <string name="camera_msg_error_non_exposed_error">Камераи интихобшударо кушода натавонист. Чунин мешавад, ки на ҳама камераҳои пинҳониро ягон барнома истифода бурдан мумкин аст. Бисёре аз истеҳсолкунандагон танҳо ба истифодаи онҳо дар барномаҳои ватании худ иҷозат медиҳанд. Камераи пешфарз кушода мешавад.</string>
+
+    <string name="rec_service_msg">Махфият: Ҳама видеоҳое, ки шумо сабт мекунед, танҳо дар дастгоҳи маҳаллии шумо захира карда мешаванд. Барнома видеоҳои шуморо нусхабардорӣ намекунад (ягон пайваст ба серверҳо надорад)\n\nАгар шумо сабти навро оғоз кунед ва ба экрани хонагӣ баргардед, ба барномаи дигар гузаред ё телефони худро қуфл кунед, то имкони идомаи сабтро банд кунед, барнома дар замина корашро идома медиҳад (хидмати замина, ки дар сатри огоҳинома пайдо мешавад).</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Лутфан, кӯшиш кунед, ки роҳи дигарро интихоб кунед (нигаҳдории маҳаллии дастгоҳ)</string>
+
+    <string name="permissions_grant_storage_btn_text">Нигоҳдории навиштанро диҳед</string>
+
+    <string name="donation_subs_text">Ҳар моҳ хайрия кунед</string>
+    <string name="donation_any_amount_text">ҳеҷ гуна реклама барои ягон маблағ</string>
+    <string name="donation_subs_any_amount_text">Инчунин, вақте ки шумо барои ягон маблағ обуна мешавед, таблиғ комилан хориҷ карда мешавад.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Бо хайрияи якдафъаинаи дилхоҳ таблиғро абадан нест кунед. Шумо инчунин метавонед ҳар моҳ маблағи дилхоҳро барои нест кардани таблиғ хайрия кунед</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Камера ногаҳон корашро қатъ кард, дубора оғоз кард...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Сабти видео қатъ шуд, зеро камераи дастгоҳ корашро қатъ кардааст</string>
+
+    <string name="prefs_audio_bt_recording_text">Аз дастгоҳи Bluetooth аудио сабт кунед</string>
 </resources>

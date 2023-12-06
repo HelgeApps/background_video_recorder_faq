@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ਆਟੋ</string>
     <string name="rec_fix_short_text">ਠੀਕ ਕਰਨ ਲਈ</string>
     <string name="rec_fix_text">ਠੀਕ ਕਰਨ ਲਈ</string>
-    <string name="rec_free_space_text">ਮੁਫ਼ਤ</string>
+    <string name="rec_free_space_text">ਉਪਲੱਬਧ</string>
     <string name="rec_location_text">ਟਿਕਾਣਾ</string>
     <string name="rec_gps_text">ਜੀ.ਪੀ.ਐੱਸ</string>
     <string name="rec_network_text">ਨੈੱਟ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">ਸਮਾਂ ਪਹਿਲਾਂ ਤੈਅ ਕੀਤਾ ਗਿਆ ਸੀ</string>
     <string name="timer_service_notification_subtitle_text">ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਦੀ ਆਟੋਮੈਟਿਕ ਸ਼ੁਰੂਆਤ ਲਈ ਟਾਈਮਰ ਸੇਵਾ</string>
     
+
+    <string name="timer_auto_start_every_day_text">ਨਿੱਤ</string>
+    <string name="timer_auto_start_once">ਇੱਕ ਵਾਰ</string>
+    <string name="timer_auto_start_dlg_type_title">ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਟਾਈਮਰ ਸੈੱਟ ਕਰੋ</string>
+
+    <string name="prefs_zoom_out_desc_text">ਅਲਟਰਾ ਵਾਈਡ-ਐਂਗਲ ਕੈਮਰਾ (ਲੈਂਸ) ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ, ਤੁਸੀਂ ਜ਼ੂਮ ਫੈਕਟਰ ਸੈਟ ਕਰ ਸਕਦੇ ਹੋ</string>
+    <string name="prefs_warning_notifications_sum_text">ਸੂਚਨਾ ਪੈਨਲ \'ਤੇ ਪਿਛੋਕੜ ਰਿਕਾਰਡਿੰਗ ਸੇਵਾ ਅਤੇ ਸਥਿਤੀਆਂ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਦੇ ਯੋਗ ਹੋਣ ਲਈ ਲੋੜੀਂਦਾ ਹੈ। ਦਰਜ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ</string>
+    <string name="prefs_warning_notifications_text">ਸੂਚਨਾ ਅਨੁਮਤੀ</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ਹੋਮ ਸਕ੍ਰੀਨ \'ਤੇ ਕੈਮਰਾ ਪ੍ਰੀਵਿਊ ਦਿਖਾਓ</string>
+    <string name="prefs_ui_camera_preview_text">ਕੈਮਰਾ ਪ੍ਰੀਵਿਊ</string>orientation
+    <string name="photos_folder_name">ਫੋਟੋਆਂ</string>
+    <string name="photos_count_one">ਤਸਵੀਰ</string>
+    <string name="photos_count_other">ਫੋਟੋਆਂ</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">ਸ਼ਾਰਟਕੱਟ ਸ਼ਾਮਲ ਕਰੋ (ਲਾਂਚਰ)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ਮੁੱਖ ਸਕ੍ਰੀਨ ਨੂੰ ਲਾਂਚ ਕੀਤੇ ਬਿਨਾਂ ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ /ਬੰਦ ਕਰਨ ਲਈ</string>
+   
+    <string name="prefs_audio_priority_title">ਇਸ ਐਪ ਲਈ ਆਡੀਓ ਨੂੰ ਤਰਜੀਹ ਦਿਓ</string>
+    <string name="prefs_audio_priority_sum">ਜੇਕਰ ਸਮਰਥਿਤ ਹੈ, ਤਾਂ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨਾਂ ਮਾਈਕ੍ਰੋਫੋਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਣਗੀਆਂ। ਜੇਕਰ ਅਯੋਗ ਹੈ, ਤਾਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਆਡੀਓ ਰਿਕਾਰਡ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋ ਸਕਦੀ ਹੈ ਜਦੋਂ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕਈ ਐਪਲੀਕੇਸ਼ਨਾਂ ਚੱਲ ਰਹੀਆਂ ਹਨ (ਐਂਡਰਾਇਡ ਹਮੇਸ਼ਾ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਦੀ ਇੱਕੋ ਸਮੇਂ ਵਰਤੋਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੰਦਾ ਹੈ)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">ਇਸ ਸਮੇਂ, ਆਡੀਓ ਰਿਕਾਰਡਿੰਗ ਸੰਭਵ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਮਾਈਕ੍ਰੋਫੋਨ ਨੂੰ ਕਿਸੇ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਦੁਆਰਾ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
+
     
     
     
 
+    <string name="donate_text">ਦਾਨ ਕਰੋ</string>
+    <string name="donate_disable_ads_text">ਦਾਨ ਕਰੋ, ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਅਯੋਗ ਕਰੋ</string>
+    <string name="donate_dialog_item_no_ads_text">(ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ)</string>
+    <string name="donation_dlg_limited_ads_message_text">ਘੱਟ ਦਾਨ ਨਾਲ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਸਿਰਫ਼ ਮੁੱਖ ਸਕ੍ਰੀਨ ਲਈ ਹਟਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਡਿਵਾਈਸ ਨਿਰਮਾਤਾ ਸਾਰੇ ਕੈਮਰਿਆਂ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਦਾਨ ਨਾ ਕਰੇ, ਇਸ ਲਈ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਨਾ ਖੁੱਲ੍ਹ ਸਕਣ</string>
+
+    <string name="camera_msg_error_non_exposed_error">ਚੁਣਿਆ ਕੈਮਰਾ ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਫਲ। ਅਜਿਹਾ ਹੁੰਦਾ ਹੈ ਕਿ ਕਿਸੇ ਵੀ ਐਪਲੀਕੇਸ਼ਨ ਦੁਆਰਾ ਸਾਰੇ ਲੁਕਵੇਂ ਕੈਮਰੇ ਨਹੀਂ ਵਰਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਬਹੁਤ ਸਾਰੇ ਨਿਰਮਾਤਾ ਸਿਰਫ ਉਹਨਾਂ ਦੇ ਮੂਲ ਕਾਰਜਾਂ ਵਿੱਚ ਉਹਨਾਂ ਦੀ ਵਰਤੋਂ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦੇ ਹਨ। ਡਿਫੌਲਟ ਕੈਮਰਾ ਖੁੱਲ ਜਾਵੇਗਾ।</string>
+
+    <string name="rec_service_msg">ਗੋਪਨੀਯਤਾ: ਤੁਹਾਡੇ ਦੁਆਰਾ ਰਿਕਾਰਡ ਕੀਤੇ ਗਏ ਸਾਰੇ ਵੀਡੀਓ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਸਥਾਨਕ ਡਿਵਾਈਸ \'ਤੇ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਜਾਣਗੇ। ਐਪਲੀਕੇਸ਼ਨ ਤੁਹਾਡੇ ਵੀਡੀਓਜ਼ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲੈਂਦੀ ਹੈ (ਸਰਵਰਾਂ ਨਾਲ ਕੋਈ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ)\n\nਜੇਕਰ ਤੁਸੀਂ ਨਵੀਂ ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਅਤੇ ਹੋਮ ਸਕ੍ਰੀਨ \'ਤੇ ਵਾਪਸ ਆਉਂਦੇ ਹੋ, ਕਿਸੇ ਹੋਰ ਐਪ \'ਤੇ ਸਵਿਚ ਕਰਦੇ ਹੋ, ਜਾਂ ਰਿਕਾਰਡਿੰਗ ਜਾਰੀ ਰੱਖਣ ਦੇ ਯੋਗ ਹੋਣ ਲਈ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਲੌਕ ਕਰਦੇ ਹੋ, ਤਾਂ ਐਪ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲਦੀ ਰਹੇਗੀ (ਫੋਰਗਰਾਉਂਡ ਸੇਵਾ ਜੋ ਸੂਚਨਾ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦੀ ਹੈ)।</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੱਖਰਾ ਮਾਰਗ ਚੁਣਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ (ਡਿਵਾਈਸ ਲੋਕਲ ਸਟੋਰੇਜ)</string>
+
+    <string name="permissions_grant_storage_btn_text">ਲਿਖਤੀ ਸਟੋਰੇਜ ਦਿਓ</string>
+
+    <string name="donation_subs_text">ਮਹੀਨਾਵਾਰ ਦਾਨ ਕਰੋ</string>
+    <string name="donation_any_amount_text">ਕਿਸੇ ਵੀ ਰਕਮ ਲਈ ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ</string>
+    <string name="donation_subs_any_amount_text">ਨਾਲ ਹੀ, ਜਦੋਂ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਰਕਮ ਲਈ ਗਾਹਕ ਬਣਦੇ ਹੋ ਤਾਂ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹਟਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="donation_remove_ads_by_any_amount_text">ਕਿਸੇ ਵੀ ਰਕਮ ਦੇ ਇੱਕ ਵਾਰ ਦੇ ਦਾਨ ਨਾਲ ਹਮੇਸ਼ਾ ਲਈ ਵਿਗਿਆਪਨ ਹਟਾਓ। ਤੁਸੀਂ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਮਹੀਨਾਵਾਰ ਕੋਈ ਵੀ ਰਕਮ ਦਾਨ ਵੀ ਕਰ ਸਕਦੇ ਹੋ</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: ਕੈਮਰੇ ਨੇ ਅਚਾਨਕ ਕੰਮ ਕਰਨਾ ਬੰਦ ਕਰ ਦਿੱਤਾ, ਮੁੜ ਚਾਲੂ ਕੀਤਾ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਹੋ ਗਈ ਹੈ ਕਿਉਂਕਿ ਡਿਵਾਈਸ ਦੇ ਕੈਮਰੇ ਨੇ ਕੰਮ ਕਰਨਾ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ</string>
+
+    <string name="prefs_audio_bt_recording_text">ਬਲੂਟੁੱਥ ਡਿਵਾਈਸ ਤੋਂ ਆਡੀਓ ਰਿਕਾਰਡ ਕਰੋ</string>
 </resources>

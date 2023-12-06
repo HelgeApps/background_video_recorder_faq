@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Ауто</string>
     <string name="rec_fix_short_text">Исправити</string>
     <string name="rec_fix_text">Исправити</string>
-    <string name="rec_free_space_text">бесплатно</string>
+    <string name="rec_free_space_text">Доступан</string>
     <string name="rec_location_text">Локација</string>
     <string name="rec_gps_text">ГПС</string>
     <string name="rec_network_text">Нет</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Време је постављено у прошлост</string>
     <string name="timer_service_notification_subtitle_text">Тајмер сервис за аутоматско покретање видео снимања</string>
     
+
+    <string name="timer_auto_start_every_day_text">Сваки дан</string>
+    <string name="timer_auto_start_once">Једном</string>
+    <string name="timer_auto_start_dlg_type_title">Подесите тајмер за почетак снимања</string>
+
+    <string name="prefs_zoom_out_desc_text">Да бисте приступили ултра широкоугаоној камери (објектив), можете да подесите фактор зумирања</string>
+    <string name="prefs_warning_notifications_sum_text">Неопходно да бисте могли да прикажете услугу снимања у позадини и статусе на табли са обавештењима. Кликните да пошаљете</string>
+    <string name="prefs_warning_notifications_text">Дозвола за обавештења</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Прикажи преглед камере на почетном екрану</string>
+    <string name="prefs_ui_camera_preview_text">Преглед камере</string>orientation
+    <string name="photos_folder_name">Фотографије</string>
+    <string name="photos_count_one">фото</string>
+    <string name="photos_count_other">фотографије</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Додај пречицу (покретач)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">За покретање/заустављање снимања без покретања главног екрана</string>
+   
+    <string name="prefs_audio_priority_title">Дајте предност звуку овој апликацији</string>
+    <string name="prefs_audio_priority_sum">Ако је омогућено, друге апликације неће моћи да користе микрофон. Ако је онемогућена, ова апликација можда неће моћи да снима звук када више апликација ради помоћу микрофона (Андроид не дозвољава увек истовремену употребу микрофона)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Тренутно аудио снимање није могуће јер микрофон пресреће друга апликација</string>
+
     
     
     
 
+    <string name="donate_text">Донирајте</string>
+    <string name="donate_disable_ads_text">Донирајте, онемогућите огласе</string>
+    <string name="donate_dialog_item_no_ads_text">(без огласа)</string>
+    <string name="donation_dlg_limited_ads_message_text">Са мањим донацијама огласи се уклањају само за главни екран</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Произвођач уређаја можда неће обезбедити приступ свим камерама, па се неке можда неће отворити</string>
+
+    <string name="camera_msg_error_non_exposed_error">Отварање изабране камере није успело. Дешава се да ниједна апликација не може да користи све скривене камере. Многи произвођачи дозвољавају њихову употребу само у својим изворним апликацијама. Отвара се подразумевана камера.</string>
+
+    <string name="rec_service_msg">Приватност: Сви видео снимци које снимите биће сачувани само на вашем локалном уређају. Апликација не прави резервне копије ваших видео записа (нема никакве везе са серверима)\n\nАпликација ће наставити да ради у позадини (услуга у првом плану која се појављује на траци са обавештењима) ако започнете ново снимање и вратите се на почетни екран, пређете на другу апликацију или закључате телефон да бисте могли да наставите са снимањем.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Покушајте да изаберете другу путању (локална меморија уређаја)</string>
+
+    <string name="permissions_grant_storage_btn_text">Додели складиште за писање</string>
+
+    <string name="donation_subs_text">Донирајте месечно</string>
+    <string name="donation_any_amount_text">нема реклама за било који износ</string>
+    <string name="donation_subs_any_amount_text">Такође, оглашавање се потпуно уклања када се претплатите на било који износ.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Уклоните огласе заувек уз једнократну донацију било ког износа. Такође можете да донирате било који износ месечно за уклањање огласа</string>
+
+    <string name="msg_camera_died_text">БацкгроундВидеоРецордер: Камера је изненада престала да ради, поново се покренула...</string>
+	<string name="camera_error_text">БацкгроундВидеоРецордер: Снимање видеа је заустављено јер је камера уређаја престала да ради</string>
+
+    <string name="prefs_audio_bt_recording_text">Снимите звук са Блуетоотх уређаја</string>
 </resources>

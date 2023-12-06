@@ -535,17 +535,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Il tempo era fissato nel passato</string>
     <string name="timer_service_notification_subtitle_text">Servizio timer per l\'avvio automatico della registrazione video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Ogni giorno</string>
+    <string name="timer_auto_start_once">Una volta</string>
+    <string name="timer_auto_start_dlg_type_title">Imposta il timer per avviare la registrazione</string>
+
+    <string name="prefs_zoom_out_desc_text">Per accedere alla fotocamera ultra grandangolare (obiettivo), è possibile impostare il fattore di zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Necessario per poter visualizzare il servizio di registrazione in background e gli stati nel pannello delle notifiche. Fare clic per inviare</string>
+    <string name="prefs_warning_notifications_text">Autorizzazione alla notifica</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Mostra l\'anteprima della fotocamera sulla schermata iniziale</string>
+    <string name="prefs_ui_camera_preview_text">Anteprima fotocamera</string>orientation
+    <string name="photos_folder_name">Fotografie</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">fotografie</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Aggiungi scorciatoia (avviatore)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Per avviare/arrestare la registrazione senza avviare la schermata principale</string>
+   
+    <string name="prefs_audio_priority_title">Dai la priorità all\'audio di questa app</string>
+    <string name="prefs_audio_priority_sum">Se abilitato, le altre applicazioni non saranno in grado di utilizzare il microfono. Se disabilitata, questa applicazione potrebbe non essere in grado di registrare l\'audio quando più applicazioni sono in esecuzione utilizzando il microfono (Android non consente sempre l\'uso simultaneo del microfono)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Al momento la registrazione audio non è possibile perché il microfono è intercettato da un\'altra applicazione</string>
+
     
     
     
 
+    <string name="donate_text">Donare</string>
+    <string name="donate_disable_ads_text">Dona, disabilita gli annunci</string>
+    <string name="donate_dialog_item_no_ads_text">(Nessuna pubblicità)</string>
+    <string name="donation_dlg_limited_ads_message_text">Con donazioni inferiori gli annunci vengono rimossi solo per la schermata principale</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Il produttore del dispositivo potrebbe non fornire l\'accesso a tutte le fotocamere, quindi alcune potrebbero non aprirsi</string>
+
+    <string name="camera_msg_error_non_exposed_error">Impossibile aprire la fotocamera selezionata. Accade così che non tutte le telecamere nascoste possano essere utilizzate da qualsiasi applicazione. Molti produttori ne consentono l\'uso solo nelle loro applicazioni native. Si aprirà la fotocamera predefinita.</string>
+
+    <string name="rec_service_msg">Privacy: tutti i video registrati verranno salvati solo sul tuo dispositivo locale. L\'applicazione non esegue il backup dei tuoi video (non ha alcuna connessione ai server)\n\nL\'app continuerà a essere eseguita in background (il servizio in primo piano visualizzato nella barra delle notifiche) se avvii una nuova registrazione e torni alla schermata principale, passi a un\'altra app o blocchi il telefono per poter continuare la registrazione.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Prova a selezionare un percorso diverso (archiviazione locale del dispositivo)</string>
+
+    <string name="permissions_grant_storage_btn_text">Concedi spazio di scrittura</string>
+
+    <string name="donation_subs_text">Dona mensilmente</string>
+    <string name="donation_any_amount_text">nessuna pubblicità per nessun importo</string>
+    <string name="donation_subs_any_amount_text">Inoltre, la pubblicità viene completamente rimossa quando ti abboni per qualsiasi importo.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Rimuovi gli annunci per sempre con una donazione una tantum di qualsiasi importo. Puoi anche donare qualsiasi importo mensilmente per rimuovere gli annunci</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: la fotocamera ha smesso improvvisamente di funzionare, è stata riavviata...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: la registrazione video è stata interrotta perché la fotocamera del dispositivo ha smesso di funzionare</string>
+
+    <string name="prefs_audio_bt_recording_text">Registra l\'audio da un dispositivo Bluetooth</string>
 </resources>

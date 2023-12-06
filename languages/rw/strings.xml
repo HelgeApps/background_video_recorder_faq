@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Imodoka</string>
     <string name="rec_fix_short_text">Gukosora</string>
     <string name="rec_fix_text">Gukosora</string>
-    <string name="rec_free_space_text">Ubuntu</string>
+    <string name="rec_free_space_text">Birashoboka</string>
     <string name="rec_location_text">Aho biherereye</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Igihe cyagenwe kera</string>
     <string name="timer_service_notification_subtitle_text">Serivise yigihe cyo gutangira gufata amashusho mu buryo bwikora</string>
     
+
+    <string name="timer_auto_start_every_day_text">Buri munsi</string>
+    <string name="timer_auto_start_once">Rimwe</string>
+    <string name="timer_auto_start_dlg_type_title">Shiraho igihe cyo gutangira gufata amajwi</string>
+
+    <string name="prefs_zoom_out_desc_text">Kugirango ugere kuri ultra yagutse ya kamera (lens), urashobora gushiraho ibintu byo zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Birasabwa kugirango ubashe kwerekana serivise yo gufata amajwi hamwe na statut kumwanya wo kumenyesha. Kanda kugirango utange</string>
+    <string name="prefs_warning_notifications_text">Uruhushya rwo kumenyesha</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Erekana kamera yerekana kamera murugo</string>
+    <string name="prefs_ui_camera_preview_text">Kamera Yerekana</string>orientation
+    <string name="photos_folder_name">Amafoto</string>
+    <string name="photos_count_one">ifoto</string>
+    <string name="photos_count_other">amafoto</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ongeraho shortcut (utangiza)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Gutangira /guhagarika gufata amajwi udatangije ecran nkuru</string>
+   
+    <string name="prefs_audio_priority_title">Shyira amajwi kuriyi porogaramu</string>
+    <string name="prefs_audio_priority_sum">Niba bishoboka, izindi porogaramu ntizishobora gukoresha mikoro. Niba byahagaritswe, iyi porogaramu ntishobora gushobora gufata amajwi mugihe porogaramu nyinshi zirimo gukora mikoro (Android ntabwo buri gihe yemerera gukoresha mikoro icyarimwe)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Kuri ubu, gufata amajwi ntibishoboka kuko mikoro ihagarikwa nindi porogaramu</string>
+
     
     
     
 
+    <string name="donate_text">Tanga impano</string>
+    <string name="donate_disable_ads_text">Gutanga, Hagarika amatangazo</string>
+    <string name="donate_dialog_item_no_ads_text">(nta matangazo)</string>
+    <string name="donation_dlg_limited_ads_message_text">Hamwe nimpano zo hasi amatangazo yakuweho gusa kuri ecran nkuru</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Uruganda rukora ibikoresho ntirushobora gutanga kamera zose, kuburyo bamwe badashobora gufungura</string>
+
+    <string name="camera_msg_error_non_exposed_error">Kunanirwa gufungura kamera yatoranijwe. Bibaho rero ko kamera zose zihishe zishobora gukoreshwa na progaramu iyo ari yo yose. Inganda nyinshi zemerera gusa gukoresha mugukoresha kavukire. Kamera isanzwe izafungura.</string>
+
+    <string name="rec_service_msg">Amabanga: Amashusho yose wanditse azabikwa gusa kubikoresho byaho. Porogaramu ntishobora kubika amashusho yawe (ntaho ihuriye na seriveri)\n\nPorogaramu izakomeza gukora inyuma (serivisi ibanza igaragara mukumenyesha) niba utangiye gufata amajwi mashya hanyuma ugasubira murugo, uhindukire kurindi porogaramu, cyangwa ufunge terefone yawe kugirango ubashe gukomeza gufata amajwi.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Nyamuneka gerageza guhitamo inzira itandukanye (ibikoresho byabitswe)</string>
+
+    <string name="permissions_grant_storage_btn_text">Tanga kwandika ububiko</string>
+
+    <string name="donation_subs_text">Tanga buri kwezi</string>
+    <string name="donation_any_amount_text">nta kwamamaza kumafaranga ayo ari yo yose</string>
+    <string name="donation_subs_any_amount_text">Na none, kwamamaza bivanwaho rwose iyo wiyandikishije kumafaranga ayo ari yo yose.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Kuraho amatangazo iteka hamwe nimpano imwe yigihe cyose. Urashobora kandi gutanga amafaranga ayo ari yo yose buri kwezi kugirango ukureho amatangazo</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera yahise ihagarika gukora, itangira ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Gufata amashusho byahagaritswe kuko kamera yigikoresho yahagaritse gukora</string>
+
+    <string name="prefs_audio_bt_recording_text">Andika amajwi avuye mu gikoresho cya Bluetooth</string>
 </resources>

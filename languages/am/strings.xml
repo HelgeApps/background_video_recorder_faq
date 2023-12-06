@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">መኪና</string>
     <string name="rec_fix_short_text">ለማስተካከል</string>
     <string name="rec_fix_text">ለማስተካከል</string>
-    <string name="rec_free_space_text">ፍርይ</string>
+    <string name="rec_free_space_text">ይገኛል።</string>
     <string name="rec_location_text">አካባቢ</string>
     <string name="rec_gps_text">አቅጣጫ መጠቆሚያ</string>
     <string name="rec_network_text">የተጣራ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">ጊዜው ያለፈበት ነበር</string>
     <string name="timer_service_notification_subtitle_text">የቪዲዮ ቀረጻ በራስ ሰር ለመጀመር የሰዓት ቆጣሪ አገልግሎት</string>
     
+
+    <string name="timer_auto_start_every_day_text">በየቀኑ</string>
+    <string name="timer_auto_start_once">አንድ ጊዜ</string>
+    <string name="timer_auto_start_dlg_type_title">መቅዳት ለመጀመር ሰዓት ቆጣሪ ያቀናብሩ</string>
+
+    <string name="prefs_zoom_out_desc_text">እጅግ በጣም ሰፊውን አንግል ካሜራ (ሌንስ) ለመድረስ የማጉላት ሁኔታን ማዘጋጀት ይችላሉ።</string>
+    <string name="prefs_warning_notifications_sum_text">የጀርባ ቀረጻ አገልግሎትን እና ሁኔታዎችን በማሳወቂያ ፓነል ላይ ለማሳየት ያስፈልጋል። ለማስገባት ጠቅ ያድርጉ</string>
+    <string name="prefs_warning_notifications_text">የማሳወቂያ ፍቃድ</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">የካሜራ ቅድመ እይታን በመነሻ ማያ ገጽ ላይ አሳይ</string>
+    <string name="prefs_ui_camera_preview_text">የካሜራ ቅድመ እይታ</string>orientation
+    <string name="photos_folder_name">ፎቶዎች</string>
+    <string name="photos_count_one">ፎቶ</string>
+    <string name="photos_count_other">ፎቶዎች</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">አቋራጭ አክል (አስጀማሪ)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ዋናውን ስክሪን ሳይከፍቱ መቅዳት ለመጀመር/ለማቆም</string>
+   
+    <string name="prefs_audio_priority_title">ኦዲዮን ለዚህ መተግበሪያ ቅድሚያ ይስጡ</string>
+    <string name="prefs_audio_priority_sum">ከነቃ ሌሎች መተግበሪያዎች ማይክሮፎኑን መጠቀም አይችሉም። ከተሰናከለ ይህ አፕሊኬሽን ብዙ አፕሊኬሽኖች ማይክሮፎኑን ሲጠቀሙ ኦዲዮ መቅዳት ላይችል ይችላል (አንድሮይድ ሁልጊዜ ማይክሮፎኑን በአንድ ጊዜ መጠቀምን አይፈቅድም)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">በአሁኑ ጊዜ ማይክሮፎኑ በሌላ መተግበሪያ ስለተጠለፈ የድምጽ ቀረጻ አይቻልም</string>
+
     
     
     
 
+    <string name="donate_text">ለገሱ</string>
+    <string name="donate_disable_ads_text">ይለግሱ፣ ማስታወቂያዎችን ያሰናክሉ።</string>
+    <string name="donate_dialog_item_no_ads_text">(ማስታወቂያ የለም)</string>
+    <string name="donation_dlg_limited_ads_message_text">በዝቅተኛ ልገሳዎች ማስታወቂያዎቹ የሚወገዱት ለዋናው ማያ ገጽ ብቻ ነው።</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">የመሳሪያው አምራች የሁሉንም ካሜራዎች መዳረሻ ላይሰጥ ይችላል፣ ስለዚህ አንዳንዶቹ ላይከፈቱ ይችላሉ።</string>
+
+    <string name="camera_msg_error_non_exposed_error">የተመረጠውን ካሜራ መክፈት አልተሳካም። ይህ የሚሆነው ሁሉም የተደበቁ ካሜራዎች በማንኛውም መተግበሪያ መጠቀም አለመቻላቸው ነው። ብዙ አምራቾች በአገር ውስጥ አፕሊኬሽኖቻቸው ውስጥ ብቻ እንዲጠቀሙባቸው ይፈቅዳሉ. ነባሪ ካሜራ ይከፈታል።</string>
+
+    <string name="rec_service_msg">ግላዊነት፡ የሚቀዳቸው ሁሉም ቪዲዮዎች የሚቀመጡት በአከባቢህ መሳሪያ ላይ ብቻ ነው። አፕሊኬሽኑ የቪድዮዎችዎን ምትኬ አያስቀምጥም (ከአገልጋዮች ጋር ምንም ግንኙነት የሉትም)\n\nአዲስ ቀረጻ ከጀመርክ እና ወደ መነሻ ስክሪን ከተመለስክ፣ ወደ ሌላ መተግበሪያ ከቀየርክ ወይም ስልክህን ቆልፈህ መቅዳት እንድትችል መተግበሪያው ከበስተጀርባ (በማስታወቂያ አሞሌ ላይ የሚታየው የፊት ለፊት አገልግሎት) መስራቱን ይቀጥላል።</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">እባክዎ የተለየ መንገድ ለመምረጥ ይሞክሩ (የመሣሪያ አካባቢያዊ ማከማቻ)</string>
+
+    <string name="permissions_grant_storage_btn_text">የጽሑፍ ማከማቻ ይስጡ</string>
+
+    <string name="donation_subs_text">በየወሩ ይለግሱ</string>
+    <string name="donation_any_amount_text">ለማንኛውም መጠን ምንም ማስታወቂያ የለም።</string>
+    <string name="donation_subs_any_amount_text">እንዲሁም ለማንኛውም መጠን ሲመዘገቡ ማስታወቂያ ሙሉ በሙሉ ይወገዳል.</string>
+    <string name="donation_remove_ads_by_any_amount_text">በማንኛውም መጠን የአንድ ጊዜ ልገሳ ማስታወቂያ ለዘላለም ያስወግዱ። እንዲሁም ማስታወቂያዎችን ለማስወገድ ማንኛውንም መጠን በየወሩ መለገስ ይችላሉ።</string>
+
+    <string name="msg_camera_died_text">ዳራ ቪዲዮ መቅጃ፡ ካሜራው በድንገት መስራት አቁሟል፣ እንደገና ጀምሯል...</string>
+	<string name="camera_error_text">ከበስተጀርባ ቪዲዮ መቅጃ፡ የቪዲዮ ቀረጻ ቆሟል ምክንያቱም የመሳሪያው ካሜራ መስራት አቁሟል</string>
+
+    <string name="prefs_audio_bt_recording_text">ድምጽን ከብሉቱዝ ይቅረጹ</string>
 </resources>

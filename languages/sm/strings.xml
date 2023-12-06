@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Ta\'avale</string>
     <string name="rec_fix_short_text">Ia faasa\'o</string>
     <string name="rec_fix_text">Ia faasa\'o</string>
-    <string name="rec_free_space_text">Sa\'oloto</string>
+    <string name="rec_free_space_text">Avanoa</string>
     <string name="rec_location_text">Nofoaga</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Sa faatulagaina le taimi i aso ua mavae</string>
     <string name="timer_service_notification_subtitle_text">Au\'aunaga o le taimi mo le amataina otometi o le pueina o vitio</string>
     
+
+    <string name="timer_auto_start_every_day_text">Aso uma</string>
+    <string name="timer_auto_start_once">Fa\'atasi</string>
+    <string name="timer_auto_start_dlg_type_title">Seti le taimi e amata ai le pueina</string>
+
+    <string name="prefs_zoom_out_desc_text">Ina ia maua le meapueata pito lautele (matatio mata), e mafai ona e setiina le fa\'amea fa\'aloma</string>
+    <string name="prefs_warning_notifications_sum_text">Mana\'omia ina ia mafai ona fa\'aalia le tautua pu\'eina ma tulaga i luga o le laulau fa\'aaliga. Kiliki e lafo</string>
+    <string name="prefs_warning_notifications_text">Fa\'atagaga Fa\'asilasilaga</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Fa\'aali mua\'i meapueata ile lau ile fale</string>
+    <string name="prefs_ui_camera_preview_text">Meapueata Muai</string>orientation
+    <string name="photos_folder_name">Ata</string>
+    <string name="photos_count_one">ata</string>
+    <string name="photos_count_other">ata</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Fa\'aopoopo le ala \'ala (launcher)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">E amata/taofi le pueina e aunoa ma le tatalaina o le lau autu</string>
+   
+    <string name="prefs_audio_priority_title">Fa\'amuamua leo i lenei app</string>
+    <string name="prefs_audio_priority_sum">Afai e mafai, o le a le mafai e isi talosaga ona fa\'aogaina le masini faaleotele leo. Afai e le atoatoa, atonu e le mafai e lenei talosaga ona pu\'eina leo pe a tele talosaga o loʻo faʻaogaina le masini faaleotele leo (Android e le faʻatagaina i taimi uma le faʻaogaina o le masini faaleotele leo)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">I le taimi nei, e le mafai ona pu\'eina leo ona o le masini faaleotele leo ua taofia e se isi talosaga</string>
+
     
     
     
 
+    <string name="donate_text">Foai</string>
+    <string name="donate_disable_ads_text">Foai, Fa\'agata fa\'asalalauga</string>
+    <string name="donate_dialog_item_no_ads_text">(leai ni fa\'asalalauga)</string>
+    <string name="donation_dlg_limited_ads_message_text">Faatasi ai ma foaʻi maualalo e aveese faʻasalalauga naʻo le ata autu</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Atonu e le maua e le tagata gaosi masini le avanoa i meapueata uma, o lea atonu e le tatalaina nisi</string>
+
+    <string name="camera_msg_error_non_exposed_error">Ua le mafai ona tatala le meapueata filifilia. E tupu e le o mea pueata natia uma e mafai ona faʻaogaina e soʻo se talosaga. O le tele o tagata gaosi oloa e fa\'atagaina latou fa\'aoga i a latou fa\'aoga masani. O le a tatala le meapueata fa\'aletonu.</string>
+
+    <string name="rec_service_msg">Fa\'alilolilo: O vitiō uma e te pu\'eina o le a fa\'asaoina na\'o lau masini fa\'apitonu\'u. E le fa\'asaoina e le talosaga au vitio (e leai ni feso\'ota\'iga i \'au\'aunaga)\n\nO le a faʻaauau pea ona taʻavale le app i tua (le tautua pito i luma o loʻo faʻaalia i le faʻasalalauga faʻasalalauga) pe afai e te amataina se lipine fou ma toe foʻi i le mata o le fale, sui i se isi app, pe loka lau telefoni ina ia mafai ai ona faʻaauau le pueina.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Fa\'amolemole taumafai e filifili se isi ala (masini e teu i le lotoifale)</string>
+
+    <string name="permissions_grant_storage_btn_text">Tuuina atu le teuina o tusitusiga</string>
+
+    <string name="donation_subs_text">Foai masina</string>
+    <string name="donation_any_amount_text">leai se fa\'asalalauga mo so\'o se aofaiga</string>
+    <string name="donation_subs_any_amount_text">E le gata i lea, o faʻasalalauga e matua aveese pe a e lesitala mo soʻo se aofaiga.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Aveese fa\'asalalauga fa\'avavau fa\'atasi ma se foa\'i e tasi le aofa\'i. E mafai fo\'i ona e foa\'i so\'o se aofa\'iga i masina ta\'itasi e aveese ai fa\'asalalauga</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Na faʻafuaseʻi ona le toe galue le meapueata, toe amata...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Ua taofia le pueina o ata ona ua le toe galue le meapueata a le masini</string>
+
+    <string name="prefs_audio_bt_recording_text">Faamaumau leo ​​mai se masini Bluetooth</string>
 </resources>

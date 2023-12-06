@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ඔටෝ</string>
     <string name="rec_fix_short_text">නිවැරදි කිරීමට</string>
     <string name="rec_fix_text">නිවැරදි කිරීමට</string>
-    <string name="rec_free_space_text">නිදහස්</string>
+    <string name="rec_free_space_text">ඇත</string>
     <string name="rec_location_text">ස්ථානය</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">ශුද්ධ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">කාලය නියම කළේ අතීතයේ ය</string>
     <string name="timer_service_notification_subtitle_text">වීඩියෝ පටිගත කිරීම ස්වයංක්‍රීයව ආරම්භ කිරීම සඳහා ටයිමර් සේවාව</string>
     
+
+    <string name="timer_auto_start_every_day_text">සෑම දිනම</string>
+    <string name="timer_auto_start_once">වරක්</string>
+    <string name="timer_auto_start_dlg_type_title">පටිගත කිරීම ආරම්භ කිරීමට ටයිමරය සකසන්න</string>
+
+    <string name="prefs_zoom_out_desc_text">Ultra wide-angle කැමරාව (කාච) වෙත ප්‍රවේශ වීමට, ඔබට විශාලන සාධකය සැකසිය හැක</string>
+    <string name="prefs_warning_notifications_sum_text">දැනුම්දීම් පැනලයේ පසුබිම් පටිගත කිරීමේ සේවාව සහ තත්ත්‍වයන් සංදර්ශන කිරීමට හැකි වීම අවශ්‍ය වේ. ඉදිරිපත් කිරීමට ක්ලික් කරන්න</string>
+    <string name="prefs_warning_notifications_text">දැනුම්දීමේ අවසරය</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">මුල් තිරයේ කැමරා පෙරදසුන පෙන්වන්න</string>
+    <string name="prefs_ui_camera_preview_text">කැමරා පෙරදසුන</string>orientation
+    <string name="photos_folder_name">ඡායාරූප</string>
+    <string name="photos_count_one">ඡායා රූප</string>
+    <string name="photos_count_other">ඡායාරූප</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">කෙටිමං එක් කරන්න (දියත් කිරීම)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ප්‍රධාන තිරය දියත් නොකර පටිගත කිරීම ආරම්භ කිරීමට/නැවැත්වීමට</string>
+   
+    <string name="prefs_audio_priority_title">මෙම යෙදුමට ශ්‍රව්‍ය ප්‍රමුඛත්වය දෙන්න</string>
+    <string name="prefs_audio_priority_sum">සබල කළහොත්, අනෙකුත් යෙදුම්වලට මයික්‍රෆෝනය භාවිත කිරීමට නොහැකි වනු ඇත. අබල කර ඇත්නම්, මයික්‍රෆෝනය භාවිතයෙන් යෙදුම් කිහිපයක් ක්‍රියාත්මක වන විට මෙම යෙදුමට ශ්‍රව්‍ය පටිගත කිරීමට නොහැකි විය හැකිය (Android සෑම විටම මයික්‍රෆෝනය එකවර භාවිතා කිරීමට ඉඩ නොදේ)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">මේ මොහොතේ, මයික්‍රෆෝනය වෙනත් යෙදුමකට බාධා වන නිසා ශ්‍රව්‍ය පටිගත කිරීම කළ නොහැක</string>
+
     
     
     
 
+    <string name="donate_text">පරිත්‍යාග කරන්න</string>
+    <string name="donate_disable_ads_text">පරිත්‍යාග කරන්න, දැන්වීම් අක්‍රිය කරන්න</string>
+    <string name="donate_dialog_item_no_ads_text">(දැන්වීම් නැත)</string>
+    <string name="donation_dlg_limited_ads_message_text">අඩු පරිත්‍යාග සමඟ දැන්වීම් ඉවත් කරනු ලබන්නේ ප්‍රධාන තිරය සඳහා පමණි</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">උපාංග නිෂ්පාදකයා සියලු කැමරාවලට ප්‍රවේශය ලබා නොදෙනු ඇත, එබැවින් සමහරක් විවෘත නොවිය හැක</string>
+
+    <string name="camera_msg_error_non_exposed_error">තෝරාගත් කැමරාව විවෘත කිරීමට අසමත් විය. සියලුම සැඟවුණු කැමරා කිසිදු යෙදුමකට භාවිතා කළ නොහැක. බොහෝ නිෂ්පාදකයින් ඔවුන්ගේ දේශීය යෙදුම්වල පමණක් භාවිතා කිරීමට ඉඩ දෙයි. පෙරනිමි කැමරාව විවෘත වනු ඇත.</string>
+
+    <string name="rec_service_msg">රහස්‍යතාව: ඔබ පටිගත කරන සියලුම වීඩියෝ ඔබගේ දේශීය උපාංගයේ පමණක් සුරැකෙනු ඇත. යෙදුම ඔබගේ වීඩියෝ උපස්ථ නොකරයි (සේවාදායක වෙත සම්බන්ධතා නොමැත)\n\nඔබ නව පටිගත කිරීමක් ආරම්භ කර මුල් තිරය වෙත ආපසු ගියහොත්, වෙනත් යෙදුමකට මාරු වුවහොත්, හෝ පටිගත කිරීම දිගටම කරගෙන යාමට ඔබගේ දුරකථනය අගුළු දැමුවහොත්, යෙදුම පසුබිමේ (දැනුම්දීමේ තීරුවේ දිස්වන පෙරබිම් සේවාව) දිගටම ක්‍රියාත්මක වේ.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">කරුණාකර වෙනත් මාර්ගයක් තේරීමට උත්සාහ කරන්න (උපාංග දේශීය ගබඩාව)</string>
+
+    <string name="permissions_grant_storage_btn_text">ලිවීමේ ගබඩාව ප්‍රදානය කරන්න</string>
+
+    <string name="donation_subs_text">මාසිකව පරිත්‍යාග කරන්න</string>
+    <string name="donation_any_amount_text">කිසිම මුදලකට ප්‍රචාරණයක් නැත</string>
+    <string name="donation_subs_any_amount_text">එසේම, ඔබ ඕනෑම මුදලකට දායක වන විට වෙළඳ දැන්වීම් සම්පූර්ණයෙන්ම ඉවත් කරනු ලැබේ.</string>
+    <string name="donation_remove_ads_by_any_amount_text">ඕනෑම මුදලක එක් වරක් පරිත්‍යාගයක් සමඟ දැන්වීම් සදහටම ඉවත් කරන්න. දැන්වීම් ඉවත් කිරීම සඳහා ඔබට මාසිකව ඕනෑම මුදලක් පරිත්‍යාග කළ හැකිය</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: කැමරාව හදිසියේම ක්‍රියා කිරීම නැවැත්වුවා, නැවත ආරම්භ විය...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: උපාංගයේ කැමරාව ක්‍රියා කිරීම නවතා ඇති නිසා වීඩියෝ පටිගත කිරීම නතර වී ඇත</string>
+
+    <string name="prefs_audio_bt_recording_text">බ්ලූටූත් උපාංගයකින් ශ්‍රව්‍ය පටිගත කරන්න</string>
 </resources>

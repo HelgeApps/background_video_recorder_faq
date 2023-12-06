@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Per curregà</string>
     <string name="rec_fix_text">Per curregà</string>
-    <string name="rec_free_space_text">Gratuitu</string>
+    <string name="rec_free_space_text">Disponibile</string>
     <string name="rec_location_text">Locu</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">U tempu hè statu stabilitu in u passatu</string>
     <string name="timer_service_notification_subtitle_text">Serviziu di timer per l\'iniziu automaticu di a registrazione video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Ogni ghjornu</string>
+    <string name="timer_auto_start_once">Una volta</string>
+    <string name="timer_auto_start_dlg_type_title">Set timer per inizià a registrazione</string>
+
+    <string name="prefs_zoom_out_desc_text">Per accede à a camera ultra wide-angle (lenti), pudete stabilisce u fattore di zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Hè necessariu per pudè vede u serviziu di registrazione di fondo è i stati nantu à u pannellu di notificazione. Cliccate per mandà</string>
+    <string name="prefs_warning_notifications_text">Permissione di Notificazione</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Mostra l\'anteprima di a camera nantu à u screnu in casa</string>
+    <string name="prefs_ui_camera_preview_text">Preview Camera</string>orientation
+    <string name="photos_folder_name">Fotografie</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">ritratti</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Aggiungi un shortcut (lanciatore)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Per inizià /piantà a registrazione senza lancià u screnu principale</string>
+   
+    <string name="prefs_audio_priority_title">Priorità audio à sta app</string>
+    <string name="prefs_audio_priority_sum">Se attivatu, altre applicazioni ùn puderanu micca aduprà u microfonu. Se disabilitata, sta applicazione pò esse micca capace di registrà l\'audio quandu parechje applicazioni sò in esecuzione cù u microfonu (Android ùn permette micca sempre l\'usu simultaneo di u microfonu)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">À u mumentu, a registrazione audio ùn hè micca pussibule perchè u microfonu hè interceptatu da una altra applicazione</string>
+
     
     
     
 
+    <string name="donate_text">Donate</string>
+    <string name="donate_disable_ads_text">Donate, Disattivà l\'annunzii</string>
+    <string name="donate_dialog_item_no_ads_text">(senza annunzii)</string>
+    <string name="donation_dlg_limited_ads_message_text">Cù donazioni più bassu, l\'annunzii sò eliminati solu per a pantalla principale</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">U fabricatore di u dispositivu ùn pò micca furnisce l\'accessu à tutte e camere, cusì alcune ùn ponu micca aperte</string>
+
+    <string name="camera_msg_error_non_exposed_error">Impossibile apre a camera scelta. Hè cusì chì micca tutte e camere nascoste ponu esse aduprate da ogni applicazione. Parechji pruduttori permettenu solu u so usu in e so applicazioni native. A camera predeterminata si apre.</string>
+
+    <string name="rec_service_msg">Privacy: Tutti i video chì arregistrate seranu salvati solu in u vostru dispositivu lucale. L\'applicazione ùn face micca una copia di salvezza di i vostri video (ùn hà micca cunnessione à i servitori)\n\nL\'app cuntinuerà à eseguisce in u sfondate (u serviziu di primu pianu chì appare in a barra di notificazione) se cuminciate una nova registrazione è vultate à a pantalla di casa, cambiate à un\'altra app, o chjude u vostru telefunu per pudè cuntinuà a registrazione.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Per piacè, pruvate à selezziunà un percorsu diversu (almacenamentu locale di u dispositivu)</string>
+
+    <string name="permissions_grant_storage_btn_text">Concede u almacenamentu di scrittura</string>
+
+    <string name="donation_subs_text">Donate mensili</string>
+    <string name="donation_any_amount_text">senza publicità per ogni quantità</string>
+    <string name="donation_subs_any_amount_text">Inoltre, a publicità hè sguassata cumplettamente quandu vi abbonate per qualsiasi quantità.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Eliminate l\'annunzii per sempre cun una donazione una volta di qualsiasi quantità. Pudete ancu donà ogni quantità mensili per sguassà l\'annunzii</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: A camera hà cessatu di travaglià subitu, riavviatu ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: A registrazione video hè stata arrestata perchè a camera di u dispusitivu hà cessatu di travaglià</string>
+
+    <string name="prefs_audio_bt_recording_text">Registra l\'audio da un dispositivu Bluetooth</string>
 </resources>

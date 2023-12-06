@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Kom kho</string>
     <string name="rec_fix_text">Kom kho</string>
-    <string name="rec_free_space_text">Dawb</string>
+    <string name="rec_free_space_text">Muaj</string>
     <string name="rec_location_text">Qhov chaw</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Lub sijhawm tau teem tseg yav dhau los</string>
     <string name="timer_service_notification_subtitle_text">Kev pabcuam timer rau kev pib tsis siv neeg kaw video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Txhua hnub</string>
+    <string name="timer_auto_start_once">Ib zaug</string>
+    <string name="timer_auto_start_dlg_type_title">Teem timer pib kaw</string>
+
+    <string name="prefs_zoom_out_desc_text">Txhawm rau nkag mus rau lub koob yees duab ultra wide-angle (lens), koj tuaj yeem teeb tsa qhov zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Yuav tsum tau muaj peev xwm tso saib cov kev pab cuam kaw cia thiab cov xwm txheej ntawm lub vaj huam sib luag ceeb toom. Nyem rau xa</string>
+    <string name="prefs_warning_notifications_text">Ceeb Toom Tso Cai</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Muab lub koob yees duab saib ua ntej ntawm lub vijtsam hauv tsev</string>
+    <string name="prefs_ui_camera_preview_text">Lub koob yees duab saib ua ntej</string>orientation
+    <string name="photos_folder_name">Cov duab</string>
+    <string name="photos_count_one">daim duab</string>
+    <string name="photos_count_other">duab</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ntxiv shortcut (launcher)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Txhawm rau pib /nres kaw yam tsis tau qhib lub vijtsam tseem ceeb</string>
+   
+    <string name="prefs_audio_priority_title">Ua ntej lub suab rau lub app no</string>
+    <string name="prefs_audio_priority_sum">Yog tias qhib, lwm daim ntawv thov yuav tsis tuaj yeem siv lub microphone. Yog tias xiam oob qhab, daim ntawv thov no yuav tsis tuaj yeem kaw suab thaum ntau daim ntawv thov siv lub microphone (Android tsis tas yuav tso cai siv lub microphone ib txhij)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Lub sijhawm no, kev kaw suab tsis tuaj yeem ua tau vim tias lub microphone cuam tshuam los ntawm lwm daim ntawv thov</string>
+
     
     
     
 
+    <string name="donate_text">Pub dawb</string>
+    <string name="donate_disable_ads_text">Pub dawb, Disable ads</string>
+    <string name="donate_dialog_item_no_ads_text">(tsis muaj kev tshaj tawm)</string>
+    <string name="donation_dlg_limited_ads_message_text">Nrog qis pub dawb cov tshaj tawm raug tshem tawm tsuas yog rau lub vijtsam loj</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Cov chaw tsim khoom lag luam yuav tsis muab kev nkag mus rau txhua lub koob yees duab, yog li qee qhov yuav tsis qhib</string>
+
+    <string name="camera_msg_error_non_exposed_error">Ua tsis tau tejyam qhib lub koob yees duab xaiv. Nws thiaj li tshwm sim tias tsis yog txhua lub koob yees duab zais tuaj yeem siv los ntawm ib daim ntawv thov. Muaj ntau manufacturers tsuas tso cai rau lawv siv nyob rau hauv lawv haiv neeg daim ntaub ntawv. Lub koob yees duab default yuav qhib.</string>
+
+    <string name="rec_service_msg">Tsis pub twg paub: Txhua cov yeeb yaj kiab uas koj kaw yuav raug cawm hauv koj lub cuab yeej hauv zos xwb. Daim ntawv thov tsis backup koj cov yeeb yaj duab (tsis muaj kev sib txuas rau servers)\n\nLub app yuav khiav mus ntxiv hauv keeb kwm yav dhau (qhov kev pabcuam pem hauv ntej uas tshwm hauv qhov ceeb toom bar) yog tias koj pib cov ntaubntawv povthawj tshiab thiab rov qab mus rau lub vijtsam hauv tsev, hloov mus rau lwm lub app, lossis kaw koj lub xov tooj kom tuaj yeem kaw txuas ntxiv.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Thov sim xaiv ib txoj kev sib txawv (duab cia hauv zos)</string>
+
+    <string name="permissions_grant_storage_btn_text">Muab kev sau cia</string>
+
+    <string name="donation_subs_text">Pub dawb txhua hli</string>
+    <string name="donation_any_amount_text">tsis muaj kev tshaj tawm rau ib qho twg</string>
+    <string name="donation_subs_any_amount_text">Tsis tas li, kev tshaj tawm raug tshem tawm tag nrho thaum koj sau npe rau ib qho twg.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Tshem tawm kev tshaj tawm mus ib txhis nrog kev pub dawb ib zaug ntawm ib qho twg. Koj tuaj yeem pub dawb txhua hli kom tshem tawm cov tshaj tawm</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Lub koob yees duab dheev nres ua haujlwm, rov pib dua ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Kev kaw cov yeeb yaj kiab tau nres vim lub cuab yeej lub koob yees duab tau nres ua haujlwm</string>
+
+    <string name="prefs_audio_bt_recording_text">Sau cov suab los ntawm lub cuab yeej Bluetooth</string>
 </resources>

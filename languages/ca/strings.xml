@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Automàtic</string>
     <string name="rec_fix_short_text">Corregir</string>
     <string name="rec_fix_text">Corregir</string>
-    <string name="rec_free_space_text">Gratuït</string>
+    <string name="rec_free_space_text">Disponible</string>
     <string name="rec_location_text">Ubicació</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">El temps es va fixar en el passat</string>
     <string name="timer_service_notification_subtitle_text">Servei de temporitzador per a l\'inici automàtic de la gravació de vídeo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Cada dia</string>
+    <string name="timer_auto_start_once">Un cop</string>
+    <string name="timer_auto_start_dlg_type_title">Estableix el temporitzador per començar a gravar</string>
+
+    <string name="prefs_zoom_out_desc_text">Per accedir a la càmera ultra gran angular (objectiu), podeu configurar el factor de zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Necessari per poder mostrar el servei de gravació en segon pla i els estats al tauler de notificacions. Feu clic per enviar</string>
+    <string name="prefs_warning_notifications_text">Permís de notificació</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Mostra la vista prèvia de la càmera a la pantalla d\'inici</string>
+    <string name="prefs_ui_camera_preview_text">Vista prèvia de la càmera</string>orientation
+    <string name="photos_folder_name">Fotografies</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">fotografies</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Afegeix una drecera (llançador)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Per iniciar/aturar la gravació sense obrir la pantalla principal</string>
+   
+    <string name="prefs_audio_priority_title">Prioritza l\'àudio a aquesta aplicació</string>
+    <string name="prefs_audio_priority_sum">Si està activat, altres aplicacions no podran utilitzar el micròfon. Si està desactivada, és possible que aquesta aplicació no pugui gravar àudio quan s\'executen diverses aplicacions utilitzant el micròfon (Android no sempre permet l\'ús simultani del micròfon)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">De moment, la gravació d\'àudio no és possible perquè el micròfon és interceptat per una altra aplicació</string>
+
     
     
     
 
+    <string name="donate_text">Donar</string>
+    <string name="donate_disable_ads_text">Donar, desactivar anuncis</string>
+    <string name="donate_dialog_item_no_ads_text">(sense anuncis)</string>
+    <string name="donation_dlg_limited_ads_message_text">Amb donacions més baixes, els anuncis s\'eliminen només per a la pantalla principal</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">És possible que el fabricant del dispositiu no proporcioni accés a totes les càmeres, de manera que algunes no s\'obren</string>
+
+    <string name="camera_msg_error_non_exposed_error">No s\'ha pogut obrir la càmera seleccionada. Succeeix que no totes les càmeres ocultes poden ser utilitzades per qualsevol aplicació. Molts fabricants només permeten el seu ús en les seves aplicacions natives. S\'obrirà la càmera predeterminada.</string>
+
+    <string name="rec_service_msg">Privadesa: tots els vídeos que enregistreu només es desaran al vostre dispositiu local. L\'aplicació no fa còpies de seguretat dels vostres vídeos (no té cap connexió als servidors)\n\nL\'aplicació continuarà funcionant en segon pla (el servei en primer pla que apareix a la barra de notificacions) si inicieu una gravació nova i torneu a la pantalla d\'inici, canvieu a una altra aplicació o bloquegeu el telèfon per poder continuar gravant.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Si us plau, prova de seleccionar un camí diferent (emmagatzematge local del dispositiu)</string>
+
+    <string name="permissions_grant_storage_btn_text">Concedeix emmagatzematge d\'escriptura</string>
+
+    <string name="donation_subs_text">Donar mensualment</string>
+    <string name="donation_any_amount_text">no hi ha publicitat per cap import</string>
+    <string name="donation_subs_any_amount_text">A més, la publicitat s\'elimina completament quan us subscriviu per qualsevol import.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Elimina els anuncis per sempre amb una donació única de qualsevol quantitat. També podeu donar qualsevol quantitat mensual per eliminar anuncis</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: la càmera va deixar de funcionar de sobte, es va reiniciar...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: la gravació de vídeo s\'ha aturat perquè la càmera del dispositiu ha deixat de funcionar</string>
+
+    <string name="prefs_audio_bt_recording_text">Grava àudio des d\'un dispositiu Bluetooth</string>
 </resources>

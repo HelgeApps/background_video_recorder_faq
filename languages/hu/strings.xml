@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Kijavítani</string>
     <string name="rec_fix_text">Kijavítani</string>
-    <string name="rec_free_space_text">Ingyenes</string>
+    <string name="rec_free_space_text">Elérhető</string>
     <string name="rec_location_text">Elhelyezkedés</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Háló</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Az időt a múltban határozták meg</string>
     <string name="timer_service_notification_subtitle_text">Időzítő szolgáltatás a videofelvétel automatikus indításához</string>
     
+
+    <string name="timer_auto_start_every_day_text">Minden nap</string>
+    <string name="timer_auto_start_once">Egyszer</string>
+    <string name="timer_auto_start_dlg_type_title">Állítsa be az időzítőt a felvétel indításához</string>
+
+    <string name="prefs_zoom_out_desc_text">Az ultraszéles látószögű kamera (objektív) eléréséhez beállíthatja a zoomtényezőt</string>
+    <string name="prefs_warning_notifications_sum_text">Szükséges ahhoz, hogy az értesítési panelen megjeleníthesse a háttérrögzítési szolgáltatást és az állapotokat. Kattintson az elküldéshez</string>
+    <string name="prefs_warning_notifications_text">Értesítési engedély</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Kamera előnézetének megjelenítése a kezdőképernyőn</string>
+    <string name="prefs_ui_camera_preview_text">Kamera előnézet</string>orientation
+    <string name="photos_folder_name">Fényképek</string>
+    <string name="photos_count_one">fénykép</string>
+    <string name="photos_count_other">fényképeket</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Parancsikon hozzáadása (indító)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">A felvétel elindítása/leállítása a főképernyő elindítása nélkül</string>
+   
+    <string name="prefs_audio_priority_title">Hang prioritása ennek az alkalmazásnak</string>
+    <string name="prefs_audio_priority_sum">Ha engedélyezve van, más alkalmazások nem fogják tudni használni a mikrofont. Ha le van tiltva, előfordulhat, hogy ez az alkalmazás nem tud hangot rögzíteni, ha több alkalmazás fut a mikrofon használatával (az Android nem mindig teszi lehetővé a mikrofon egyidejű használatát)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Jelenleg nem lehet hangfelvételt készíteni, mert a mikrofont egy másik alkalmazás elfogta</string>
+
     
     
     
 
+    <string name="donate_text">Adományoz</string>
+    <string name="donate_disable_ads_text">Adományozás, hirdetések letiltása</string>
+    <string name="donate_dialog_item_no_ads_text">(nincsenek hirdetések)</string>
+    <string name="donation_dlg_limited_ads_message_text">Alacsonyabb adományok esetén a hirdetések csak a főképernyőről kerülnek eltávolításra</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Előfordulhat, hogy az eszköz gyártója nem biztosít hozzáférést minden kamerához, így előfordulhat, hogy egyesek nem nyílnak meg</string>
+
+    <string name="camera_msg_error_non_exposed_error">Nem sikerült megnyitni a kiválasztott kamerát. Előfordul, hogy nem minden rejtett kamerát használhat egyetlen alkalmazás sem. Sok gyártó csak natív alkalmazásaiban engedélyezi ezek használatát. Megnyílik az alapértelmezett kamera.</string>
+
+    <string name="rec_service_msg">Adatvédelem: Az összes felvett videót a rendszer csak a helyi eszközére menti. Az alkalmazás nem készít biztonsági másolatot a videóidról (nincs kapcsolata a szerverekkel)\n\nAz alkalmazás továbbra is futni fog a háttérben (az értesítési sávban megjelenő előtérben lévő szolgáltatás), ha új felvételt indít, és visszatér a kezdőképernyőre, átvált egy másik alkalmazásra, vagy lezárja a telefont a rögzítés folytatásához.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Próbáljon meg másik utat választani (az eszköz helyi tárhelye)</string>
+
+    <string name="permissions_grant_storage_btn_text">Írási tárhely biztosítása</string>
+
+    <string name="donation_subs_text">Adományozz havonta</string>
+    <string name="donation_any_amount_text">semmiféle reklámozás nélkül</string>
+    <string name="donation_subs_any_amount_text">Ezenkívül a hirdetéseket teljesen eltávolítják, ha bármilyen összegre előfizet.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Bármilyen összegű egyszeri adományozással örökre távolítsa el a hirdetéseket. Havonta tetszőleges összeget adományozhat a hirdetések eltávolítására</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: A kamera hirtelen leállt, újraindult...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: A videofelvétel leállt, mert az eszköz kamerája leállt</string>
+
+    <string name="prefs_audio_bt_recording_text">Hang rögzítése Bluetooth-eszközről</string>
 </resources>

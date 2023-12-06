@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Авто</string>
     <string name="rec_fix_short_text">Виправ.</string>
     <string name="rec_fix_text">Виправити</string>
-    <string name="rec_free_space_text">Вільно</string>
+    <string name="rec_free_space_text">Доступно</string>
     <string name="rec_location_text">Місцезнаходження</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Мережа</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Час був поставлений у минулому</string>
     <string name="timer_service_notification_subtitle_text">Таймер-сервіс автоматичного початку відеозапису</string>
     
+
+    <string name="timer_auto_start_every_day_text">Кожен день</string>
+    <string name="timer_auto_start_once">Один раз</string>
+    <string name="timer_auto_start_dlg_type_title">Встановіть таймер для початку запису</string>
+
+    <string name="prefs_zoom_out_desc_text">Для доступу до ультраширококутної камери (лінзи) можна виставити коефіцієнт масштабування</string>
+    <string name="prefs_warning_notifications_sum_text">Для відображення фонового сервісу запису та статусів на панелі повідомлень необхідно. Натисніть, щоб надати</string>
+    <string name="prefs_warning_notifications_text">Дозвіл на повідомлення</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Показувати попередній перегляд камери на головному екрані</string>
+    <string name="prefs_ui_camera_preview_text">попередній перегляд камери</string>orientation
+    <string name="photos_folder_name">Фотографії</string>
+    <string name="photos_count_one">фото</string>
+    <string name="photos_count_other">фотографії</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Додати ярлик (лаунчер)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Для запуску/зупинки запису без запуску головного екрана</string>
+   
+    <string name="prefs_audio_priority_title">Пріоритет аудіо цієї програми</string>
+    <string name="prefs_audio_priority_sum">Якщо увімкнено, інші програми не можуть використовувати мікрофон. Якщо вимкнено, то ця програма можливо не зможе записувати аудіо, коли працюють кілька програм, що використовують мікрофон (Android не у всіх випадках дозволяє одночасне використання мікрофона)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">На даний момент аудіо запис неможливий, оскільки мікрофон перехоплений іншим додатком</string>
+
     
     
     
 
+    <string name="donate_text">Пожертвуйте</string>
+    <string name="donate_disable_ads_text">Пожертвуйте, вимкніть рекламу</string>
+    <string name="donate_dialog_item_no_ads_text">(немає реклами)</string>
+    <string name="donation_dlg_limited_ads_message_text">При менших пожертвах реклама видаляється лише на головному екрані</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Виробник пристрою може не надавати доступ до всіх камер, тому деякі можуть не відкритися.</string>
+
+    <string name="camera_msg_error_non_exposed_error">Не вдалося відкрити вибрану камеру. Так буває, що не всі приховані камери можуть бути використані будь-якими програмами. Багато виробників дозволяють їх використання лише у своїх рідних додатках. Буде відкрито камеру за промовчанням.</string>
+
+    <string name="rec_service_msg">Конфіденційність: всі записані відеозаписи будуть збережені лише на вашому локальному пристрої. Програма не робить резервні копії ваших відео (не має жодних підключень до серверів)\n\nПрограма продовжить працювати у фоновому режимі (служба переднього плану, яка відображається на панелі повідомлень), якщо ви почнете новий запис і повернетесь на головний екран, перейдіть на іншу програму або заблокуєте телефон для того, щоб мати можливість продовжувати запис.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Будь ласка, спробуйте вибрати інший шлях (локальні сховища пристрою)</string>
+
+    <string name="permissions_grant_storage_btn_text">Надати пам’ять для запису</string>
+
+    <string name="donation_subs_text">Жертвувати щомісяця</string>
+    <string name="donation_any_amount_text">без реклами на будь-яку суму</string>
+    <string name="donation_subs_any_amount_text">Також реклама повністю видаляється під час передплати будь-яку суму.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Видаліть рекламу назавжди разовим пожертвуванням будь-яку суму. Також ви можете жертвувати щомісяця на будь-яку суму, щоб видалити рекламу</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Камера несподівано припинила свою роботу, перезапуск...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Відеозупинено, оскільки камера пристрою перестала працювати</string>
+
+    <string name="prefs_audio_bt_recording_text">Записувати звук із Bluetooth пристрою</string>
 </resources>

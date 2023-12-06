@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Corriger</string>
     <string name="rec_fix_text">Corriger</string>
-    <string name="rec_free_space_text">Libérer</string>
+    <string name="rec_free_space_text">Disponible</string>
     <string name="rec_location_text">Emplacement</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Rapporter</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Le temps était fixé dans le passé</string>
     <string name="timer_service_notification_subtitle_text">Service de minuterie pour le démarrage automatique de l\'enregistrement vidéo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Tous les jours</string>
+    <string name="timer_auto_start_once">Une fois que</string>
+    <string name="timer_auto_start_dlg_type_title">Réglez la minuterie pour commencer l\'enregistrement</string>
+
+    <string name="prefs_zoom_out_desc_text">Pour accéder à la caméra ultra grand angle (objectif), vous pouvez régler le facteur de zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Nécessaire pour pouvoir afficher le service d\'enregistrement en arrière-plan et les statuts sur le panneau de notification. Cliquez pour soumettre</string>
+    <string name="prefs_warning_notifications_text">Autorisation de notification</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Afficher l\'aperçu de la caméra sur l\'écran d\'accueil</string>
+    <string name="prefs_ui_camera_preview_text">Aperçu de la caméra</string>orientation
+    <string name="photos_folder_name">Photos</string>
+    <string name="photos_count_one">photo</string>
+    <string name="photos_count_other">Photos</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ajouter un raccourci (lanceur)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Pour démarrer/arrêter l\'enregistrement sans lancer l\'écran principal</string>
+   
+    <string name="prefs_audio_priority_title">Donner la priorité à l\'audio de cette application</string>
+    <string name="prefs_audio_priority_sum">S\'il est activé, les autres applications ne pourront pas utiliser le microphone. Si elle est désactivée, cette application peut ne pas être en mesure d\'enregistrer de l\'audio lorsque plusieurs applications sont en cours d\'exécution à l\'aide du microphone (Android ne permet pas toujours l\'utilisation simultanée du microphone)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Pour le moment, l\'enregistrement audio n\'est pas possible car le microphone est intercepté par une autre application</string>
+
     
     
     
 
+    <string name="donate_text">Donner</string>
+    <string name="donate_disable_ads_text">Faire un don, désactiver les publicités</string>
+    <string name="donate_dialog_item_no_ads_text">(pas de pubs)</string>
+    <string name="donation_dlg_limited_ads_message_text">Avec des dons inférieurs, les publicités ne sont supprimées que pour l\'écran principal</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Le fabricant de l\'appareil peut ne pas fournir l\'accès à toutes les caméras, donc certaines peuvent ne pas s\'ouvrir</string>
+
+    <string name="camera_msg_error_non_exposed_error">Impossible d\'ouvrir la caméra sélectionnée. Il se trouve que toutes les caméras cachées ne peuvent pas être utilisées par n\'importe quelle application. De nombreux fabricants n\'autorisent leur utilisation que dans leurs applications natives. La caméra par défaut s\'ouvrira.</string>
+
+    <string name="rec_service_msg">Confidentialité : toutes les vidéos que vous enregistrez seront enregistrées uniquement sur votre appareil local. L\'application ne sauvegarde pas vos vidéos (n\'a aucune connexion aux serveurs)\n\nL\'application continuera à s\'exécuter en arrière-plan (le service de premier plan qui apparaît dans la barre de notification) si vous démarrez un nouvel enregistrement et revenez à l\'écran d\'accueil, passez à une autre application ou verrouillez votre téléphone pour pouvoir continuer l\'enregistrement.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Veuillez essayer de sélectionner un chemin différent (stockage local de l\'appareil)</string>
+
+    <string name="permissions_grant_storage_btn_text">Accorder du stockage en écriture</string>
+
+    <string name="donation_subs_text">Faire un don mensuellement</string>
+    <string name="donation_any_amount_text">pas de publicité pour quelque montant que ce soit</string>
+    <string name="donation_subs_any_amount_text">De plus, la publicité est complètement supprimée lorsque vous vous abonnez pour n’importe quel montant.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Supprimez les publicités pour toujours avec un don unique de n\'importe quel montant. Vous pouvez également donner n\'importe quel montant mensuellement pour supprimer les publicités.</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder : La caméra a soudainement cessé de fonctionner, a redémarré...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder : l\'enregistrement vidéo s\'est arrêté car la caméra de l\'appareil a cessé de fonctionner</string>
+
+    <string name="prefs_audio_bt_recording_text">Enregistrer l\'audio à partir d\'un appareil Bluetooth</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Автомат</string>
     <string name="rec_fix_short_text">Залруулахын тулд</string>
     <string name="rec_fix_text">Залруулахын тулд</string>
-    <string name="rec_free_space_text">Үнэгүй</string>
+    <string name="rec_free_space_text">Боломжтой</string>
     <string name="rec_location_text">Байршил</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">цэвэр</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Цагийг өнгөрсөн хугацаанд тогтоосон</string>
     <string name="timer_service_notification_subtitle_text">Видео бичлэгийг автоматаар эхлүүлэх таймер үйлчилгээ</string>
     
+
+    <string name="timer_auto_start_every_day_text">Өдөр бүр</string>
+    <string name="timer_auto_start_once">Нэг удаа</string>
+    <string name="timer_auto_start_dlg_type_title">Бичлэг хийж эхлэхийн тулд таймер тохируулна уу</string>
+
+    <string name="prefs_zoom_out_desc_text">Хэт өргөн өнцгийн камерт (линз) хандахын тулд та томруулах хүчин зүйлийг тохируулж болно</string>
+    <string name="prefs_warning_notifications_sum_text">Мэдэгдлийн самбар дээр дэвсгэр бичлэгийн үйлчилгээ болон статусыг харуулах боломжтой байх шаардлагатай. Илгээхийн тулд товшино уу</string>
+    <string name="prefs_warning_notifications_text">Мэдэгдлийн зөвшөөрөл</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Нүүр дэлгэц дээр камерын урьдчилж харах</string>
+    <string name="prefs_ui_camera_preview_text">Камерыг урьдчилан харах</string>orientation
+    <string name="photos_folder_name">Зураг</string>
+    <string name="photos_count_one">гэрэл зураг</string>
+    <string name="photos_count_other">гэрэл зураг</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Товчлол нэмэх (эхлүүлэгч)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Үндсэн дэлгэцийг эхлүүлэхгүйгээр бичлэгийг эхлүүлэх/зогсоох</string>
+   
+    <string name="prefs_audio_priority_title">Энэ аппликейшнд аудиог чухалчил</string>
+    <string name="prefs_audio_priority_sum">Хэрэв идэвхжүүлсэн бол бусад програмууд микрофоныг ашиглах боломжгүй болно. Хэрэв идэвхгүй болгосон бол энэ программ нь микрофон ашиглан олон програм ажиллаж байх үед дуу бичих боломжгүй байж магадгүй (Android нь микрофоныг нэгэн зэрэг ашиглахыг үргэлж зөвшөөрдөггүй)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Одоогоор микрофоныг өөр хэрэглүүр тасалсан тул дуу бичлэг хийх боломжгүй байна</string>
+
     
     
     
 
+    <string name="donate_text">Хандив</string>
+    <string name="donate_disable_ads_text">Хандивлах, Зар сурталчилгааг идэвхгүй болгох</string>
+    <string name="donate_dialog_item_no_ads_text">(зар сурталчилгаа байхгүй)</string>
+    <string name="donation_dlg_limited_ads_message_text">Хандив багатай тохиолдолд зарыг зөвхөн үндсэн дэлгэцэнд зориулж хасдаг</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Төхөөрөмжийн үйлдвэрлэгч бүх камерт хандах эрх өгөхгүй байж магадгүй тул зарим нь нээгдэхгүй байж магадгүй юм</string>
+
+    <string name="camera_msg_error_non_exposed_error">Сонгосон камерыг нээж чадсангүй. Бүх далд камерыг ямар ч програм ашиглах боломжгүй байдаг. Олон үйлдвэрлэгчид зөвхөн өөрсдийн хэрэглээнд ашиглахыг зөвшөөрдөг. Өгөгдмөл камер нээгдэнэ.</string>
+
+    <string name="rec_service_msg">Нууцлал: Таны бичсэн бүх видео зөвхөн таны дотоод төхөөрөмж дээр хадгалагдах болно. Аппликешн нь таны видеог нөөцлөхгүй (сервертэй ямар ч холболт байхгүй)\n\nХэрэв та бичлэгээ үргэлжлүүлэхийн тулд шинэ бичлэг эхлүүлээд үндсэн дэлгэц рүү буцах, өөр програм руу сэлгэх эсвэл утсаа түгжих тохиолдолд уг програм арын горимд (мэдэгдлийн талбарт гарч ирэх үйлчилгээ) ажилласаар байх болно.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Өөр зам сонгохыг оролдоно уу (төхөөрөмжийн дотоод санах ой)</string>
+
+    <string name="permissions_grant_storage_btn_text">Бичих санах ойг олгох</string>
+
+    <string name="donation_subs_text">Сар бүр хандивлах</string>
+    <string name="donation_any_amount_text">ямар ч хэмжээний зар сурталчилгаа байхгүй</string>
+    <string name="donation_subs_any_amount_text">Мөн ямар ч үнээр бүртгүүлэхэд сурталчилгаа бүрэн устдаг.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Ямар ч хэмжээний нэг удаагийн хандиваар зарыг үүрд устга. Мөн та зарыг устгахын тулд сар бүр ямар ч хэмжээгээр хандивлаж болно</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Камер гэнэт ажиллахаа больж, дахин асаав...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Төхөөрөмжийн камер ажиллахаа больсон тул видео бичлэг хийхээ больсон</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth төхөөрөмжөөс дуу бичих</string>
 </resources>

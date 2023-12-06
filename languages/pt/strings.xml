@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Corrigir</string>
     <string name="rec_fix_text">Corrigir</string>
-    <string name="rec_free_space_text">Livre</string>
+    <string name="rec_free_space_text">Disponível</string>
     <string name="rec_location_text">Localização</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Internet</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">O tempo foi definido no passado</string>
     <string name="timer_service_notification_subtitle_text">Serviço de temporizador para início automático de gravação de vídeo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Todos os dias</string>
+    <string name="timer_auto_start_once">Uma vez</string>
+    <string name="timer_auto_start_dlg_type_title">Definir timer para iniciar a gravação</string>
+
+    <string name="prefs_zoom_out_desc_text">Para acessar a câmera ultra grande angular (lente), você pode definir o fator de zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Necessário para poder exibir o serviço de gravação em segundo plano e os status no painel de notificação. Clique para enviar</string>
+    <string name="prefs_warning_notifications_text">Permissão de Notificação</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Mostrar visualização da câmera na tela inicial</string>
+    <string name="prefs_ui_camera_preview_text">Visualização da câmera</string>orientation
+    <string name="photos_folder_name">Fotos</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">fotos</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Adicionar atalho (iniciador)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Para iniciar/parar a gravação sem abrir a tela principal</string>
+   
+    <string name="prefs_audio_priority_title">Priorizar o áudio para este app</string>
+    <string name="prefs_audio_priority_sum">Se ativado, outros aplicativos não poderão usar o microfone. Se desativado, este aplicativo pode não conseguir gravar áudio quando vários aplicativos estiverem sendo executados usando o microfone (o Android nem sempre permite o uso simultâneo do microfone)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">No momento, a gravação de áudio não é possível porque o microfone é interceptado por outro aplicativo</string>
+
     
     
     
 
+    <string name="donate_text">Doar</string>
+    <string name="donate_disable_ads_text">Doe, desative os anúncios</string>
+    <string name="donate_dialog_item_no_ads_text">(sem anúncios)</string>
+    <string name="donation_dlg_limited_ads_message_text">Com doações menores os anúncios são removidos apenas para a tela principal</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">O fabricante do dispositivo pode não fornecer acesso a todas as câmeras, então algumas podem não abrir</string>
+
+    <string name="camera_msg_error_non_exposed_error">Falha ao abrir a câmera selecionada. Acontece que nem todas as câmeras ocultas podem ser usadas por qualquer aplicativo. Muitos fabricantes só permitem seu uso em seus aplicativos nativos. A câmera padrão será aberta.</string>
+
+    <string name="rec_service_msg">Privacidade: todos os vídeos que você gravar serão salvos apenas no seu dispositivo local. O aplicativo não faz backup de seus vídeos (não possui conexões com servidores)\n\nO aplicativo continuará sendo executado em segundo plano (o serviço em primeiro plano que aparece na barra de notificação) se você iniciar uma nova gravação e retornar à tela inicial, mudar para outro aplicativo ou bloquear o telefone para poder continuar a gravação.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Tente selecionar um caminho diferente (armazenamento local do dispositivo)</string>
+
+    <string name="permissions_grant_storage_btn_text">Conceder armazenamento de gravação</string>
+
+    <string name="donation_subs_text">Doe mensalmente</string>
+    <string name="donation_any_amount_text">sem publicidade de qualquer valor</string>
+    <string name="donation_subs_any_amount_text">Além disso, a publicidade é completamente removida quando você assina qualquer valor.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Remova os anúncios para sempre com uma doação única de qualquer valor. Você também pode doar qualquer valor mensalmente para remover anúncios</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: A câmera parou de funcionar de repente, reiniciou...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: a gravação de vídeo foi interrompida porque a câmera do dispositivo parou de funcionar</string>
+
+    <string name="prefs_audio_bt_recording_text">Grave áudio de um dispositivo Bluetooth</string>
 </resources>

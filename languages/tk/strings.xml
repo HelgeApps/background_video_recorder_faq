@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Awto</string>
     <string name="rec_fix_short_text">Düzedmek üçin</string>
     <string name="rec_fix_text">Düzedmek üçin</string>
-    <string name="rec_free_space_text">Mugt</string>
+    <string name="rec_free_space_text">Elýeterli</string>
     <string name="rec_location_text">Locationerleşýän ýeri</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Arassa</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Wagt geçmişde bellendi</string>
     <string name="timer_service_notification_subtitle_text">Wideo ýazgyny awtomatiki başlamak üçin taýmer hyzmaty</string>
     
+
+    <string name="timer_auto_start_every_day_text">Her gün</string>
+    <string name="timer_auto_start_once">Bir gezek</string>
+    <string name="timer_auto_start_dlg_type_title">Ordingazga başlamak üçin taýmer düzüň</string>
+
+    <string name="prefs_zoom_out_desc_text">Ultra giň burçly kamera (linza) girmek üçin ulaltmak faktoryny düzüp bilersiňiz</string>
+    <string name="prefs_warning_notifications_sum_text">Fon ýazgy hyzmatyny we habarnamalar panelinde statuslary görkezip bilmek zerur. Ibermek üçin basyň</string>
+    <string name="prefs_warning_notifications_text">Duýduryş rugsady</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Öý ekranynda kameranyň deslapky synyny görkeziň</string>
+    <string name="prefs_ui_camera_preview_text">Kamera deslapky syn</string>orientation
+    <string name="photos_folder_name">Suratlar</string>
+    <string name="photos_count_one">surat</string>
+    <string name="photos_count_other">suratlar</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Salgylanma düwmesini goşuň</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Esasy ekrany açmazdan ýazga başlamak /bes etmek</string>
+   
+    <string name="prefs_audio_priority_title">Bu programma üçin sesleri ileri tutuň</string>
+    <string name="prefs_audio_priority_sum">Işledilen bolsa, beýleki programmalar mikrofony ulanyp bilmezler. Öçürilen bolsa, bu programma mikrofonyň kömegi bilen birnäçe programma işleýän wagtynda ses ýazga geçirip bilmez (Android hemişe mikrofony bir wagtda ulanmaga rugsat bermeýär)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Häzirki wagtda ses ýazgysy mümkin däl, sebäbi mikrofon başga bir programma tarapyndan saklanýar</string>
+
     
     
     
 
+    <string name="donate_text">Bagyşlaň</string>
+    <string name="donate_disable_ads_text">Bagyşlaň, mahabatlary öçüriň</string>
+    <string name="donate_dialog_item_no_ads_text">(mahabat ýok)</string>
+    <string name="donation_dlg_limited_ads_message_text">Has pes sadakalar bilen mahabatlar diňe esasy ekran üçin aýrylýar</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Enjam öndürijisi ähli kameralara girip bilmez, şonuň üçin käbirleri açylmazlygy mümkin</string>
+
+    <string name="camera_msg_error_non_exposed_error">Saýlanan kamerany açyp bilmedi. Gizlin kameralaryň hemmesini haýsydyr bir programma ulanyp bolmaýar. Köp öndürijiler diňe ýerli programmalarynda ulanmaga rugsat berýärler. Adaty kamera açylar.</string>
+
+    <string name="rec_service_msg">Gizlinlik: recordazga alýan ähli wideolaryňyz diňe ýerli enjamyňyzda saklanar. Programma wideolaryňyzy ätiýaçlandyrmaýar (serwerlere hiç hili baglanyşygy ýok)\n\nTäze ýazga başlasaňyz we baş ekrana gaýdyp gelseňiz, başga bir programma geçseňiz ýa-da ýazgyny dowam etdirmek üçin telefonyňyzy gulplasaňyz, programma fonda işlemegini dowam etdirer (habarnamada görkezilen hyzmat).</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Başga ýol saýlamaga synanyşmagyňyzy haýyş edýäris (enjamyň ýerli ammary)</string>
+
+    <string name="permissions_grant_storage_btn_text">Writeazmak üçin ammar beriň</string>
+
+    <string name="donation_subs_text">Aýlyk sadaka beriň</string>
+    <string name="donation_any_amount_text">haýsydyr bir mukdarda mahabat ýok</string>
+    <string name="donation_subs_any_amount_text">Şeýle hem, islendik mukdarda abuna ýazylanyňyzda mahabat düýbünden aýrylýar.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Islendik mukdarda bir gezeklik sadaka bilen mahabatlary hemişelik aýyryň. Şeýle hem mahabatlary aýyrmak üçin aýda islendik mukdarda pul berip bilersiňiz</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera birden işlemegini bes etdi, gaýtadan başlady ...</string>
+	<string name="camera_error_text">“BackgroundVideoRecorder”: Enjamyň kamerasy işlemegini bes edenligi üçin wideo ýazgylary bes edildi</string>
+
+    <string name="prefs_audio_bt_recording_text">Sesleri Bluetooth enjamyndan ýazga alyň</string>
 </resources>

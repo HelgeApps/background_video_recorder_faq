@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Avtomatik</string>
     <string name="rec_fix_short_text">Tuzatish uchun</string>
     <string name="rec_fix_text">Tuzatish uchun</string>
-    <string name="rec_free_space_text">Ozod</string>
+    <string name="rec_free_space_text">Mavjud</string>
     <string name="rec_location_text">Manzil</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Vaqt o\'tmishda belgilandi</string>
     <string name="timer_service_notification_subtitle_text">Video yozishni avtomatik boshlash uchun taymer xizmati</string>
     
+
+    <string name="timer_auto_start_every_day_text">Har kuni</string>
+    <string name="timer_auto_start_once">Bir marta</string>
+    <string name="timer_auto_start_dlg_type_title">Yozishni boshlash uchun taymerni o\'rnating</string>
+
+    <string name="prefs_zoom_out_desc_text">Ultra keng burchakli kameraga (linza) kirish uchun siz masshtab koeffitsientini o\'rnatishingiz mumkin</string>
+    <string name="prefs_warning_notifications_sum_text">Bildirishnomalar panelida fonda yozib olish xizmati va holatlarni ko\'rsatish uchun talab qilinadi. Yuborish uchun bosing</string>
+    <string name="prefs_warning_notifications_text">Bildirishnoma ruxsati</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Bosh ekranda kamerani oldindan ko‘rish</string>
+    <string name="prefs_ui_camera_preview_text">Kamerani oldindan ko\'rish</string>orientation
+    <string name="photos_folder_name">Rasmlar</string>
+    <string name="photos_count_one">fotosurat</string>
+    <string name="photos_count_other">fotosuratlar</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Yorliq qo\'shish (ishga tushirgich)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Asosiy ekranni ishga tushirmasdan yozishni boshlash/to‘xtatish</string>
+   
+    <string name="prefs_audio_priority_title">Ushbu ilovaga audioni birinchi oʻringa qoʻying</string>
+    <string name="prefs_audio_priority_sum">Agar yoqilgan bo\'lsa, boshqa ilovalar mikrofondan foydalana olmaydi. Agar o\'chirilgan bo\'lsa, mikrofon yordamida bir nechta ilovalar ishlayotgan bo\'lsa, ushbu ilova audio yozib ololmasligi mumkin (Android har doim ham mikrofondan bir vaqtning o\'zida foydalanishga ruxsat bermaydi)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Ayni damda mikrofonni boshqa ilova tutib olgani uchun ovoz yozishning imkoni yo‘q</string>
+
     
     
     
 
+    <string name="donate_text">Xayriya qiling</string>
+    <string name="donate_disable_ads_text">Xayriya qiling, reklamalarni o\'chiring</string>
+    <string name="donate_dialog_item_no_ads_text">(reklama yo\'q)</string>
+    <string name="donation_dlg_limited_ads_message_text">Kamroq xayriyalar bilan reklamalar faqat asosiy ekran uchun olib tashlanadi</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Qurilma ishlab chiqaruvchisi barcha kameralarga kirishni ta\'minlamasligi mumkin, shuning uchun ba\'zilari ochilmasligi mumkin</string>
+
+    <string name="camera_msg_error_non_exposed_error">Tanlangan kamerani ochib bo‘lmadi. Shunday bo\'ladiki, barcha yashirin kameralarni har qanday dastur ishlata olmaydi. Ko\'pgina ishlab chiqaruvchilar ulardan faqat mahalliy ilovalarda foydalanishga ruxsat berishadi. Standart kamera ochiladi.</string>
+
+    <string name="rec_service_msg">Maxfiylik: Siz yozib olgan barcha videolar faqat mahalliy qurilmangizda saqlanadi. Ilova videolaringizni zaxira qilmaydi (serverlarga hech qanday aloqasi yo\'q)\n\nAgar siz yangi yozishni boshlasangiz va asosiy ekranga qaytsangiz, boshqa ilovaga oʻtsangiz yoki yozishni davom ettirish uchun telefoningizni qulflasangiz, ilova fonda ishlashda davom etadi (bildirishnomalar panelida paydo boʻladigan oldingi xizmat).</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Boshqa yoʻlni tanlashga urinib koʻring (qurilma mahalliy xotirasi)</string>
+
+    <string name="permissions_grant_storage_btn_text">Yozish xotirasini bering</string>
+
+    <string name="donation_subs_text">Oylik xayriya qiling</string>
+    <string name="donation_any_amount_text">har qanday miqdorda reklama yo\'q</string>
+    <string name="donation_subs_any_amount_text">Bundan tashqari, istalgan miqdorda obuna bo\'lganingizda reklama butunlay olib tashlanadi.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Istalgan miqdorda bir martalik xayriya bilan reklamalarni butunlay olib tashlang. Bundan tashqari, reklamalarni olib tashlash uchun har oy istalgan miqdorni xayriya qilishingiz mumkin</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera birdan ishlamay qoldi, qayta ishga tushdi...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Videoyozuv toʻxtatildi, chunki qurilma kamerasi ishlamay qolgan</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth qurilmasidan audio yozib oling</string>
 </resources>

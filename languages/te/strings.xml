@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">దానంతట అదే</string>
     <string name="rec_fix_short_text">సరిచేయుటకు</string>
     <string name="rec_fix_text">సరిచేయుటకు</string>
-    <string name="rec_free_space_text">ఉచిత</string>
+    <string name="rec_free_space_text">అందుబాటులో ఉంది</string>
     <string name="rec_location_text">స్థానం</string>
     <string name="rec_gps_text">జిపియస్</string>
     <string name="rec_network_text">నికర</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">గతంలో టైమ్ సెట్ చేయబడింది</string>
     <string name="timer_service_notification_subtitle_text">వీడియో రికార్డింగ్ యొక్క స్వయంచాలక ప్రారంభం కోసం టైమర్ సేవ</string>
     
+
+    <string name="timer_auto_start_every_day_text">ప్రతి రోజు</string>
+    <string name="timer_auto_start_once">ఒకసారి</string>
+    <string name="timer_auto_start_dlg_type_title">రికార్డింగ్ ప్రారంభించడానికి టైమర్‌ని సెట్ చేయండి</string>
+
+    <string name="prefs_zoom_out_desc_text">అల్ట్రా వైడ్ యాంగిల్ కెమెరా (లెన్స్)ని యాక్సెస్ చేయడానికి, మీరు జూమ్ ఫ్యాక్టర్‌ని సెట్ చేయవచ్చు</string>
+    <string name="prefs_warning_notifications_sum_text">నోటిఫికేషన్ ప్యానెల్‌లో బ్యాక్‌గ్రౌండ్ రికార్డింగ్ సర్వీస్ మరియు స్టేటస్‌లను ప్రదర్శించగలగడం అవసరం. సమర్పించడానికి క్లిక్ చేయండి</string>
+    <string name="prefs_warning_notifications_text">నోటిఫికేషన్ అనుమతి</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">హోమ్ స్క్రీన్‌పై కెమెరా ప్రివ్యూను చూపండి</string>
+    <string name="prefs_ui_camera_preview_text">కెమెరా ప్రివ్యూ</string>orientation
+    <string name="photos_folder_name">ఫోటోలు</string>
+    <string name="photos_count_one">ఫోటో</string>
+    <string name="photos_count_other">ఫోటోలు</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">సత్వరమార్గాన్ని జోడించండి (లాంచర్)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ప్రధాన స్క్రీన్‌ని ప్రారంభించకుండానే రికార్డింగ్‌ని ప్రారంభించడానికి/ఆపివేయడానికి</string>
+   
+    <string name="prefs_audio_priority_title">ఈ యాప్‌కి ఆడియోకు ప్రాధాన్యత ఇవ్వండి</string>
+    <string name="prefs_audio_priority_sum">ప్రారంభించబడితే, ఇతర అప్లికేషన్‌లు మైక్రోఫోన్‌ను ఉపయోగించలేవు. నిలిపివేయబడితే, మైక్రోఫోన్‌ను ఉపయోగించి బహుళ అప్లికేషన్‌లు రన్ అవుతున్నప్పుడు ఈ యాప్ ఆడియోను రికార్డ్ చేయలేకపోవచ్చు (మైక్రోఫోన్‌ని ఏకకాలంలో ఉపయోగించడాన్ని Android ఎల్లప్పుడూ అనుమతించదు)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">ప్రస్తుతానికి, మైక్రోఫోన్ మరొక అప్లికేషన్ ద్వారా అడ్డగించబడినందున ఆడియో రికార్డింగ్ సాధ్యం కాదు</string>
+
     
     
     
 
+    <string name="donate_text">దానం చేయండి</string>
+    <string name="donate_disable_ads_text">విరాళం ఇవ్వండి, ప్రకటనలను నిలిపివేయండి</string>
+    <string name="donate_dialog_item_no_ads_text">(ప్రకటనలు లేవు)</string>
+    <string name="donation_dlg_limited_ads_message_text">తక్కువ విరాళాలతో ప్రకటనలు ప్రధాన స్క్రీన్ కోసం మాత్రమే తీసివేయబడతాయి</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">పరికర తయారీదారు అన్ని కెమెరాలకు యాక్సెస్‌ను అందించకపోవచ్చు, కాబట్టి కొన్ని తెరవబడకపోవచ్చు</string>
+
+    <string name="camera_msg_error_non_exposed_error">ఎంచుకున్న కెమెరాను తెరవడంలో విఫలమైంది. అన్ని దాచిన కెమెరాలు ఏ అప్లికేషన్ ద్వారా ఉపయోగించబడవు. చాలా మంది తయారీదారులు వారి స్థానిక అనువర్తనాల్లో మాత్రమే వాటి వినియోగాన్ని అనుమతిస్తారు. డిఫాల్ట్ కెమెరా తెరవబడుతుంది.</string>
+
+    <string name="rec_service_msg">గోప్యత: మీరు రికార్డ్ చేసిన అన్ని వీడియోలు మీ స్థానిక పరికరంలో మాత్రమే సేవ్ చేయబడతాయి. అప్లికేషన్ మీ వీడియోలను బ్యాకప్ చేయదు (సర్వర్‌లకు కనెక్షన్‌లు లేవు)\n\nమీరు కొత్త రికార్డింగ్‌ని ప్రారంభించి, హోమ్ స్క్రీన్‌కి తిరిగి వచ్చినా, మరొక యాప్‌కి మారినా లేదా రికార్డింగ్‌ని కొనసాగించడానికి మీ ఫోన్‌ని లాక్ చేసినా, యాప్ బ్యాక్‌గ్రౌండ్‌లో (నోటిఫికేషన్ బార్‌లో కనిపించే ముందుభాగం సేవ) రన్ అవుతూ ఉంటుంది.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">దయచేసి వేరొక మార్గాన్ని ఎంచుకోవడానికి ప్రయత్నించండి (పరికర స్థానిక నిల్వ)</string>
+
+    <string name="permissions_grant_storage_btn_text">వ్రాత నిల్వను మంజూరు చేయండి</string>
+
+    <string name="donation_subs_text">నెలవారీ దానం చేయండి</string>
+    <string name="donation_any_amount_text">ఏ మొత్తానికి ప్రకటనలు లేవు</string>
+    <string name="donation_subs_any_amount_text">అలాగే, మీరు ఏదైనా మొత్తానికి సభ్యత్వం పొందినప్పుడు ప్రకటనలు పూర్తిగా తీసివేయబడతాయి.</string>
+    <string name="donation_remove_ads_by_any_amount_text">ఏ మొత్తంలోనైనా ఒకేసారి విరాళం అందించడం ద్వారా ప్రకటనలను శాశ్వతంగా తీసివేయండి. మీరు ప్రకటనలను తీసివేయడానికి నెలవారీ ఎంత మొత్తాన్ని కూడా విరాళంగా ఇవ్వవచ్చు</string>
+
+    <string name="msg_camera_died_text">బ్యాక్‌గ్రౌండ్‌వీడియో రికార్డర్: కెమెరా అకస్మాత్తుగా పని చేయడం ఆగిపోయింది, మళ్లీ ప్రారంభించబడింది...</string>
+	<string name="camera_error_text">బ్యాక్‌గ్రౌండ్‌వీడియో రికార్డర్: పరికరం కెమెరా పని చేయడం ఆగిపోయినందున వీడియో రికార్డింగ్ ఆగిపోయింది</string>
+
+    <string name="prefs_audio_bt_recording_text">బ్లూటూత్ పరికరం నుండి ఆడియోను రికార్డ్ చేయండి</string>
 </resources>

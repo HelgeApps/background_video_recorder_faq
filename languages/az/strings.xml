@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Avtomatik</string>
     <string name="rec_fix_short_text">Düzəltmək</string>
     <string name="rec_fix_text">Düzəltmək</string>
-    <string name="rec_free_space_text">Pulsuz</string>
+    <string name="rec_free_space_text">Mövcuddur</string>
     <string name="rec_location_text">Məkan</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Vaxt keçmişdə təyin olundu</string>
     <string name="timer_service_notification_subtitle_text">Video çəkilişin avtomatik başlaması üçün taymer xidməti</string>
     
+
+    <string name="timer_auto_start_every_day_text">Hər gün</string>
+    <string name="timer_auto_start_once">Bir dəfə</string>
+    <string name="timer_auto_start_dlg_type_title">Yazmağa başlamaq üçün taymer təyin edin</string>
+
+    <string name="prefs_zoom_out_desc_text">Ultra geniş bucaqlı kameraya (linza) daxil olmaq üçün siz böyütmə faktorunu təyin edə bilərsiniz</string>
+    <string name="prefs_warning_notifications_sum_text">Bildiriş panelində fon qeydi xidmətini və statusları göstərə bilmək üçün tələb olunur. Təqdim etmək üçün klikləyin</string>
+    <string name="prefs_warning_notifications_text">Bildiriş icazəsi</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Əsas ekranda kamera önizləməsini göstərin</string>
+    <string name="prefs_ui_camera_preview_text">Kamera Ön Baxışı</string>orientation
+    <string name="photos_folder_name">Şəkillər</string>
+    <string name="photos_count_one">Şəkil</string>
+    <string name="photos_count_other">fotolar</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Qısayol əlavə edin (başlatıcı)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Əsas ekranı işə salmadan yazıya başlamaq/dayandırmaq üçün</string>
+   
+    <string name="prefs_audio_priority_title">Bu tətbiq üçün audioya üstünlük verin</string>
+    <string name="prefs_audio_priority_sum">Aktiv edilərsə, digər proqramlar mikrofondan istifadə edə bilməyəcək. Deaktiv edilərsə, bu proqram mikrofondan istifadə edərək birdən çox proqram işləyərkən audio yaza bilməyə bilər (Android həmişə mikrofondan eyni vaxtda istifadə etməyə icazə vermir)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Hazırda mikrofona başqa proqram tərəfindən müdaxilə edildiyi üçün səs yazısı mümkün deyil</string>
+
     
     
     
 
+    <string name="donate_text">Bağışlayın</string>
+    <string name="donate_disable_ads_text">Bağışlayın, reklamları söndürün</string>
+    <string name="donate_dialog_item_no_ads_text">(reklam yoxdur)</string>
+    <string name="donation_dlg_limited_ads_message_text">Daha az ianə ilə reklamlar yalnız əsas ekran üçün silinir</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Cihaz istehsalçısı bütün kameralara girişi təmin etməyə bilər, ona görə də bəziləri açılmaya bilər</string>
+
+    <string name="camera_msg_error_non_exposed_error">Seçilmiş kameranı açmaq alınmadı. Belə olur ki, bütün gizli kameralar heç bir proqram tərəfindən istifadə edilə bilməz. Bir çox istehsalçı onların yalnız yerli tətbiqlərində istifadəsinə icazə verir. Standart kamera açılacaq.</string>
+
+    <string name="rec_service_msg">Məxfilik: Yazdığınız bütün videolar yalnız yerli cihazınızda yadda saxlanılacaq. Tətbiq videolarınızın ehtiyat nüsxəsini çıxarmır (serverlərlə heç bir əlaqəsi yoxdur)\n\nYeni yazmağa başlasanız və əsas ekrana qayıtsanız, başqa proqrama keçsəniz və ya yazmağa davam etmək üçün telefonunuzu kilidləsəniz, proqram arxa planda işləməyə davam edəcək (bildiriş panelində görünən ön plan xidməti).</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Lütfən, fərqli yol seçməyə cəhd edin (cihazın yerli yaddaşı)</string>
+
+    <string name="permissions_grant_storage_btn_text">Yazma yaddaşı verin</string>
+
+    <string name="donation_subs_text">Aylıq ianə edin</string>
+    <string name="donation_any_amount_text">heç bir məbləğ üçün reklam yoxdur</string>
+    <string name="donation_subs_any_amount_text">Həmçinin istənilən məbləğə abunə olduqda reklam tamamilə silinir.</string>
+    <string name="donation_remove_ads_by_any_amount_text">İstənilən məbləğdə birdəfəlik ianə ilə reklamları həmişəlik silin. Siz həmçinin reklamları silmək üçün hər ay istənilən məbləği ianə edə bilərsiniz</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera birdən işini dayandırdı, yenidən başladı...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Cihazın kamerası işləməyi dayandırdığı üçün video çəkiliş dayandırıldı</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth cihazından səs yazın</string>
 </resources>

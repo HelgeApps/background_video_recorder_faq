@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Oto</string>
     <string name="rec_fix_short_text">Düzeltmek</string>
     <string name="rec_fix_text">Düzeltmek</string>
-    <string name="rec_free_space_text">Özgür</string>
+    <string name="rec_free_space_text">Mevcut</string>
     <string name="rec_location_text">Konum</string>
     <string name="rec_gps_text">Küresel Konumlama Sistemi</string>
     <string name="rec_network_text">Ağ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Zaman geçmişte ayarlandı</string>
     <string name="timer_service_notification_subtitle_text">Video kaydının otomatik olarak başlatılması için zamanlayıcı hizmeti</string>
     
+
+    <string name="timer_auto_start_every_day_text">Her gün</string>
+    <string name="timer_auto_start_once">Bir kere</string>
+    <string name="timer_auto_start_dlg_type_title">Kaydı başlatmak için zamanlayıcıyı ayarlayın</string>
+
+    <string name="prefs_zoom_out_desc_text">Ultra geniş açılı kameraya (lens) erişmek için yakınlaştırma faktörünü ayarlayabilirsiniz.</string>
+    <string name="prefs_warning_notifications_sum_text">Arka planda kayıt servisini ve durumlarını bildirim panelinde görüntüleyebilmek için gereklidir. göndermek için tıklayın</string>
+    <string name="prefs_warning_notifications_text">Bildirim İzni</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Ana ekranda kamera önizlemesini göster</string>
+    <string name="prefs_ui_camera_preview_text">Kamera Önizlemesi</string>orientation
+    <string name="photos_folder_name">Fotoğraflar</string>
+    <string name="photos_count_one">Fotoğraf</string>
+    <string name="photos_count_other">fotoğraflar</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Kısayol ekle (başlatıcı)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Ana ekranı başlatmadan kaydı başlatmak/durdurmak için</string>
+   
+    <string name="prefs_audio_priority_title">Sesi bu uygulamaya öncelik verin</string>
+    <string name="prefs_audio_priority_sum">Etkinleştirilirse, diğer uygulamalar mikrofonu kullanamaz. Devre dışı bırakılırsa bu uygulama, mikrofonu kullanarak birden çok uygulama çalışırken ses kaydı yapamayabilir (Android her zaman mikrofonun aynı anda kullanılmasına izin vermez)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Mikrofon başka bir uygulama tarafından engellendiği için şu anda ses kaydı yapılamıyor</string>
+
     
     
     
 
+    <string name="donate_text">Bağış yapmak</string>
+    <string name="donate_disable_ads_text">Bağış Yap, Reklamları Devre Dışı Bırak</string>
+    <string name="donate_dialog_item_no_ads_text">(reklamsız)</string>
+    <string name="donation_dlg_limited_ads_message_text">Daha düşük bağışlarla, reklamlar yalnızca ana ekran için kaldırılır</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Cihaz üreticisi tüm kameralara erişim sağlamayabilir, dolayısıyla bazıları açılmayabilir.</string>
+
+    <string name="camera_msg_error_non_exposed_error">Seçilen kamera açılamadı. Öyle olur ki, tüm gizli kameralar herhangi bir uygulama tarafından kullanılamaz. Çoğu üretici, bunların yalnızca kendi yerel uygulamalarında kullanılmasına izin verir. Varsayılan kamera açılacaktır.</string>
+
+    <string name="rec_service_msg">Gizlilik: Kaydettiğiniz tüm videolar yalnızca yerel cihazınıza kaydedilecektir. Uygulama videolarınızı yedeklemez (sunucularla herhangi bir bağlantısı yoktur)\n\nYeni bir kayıt başlatıp ana ekrana döndüğünüzde, başka bir uygulamaya geçtiğinizde veya kayda devam edebilmek için telefonunuzu kilitlediğinizde uygulama arka planda (bildirim çubuğunda görünen ön plan hizmeti) çalışmaya devam edecektir.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Lütfen farklı bir yol seçmeyi deneyin (cihazın yerel depolama alanı)</string>
+
+    <string name="permissions_grant_storage_btn_text">Yazma depolama alanı ver</string>
+
+    <string name="donation_subs_text">Aylık bağış yapın</string>
+    <string name="donation_any_amount_text">herhangi bir miktarda reklam yok</string>
+    <string name="donation_subs_any_amount_text">Ayrıca herhangi bir miktara abone olduğunuzda reklamlar tamamen kaldırılır.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Herhangi bir miktarda tek seferlik bağışla reklamları sonsuza kadar kaldırın. Ayrıca reklamları kaldırmak için aylık olarak istediğiniz miktarda bağışta bulunabilirsiniz.</string>
+
+    <string name="msg_camera_died_text">Arka PlanVideo Kaydedici: Kamera aniden çalışmayı durdurdu, yeniden başlatıldı...</string>
+	<string name="camera_error_text">Arka PlanVideo Kaydedici: Cihazın kamerası çalışmayı durdurduğu için video kaydı durduruldu</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth cihazından ses kaydetme</string>
 </resources>

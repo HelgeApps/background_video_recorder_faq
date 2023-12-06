@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ഓട്ടോ</string>
     <string name="rec_fix_short_text">ശരിയാക്കാൻ</string>
     <string name="rec_fix_text">ശരിയാക്കാൻ</string>
-    <string name="rec_free_space_text">സൗ ജന്യം</string>
+    <string name="rec_free_space_text">ലഭ്യമാണ്</string>
     <string name="rec_location_text">സ്ഥാനം</string>
     <string name="rec_gps_text">ജിപിഎസ്</string>
     <string name="rec_network_text">നെറ്റ്</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">സമയം പണ്ട് നിശ്ചയിച്ചിരുന്നു</string>
     <string name="timer_service_notification_subtitle_text">വീഡിയോ റെക്കോർഡിംഗ് സ്വയമേവ ആരംഭിക്കുന്നതിനുള്ള ടൈമർ സേവനം</string>
     
+
+    <string name="timer_auto_start_every_day_text">എല്ലാ ദിവസവും</string>
+    <string name="timer_auto_start_once">ഒരിക്കല്</string>
+    <string name="timer_auto_start_dlg_type_title">റെക്കോർഡിംഗ് ആരംഭിക്കാൻ ടൈമർ സജ്ജീകരിക്കുക</string>
+
+    <string name="prefs_zoom_out_desc_text">അൾട്രാ വൈഡ് ആംഗിൾ ക്യാമറ (ലെൻസ്) ആക്സസ് ചെയ്യാൻ, നിങ്ങൾക്ക് സൂം ഫാക്ടർ സജ്ജീകരിക്കാം</string>
+    <string name="prefs_warning_notifications_sum_text">അറിയിപ്പ് പാനലിൽ പശ്ചാത്തല റെക്കോർഡിംഗ് സേവനവും സ്റ്റാറ്റസുകളും പ്രദർശിപ്പിക്കാൻ കഴിയണം. സമർപ്പിക്കാൻ ക്ലിക്ക് ചെയ്യുക</string>
+    <string name="prefs_warning_notifications_text">അറിയിപ്പ് അനുമതി</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ഹോം സ്ക്രീനിൽ ക്യാമറ പ്രിവ്യൂ കാണിക്കുക</string>
+    <string name="prefs_ui_camera_preview_text">ക്യാമറ പ്രിവ്യൂ</string>orientation
+    <string name="photos_folder_name">ഫോട്ടോകൾ</string>
+    <string name="photos_count_one">ഫോട്ടോ</string>
+    <string name="photos_count_other">ഫോട്ടോകൾ</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">കുറുക്കുവഴി ചേർക്കുക (ലോഞ്ചർ)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">പ്രധാന സ്‌ക്രീൻ സമാരംഭിക്കാതെ തന്നെ റെക്കോർഡിംഗ് ആരംഭിക്കാൻ/നിർത്താൻ</string>
+   
+    <string name="prefs_audio_priority_title">ഈ ആപ്പിന് ഓഡിയോ മുൻഗണന നൽകുക</string>
+    <string name="prefs_audio_priority_sum">പ്രവർത്തനക്ഷമമാക്കിയാൽ, മറ്റ് ആപ്ലിക്കേഷനുകൾക്ക് മൈക്രോഫോൺ ഉപയോഗിക്കാൻ കഴിയില്ല. പ്രവർത്തനരഹിതമാക്കിയാൽ, മൈക്രോഫോൺ ഉപയോഗിച്ച് ഒന്നിലധികം ആപ്ലിക്കേഷനുകൾ പ്രവർത്തിക്കുമ്പോൾ ഈ ആപ്പിന് ഓഡിയോ റെക്കോർഡ് ചെയ്യാൻ കഴിഞ്ഞേക്കില്ല (മൈക്രോഫോൺ ഒരേസമയം ഉപയോഗിക്കാൻ Android എപ്പോഴും അനുവദിക്കില്ല)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">മൈക്രോഫോൺ മറ്റൊരു ആപ്ലിക്കേഷൻ തടസ്സപ്പെടുത്തിയതിനാൽ ഇപ്പോൾ ഓഡിയോ റെക്കോർഡിംഗ് സാധ്യമല്ല</string>
+
     
     
     
 
+    <string name="donate_text">സംഭാവനചെയ്യുക</string>
+    <string name="donate_disable_ads_text">സംഭാവന നൽകുക, പരസ്യങ്ങൾ പ്രവർത്തനരഹിതമാക്കുക</string>
+    <string name="donate_dialog_item_no_ads_text">(പരസ്യങ്ങളില്ല)</string>
+    <string name="donation_dlg_limited_ads_message_text">കുറഞ്ഞ സംഭാവനകളോടെ പ്രധാന സ്‌ക്രീനിലേക്ക് മാത്രം പരസ്യങ്ങൾ നീക്കം ചെയ്യപ്പെടും</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ഉപകരണ നിർമ്മാതാവ് എല്ലാ ക്യാമറകളിലേക്കും ആക്‌സസ് നൽകിയേക്കില്ല, അതിനാൽ ചിലത് തുറന്നേക്കില്ല</string>
+
+    <string name="camera_msg_error_non_exposed_error">തിരഞ്ഞെടുത്ത ക്യാമറ തുറക്കുന്നതിൽ പരാജയപ്പെട്ടു. എല്ലാ മറഞ്ഞിരിക്കുന്ന ക്യാമറകളും ഒരു ആപ്ലിക്കേഷനും ഉപയോഗിക്കാൻ കഴിയില്ല. പല നിർമ്മാതാക്കളും അവരുടെ പ്രാദേശിക ആപ്ലിക്കേഷനുകളിൽ മാത്രമേ അവയുടെ ഉപയോഗം അനുവദിക്കൂ. ഡിഫോൾട്ട് ക്യാമറ തുറക്കും.</string>
+
+    <string name="rec_service_msg">സ്വകാര്യത: നിങ്ങൾ റെക്കോർഡ് ചെയ്യുന്ന എല്ലാ വീഡിയോകളും നിങ്ങളുടെ പ്രാദേശിക ഉപകരണത്തിൽ മാത്രം സംരക്ഷിക്കപ്പെടും. ആപ്ലിക്കേഷൻ നിങ്ങളുടെ വീഡിയോകൾ ബാക്കപ്പ് ചെയ്യുന്നില്ല (സെർവറുകളിലേക്ക് കണക്ഷനുകളൊന്നുമില്ല)\n\nനിങ്ങൾ ഒരു പുതിയ റെക്കോർഡിംഗ് ആരംഭിച്ച് ഹോം സ്‌ക്രീനിലേക്ക് മടങ്ങുകയോ മറ്റൊരു ആപ്പിലേക്ക് മാറുകയോ അല്ലെങ്കിൽ റെക്കോർഡിംഗ് തുടരാൻ നിങ്ങളുടെ ഫോൺ ലോക്ക് ചെയ്യുകയോ ചെയ്‌താൽ ആപ്പ് പശ്ചാത്തലത്തിൽ (അറിയിപ്പ് ബാറിൽ ദൃശ്യമാകുന്ന ഫോർഗ്രൗണ്ട് സേവനം) പ്രവർത്തിക്കുന്നത് തുടരും.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">മറ്റൊരു പാത തിരഞ്ഞെടുക്കാൻ ശ്രമിക്കുക (ഉപകരണ പ്രാദേശിക സംഭരണം)</string>
+
+    <string name="permissions_grant_storage_btn_text">എഴുത്ത് സംഭരണം അനുവദിക്കുക</string>
+
+    <string name="donation_subs_text">പ്രതിമാസം സംഭാവന ചെയ്യുക</string>
+    <string name="donation_any_amount_text">ഒരു തുകയ്ക്കും പരസ്യമില്ല</string>
+    <string name="donation_subs_any_amount_text">കൂടാതെ, നിങ്ങൾ ഏതെങ്കിലും തുകയ്ക്ക് വരിക്കാരാകുമ്പോൾ പരസ്യം പൂർണ്ണമായും നീക്കം ചെയ്യപ്പെടും.</string>
+    <string name="donation_remove_ads_by_any_amount_text">ഏതെങ്കിലും തുക ഒറ്റത്തവണ സംഭാവന നൽകി പരസ്യങ്ങൾ ശാശ്വതമായി നീക്കം ചെയ്യുക. പരസ്യങ്ങൾ നീക്കം ചെയ്യാൻ നിങ്ങൾക്ക് പ്രതിമാസം എത്ര തുക വേണമെങ്കിലും സംഭാവന ചെയ്യാം</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: ക്യാമറ പെട്ടെന്ന് പ്രവർത്തനം നിർത്തി, പുനരാരംഭിച്ചു...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: ഉപകരണത്തിന്റെ ക്യാമറയുടെ പ്രവർത്തനം നിർത്തിയതിനാൽ വീഡിയോ റെക്കോർഡിംഗ് നിർത്തി</string>
+
+    <string name="prefs_audio_bt_recording_text">ബ്ലൂടൂത്ത് ഉപകരണത്തിൽ നിന്ന് ഓഡിയോ റെക്കോർഡ് ചെയ്യുക</string>
 </resources>

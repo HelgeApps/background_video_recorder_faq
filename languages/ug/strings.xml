@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ئاپتوماتىك</string>
     <string name="rec_fix_short_text">تۈزىتىش ئۈچۈن</string>
     <string name="rec_fix_text">تۈزىتىش ئۈچۈن</string>
-    <string name="rec_free_space_text">ھەقسىز</string>
+    <string name="rec_free_space_text">ئىشلەتكىلى بولىدۇ</string>
     <string name="rec_location_text">ئورنى</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">ۋاقىت ئۆتمۈشتە بېكىتىلگەن</string>
     <string name="timer_service_notification_subtitle_text">سىن خاتىرىسىنى ئاپتوماتىك باشلاش ئۈچۈن ۋاقىت مۇلازىمىتى</string>
     
+
+    <string name="timer_auto_start_every_day_text">ھەر كۈنى</string>
+    <string name="timer_auto_start_once">بىر قېتىم</string>
+    <string name="timer_auto_start_dlg_type_title">خاتىرىلەشنى باشلاش ئۈچۈن ۋاقىت بەلگىلەڭ</string>
+
+    <string name="prefs_zoom_out_desc_text">دەرىجىدىن تاشقىرى كەڭ بۇلۇڭلۇق كامېرا (كامېرا) غا ئېرىشىش ئۈچۈن چوڭايتىش ئامىلىنى تەڭشىيەلەيسىز</string>
+    <string name="prefs_warning_notifications_sum_text">ئۇقتۇرۇش تاختىسىدا تەگلىك خاتىرىلەش مۇلازىمىتى ۋە ھالىتىنى كۆرسىتەلەيدىغان بولۇش تەلەپ قىلىنىدۇ. يوللاش ئۈچۈن چېكىڭ</string>
+    <string name="prefs_warning_notifications_text">ئۇقتۇرۇش ئىجازىتى</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ئائىلە ئېكرانىدا كامېرا ئالدىن كۆرۈشنى كۆرسىتىڭ</string>
+    <string name="prefs_ui_camera_preview_text">كامېرا ئالدىن كۆرۈش</string>orientation
+    <string name="photos_folder_name">سۈرەتلەر</string>
+    <string name="photos_count_one">سۈرەت</string>
+    <string name="photos_count_other">سۈرەتلەر</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">تېزلەتمە (قوزغىتىش) قوشۇڭ</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ئاساسلىق ئېكراننى چىقارماي تۇرۇپ خاتىرىلەشنى باشلاش /توختىتىش</string>
+   
+    <string name="prefs_audio_priority_title">بۇ دېتالغا ئاۋازنى ئالدىنقى ئورۇنغا قويۇڭ</string>
+    <string name="prefs_audio_priority_sum">ئەگەر قوزغىتىلسا ، باشقا پروگراممىلار مىكروفون ئىشلىتەلمەيدۇ. ئەگەر چەكلەنگەن بولسا ، بۇ پروگرامما مىكروفون ئارقىلىق كۆپ قوللىنىشچان پروگراممىلارنى ئىجرا قىلغاندا ئاۋاز خاتىرىلىيەلمەسلىكى مۇمكىن (ئاندىرويىد مىكروفوننى بىرلا ۋاقىتتا ئىشلىتىشكە يول قويمايدۇ)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">ھازىرچە ئۈنئالغۇ خاتىرىلەش مۇمكىن ئەمەس ، چۈنكى مىكروفون باشقا بىر پروگرامما تەرىپىدىن توسۇۋېلىندى</string>
+
     
     
     
 
+    <string name="donate_text">ئىئانە قىلىڭ</string>
+    <string name="donate_disable_ads_text">ئىئانە قىلىش ، ئېلاننى چەكلەش</string>
+    <string name="donate_dialog_item_no_ads_text">(ئېلان يوق)</string>
+    <string name="donation_dlg_limited_ads_message_text">تۆۋەن ئىئانە بىلەن ئېلانلار پەقەت ئاساسىي ئېكران ئۈچۈن چىقىرىۋېتىلىدۇ</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ئۈسكۈنە ئىشلەپچىقارغۇچى بارلىق كامېرالارنى زىيارەت قىلالماسلىقى مۇمكىن ، شۇڭا بەزىلىرى ئېچىلماسلىقى مۇمكىن</string>
+
+    <string name="camera_msg_error_non_exposed_error">تاللانغان كامېرانى ئاچالمىدى. شۇنداق بولىدۇكى ، يوشۇرۇن كامېرالارنىڭ ھەممىسىنى ھەر قانداق پروگرامما ئىشلىتەلمەيدۇ. نۇرغۇن ئىشلەپچىقارغۇچىلار پەقەت ئۇلارنىڭ يەرلىك قوللىنىشچان پروگراممىلىرىدا ئىشلىتىشىگە يول قويىدۇ. سۈكۈتتىكى كامېرا ئېچىلىدۇ.</string>
+
+    <string name="rec_service_msg">مەخپىيەتلىك: سىز خاتىرىلىگەن بارلىق سىنلار پەقەت يەرلىك ئۈسكۈنىڭىزدىلا ساقلىنىدۇ. بۇ پروگرامما سىنلىرىڭىزنى زاپاسلىمايدۇ (مۇلازىمېتىرغا ئۇلىنىشى يوق)\n\nئەگەر يېڭى خاتىرىلەشنى باشلىسىڭىز ھەمدە باش ئېكرانغا قايتسىڭىز ، باشقا ئەپكە ئالماشتۇرسىڭىز ياكى تېلېفونىڭىزنى قۇلۇپلاپ قويسىڭىز ، بۇ دېتال ئارقا سۇپىدا (ئۇقتۇرۇش ستونىدا كۆرۈلىدىغان ئالدىنقى مۇلازىمەت) ئىجرا بولىدۇ.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">باشقا يولنى تاللاڭ (ئۈسكۈنىنىڭ يەرلىك ساقلىغۇچ)</string>
+
+    <string name="permissions_grant_storage_btn_text">ساقلاش بوشلۇقىغا بېرىڭ</string>
+
+    <string name="donation_subs_text">ھەر ئايدا ئىئانە قىلىڭ</string>
+    <string name="donation_any_amount_text">ھېچقانداق مىقداردا ئېلان يوق</string>
+    <string name="donation_subs_any_amount_text">شۇنداقلا ، ھەر قانداق سوممىغا مۇشتەرى بولغاندا ئېلان پۈتۈنلەي ئۆچۈرۈلىدۇ.</string>
+    <string name="donation_remove_ads_by_any_amount_text">ھەر قېتىمدا بىر قېتىم ئىئانە قىلىش ئارقىلىق ئېلاننى مەڭگۈ ئۆچۈرۈڭ. ئېلاننى ئۆچۈرۈش ئۈچۈن ھەر ئايدا قانچىلىك پۇل ئىئانە قىلسىڭىز بولىدۇ</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: كامېرا تۇيۇقسىز ئىشتىن توختىدى ، قايتا قوزغىتىلدى ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: ئۈسكۈنىنىڭ كامېراسى ئىشلەشتىن توختىغانلىقى ئۈچۈن سىن خاتىرىلەش توختىدى</string>
+
+    <string name="prefs_audio_bt_recording_text">كۆك چىش ئۈسكۈنىسىدىن ئاۋاز خاتىرىلەڭ</string>
 </resources>

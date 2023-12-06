@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">अटो</string>
     <string name="rec_fix_short_text">सच्याउन</string>
     <string name="rec_fix_text">सच्याउन</string>
-    <string name="rec_free_space_text">नि:शुल्क</string>
+    <string name="rec_free_space_text">उपलब्ध छ</string>
     <string name="rec_location_text">स्थान</string>
     <string name="rec_gps_text">जीपीएस</string>
     <string name="rec_network_text">नेट</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">विगतमा समय तोकिएको थियो</string>
     <string name="timer_service_notification_subtitle_text">भिडियो रेकर्डिङको स्वचालित सुरुवातको लागि टाइमर सेवा</string>
     
+
+    <string name="timer_auto_start_every_day_text">हरेक दिन</string>
+    <string name="timer_auto_start_once">एक पटक</string>
+    <string name="timer_auto_start_dlg_type_title">रेकर्डिङ सुरु गर्न टाइमर सेट गर्नुहोस्</string>
+
+    <string name="prefs_zoom_out_desc_text">अल्ट्रा वाइड-एंगल क्यामेरा (लेन्स) पहुँच गर्न, तपाईं जुम कारक सेट गर्न सक्नुहुन्छ</string>
+    <string name="prefs_warning_notifications_sum_text">सूचना प्यानलमा पृष्ठभूमि रेकर्डिङ सेवा र स्थितिहरू प्रदर्शन गर्न सक्षम हुन आवश्यक छ। पेश गर्न क्लिक गर्नुहोस्</string>
+    <string name="prefs_warning_notifications_text">सूचना अनुमति</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">गृह स्क्रिनमा क्यामेरा पूर्वावलोकन देखाउनुहोस्</string>
+    <string name="prefs_ui_camera_preview_text">क्यामेरा पूर्वावलोकन</string>orientation
+    <string name="photos_folder_name">फोटोहरू</string>
+    <string name="photos_count_one">फोटो</string>
+    <string name="photos_count_other">फोटोहरू</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">सर्टकट थप्नुहोस् (लन्चर)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">मुख्य स्क्रिन सुरु नगरी रेकर्डिङ सुरु/रोक्नुहोस्</string>
+   
+    <string name="prefs_audio_priority_title">यो एपमा अडियोलाई प्राथमिकता दिनुहोस्</string>
+    <string name="prefs_audio_priority_sum">यदि सक्षम पारियो भने, अन्य अनुप्रयोगहरूले माइक्रोफोन प्रयोग गर्न सक्षम हुने छैनन्। यदि असक्षम पारिएको छ भने, यो अनुप्रयोगले माइक्रोफोन प्रयोग गरेर धेरै अनुप्रयोगहरू चलिरहेको बेला अडियो रेकर्ड गर्न सक्षम नहुन सक्छ (एन्ड्रोइडले सधैं माइक्रोफोनको एकै साथ प्रयोग गर्न अनुमति दिँदैन)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">यस क्षणमा, अडियो रेकर्डिङ सम्भव छैन किनभने माइक्रोफोन अर्को अनुप्रयोगद्वारा रोकिएको छ</string>
+
     
     
     
 
+    <string name="donate_text">दान गर्नुहोस्</string>
+    <string name="donate_disable_ads_text">दान गर्नुहोस्, विज्ञापनहरू असक्षम गर्नुहोस्</string>
+    <string name="donate_dialog_item_no_ads_text">(कुनै विज्ञापन छैन)</string>
+    <string name="donation_dlg_limited_ads_message_text">कम दानको साथ विज्ञापनहरू मुख्य स्क्रिनका लागि मात्र हटाइन्छ</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">उपकरण निर्माताले सबै क्यामेराहरूमा पहुँच प्रदान नगर्न सक्छ, त्यसैले केही नखोल्न सक्छ</string>
+
+    <string name="camera_msg_error_non_exposed_error">चयन गरिएको क्यामेरा खोल्न असफल भयो। यस्तो हुन्छ कि सबै लुकेका क्यामेराहरू कुनै पनि अनुप्रयोगद्वारा प्रयोग गर्न सकिँदैन। धेरै निर्माताहरूले तिनीहरूको मूल अनुप्रयोगहरूमा मात्र तिनीहरूको प्रयोगलाई अनुमति दिन्छन्। पूर्वनिर्धारित क्यामेरा खुल्नेछ।</string>
+
+    <string name="rec_service_msg">गोपनीयता: तपाईंले रेकर्ड गर्नुभएका सबै भिडियोहरू तपाईंको स्थानीय उपकरणमा मात्र सुरक्षित हुनेछन्। अनुप्रयोगले तपाइँको भिडियोहरू ब्याकअप गर्दैन (सर्भरहरूमा कुनै जडान छैन)\n\nयदि तपाइँ नयाँ रेकर्डिङ सुरु गर्नुहुन्छ र गृह स्क्रिनमा फर्कनुभयो भने, अर्को एपमा स्विच गर्नुहोस्, वा रेकर्डिङ जारी राख्न सक्षम हुन आफ्नो फोन लक गर्नुहोस् भने एप पृष्ठभूमिमा (सूचना पट्टीमा देखा पर्ने अग्रभूमि सेवा) चलिरहनेछ।</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">कृपया फरक मार्ग (उपकरण स्थानीय भण्डारण) चयन गर्ने प्रयास गर्नुहोस्।</string>
+
+    <string name="permissions_grant_storage_btn_text">लेखन भण्डारण प्रदान गर्नुहोस्</string>
+
+    <string name="donation_subs_text">मासिक दान गर्नुहोस्</string>
+    <string name="donation_any_amount_text">कुनै पनि रकमको लागि कुनै विज्ञापन</string>
+    <string name="donation_subs_any_amount_text">साथै, तपाईंले कुनै पनि रकमको लागि सदस्यता लिँदा विज्ञापन पूर्ण रूपमा हटाइन्छ।</string>
+    <string name="donation_remove_ads_by_any_amount_text">कुनै पनि रकमको एक पटक दानको साथ सदाका लागि विज्ञापनहरू हटाउनुहोस्। तपाईंले विज्ञापनहरू हटाउन मासिक रूपमा कुनै पनि रकम दान गर्न सक्नुहुन्छ</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: क्यामेराले अचानक काम गर्न छोड्यो, पुनः सुरु भयो...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: भिडियो रेकर्डिङ रोकिएको छ किनभने यन्त्रको क्यामेराले काम गर्न छोडेको छ</string>
+
+    <string name="prefs_audio_bt_recording_text">ब्लुटुथ उपकरणबाट अडियो रेकर्ड गर्नुहोस्</string>
 </resources>

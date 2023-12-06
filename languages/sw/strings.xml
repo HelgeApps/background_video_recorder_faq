@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Otomatiki</string>
     <string name="rec_fix_short_text">Ili kurekebisha</string>
     <string name="rec_fix_text">Ili kurekebisha</string>
-    <string name="rec_free_space_text">Bure</string>
+    <string name="rec_free_space_text">Inapatikana</string>
     <string name="rec_location_text">Mahali</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Wavu</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Wakati uliwekwa zamani</string>
     <string name="timer_service_notification_subtitle_text">Huduma ya kipima muda kwa kuanza kiotomatiki kwa kurekodi video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Kila siku</string>
+    <string name="timer_auto_start_once">Mara moja</string>
+    <string name="timer_auto_start_dlg_type_title">Weka kipima muda ili kuanza kurekodi</string>
+
+    <string name="prefs_zoom_out_desc_text">Ili kufikia kamera ya pembe pana zaidi (lenzi), unaweza kuweka kipengele cha kukuza</string>
+    <string name="prefs_warning_notifications_sum_text">Inahitajika ili kuweza kuonyesha huduma ya kurekodi usuli na hali kwenye paneli ya arifa. Bofya ili kuwasilisha</string>
+    <string name="prefs_warning_notifications_text">Ruhusa ya Arifa</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Onyesha onyesho la kukagua kamera kwenye skrini ya nyumbani</string>
+    <string name="prefs_ui_camera_preview_text">Hakiki ya Kamera</string>orientation
+    <string name="photos_folder_name">Picha</string>
+    <string name="photos_count_one">picha</string>
+    <string name="photos_count_other">picha</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ongeza njia ya mkato (kizindua)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Kuanza/kusimamisha kurekodi bila kuzindua skrini kuu</string>
+   
+    <string name="prefs_audio_priority_title">Tanguliza sauti kwa programu hii</string>
+    <string name="prefs_audio_priority_sum">Ikiwashwa, programu zingine hazitaweza kutumia maikrofoni. Ikiwa imezimwa, programu hii huenda isiweze kurekodi sauti wakati programu nyingi zinaendeshwa kwa kutumia maikrofoni (Android hairuhusu kila wakati utumizi wa wakati mmoja wa maikrofoni)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Kwa sasa, kurekodi sauti haiwezekani kwa sababu maikrofoni imenaswa na programu nyingine</string>
+
     
     
     
 
+    <string name="donate_text">Changia</string>
+    <string name="donate_disable_ads_text">Changia, Zima matangazo</string>
+    <string name="donate_dialog_item_no_ads_text">(hakuna matangazo)</string>
+    <string name="donation_dlg_limited_ads_message_text">Kwa michango ya chini matangazo huondolewa kwa skrini kuu pekee</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Huenda mtengenezaji wa kifaa asitoe ufikiaji kwa kamera zote, kwa hivyo zingine haziwezi kufunguliwa</string>
+
+    <string name="camera_msg_error_non_exposed_error">Imeshindwa kufungua kamera iliyochaguliwa. Inatokea kwamba sio kamera zote zilizofichwa zinaweza kutumika na programu yoyote. Watengenezaji wengi huruhusu matumizi yao tu katika programu asilia. Kamera chaguo-msingi itafungua.</string>
+
+    <string name="rec_service_msg">Faragha: Video zote unazorekodi zitahifadhiwa kwenye kifaa chako cha karibu pekee. Programu haihifadhi nakala za video zako (haina miunganisho yoyote kwa seva)\n\nProgramu itaendelea kufanya kazi chinichini (huduma ya mbele inayoonekana kwenye upau wa arifa) ukianzisha rekodi mpya na kurudi kwenye skrini ya kwanza, utumie programu nyingine, au ukifunga simu yako ili uweze kuendelea kurekodi.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Tafadhali jaribu kuchagua njia tofauti (hifadhi ya ndani ya kifaa)</string>
+
+    <string name="permissions_grant_storage_btn_text">Toa hifadhi ya uandishi</string>
+
+    <string name="donation_subs_text">Changia kila mwezi</string>
+    <string name="donation_any_amount_text">hakuna matangazo kwa kiasi chochote</string>
+    <string name="donation_subs_any_amount_text">Pia, utangazaji huondolewa kabisa unapojisajili kwa kiasi chochote.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Ondoa matangazo milele kwa mchango wa mara moja wa kiasi chochote. Unaweza pia kuchangia kiasi chochote kila mwezi ili kuondoa matangazo</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera iliacha kufanya kazi ghafla, ikaanza upya...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Kurekodi video kumeacha kwa sababu kamera ya kifaa imeacha kufanya kazi</string>
+
+    <string name="prefs_audio_bt_recording_text">Rekodi sauti kutoka kwa kifaa cha Bluetooth</string>
 </resources>

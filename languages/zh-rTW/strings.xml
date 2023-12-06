@@ -279,7 +279,7 @@
     <string name="hour">小时</string>
     <string name="hours">小时</string>
     <string name="prefs_orientation_sensor_automatic">自动的</string>
-    
+
     <string name="prefs_vibrate_rec_start_stop_text">开始或停止录制时的振动</string>
     <string name="prefs_start_rec_volume_down_key_text">按下音量减小按钮开始或停止录制</string>
     <string name="prefs_start_rec_volume_down_key_summary_text">该应用程序将在后台运行（在通知栏中启动）以使此功能正常工作</string>
@@ -287,27 +287,22 @@
     <string name="timer_auto_start_recording_duration_text">视频长度</string>
     <string name="timer_auto_start_recording_datetime_past_error_text">时间已定在过去</string>
     <string name="timer_service_notification_subtitle_text">自动开始录像的定时器服务</string>
-    
 
-    <string name="timer_auto_start_every_day_text">每天</string>
-    <string name="timer_auto_start_once">一次</string>
-    <string name="timer_auto_start_dlg_type_title">设置定时器开始录音</string>
+    <string name="prefs_zoom_out_desc_text">要訪問超廣角相機（鏡頭），您可以設置變焦倍數</string>
+    <string name="prefs_warning_notifications_sum_text">需要能夠在通知面板上顯示後台錄製服務和狀態。點擊提交</string>
+    <string name="prefs_warning_notifications_text">通知權限</string>
 
-    <string name="prefs_zoom_out_desc_text">要访问超广角相机（镜头），您可以设置变焦倍数</string>
-    <string name="prefs_warning_notifications_sum_text">需要能够在通知面板上显示后台录制服务和状态。点击提交</string>
-    <string name="prefs_warning_notifications_text">通知权限</string>
-
-    <string name="prefs_ui_camera_preview_sum_text">在主屏幕上显示相机预览</string>
-    <string name="prefs_ui_camera_preview_text">相机预览</string>orientation
+    <string name="prefs_ui_camera_preview_sum_text">在主屏幕上顯示相機預覽</string>
+    <string name="prefs_ui_camera_preview_text">相機預覽</string>orientation
     <string name="photos_folder_name">相片</string>
     <string name="photos_count_one">照片</string>
     <string name="photos_count_other">相片</string>
     
-	<string name="prefs_shortcut_rec_start_launcher_title">添加快捷方式（启动器）</string>
-    <string name="prefs_shortcut_rec_start_launcher_sum">在不启动主屏幕的情况下开始/停止录制</string>
+	<string name="prefs_shortcut_rec_start_launcher_title">添加快捷方式（啟動器）</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">在不啟動主屏幕的情況下開始/停止錄製</string>
    
-    <string name="prefs_audio_priority_title">优先播放此应用程序的音频</string>
-    <string name="prefs_audio_priority_sum">如果启用，其他应用程序将无法使用麦克风。如果禁用，当多个应用程序使用麦克风运行时，此应用程序可能无法录制音频（Android 并不总是允许同时使用麦克风）</string>
+    <string name="prefs_audio_priority_title">優先播放此應用程序的音頻</string>
+    <string name="prefs_audio_priority_sum">如果啟用，其他應用程序將無法使用麥克風。如果禁用，當多個應用程序使用麥克風運行時，此應用程序可能無法錄製音頻（Android 並不總是允許同時使用麥克風）</string>
    
     
     
@@ -317,38 +312,38 @@
 
     
     
-    <string name="rec_audio_silence_text">目前无法录音，因为麦克风被另一个应用程序拦截</string>
+    <string name="rec_audio_silence_text">目前無法錄音，因為麥克風被另一個應用程序攔截</string>
 
     
     
     
 
     <string name="donate_text">捐</string>
-    <string name="donate_disable_ads_text">捐赠，禁用广告</string>
-    <string name="donate_dialog_item_no_ads_text">（无广告）</string>
-    <string name="donation_dlg_limited_ads_message_text">如果捐款较少，则仅在主屏幕上删除广告</string>
+    <string name="donate_disable_ads_text">捐贈，禁用廣告</string>
+    <string name="donate_dialog_item_no_ads_text">（無廣告）</string>
+    <string name="donation_dlg_limited_ads_message_text">如果捐款較少，則僅在主屏幕上刪除廣告</string>
 
-    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">设备制造商可能不提供对所有摄像头的访问，因此某些摄像头可能无法打开</string>
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">設備製造商可能不提供對所有攝像頭的訪問，因此某些攝像頭可能無法打開</string>
 
-    <string name="camera_msg_error_non_exposed_error">无法打开所选摄像头。碰巧的是，并非所有隐藏摄像头都可以被任何应用程序使用。许多制造商只允许在其本机应用程序中使用它们。默认相机将打开。</string>
+    <string name="camera_msg_error_non_exposed_error">無法打開所選攝像頭。碰巧的是，並非所有隱藏攝像頭都可以被任何應用程序使用。許多製造商只允許在其本機應用程序中使用它們。默認相機將打開。</string>
 
-    <string name="rec_service_msg">隐私：您录制的所有视频将仅保存在您的本地设备上。该应用程序不会备份您的视频（没有与服务器的任何连接）\n\n如果您开始新的录制并返回主屏幕、切换到另一个应用程序或锁定手机以便能够继续录制，该应用程序将继续在后台运行（通知栏中显示的前台服务）。</string>
-
-    
+    <string name="rec_service_msg">隱私：您錄製的所有影片將僅保存在您的本機裝置上。該應用程式不會備份您的影片（沒有與伺服器的任何連接）\n\n如果您開始新的錄製並返回主畫面、切換到另一個應用程式或鎖定手機以便能夠繼續錄製，該應用程式將繼續在背景運行（通知欄中顯示的前台服務）。</string>
 
     
 
-    <string name="permissions_saf_incorrect_path">请尝试选择其他路径（设备本地存储）</string>
+    
 
-    <string name="permissions_grant_storage_btn_text">授予写入存储空间</string>
+    <string name="permissions_saf_incorrect_path">請嘗試選擇其他路徑（裝置本機儲存）</string>
+
+    <string name="permissions_grant_storage_btn_text">授予寫入儲存空間</string>
 
     <string name="donation_subs_text">每月捐款</string>
-    <string name="donation_any_amount_text">不做任何金额的广告</string>
-    <string name="donation_subs_any_amount_text">此外，当您订阅任何金额时，广告将被完全删除。</string>
-    <string name="donation_remove_ads_by_any_amount_text">通过一次性捐赠任意金额，永久删除广告。您还可以每月捐赠任意金额来删除广告</string>
+    <string name="donation_any_amount_text">不做任何金額的廣告</string>
+    <string name="donation_subs_any_amount_text">此外，當您訂閱任何金額時，廣告將會完全刪除。</string>
+    <string name="donation_remove_ads_by_any_amount_text">透過一次性捐贈任意金額，永久刪除廣告。您也可以每月捐贈任何金額來刪除廣告</string>
 
-    <string name="msg_camera_died_text">BackgroundVideoRecorder：相机突然停止工作，重新启动......</string>
-	<string name="camera_error_text">BackgroundVideoRecorder：视频录制已停止，因为设备的摄像头已停止工作</string>
+    <string name="msg_camera_died_text">BackgroundVideoRecorder：相機突然停止運作，重新啟動...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder：錄影已停止，因為裝置的攝影機已停止運作</string>
 
-    <string name="prefs_audio_bt_recording_text">从蓝牙设备录制音频</string>
+    <string name="prefs_audio_bt_recording_text">從藍牙裝置錄製音訊</string>
 </resources>

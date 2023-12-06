@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Mobil</string>
     <string name="rec_fix_short_text">Membenarkan</string>
     <string name="rec_fix_text">Membenarkan</string>
-    <string name="rec_free_space_text">Bebas</string>
+    <string name="rec_free_space_text">Tersedia</string>
     <string name="rec_location_text">Lokasi</string>
     <string name="rec_gps_text">gps</string>
     <string name="rec_network_text">Bersih</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Waktu telah ditentukan di masa lalu</string>
     <string name="timer_service_notification_subtitle_text">Layanan pengatur waktu untuk memulai perekaman video secara otomatis</string>
     
+
+    <string name="timer_auto_start_every_day_text">Setiap hari</string>
+    <string name="timer_auto_start_once">Sekali</string>
+    <string name="timer_auto_start_dlg_type_title">Atur timer untuk mulai merekam</string>
+
+    <string name="prefs_zoom_out_desc_text">Untuk mengakses kamera (lensa) ultra wide-angle, Anda dapat mengatur faktor zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Diperlukan untuk dapat menampilkan layanan perekaman latar belakang dan status di panel notifikasi. Klik untuk mengirim</string>
+    <string name="prefs_warning_notifications_text">Izin Notifikasi</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Tampilkan pratinjau kamera di layar beranda</string>
+    <string name="prefs_ui_camera_preview_text">Pratinjau Kamera</string>orientation
+    <string name="photos_folder_name">Foto</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">foto</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Tambahkan pintasan (peluncur)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Untuk memulai/menghentikan perekaman tanpa membuka layar utama</string>
+   
+    <string name="prefs_audio_priority_title">Prioritaskan audio ke aplikasi ini</string>
+    <string name="prefs_audio_priority_sum">Jika diaktifkan, aplikasi lain tidak akan dapat menggunakan mikrofon. Jika dinonaktifkan, aplikasi ini mungkin tidak dapat merekam audio saat beberapa aplikasi berjalan menggunakan mikrofon (Android tidak selalu mengizinkan penggunaan mikrofon secara bersamaan)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Saat ini, perekaman audio tidak dapat dilakukan karena mikrofon dicegat oleh aplikasi lain</string>
+
     
     
     
 
+    <string name="donate_text">Menyumbangkan</string>
+    <string name="donate_disable_ads_text">Donasi, Nonaktifkan iklan</string>
+    <string name="donate_dialog_item_no_ads_text">(tanpa iklan)</string>
+    <string name="donation_dlg_limited_ads_message_text">Dengan donasi yang lebih rendah, iklan dihapus hanya untuk layar utama</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Pabrikan perangkat mungkin tidak menyediakan akses ke semua kamera, sehingga beberapa kamera mungkin tidak dapat dibuka</string>
+
+    <string name="camera_msg_error_non_exposed_error">Gagal membuka kamera yang dipilih. Kebetulan tidak semua kamera tersembunyi bisa digunakan oleh aplikasi apapun. Banyak pabrikan hanya mengizinkan penggunaannya dalam aplikasi asli mereka. Kamera default akan terbuka.</string>
+
+    <string name="rec_service_msg">Privasi: Semua video yang Anda rekam hanya akan disimpan di perangkat lokal Anda. Aplikasi tidak mencadangkan video Anda (tidak memiliki koneksi ke server)\n\nAplikasi akan terus berjalan di latar belakang (layanan latar depan yang muncul di bilah notifikasi) jika Anda memulai rekaman baru dan kembali ke layar beranda, beralih ke aplikasi lain, atau mengunci ponsel Anda agar dapat melanjutkan perekaman.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Silakan coba memilih jalur lain (penyimpanan lokal perangkat)</string>
+
+    <string name="permissions_grant_storage_btn_text">Berikan penyimpanan tulis</string>
+
+    <string name="donation_subs_text">Donasi setiap bulan</string>
+    <string name="donation_any_amount_text">tidak ada iklan untuk jumlah berapa pun</string>
+    <string name="donation_subs_any_amount_text">Selain itu, iklan dihapus sepenuhnya saat Anda berlangganan dengan jumlah berapa pun.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Hapus iklan selamanya dengan donasi satu kali dalam jumlah berapa pun. Anda juga dapat menyumbangkan jumlah berapa pun setiap bulan untuk menghapus iklan</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera tiba-tiba berhenti bekerja, dimulai ulang...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Perekaman video terhenti karena kamera perangkat berhenti bekerja</string>
+
+    <string name="prefs_audio_bt_recording_text">Rekam audio dari perangkat Bluetooth</string>
 </resources>

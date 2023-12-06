@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Aunoa</string>
     <string name="rec_fix_short_text">Hei whakatika</string>
     <string name="rec_fix_text">Hei whakatika</string>
-    <string name="rec_free_space_text">Kore utu</string>
+    <string name="rec_free_space_text">Kei te waatea</string>
     <string name="rec_location_text">Tauwāhi</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Kupenga</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">I whakaritea te wa i mua</string>
     <string name="timer_service_notification_subtitle_text">Ratonga taima mo te tiimata aunoa o te tuhi ataata</string>
     
+
+    <string name="timer_auto_start_every_day_text">Ia ra</string>
+    <string name="timer_auto_start_once">Kotahi</string>
+    <string name="timer_auto_start_dlg_type_title">Tautuhia te taima ki te timata ki te tuhi</string>
+
+    <string name="prefs_zoom_out_desc_text">Hei uru atu ki te kamera koki-nui-whanui (arotahi), ka taea e koe te tautuhi i te tauwehe topa</string>
+    <string name="prefs_warning_notifications_sum_text">Me kaha ki te whakaatu i te ratonga rekoata papamuri me nga mana i runga i te panui panui. Pāwhiri ki te tuku</string>
+    <string name="prefs_warning_notifications_text">Whakaaetanga Whakamōhiotanga</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Whakaatuhia te arokite kamera ki te mata o te kainga</string>
+    <string name="prefs_ui_camera_preview_text">Arokite kamera</string>orientation
+    <string name="photos_folder_name">Whakaahua</string>
+    <string name="photos_count_one">whakaahua</string>
+    <string name="photos_count_other">whakaahua</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Tāpiri pokatata (whakarewa)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Hei timata/mutu te tuhi me te kore e whakarewahia te mata matua</string>
+   
+    <string name="prefs_audio_priority_title">Whakaritea te ororongo ki tenei taupānga</string>
+    <string name="prefs_audio_priority_sum">Ki te whakahohea, ka kore e taea e etahi atu tono te whakamahi i te hopuoro. Mena kua monokia, kare pea e taea e tenei tono te tuhi oro i te wa e rere ana nga tono maha ma te hopuoro (kaore e whakaaehia e te Android te whakamahi tukutahi o te hopuoro)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">I tenei wa, kaore e taea te hopu ororongo na te mea ka haukotia te hopuoro e tetahi atu tono</string>
+
     
     
     
 
+    <string name="donate_text">Koha</string>
+    <string name="donate_disable_ads_text">Koha, Mono nga panui</string>
+    <string name="donate_dialog_item_no_ads_text">(kaore he panui)</string>
+    <string name="donation_dlg_limited_ads_message_text">Ma te iti o nga takoha ka tangohia nga panui mo te mata matua anake</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Kaore pea te kaihanga taputapu e tuku uru ki nga kamera katoa, na reira kare pea etahi e tuwhera</string>
+
+    <string name="camera_msg_error_non_exposed_error">I rahua te whakatuwhera i te kamera kua tohua. Ko te mea kaore e taea te whakamahi i nga kamera huna katoa e tetahi tono. He maha nga kaihanga ka whakaae noa ki te whakamahi i a raatau tono taketake. Ka tuwhera te kamera taunoa.</string>
+
+    <string name="rec_service_msg">Tūmataitinga: Ko nga ataata katoa ka tuhia e koe ka tiakina ki to taputapu rohe anake. Karekau te tono i te taapiri i o ataata (kaore he hononga ki nga kaitoro)\n\nKa haere tonu te taupānga ki te papamuri (te ratonga papamua ka puta ki te pae whakamohiotanga) mena ka timata koe i te rekoata hou ka hoki mai ki te mata o te kaainga, ka huri ki tetahi atu taupānga, ka maukati ranei to waea kia kaha tonu ai te tuhi.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Me ngana koa ki te kowhiri i tetahi ara rereke (puera rokiroki rohe)</string>
+
+    <string name="permissions_grant_storage_btn_text">Tukuna te rokiroki tuhi</string>
+
+    <string name="donation_subs_text">Koha ia marama</string>
+    <string name="donation_any_amount_text">kahore he panui mo tetahi moni</string>
+    <string name="donation_subs_any_amount_text">Ano, ka tino tangohia nga panui ina ohauru koe mo tetahi moni.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Tangohia nga panui mo ake tonu atu me te koha kotahi te waa ahakoa te nui. Ka taea hoki e koe te koha moni ia marama ki te tango panui</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Ka mutu te mahi o te kamera, ka timata ano...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Kua mutu te hopu ataata na te mea kua mutu te mahi a te kamera o te taputapu</string>
+
+    <string name="prefs_audio_bt_recording_text">Tuhia ororongo mai i te taputapu Nihokikorangi</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Ngokuzenzekelayo</string>
     <string name="rec_fix_short_text">Ukulungisa</string>
     <string name="rec_fix_text">Ukulungisa</string>
-    <string name="rec_free_space_text">Mahala</string>
+    <string name="rec_free_space_text">Iyafumaneka</string>
     <string name="rec_location_text">Indawo</string>
     <string name="rec_gps_text">IGPS</string>
     <string name="rec_network_text">Umnatha</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Ixesha lalimiselwe ngaphambili</string>
     <string name="timer_service_notification_subtitle_text">Inkonzo yesibali-xesha ukuqalisa ngokuzenzekelayo ukurekhodwa kwevidiyo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Yonke imihla</string>
+    <string name="timer_auto_start_once">Kanye</string>
+    <string name="timer_auto_start_dlg_type_title">Seta isibali-xesha ukuqalisa ukurekhoda</string>
+
+    <string name="prefs_zoom_out_desc_text">Ukufikelela kwi-ultra-wide-angle camera (lens), unokuseta i-zoom factor</string>
+    <string name="prefs_warning_notifications_sum_text">Ifunekayo ukuze ukwazi ukubonisa inkonzo yangasemva yokurekhoda kunye nemigangatho kwiphaneli yesaziso. Cofa ukuze ungenise</string>
+    <string name="prefs_warning_notifications_text">Imvume yesaziso</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Bonisa ipreview yekhamera kwiscreen sasekhaya</string>
+    <string name="prefs_ui_camera_preview_text">Umboniso weKhamera</string>orientation
+    <string name="photos_folder_name">Iifoto</string>
+    <string name="photos_count_one">ifoto</string>
+    <string name="photos_count_other">iifoto</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Yongeza indlela emfutshane (isiqalisi)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Ukuqala/ukuyeka ukurekhoda ngaphandle kokuvula isikrini esiphambili</string>
+   
+    <string name="prefs_audio_priority_title">Beka phambili iaudio kule app</string>
+    <string name="prefs_audio_priority_sum">Ukuba yenziwe yasebenza, ezinye iinkqubo azinakukwazi ukusebenzisa imayikrofoni. Ukuba ivaliwe, esi sicelo sisenokungakwazi ukurekhoda umsindo xa izicelo ezininzi zisebenzisa imakrofoni (i-Android ayisoloko ivumela ukusetyenziswa kwe-microphone ngaxeshanye)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Okwangoku, ukurekhodwa kweaudio akunakwenzeka kuba imakrofoni yamkelwe sesinye isicelo</string>
+
     
     
     
 
+    <string name="donate_text">Nikela</string>
+    <string name="donate_disable_ads_text">Nikela, Khubaza iintengiso</string>
+    <string name="donate_dialog_item_no_ads_text">(akukho ntengiso)</string>
+    <string name="donation_dlg_limited_ads_message_text">Ngeminikelo esezantsi iintengiso zisuswa kuphela kwiscreen esikhulu</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Umenzi wesixhobo unokungaboneleli kuzo zonke iikhamera, ngoko ke ezinye zinokungavuleki</string>
+
+    <string name="camera_msg_error_non_exposed_error">Ayiphumelelanga ukuvula ikhamera ekhethiweyo. Kwenzeka ukuba ayizizo zonke iikhamera ezifihliweyo ezinokusetyenziswa nasiphi na isicelo. Abavelisi abaninzi bavumela kuphela ukusetyenziswa kwabo kwizicelo zabo zendalo. Ikhamera ehlala ikho iya kuvuleka.</string>
+
+    <string name="rec_service_msg">Ubumfihlo: Zonke iividiyo ozirekhodayo ziya kugcinwa kuphela kwisixhobo sakho sasekhaya. Isicelo asizigcini iividiyo zakho (asinalunxibelelwano kwiiseva)\n\nUsetyenziso luya kuqhubeka nokusebenza ngasemva (inkonzo yangaphambili evela kwibar yesaziso) ukuba uqala ukurekhoda okutsha kwaye ubuyele kwiscreen sasekhaya, tshintshela kolunye usetyenziso, okanye utshixe ifowuni yakho ukuze ukwazi ukuqhubeka nokurekhoda.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Nceda zama ukukhetha indlela eyahlukileyo (isixhobo sogcino sasekhaya)</string>
+
+    <string name="permissions_grant_storage_btn_text">Nika indawo yokugcina ukubhala</string>
+
+    <string name="donation_subs_text">Nikela ngenyanga</string>
+    <string name="donation_any_amount_text">akukho ntengiso yayo nayiphi na imali</string>
+    <string name="donation_subs_any_amount_text">Kwakhona, intengiso isuswe ngokupheleleyo xa ubhalisa kuyo nayiphi na imali.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Susa iintengiso ngonaphakade kunye nomnikelo wexesha elinye layo nayiphi na imali. Unako kwakhona ukunikela nayiphi na imali ngenyanga ukususa iintengiso</string>
+
+    <string name="msg_camera_died_text">I-BackgroundVideoRecorder: Ikhamera yayeka ukusebenza ngequbuliso, yaphinda yaqalisa...</string>
+	<string name="camera_error_text">I-BackgroundVideoRecorder: Ushicilelo lwevidiyo luyekile kuba ikhamera yesixhobo iyekile ukusebenza</string>
+
+    <string name="prefs_audio_bt_recording_text">Rekhoda isandi kwisixhobo seBluetooth</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Tự động</string>
     <string name="rec_fix_short_text">Để sửa</string>
     <string name="rec_fix_text">Để sửa</string>
-    <string name="rec_free_space_text">Rảnh rỗi</string>
+    <string name="rec_free_space_text">Có sẵn</string>
     <string name="rec_location_text">Địa điểm</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Mạng lưới</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Thời gian được đặt trong quá khứ</string>
     <string name="timer_service_notification_subtitle_text">Dịch vụ hẹn giờ để tự động bắt đầu quay video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Hằng ngày</string>
+    <string name="timer_auto_start_once">Một lần</string>
+    <string name="timer_auto_start_dlg_type_title">Đặt hẹn giờ để bắt đầu ghi</string>
+
+    <string name="prefs_zoom_out_desc_text">Để truy cập máy ảnh (ống kính) góc cực rộng, bạn có thể đặt hệ số thu phóng</string>
+    <string name="prefs_warning_notifications_sum_text">Cần thiết để có thể hiển thị dịch vụ ghi nền và trạng thái trên bảng thông báo. Nhấp để gửi</string>
+    <string name="prefs_warning_notifications_text">Quyền thông báo</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Hiển thị xem trước máy ảnh trên màn hình chính</string>
+    <string name="prefs_ui_camera_preview_text">Xem trước máy ảnh</string>orientation
+    <string name="photos_folder_name">ảnh</string>
+    <string name="photos_count_one">hình chụp</string>
+    <string name="photos_count_other">ảnh</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Thêm lối tắt (trình khởi chạy)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Để bắt đầu/dừng quay mà không mở màn hình chính</string>
+   
+    <string name="prefs_audio_priority_title">Ưu tiên âm thanh cho ứng dụng này</string>
+    <string name="prefs_audio_priority_sum">Nếu được bật, các ứng dụng khác sẽ không thể sử dụng micrô. Nếu bị tắt, ứng dụng này có thể không ghi được âm thanh khi nhiều ứng dụng đang chạy bằng micrô (Android không phải lúc nào cũng cho phép sử dụng đồng thời micrô)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Hiện tại, không thể ghi âm do ứng dụng khác chặn micrô</string>
+
     
     
     
 
+    <string name="donate_text">Quyên tặng</string>
+    <string name="donate_disable_ads_text">Đóng góp, Vô hiệu hóa quảng cáo</string>
+    <string name="donate_dialog_item_no_ads_text">(không quảng cáo)</string>
+    <string name="donation_dlg_limited_ads_message_text">Với số tiền quyên góp thấp hơn, quảng cáo chỉ bị xóa cho màn hình chính</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Nhà sản xuất thiết bị có thể không cung cấp quyền truy cập vào tất cả các camera, vì vậy một số có thể không mở được</string>
+
+    <string name="camera_msg_error_non_exposed_error">Không thể mở máy ảnh đã chọn. Điều xảy ra là không phải tất cả các camera ẩn đều có thể được sử dụng bởi bất kỳ ứng dụng nào. Nhiều nhà sản xuất chỉ cho phép sử dụng chúng trong các ứng dụng gốc của họ. Máy ảnh mặc định sẽ mở.</string>
+
+    <string name="rec_service_msg">Quyền riêng tư: Tất cả video bạn quay sẽ chỉ được lưu trên thiết bị cục bộ của bạn. Ứng dụng không sao lưu video của bạn (không có bất kỳ kết nối nào đến máy chủ)\n\nỨng dụng sẽ tiếp tục chạy ở chế độ nền (dịch vụ nền trước xuất hiện trên thanh thông báo) nếu bạn bắt đầu ghi mới và quay lại màn hình chính, chuyển sang ứng dụng khác hoặc khóa điện thoại để có thể tiếp tục ghi.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Vui lòng thử chọn một đường dẫn khác (bộ nhớ cục bộ của thiết bị)</string>
+
+    <string name="permissions_grant_storage_btn_text">Cấp lưu trữ ghi</string>
+
+    <string name="donation_subs_text">Đóng góp hàng tháng</string>
+    <string name="donation_any_amount_text">không quảng cáo với bất kỳ số tiền nào</string>
+    <string name="donation_subs_any_amount_text">Ngoài ra, quảng cáo sẽ bị loại bỏ hoàn toàn khi bạn đăng ký với bất kỳ số tiền nào.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Xóa quảng cáo mãi mãi bằng cách quyên góp một lần với số tiền bất kỳ. Bạn cũng có thể quyên góp bất kỳ số tiền nào hàng tháng để xóa quảng cáo</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Camera đột nhiên ngừng hoạt động, khởi động lại...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Quá trình quay video đã dừng do camera của thiết bị ngừng hoạt động</string>
+
+    <string name="prefs_audio_bt_recording_text">Ghi âm thanh từ thiết bị Bluetooth</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Mota</string>
     <string name="rec_fix_short_text">Don gyara</string>
     <string name="rec_fix_text">Don gyara</string>
-    <string name="rec_free_space_text">Kyauta</string>
+    <string name="rec_free_space_text">Akwai</string>
     <string name="rec_location_text">Wuri</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">An saita lokaci a baya</string>
     <string name="timer_service_notification_subtitle_text">Sabis na ƙidayar lokaci don farawa ta atomatik na rikodin bidiyo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Kowace rana</string>
+    <string name="timer_auto_start_once">Sau ɗaya</string>
+    <string name="timer_auto_start_dlg_type_title">Saita mai ƙidayar lokaci don fara rikodi</string>
+
+    <string name="prefs_zoom_out_desc_text">Don samun dama ga kyamarar kusurwa mai faɗi (ruwan tabarau), zaku iya saita ma\'aunin zuƙowa</string>
+    <string name="prefs_warning_notifications_sum_text">Ana buƙata don samun damar nuna sabis na rikodi na baya da matsayi akan kwamitin sanarwa. Danna don ƙaddamarwa</string>
+    <string name="prefs_warning_notifications_text">Izinin Sanarwa</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Nuna samfotin kamara akan allon gida</string>
+    <string name="prefs_ui_camera_preview_text">Duban kyamara</string>orientation
+    <string name="photos_folder_name">Hotuna</string>
+    <string name="photos_count_one">hoto</string>
+    <string name="photos_count_other">hotuna</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ƙara gajeriyar hanya (mai ƙaddamarwa)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Don fara /dakatar da rikodi ba tare da ƙaddamar da babban allo ba</string>
+   
+    <string name="prefs_audio_priority_title">Bada fifikon sauti ga wannan app</string>
+    <string name="prefs_audio_priority_sum">Idan an kunna, wasu aikace-aikacen ba za su iya amfani da makirufo ba. Idan an kashe, wannan aikace-aikacen bazai iya yin rikodin sauti ba lokacin da aikace-aikacen da yawa ke gudana ta amfani da makirufo (Android ba koyaushe yana ba da izinin amfani da makirufo lokaci guda ba)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">A halin yanzu, rikodin sauti ba zai yiwu ba saboda wani aikace-aikacen yana kama makirufo</string>
+
     
     
     
 
+    <string name="donate_text">Ba da gudummawa</string>
+    <string name="donate_disable_ads_text">Ba da gudummawa, Kashe tallace-tallace</string>
+    <string name="donate_dialog_item_no_ads_text">(ba talla)</string>
+    <string name="donation_dlg_limited_ads_message_text">Tare da ƙananan gudummawar ana cire tallan don babban allo kawai</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Mai ƙera na\'urar ƙila ba ta ba da dama ga duk kyamarori ba, don haka wasu ƙila ba za su buɗe ba</string>
+
+    <string name="camera_msg_error_non_exposed_error">An kasa buɗe kyamarar da aka zaɓa. Ya faru da cewa ba duk ɓoyayyun kyamarori ba za a iya amfani da su ta kowane aikace-aikacen. Yawancin masana\'antun suna ba da izinin amfani da su a aikace-aikacensu na asali. Tsohuwar kamara za ta buɗe.</string>
+
+    <string name="rec_service_msg">Keɓantawa: Duk bidiyon da kuka yi rikodin za a adana su kawai akan na\'urar ku ta gida. Aikace-aikacen ba ya adana bidiyon ku (ba shi da wata hanyar haɗi zuwa sabobin)\n\nManhajar za ta ci gaba da aiki a bango (sabis na gaba wanda ke bayyana a sandar sanarwa) idan ka fara sabon rikodi kuma ka koma kan allo, canza zuwa wani app, ko kulle wayarka don samun damar ci gaba da yin rikodi.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Da fatan za a yi ƙoƙarin zaɓar wata hanya dabam (ajiya na gida na na\'ura)</string>
+
+    <string name="permissions_grant_storage_btn_text">Bayar da ajiyar rubutu</string>
+
+    <string name="donation_subs_text">Ba da gudummawa kowane wata</string>
+    <string name="donation_any_amount_text">babu talla ga kowane adadin</string>
+    <string name="donation_subs_any_amount_text">Har ila yau, an cire talla gaba ɗaya lokacin da kuka yi rajista na kowane adadin.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Cire tallace-tallace har abada tare da gudummawar lokaci ɗaya na kowane adadin. Hakanan zaka iya ba da gudummawar kowane adadin kowane wata don cire tallace-tallace</string>
+
+    <string name="msg_camera_died_text">Baya VideoRecorder: Kamara ta daina aiki ba zato ba tsammani, ta sake farawa...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: An daina yin rikodin bidiyo saboda kyamarar na\'urar ta daina aiki</string>
+
+    <string name="prefs_audio_bt_recording_text">Yi rikodin sauti daga na\'urar Bluetooth</string>
 </resources>

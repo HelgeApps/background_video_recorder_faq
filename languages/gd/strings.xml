@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Gus a cheartachadh</string>
     <string name="rec_fix_text">Gus a cheartachadh</string>
-    <string name="rec_free_space_text">An-asgaidh</string>
+    <string name="rec_free_space_text">Ri fhaighinn</string>
     <string name="rec_location_text">Àite</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Chaidh ùine a shuidheachadh san àm a dh\'fhalbh</string>
     <string name="timer_service_notification_subtitle_text">Seirbheis timer airson tòiseachadh fèin-ghluasadach air clàradh bhidio</string>
     
+
+    <string name="timer_auto_start_every_day_text">Gach latha</string>
+    <string name="timer_auto_start_once">Aon uair</string>
+    <string name="timer_auto_start_dlg_type_title">Suidhich timer gus tòiseachadh air clàradh</string>
+
+    <string name="prefs_zoom_out_desc_text">Gus faighinn chun chamara ceàrn farsaing (lionsa), faodaidh tu am bàillidh zoom a shuidheachadh</string>
+    <string name="prefs_warning_notifications_sum_text">A dhìth gus a bhith comasach air an t-seirbheis clàraidh cùl-fhiosrachaidh agus na h-inbhean a thaisbeanadh air a’ phannal fios. Cliog gus a chuir a-steach</string>
+    <string name="prefs_warning_notifications_text">Cead fios</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Seall ro-shealladh camara air an sgrìn dachaigh</string>
+    <string name="prefs_ui_camera_preview_text">Ro-shealladh camara</string>orientation
+    <string name="photos_folder_name">Dealbhan</string>
+    <string name="photos_count_one">dealbh</string>
+    <string name="photos_count_other">dealbhan</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Cuir ris shortcut (launcher)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Gus clàradh a thòiseachadh /stad gun a bhith a \'cur air bhog a\' phrìomh sgrion</string>
+   
+    <string name="prefs_audio_priority_title">Cuir prìomhachas air fuaim don aplacaid seo</string>
+    <string name="prefs_audio_priority_sum">Ma tha e air a chomasachadh, cha bhith e comasach dha tagraidhean eile am micreofon a chleachdadh. Ma tha e ciorramach, is dòcha nach bi an aplacaid seo comasach air claisneachd a chlàradh nuair a bhios grunn thagraidhean a’ ruith a ’cleachdadh a’ mhaicreafòn (cha leig Android an-còmhnaidh am micreofon a chleachdadh aig an aon àm)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Aig an àm seo, chan eil e comasach clàradh claisneachd leis gu bheil am micreofon air a ghlacadh le tagradh eile</string>
+
     
     
     
 
+    <string name="donate_text">Thoir seachad</string>
+    <string name="donate_disable_ads_text">Thoir seachad, cuir à comas sanasan</string>
+    <string name="donate_dialog_item_no_ads_text">(gun shanasan)</string>
+    <string name="donation_dlg_limited_ads_message_text">Le tabhartasan nas ìsle chan eil na sanasan air an toirt air falbh ach airson a’ phrìomh sgrion</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Is dòcha nach toir neach-dèanamh an inneal cothrom air a h-uile camara, agus mar sin is dòcha nach fosgail cuid</string>
+
+    <string name="camera_msg_error_non_exposed_error">Dh\'fhàillig fosgladh a\' chamara taghte. Tha e a’ tachairt mar sin nach urrainn a h-uile camara falaichte a bhith air a chleachdadh le tagradh sam bith. Bidh mòran de luchd-saothrachaidh a’ ceadachadh an cleachdadh anns na tagraidhean dùthchasach aca a-mhàin. Fosglaidh an camara bunaiteach.</string>
+
+    <string name="rec_service_msg">Prìobhaideachd: Cha tèid a h-uile bhidio a chlàras tu a shàbhaladh ach air an inneal ionadail agad. Cha dèan an aplacaid cùl-taic de na bhideothan agad (chan eil ceanglaichean aige ri frithealaichean)\n\nLeanaidh an aplacaid a’ ruith air a’ chùl (an t-seirbheis aghaidh a tha a’ nochdadh anns a’ bhàr fios) ma thòisicheas tu air clàradh ùr agus gun till thu chun sgrion dachaigh, atharraich gu app eile, no ma ghlasas tu am fòn agad gus an urrainn dhut leantainn air adhart a’ clàradh.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Feuch an tagh thu slighe eile (stòras ionadail inneal)</string>
+
+    <string name="permissions_grant_storage_btn_text">Thoir seachad stòradh sgrìobhaidh</string>
+
+    <string name="donation_subs_text">Thoir seachad mìosail</string>
+    <string name="donation_any_amount_text">gun sanasachd airson suim sam bith</string>
+    <string name="donation_subs_any_amount_text">Cuideachd, thèid sanasachd a thoirt air falbh gu tur nuair a nì thu ballrachd airson suim sam bith.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Thoir air falbh sanasan gu bràth le tabhartas aon-ùine de mheud sam bith. Faodaidh tu cuideachd suim sam bith a thoirt seachad gach mìos gus sanasan a thoirt air falbh</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Sguir an camara gu h-obann ag obair, ath-thòisich e ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Tha clàradh bhidio air stad leis gu bheil camara an inneal air sgur ag obair</string>
+
+    <string name="prefs_audio_bt_recording_text">Clàraich fuaim bho inneal Bluetooth</string>
 </resources>

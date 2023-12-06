@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">자동</string>
     <string name="rec_fix_short_text">@string/rec_fix_text</string>
     <string name="rec_fix_text">Fix</string>
-    <string name="rec_free_space_text">Free</string>
+    <string name="rec_free_space_text">사용 가능</string>
     <string name="rec_location_text">위치</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">NET</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">시간은 과거로 설정</string>
     <string name="timer_service_notification_subtitle_text">동영상 녹화 자동 시작을 위한 타이머 서비스</string>
     
+
+    <string name="timer_auto_start_every_day_text">매일</string>
+    <string name="timer_auto_start_once">한번</string>
+    <string name="timer_auto_start_dlg_type_title">녹음 시작을 위한 타이머 설정</string>
+
+    <string name="prefs_zoom_out_desc_text">초광각 카메라(렌즈)에 액세스하려면 줌 배율을 설정할 수 있습니다.</string>
+    <string name="prefs_warning_notifications_sum_text">알림 패널에 백그라운드 녹화 서비스 및 상태를 표시하는 데 필요합니다. 제출하려면 클릭하세요.</string>
+    <string name="prefs_warning_notifications_text">알림 권한</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">홈 화면에 카메라 미리보기 표시</string>
+    <string name="prefs_ui_camera_preview_text">카메라 미리보기</string>orientation
+    <string name="photos_folder_name">사진</string>
+    <string name="photos_count_one">사진</string>
+    <string name="photos_count_other">사진</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">바로가기 추가(런처)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">메인 화면을 실행하지 않고 녹화를 시작/중지하려면</string>
+   
+    <string name="prefs_audio_priority_title">이 앱에 오디오 우선순위 지정</string>
+    <string name="prefs_audio_priority_sum">활성화하면 다른 애플리케이션에서 마이크를 사용할 수 없습니다. 비활성화하면 이 애플리케이션은 마이크를 사용하여 여러 애플리케이션이 실행 중일 때 오디오를 녹음하지 못할 수 있습니다(Android는 항상 마이크 동시 사용을 허용하지 않음).</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">현재 다른 애플리케이션에서 마이크를 가로채서 오디오 녹음이 불가능합니다.</string>
+
     
     
     
 
+    <string name="donate_text">기부하다</string>
+    <string name="donate_disable_ads_text">기부, 광고 비활성화</string>
+    <string name="donate_dialog_item_no_ads_text">(광고 없음)</string>
+    <string name="donation_dlg_limited_ads_message_text">기부금이 적을수록 기본 화면에서만 광고가 제거됩니다.</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">장치 제조업체가 모든 카메라에 대한 액세스를 제공하지 않을 수 있으므로 일부는 열리지 않을 수 있습니다.</string>
+
+    <string name="camera_msg_error_non_exposed_error">선택한 카메라를 열지 못했습니다. 모든 숨겨진 카메라를 모든 응용 프로그램에서 사용할 수 있는 것은 아닙니다. 많은 제조업체는 기본 응용 프로그램에서만 사용을 허용합니다. 기본 카메라가 열립니다.</string>
+
+    <string name="rec_service_msg">개인정보 보호: 녹화한 모든 동영상은 로컬 장치에만 저장됩니다. 애플리케이션은 비디오를 백업하지 않습니다(서버에 연결되어 있지 않음).\n\n새 녹음을 시작하고 홈 화면으로 돌아가거나, 다른 앱으로 전환하거나, 녹음을 계속하기 위해 휴대폰을 잠그면 앱은 백그라운드(알림 표시줄에 나타나는 포그라운드 서비스)에서 계속 실행됩니다.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">다른 경로(기기 로컬 저장소)를 선택해 보세요.</string>
+
+    <string name="permissions_grant_storage_btn_text">쓰기 스토리지 부여</string>
+
+    <string name="donation_subs_text">매월 기부</string>
+    <string name="donation_any_amount_text">금액에 관계없이 광고 없음</string>
+    <string name="donation_subs_any_amount_text">또한 금액에 관계없이 구독하시면 광고가 완전히 제거됩니다.</string>
+    <string name="donation_remove_ads_by_any_amount_text">금액에 관계없이 일회성 기부로 광고를 영원히 제거하세요. 광고를 제거하기 위해 매달 원하는 금액을 기부할 수도 있습니다.</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: 카메라가 갑자기 작동을 멈추고 다시 시작했습니다...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: 기기의 카메라 작동이 중지되어 동영상 녹화가 중지되었습니다.</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth 장치에서 오디오 녹음</string>
 </resources>

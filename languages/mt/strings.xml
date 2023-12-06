@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Biex tikkoreġi</string>
     <string name="rec_fix_text">Biex tikkoreġi</string>
-    <string name="rec_free_space_text">Libera</string>
+    <string name="rec_free_space_text">Disponibbli</string>
     <string name="rec_location_text">Post</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Iż-żmien ġie stabbilit fil-passat</string>
     <string name="timer_service_notification_subtitle_text">Servizz ta\' timer għall-bidu awtomatiku tar-reġistrazzjoni tal-vidjo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Kuljum</string>
+    <string name="timer_auto_start_once">Darba</string>
+    <string name="timer_auto_start_dlg_type_title">Issettja l-arloġġ biex tibda tirrekordja</string>
+
+    <string name="prefs_zoom_out_desc_text">Biex taċċessa l-kamera ultra wide-angle (lenti), tista \'tissettja l-fattur taż-żum</string>
+    <string name="prefs_warning_notifications_sum_text">Meħtieġa biex tkun tista \'turi s-servizz ta\' reġistrazzjoni fl-isfond u l-istatus fuq il-pannell tan-notifika. Ikklikkja biex tissottometti</string>
+    <string name="prefs_warning_notifications_text">Permess ta\' Notifika</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Uri preview tal-kamera fuq l-iskrin tad-dar</string>
+    <string name="prefs_ui_camera_preview_text">Preview Camera</string>orientation
+    <string name="photos_folder_name">Ritratti</string>
+    <string name="photos_count_one">ritratt</string>
+    <string name="photos_count_other">ritratti</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Żid shortcut (llanċjar)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Biex tibda/twaqqaf ir-reġistrazzjoni mingħajr ma tniedi l-iskrin prinċipali</string>
+   
+    <string name="prefs_audio_priority_title">Agħti prijorità lill-awdjo għal din l-app</string>
+    <string name="prefs_audio_priority_sum">Jekk attivata, applikazzjonijiet oħra ma jkunux jistgħu jużaw il-mikrofonu. Jekk tkun diżattivata, din l-applikazzjoni tista\' ma tkunx tista\' tirreġistra l-awdjo meta jkunu qed jaħdmu multipli applikazzjonijiet bl-użu tal-mikrofonu (Android mhux dejjem jippermetti l-użu simultanju tal-mikrofonu)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Bħalissa, ir-reġistrazzjoni tal-awdjo mhix possibbli minħabba li l-mikrofonu jiġi interċettat minn applikazzjoni oħra</string>
+
     
     
     
 
+    <string name="donate_text">Agħti donazzjoni</string>
+    <string name="donate_disable_ads_text">Donazzjoni, Itfi r-reklami</string>
+    <string name="donate_dialog_item_no_ads_text">(l-ebda reklami)</string>
+    <string name="donation_dlg_limited_ads_message_text">B\'donazzjonijiet aktar baxxi r-reklami jitneħħew biss għall-iskrin prinċipali</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Il-manifattur tal-apparat jista \'ma jipprovdix aċċess għall-kameras kollha, għalhekk xi wħud jistgħu ma jinfetħux</string>
+
+    <string name="camera_msg_error_non_exposed_error">Naqas milli tiftaħ il-kamera magħżula. Jiġri li mhux il-kameras moħbija kollha jistgħu jintużaw minn kwalunkwe applikazzjoni. Ħafna manifatturi jippermettu biss l-użu tagħhom fl-applikazzjonijiet nattivi tagħhom. Il-kamera default se tiftaħ.</string>
+
+    <string name="rec_service_msg">Privatezza: Il-vidjows kollha li tirreġistra se jiġu ssejvjati biss fuq it-tagħmir lokali tiegħek. L-applikazzjoni ma tagħmel backup tal-vidjows tiegħek (m\'għandha l-ebda konnessjoni mas-servers)\n\nL-app se tkompli taħdem fl-isfond (is-servizz ta\' tagħrif miksub li jidher fil-bar tan-notifika) jekk tibda reġistrazzjoni ġdida u terġa\' lura għall-iskrin tad-dar, taqleb għal app oħra, jew tissakkar it-telefon tiegħek biex tkun tista\' tkompli tirrekordja.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Jekk jogħġbok ipprova agħżel triq differenti (ħażna lokali tal-apparat)</string>
+
+    <string name="permissions_grant_storage_btn_text">Agħti ħażna tal-kitba</string>
+
+    <string name="donation_subs_text">Agħti donazzjoni kull xahar</string>
+    <string name="donation_any_amount_text">ebda reklamar għal kwalunkwe ammont</string>
+    <string name="donation_subs_any_amount_text">Ukoll, ir-reklamar jitneħħa kompletament meta tabbona għal kwalunkwe ammont.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Neħħi r-reklami għal dejjem b\'donazzjoni ta\' darba ta\' kwalunkwe ammont. Tista\' wkoll tagħti kwalunkwe ammont kull xahar biex tneħħi r-reklami</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Il-kamera f\'daqqa waqfet taħdem, reġgħet bdiet...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Ir-reġistrazzjoni tal-vidjo waqfet minħabba li l-kamera tal-apparat waqfet taħdem</string>
+
+    <string name="prefs_audio_bt_recording_text">Irreġistra l-awdjo minn apparat Bluetooth</string>
 </resources>

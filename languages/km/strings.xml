@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">ស្វ័យប្រវត្តិ</string>
     <string name="rec_fix_short_text">កែតម្រូវ</string>
     <string name="rec_fix_text">កែតម្រូវ</string>
-    <string name="rec_free_space_text">ឥតគិតថ្លៃ</string>
+    <string name="rec_free_space_text">មាន</string>
     <string name="rec_location_text">ទីតាំង</string>
     <string name="rec_gps_text">ប្រព័ន្ធ GPS</string>
     <string name="rec_network_text">សុទ្ធ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">ពេលវេលាត្រូវបានកំណត់កាលពីអតីតកាល</string>
     <string name="timer_service_notification_subtitle_text">សេវាកម្មកំណត់ម៉ោងសម្រាប់ការចាប់ផ្តើមថតវីដេអូដោយស្វ័យប្រវត្តិ</string>
     
+
+    <string name="timer_auto_start_every_day_text">ជា​រៀងរាល់ថ្ងៃ</string>
+    <string name="timer_auto_start_once">ម្តង</string>
+    <string name="timer_auto_start_dlg_type_title">កំណត់កម្មវិធីកំណត់ម៉ោងដើម្បីចាប់ផ្តើមថត</string>
+
+    <string name="prefs_zoom_out_desc_text">ដើម្បីចូលប្រើកាមេរ៉ា ultra wide-angle (lens) អ្នកអាចកំណត់កត្តាពង្រីក</string>
+    <string name="prefs_warning_notifications_sum_text">តម្រូវ​ឱ្យ​មាន​លទ្ធភាព​បង្ហាញ​សេវា​ថត​ផ្ទៃ​ខាង​ក្រោយ និង​ស្ថានភាព​នៅ​លើ​បន្ទះ​ជូនដំណឹង។ ចុចដើម្បីដាក់ស្នើ</string>
+    <string name="prefs_warning_notifications_text">ការអនុញ្ញាតការជូនដំណឹង</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">បង្ហាញការមើលកាមេរ៉ាជាមុននៅលើអេក្រង់ដើម</string>
+    <string name="prefs_ui_camera_preview_text">ការមើលកាមេរ៉ាជាមុន</string>orientation
+    <string name="photos_folder_name">រូបថត</string>
+    <string name="photos_count_one">រូបថត</string>
+    <string name="photos_count_other">រូបថត</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">បន្ថែមផ្លូវកាត់ (កម្មវិធីចាប់ផ្ដើម)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ដើម្បីចាប់ផ្តើម/បញ្ឈប់ការថតដោយមិនបើកអេក្រង់មេ</string>
+   
+    <string name="prefs_audio_priority_title">ផ្តល់អាទិភាពដល់សំឡេងចំពោះកម្មវិធីនេះ</string>
+    <string name="prefs_audio_priority_sum">ប្រសិនបើបើកដំណើរការ កម្មវិធីផ្សេងទៀតនឹងមិនអាចប្រើមីក្រូហ្វូនបានទេ។ ប្រសិនបើបិទ កម្មវិធីនេះប្រហែលជាមិនអាចថតសំឡេងបានទេ នៅពេលដែលកម្មវិធីជាច្រើនកំពុងដំណើរការដោយប្រើមីក្រូហ្វូន (Android មិនតែងតែអនុញ្ញាតឱ្យប្រើមីក្រូហ្វូនក្នុងពេលដំណាលគ្នាទេ)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">នៅពេលនេះ ការថតសំឡេងមិនអាចធ្វើទៅបានទេ ដោយសារមីក្រូហ្វូនត្រូវបានស្ទាក់ចាប់ដោយកម្មវិធីផ្សេង</string>
+
     
     
     
 
+    <string name="donate_text">បរិច្ចាគ</string>
+    <string name="donate_disable_ads_text">បរិច្ចាគ បិទការផ្សាយពាណិជ្ជកម្ម</string>
+    <string name="donate_dialog_item_no_ads_text">(គ្មានការផ្សាយពាណិជ្ជកម្ម)</string>
+    <string name="donation_dlg_limited_ads_message_text">ជាមួយនឹងការបរិច្ចាគទាប ការផ្សាយពាណិជ្ជកម្មត្រូវបានដកចេញសម្រាប់តែអេក្រង់មេប៉ុណ្ណោះ។</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">ក្រុមហ៊ុនផលិតឧបករណ៍ប្រហែលជាមិនផ្តល់សិទ្ធិចូលប្រើកាមេរ៉ាទាំងអស់ទេ ដូច្នេះខ្លះប្រហែលជាមិនបើកទេ។</string>
+
+    <string name="camera_msg_error_non_exposed_error">បរាជ័យក្នុងការបើកកាមេរ៉ាដែលបានជ្រើសរើស។ វាកើតឡើងដូច្នេះមិនមែនកាមេរ៉ាលាក់ទាំងអស់អាចប្រើដោយកម្មវិធីណាមួយនោះទេ។ ក្រុមហ៊ុនផលិតជាច្រើនអនុញ្ញាតឱ្យប្រើតែនៅក្នុងកម្មវិធីដើមរបស់ពួកគេប៉ុណ្ណោះ។ កាមេរ៉ាលំនាំដើមនឹងបើក។</string>
+
+    <string name="rec_service_msg">ឯកជនភាព៖ វីដេអូទាំងអស់ដែលអ្នកថតនឹងត្រូវបានរក្សាទុកតែនៅលើឧបករណ៍មូលដ្ឋានរបស់អ្នកប៉ុណ្ណោះ។ កម្មវិធីមិនបម្រុងទុកវីដេអូរបស់អ្នកទេ (មិនមានការតភ្ជាប់ទៅម៉ាស៊ីនមេទេ)\n\nកម្មវិធីនឹងបន្តដំណើរការក្នុងផ្ទៃខាងក្រោយ (សេវាកម្មខាងមុខដែលបង្ហាញក្នុងរបារជូនដំណឹង) ប្រសិនបើអ្នកចាប់ផ្តើមថតថ្មី ហើយត្រឡប់ទៅអេក្រង់ដើម ប្តូរទៅកម្មវិធីផ្សេងទៀត ឬចាក់សោទូរសព្ទរបស់អ្នក ដើម្បីអាចបន្តការថតបាន។</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">សូមព្យាយាមជ្រើសរើសផ្លូវផ្សេង (ឧបករណ៍ផ្ទុកក្នុងតំបន់)</string>
+
+    <string name="permissions_grant_storage_btn_text">ផ្តល់ការរក្សាទុកការសរសេរ</string>
+
+    <string name="donation_subs_text">បរិច្ចាគប្រចាំខែ</string>
+    <string name="donation_any_amount_text">គ្មានការផ្សាយពាណិជ្ជកម្មសម្រាប់ចំនួនទឹកប្រាក់ណាមួយឡើយ។</string>
+    <string name="donation_subs_any_amount_text">ដូចគ្នានេះផងដែរ ការផ្សាយពាណិជ្ជកម្មត្រូវបានដកចេញទាំងស្រុងនៅពេលដែលអ្នកជាវសម្រាប់ចំនួនទឹកប្រាក់ណាមួយ។</string>
+    <string name="donation_remove_ads_by_any_amount_text">លុបការផ្សាយពាណិជ្ជកម្មជារៀងរហូតជាមួយនឹងការបរិច្ចាគតែម្តងនៃចំនួនទឹកប្រាក់ណាមួយ។ អ្នកក៏អាចបរិច្ចាគបរិមាណណាមួយជារៀងរាល់ខែ ដើម្បីលុបការផ្សាយពាណិជ្ជកម្មផងដែរ។</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder៖ ស្រាប់តែកាមេរ៉ាឈប់ដំណើរការ ចាប់ផ្តើមឡើងវិញ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder៖ ការថតវីដេអូបានឈប់ ដោយសារកាមេរ៉ារបស់ឧបករណ៍ឈប់ដំណើរការ</string>
+
+    <string name="prefs_audio_bt_recording_text">ថតសំឡេងពីឧបករណ៍ប៊្លូធូស</string>
 </resources>

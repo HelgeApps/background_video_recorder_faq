@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">awto</string>
     <string name="rec_fix_short_text">Aron matul-id</string>
     <string name="rec_fix_text">Aron matul-id</string>
-    <string name="rec_free_space_text">Libre</string>
+    <string name="rec_free_space_text">Anaa</string>
     <string name="rec_location_text">Lokasyon</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">pukot</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Ang panahon gitakda sa nangagi</string>
     <string name="timer_service_notification_subtitle_text">Serbisyo sa timer alang sa awtomatikong pagsugod sa pagrekord sa video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Kada adlaw</string>
+    <string name="timer_auto_start_once">Kausa</string>
+    <string name="timer_auto_start_dlg_type_title">Itakda ang timer aron magsugod sa pagrekord</string>
+
+    <string name="prefs_zoom_out_desc_text">Aron ma-access ang ultra wide-angle nga camera (lens), mahimo nimong itakda ang zoom factor</string>
+    <string name="prefs_warning_notifications_sum_text">Gikinahanglan aron mapakita ang serbisyo sa pagrekord sa background ug mga kahimtang sa panel sa pagpahibalo. I-klik aron isumite</string>
+    <string name="prefs_warning_notifications_text">Pagtugot sa Pagpahibalo</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Ipakita ang preview sa camera sa home screen</string>
+    <string name="prefs_ui_camera_preview_text">Pag-preview sa Camera</string>orientation
+    <string name="photos_folder_name">Mga litrato</string>
+    <string name="photos_count_one">litrato</string>
+    <string name="photos_count_other">mga litrato</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Idugang ang shortcut (launcher)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Sa pagsugod/paghunong sa pagrekord nga walay paglansad sa main screen</string>
+   
+    <string name="prefs_audio_priority_title">Unaha ang audio sa kini nga app</string>
+    <string name="prefs_audio_priority_sum">Kung mahimo, ang ubang mga aplikasyon dili makagamit sa mikropono. Kung disabled, kini nga aplikasyon mahimong dili makahimo sa pagrekord sa audio kung daghang mga aplikasyon ang nagdagan gamit ang mikropono (Android dili kanunay motugot sa dungan nga paggamit sa mikropono)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Sa pagkakaron, ang pagrekord sa audio dili mahimo tungod kay ang mikropono gi-intercept sa laing aplikasyon</string>
+
     
     
     
 
+    <string name="donate_text">Pagdonar</string>
+    <string name="donate_disable_ads_text">Pag-donate, Pag-disable sa mga ad</string>
+    <string name="donate_dialog_item_no_ads_text">(walay ads)</string>
+    <string name="donation_dlg_limited_ads_message_text">Uban sa ubos nga mga donasyon ang mga ad gitangtang lamang para sa main screen</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Ang tiggama sa device mahimong dili makahatag og access sa tanan nga mga camera, mao nga ang uban mahimong dili moabli</string>
+
+    <string name="camera_msg_error_non_exposed_error">Napakyas sa pag-abli sa pinili nga camera. Nahitabo nga dili tanan nga mga tinago nga camera mahimong magamit sa bisan unsang aplikasyon. Daghang mga tiggama nagtugot lamang sa ilang paggamit sa ilang lumad nga mga aplikasyon. Ang default nga camera moabli.</string>
+
+    <string name="rec_service_msg">Pagkapribado: Ang tanan nga mga video nga imong girekord ma-save lamang sa imong lokal nga aparato. Ang aplikasyon wala mag-backup sa imong mga video (wala’y bisan unsang koneksyon sa mga server)\n\nAng app magpadayon sa pagdagan sa background (ang foreground nga serbisyo nga makita sa notification bar) kung magsugod ka og bag-ong recording ug mobalik sa home screen, mobalhin sa laing app, o i-lock ang imong telepono aron makapadayon sa pagrekord.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Palihug sulayi pagpili og lain nga agianan (lokal nga pagtipig sa aparato)</string>
+
+    <string name="permissions_grant_storage_btn_text">Ihatag ang pagtipig sa pagsulat</string>
+
+    <string name="donation_subs_text">Pagdonar kada bulan</string>
+    <string name="donation_any_amount_text">walay advertising sa bisan unsang kantidad</string>
+    <string name="donation_subs_any_amount_text">Usab, ang pag-anunsyo hingpit nga matangtang kung nag-subscribe ka sa bisan unsang kantidad.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Kuhaa ang mga ad hangtod sa hangtod gamit ang usa ka higayon nga donasyon sa bisan unsang kantidad. Mahimo ka usab nga magdonar bisan unsang kantidad matag bulan aron matangtang ang mga ad</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Ang camera kalit nga mihunong sa pagtrabaho, gi-restart ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Ang pagrekord sa video mihunong tungod kay ang camera sa device mihunong sa pagtrabaho</string>
+
+    <string name="prefs_audio_bt_recording_text">Pagrekord og audio gikan sa Bluetooth device</string>
 </resources>

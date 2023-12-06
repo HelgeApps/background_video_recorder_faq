@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Авто</string>
     <string name="rec_fix_short_text">Оңдоо</string>
     <string name="rec_fix_text">Оңдоо</string>
-    <string name="rec_free_space_text">бекер</string>
+    <string name="rec_free_space_text">жеткиликтүү</string>
     <string name="rec_location_text">Жайгашкан жер</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Убакыт өткөндө белгиленген</string>
     <string name="timer_service_notification_subtitle_text">Видео жазууну автоматтык түрдө баштоо үчүн таймер кызматы</string>
     
+
+    <string name="timer_auto_start_every_day_text">Күн сайын</string>
+    <string name="timer_auto_start_once">Бир жолу</string>
+    <string name="timer_auto_start_dlg_type_title">Жаздырууну баштоо үчүн таймерди коюңуз</string>
+
+    <string name="prefs_zoom_out_desc_text">Ультра кең бурчтуу камерага (объективге) кирүү үчүн, масштаб факторун орното аласыз</string>
+    <string name="prefs_warning_notifications_sum_text">Фондук жаздыруу кызматын жана статустарды эскертме панелинде көрсөтүү үчүн талап кылынат. Тапшыруу үчүн чыкылдатыңыз</string>
+    <string name="prefs_warning_notifications_text">Эскертме уруксаты</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Үй экранында камераны алдын ала көрүү</string>
+    <string name="prefs_ui_camera_preview_text">Камераны алдын ала көрүү</string>orientation
+    <string name="photos_folder_name">Сүрөттөр</string>
+    <string name="photos_count_one">сүрөт</string>
+    <string name="photos_count_other">сүрөттөр</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Жарлык кошуу (ишке киргизгич)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Негизги экранды иштетпестен жазууну баштоо/токтотууга</string>
+   
+    <string name="prefs_audio_priority_title">Бул колдонмого аудиого артыкчылык бериңиз</string>
+    <string name="prefs_audio_priority_sum">Эгер иштетилсе, башка колдонмолор микрофонду колдоно албайт. Эгер өчүрүлгөн болсо, бул колдонмо микрофонду колдонуп бир нече тиркемелер иштеп жатканда аудио жаздыра албай калышы мүмкүн (Android дайыма эле микрофонду бир эле учурда колдонууга уруксат бербейт)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Учурда микрофонду башка тиркеме кармап калгандыктан аудио жаздыруу мүмкүн эмес</string>
+
     
     
     
 
+    <string name="donate_text">Кайрымдуулук кылуу</string>
+    <string name="donate_disable_ads_text">Кайрымдуулук кылуу, жарнамаларды өчүрүү</string>
+    <string name="donate_dialog_item_no_ads_text">(жарнамалар жок)</string>
+    <string name="donation_dlg_limited_ads_message_text">Төмөнкү кайрымдуулук менен жарнамалар негизги экран үчүн гана алынып салынат</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Түзмөктүн өндүрүүчүсү бардык камераларга кирүү мүмкүнчүлүгүн бербеши мүмкүн, андыктан айрымдары ачылбай калышы мүмкүн</string>
+
+    <string name="camera_msg_error_non_exposed_error">Тандалган камера ачылбай койду. Ошентип, бардык жашыруун камераларды кандайдыр бир тиркеме колдоно албайт. Көптөгөн өндүрүүчүлөр аларды жергиликтүү тиркемелерде гана колдонууга уруксат беришет. Демейки камера ачылат.</string>
+
+    <string name="rec_service_msg">Купуялык: Жазган бардык видеолоруңуз жергиликтүү түзмөгүңүздө гана сакталат. Колдонмо видеолоруңуздун камдык көчүрмөсүн сактабайт (серверлерге эч кандай байланышы жок)\n\nЖазууну улантуу үчүн жаңы жазууну баштап жана үй экранына кайтсаңыз, башка колдонмого которулсаңыз же телефонуңузду кулпулап койсоңуз, колдонмо фондо иштей берет (билдирүү тилкесинде пайда болгон алдыңкы план кызматы).</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Башка жолду тандап көрүңүз (түзмөктүн жергиликтүү сактагычы)</string>
+
+    <string name="permissions_grant_storage_btn_text">Жазуу сактагычын бериңиз</string>
+
+    <string name="donation_subs_text">Ай сайын кайрымдуулук кылуу</string>
+    <string name="donation_any_amount_text">эч кандай суммага эч кандай жарнама</string>
+    <string name="donation_subs_any_amount_text">Ошондой эле, сиз каалаган суммага жазылсаңыз, жарнама толугу менен алынып салынат.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Каалаган суммадагы бир жолку кайрымдуулук менен жарнамаларды түбөлүккө алып салыңыз. Жарнактарды алып салуу үчүн ай сайын каалаган сумманы кайрымдуулук кыла аласыз</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Камера күтүлбөгөн жерден иштебей калды, кайра иштетилди...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Түзмөктүн камерасы иштебей калгандыктан, видео жаздыруу токтоду</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth түзмөгүнөн аудио жазыңыз</string>
 </resources>

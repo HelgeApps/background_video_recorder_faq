@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">အော်တို</string>
     <string name="rec_fix_short_text">ပြုပြင်ရန်</string>
     <string name="rec_fix_text">ပြုပြင်ရန်</string>
-    <string name="rec_free_space_text">အခမဲ့</string>
+    <string name="rec_free_space_text">ရရှိနိုင်ပါသည်။</string>
     <string name="rec_location_text">တည်နေရာ</string>
     <string name="rec_gps_text">ဂျီပီအက်စ်</string>
     <string name="rec_network_text">ပိုက်ကွန်</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">အချိန်က အရင်တုန်းက သတ်မှတ်ထားတယ်။</string>
     <string name="timer_service_notification_subtitle_text">ဗီဒီယိုရိုက်ကူးမှုကို အလိုအလျောက်စတင်ရန်အတွက် အချိန်တိုင်းကိရိယာဝန်ဆောင်မှု</string>
     
+
+    <string name="timer_auto_start_every_day_text">နေ့တိုင်း</string>
+    <string name="timer_auto_start_once">တခါ</string>
+    <string name="timer_auto_start_dlg_type_title">အသံဖမ်းခြင်းစတင်ရန် timer ကိုသတ်မှတ်ပါ။</string>
+
+    <string name="prefs_zoom_out_desc_text">အလွန်ကျယ်ပြန့်သော ကင်မရာ (မှန်ဘီလူး) ကို ဝင်ရောက်ရန်၊ zoom အချက်ကို သင် သတ်မှတ်နိုင်သည်။</string>
+    <string name="prefs_warning_notifications_sum_text">အကြောင်းကြားချက်ဘောင်တွင် နောက်ခံမှတ်တမ်းတင်ခြင်းဝန်ဆောင်မှုနှင့် အခြေအနေများကို ပြသနိုင်စေရန် လိုအပ်သည်။ တင်ပြရန် နှိပ်ပါ။</string>
+    <string name="prefs_warning_notifications_text">အသိပေးချက်ခွင့်ပြုချက်</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ပင်မစခရင်တွင် ကင်မရာအစမ်းကြည့်ရှုမှုကို ပြသပါ။</string>
+    <string name="prefs_ui_camera_preview_text">ကင်မရာအစမ်းကြည့်ရှုခြင်း။</string>orientation
+    <string name="photos_folder_name">ဓာတ်ပုံများ</string>
+    <string name="photos_count_one">ဓာတ်ပုံ</string>
+    <string name="photos_count_other">ဓာတ်ပုံများ</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">ဖြတ်လမ်းလင့်ခ် (ဖွင့်စက်) ထည့်ပါ</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ပင်မစခရင်ကို မဖွင့်ဘဲ အသံဖမ်းခြင်းကို စတင်/ရပ်ရန်</string>
+   
+    <string name="prefs_audio_priority_title">ဤအက်ပ်အတွက် အသံကို ဦးစားပေးပါ။</string>
+    <string name="prefs_audio_priority_sum">ဖွင့်ထားလျှင် အခြားအပလီကေးရှင်းများက မိုက်ခရိုဖုန်းကို သုံးနိုင်မည်မဟုတ်ပေ။ ပိတ်ထားပါက၊ ဤအပလီကေးရှင်းသည် မိုက်ခရိုဖုန်းကို အသုံးပြု၍ အပလီကေးရှင်းများစွာကို အသုံးပြုနေချိန်တွင် အသံကို မှတ်တမ်းတင်နိုင်မည်မဟုတ်ပါ (Android သည် မိုက်ခရိုဖုန်းကို အမြဲတမ်းတစ်ပြိုင်နက်အသုံးပြုခြင်းကို ခွင့်မပြုပါ)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">လောလောဆယ်တွင်၊ အခြားအပလီကေးရှင်းမှ မိုက်ခရိုဖုန်းကို ကြားဖြတ်ခံရသောကြောင့် အသံဖမ်းယူခြင်းကို မရနိုင်ပါ။</string>
+
     
     
     
 
+    <string name="donate_text">လှူပါ။</string>
+    <string name="donate_disable_ads_text">လှူဒါန်းပါ၊ ကြော်ငြာများကို ပိတ်ပါ။</string>
+    <string name="donate_dialog_item_no_ads_text">(ကြော်ငြာမပါ)</string>
+    <string name="donation_dlg_limited_ads_message_text">လှူဒါန်းမှုနည်းပါးသဖြင့် ကြော်ငြာများကို ပင်မစခရင်အတွက်သာ ဖယ်ရှားသည်။</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">စက်ပစ္စည်းထုတ်လုပ်သူသည် ကင်မရာအားလုံးကို အသုံးပြုခွင့်မပေးသောကြောင့် အချို့ကို ဖွင့်၍မရပါ။</string>
+
+    <string name="camera_msg_error_non_exposed_error">ရွေးချယ်ထားသောကင်မရာကို ဖွင့်၍မရပါ။ မည်သည့် အပလီကေးရှင်းမှ လျှို့ဝှက်ကင်မရာအားလုံးကို အသုံးမပြုနိုင်သောကြောင့် ဖြစ်ပေသည်။ ထုတ်လုပ်သူအများအပြားသည် ၎င်းတို့၏ မူလအက်ပ်လီကေးရှင်းများတွင်သာ ၎င်းတို့၏အသုံးပြုမှုကို ခွင့်ပြုသည်။ မူရင်းကင်မရာပွင့်လာပါမည်။</string>
+
+    <string name="rec_service_msg">ကိုယ်ရေးကိုယ်တာ- သင်ရိုက်ကူးထားသော ဗီဒီယိုအားလုံးကို သင့်စက်တွင်သာ သိမ်းဆည်းပါမည်။ အပလီကေးရှင်းသည် သင့်ဗီဒီယိုများကို မိတ္တူကူးမထားပါ (ဆာဗာများနှင့် မည်သည့်ချိတ်ဆက်မှုမှ မပါရှိပါ)\n\nအသံဖမ်းခြင်းအသစ်ကိုစတင်ပြီး ပင်မစခရင်သို့ပြန်သွားကာ၊ အခြားအက်ပ်သို့ပြောင်းရန် သို့မဟုတ် ဆက်လက်ရိုက်ကူးနိုင်ရန် သင့်ဖုန်းကို လော့ခ်ချပါက အက်ပ်သည် နောက်ခံတွင် ဆက်လက်လည်ပတ်နေမည် (သတိပေးချက်ဘားတွင်ပေါ်လာသည့် ရှေ့ဘက်ဝန်ဆောင်မှု)။</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">ကျေးဇူးပြု၍ အခြားလမ်းကြောင်းတစ်ခုကို ရွေးချယ်ရန် ကြိုးစားပါ (စက်တွင်းသိုလှောင်မှု)</string>
+
+    <string name="permissions_grant_storage_btn_text">သိမ်းဆည်းရေးသားခွင့် ပြုသည်။</string>
+
+    <string name="donation_subs_text">လစဉ်လှူဒါန်းပါသည်။</string>
+    <string name="donation_any_amount_text">မည်သည့်ပမာဏကိုမျှ ကြော်ငြာခြင်းမရှိပါ။</string>
+    <string name="donation_subs_any_amount_text">ထို့အပြင်၊ သင်သည် မည်သည့်ပမာဏအတွက်မဆို စာရင်းသွင်းသည့်အခါ ကြော်ငြာကို လုံးဝဖယ်ရှားပါသည်။</string>
+    <string name="donation_remove_ads_by_any_amount_text">မည်သည့်ပမာဏမဆို တစ်ကြိမ်လှူဒါန်းခြင်းဖြင့် ကြော်ငြာများကို ထာဝရဖယ်ရှားပါ။ ကြော်ငြာများကိုဖယ်ရှားရန် လစဉ်မည်သည့်ပမာဏကိုမဆို လှူဒါန်းနိုင်ပါသည်။</string>
+
+    <string name="msg_camera_died_text">နောက်ခံဗီဒီယိုမှတ်တမ်း- ကင်မရာသည် ရုတ်တရက် အလုပ်မလုပ်တော့ဘဲ ပြန်လည်စတင်သည်...</string>
+	<string name="camera_error_text">နောက်ခံဗီဒီယိုမှတ်တမ်း- စက်ပစ္စည်း၏ကင်မရာသည် အလုပ်မလုပ်သောကြောင့် ဗီဒီယိုရိုက်ကူးမှု ရပ်သွားပါသည်။</string>
+
+    <string name="prefs_audio_bt_recording_text">Bluetooth စက်မှ အသံကို ဖမ်းယူပါ။</string>
 </resources>

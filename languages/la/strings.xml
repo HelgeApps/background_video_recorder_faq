@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Ad corrigere</string>
     <string name="rec_fix_text">Ad corrigere</string>
-    <string name="rec_free_space_text">Liber</string>
+    <string name="rec_free_space_text">Praesto</string>
     <string name="rec_location_text">Locus</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Tempus praeteritum</string>
     <string name="timer_service_notification_subtitle_text">Timor muneris pro ipso initio video recording</string>
     
+
+    <string name="timer_auto_start_every_day_text">Quotidie</string>
+    <string name="timer_auto_start_once">Cum</string>
+    <string name="timer_auto_start_dlg_type_title">Set timor incipere memoria</string>
+
+    <string name="prefs_zoom_out_desc_text">Ut accedere ad cameram ultra late-angulum (lens), factor zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Requiritur ut in background recording servitii et status status in notificatione panel ostendere possit. Click to submittere</string>
+    <string name="prefs_warning_notifications_text">Notification Permission</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Ostende camera preview in domum screen</string>
+    <string name="prefs_ui_camera_preview_text">Camera Praevius</string>orientation
+    <string name="photos_folder_name">Photos</string>
+    <string name="photos_count_one">photo</string>
+    <string name="photos_count_other">photos</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Brevis addere (launcher)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Ut satus /stop memoria sine launching pelagus screen</string>
+   
+    <string name="prefs_audio_priority_title">Prioritize audio huic app</string>
+    <string name="prefs_audio_priority_sum">Si paraverit, aliae applicationes tortor ligula non poteris uti. Si debilis, haec applicatio audire non potest, cum multae applicationes currunt utendo tortor ligula (Android non semper patitur simultaneum usum tortoris)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">In momento, recordatio audio fieri non potest quia tortor ligula alia applicatione intercipitur</string>
+
     
     
     
 
+    <string name="donate_text">Donate</string>
+    <string name="donate_disable_ads_text">Donate, inactivare ads</string>
+    <string name="donate_dialog_item_no_ads_text">(non ads)</string>
+    <string name="donation_dlg_limited_ads_message_text">In inferioribus donationibus adscriptiones removentur solum ad principale velum</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Fabrica fabrica ad omnes cameras accedere non potest, ut quaedam non aperiant</string>
+
+    <string name="camera_msg_error_non_exposed_error">Aperiam delectus diam. Ita fit ut non omnes camerae occultae ullo applicatione uti possint. Multi artifices solum usum in applicationibus patriis admittunt. Defalta camera aperiet.</string>
+
+    <string name="rec_service_msg">Secretum: Omnia videos quae memoras solum in fabrica locali tuo servabuntur. Applicatio videos tergum tuum non (non habet aliquos hospites ad servientes)\n\nApp currere perget in curriculo (servitio anterioris quae in bar notificatione apparet) si novam tabulam incipias et ad velum domum redi, ad alium app vertas, vel telephonum claude ut recordationem continuare possis.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Aliquam aliam viam eligere experiri (repono fabrica loci)</string>
+
+    <string name="permissions_grant_storage_btn_text">Dona scribentes injustitiam repono</string>
+
+    <string name="donation_subs_text">Donate menstruam</string>
+    <string name="donation_any_amount_text">non vendo pro aliquo moles</string>
+    <string name="donation_subs_any_amount_text">Item, vendo totaliter tollitur cum pro qualibet quantitate subscribas.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Aufer praeconium in perpetuum cum uno tempore donationis alicuius quantitatis. Quantumlibet menstrua ad tollendum ads dare potes</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: De camera subito operari, restarted...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Video recording eo constiterit quod fabrica scriptor camera constiterit opus</string>
+
+    <string name="prefs_audio_bt_recording_text">Record audio ex Bluetooth fabrica</string>
 </resources>

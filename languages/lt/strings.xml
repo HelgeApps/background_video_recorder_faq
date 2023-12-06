@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Automatinis</string>
     <string name="rec_fix_short_text">Pataisyti</string>
     <string name="rec_fix_text">Pataisyti</string>
-    <string name="rec_free_space_text">Laisvas</string>
+    <string name="rec_free_space_text">Yra</string>
     <string name="rec_location_text">Vieta</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Grynasis</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Laikas buvo nustatytas praeityje</string>
     <string name="timer_service_notification_subtitle_text">Laikmačio paslauga, skirta automatiškai pradėti vaizdo įrašymą</string>
     
+
+    <string name="timer_auto_start_every_day_text">Kiekvieną dieną</string>
+    <string name="timer_auto_start_once">Kartą</string>
+    <string name="timer_auto_start_dlg_type_title">Norėdami pradėti įrašymą, nustatykite laikmatį</string>
+
+    <string name="prefs_zoom_out_desc_text">Norėdami pasiekti itin plataus kampo fotoaparatą (objektyvą), galite nustatyti priartinimo koeficientą</string>
+    <string name="prefs_warning_notifications_sum_text">Būtina, kad pranešimų skydelyje būtų galima rodyti fono įrašymo paslaugą ir būsenas. Spustelėkite, kad pateiktumėte</string>
+    <string name="prefs_warning_notifications_text">Pranešimo leidimas</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Rodyti fotoaparato peržiūrą pagrindiniame ekrane</string>
+    <string name="prefs_ui_camera_preview_text">Kameros peržiūra</string>orientation
+    <string name="photos_folder_name">Nuotraukos</string>
+    <string name="photos_count_one">nuotrauka</string>
+    <string name="photos_count_other">nuotraukos</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Pridėti nuorodą (paleidimo priemonę)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Norėdami pradėti /sustabdyti įrašymą nepaleidus pagrindinio ekrano</string>
+   
+    <string name="prefs_audio_priority_title">Suteikite pirmenybę garsui šiai programai</string>
+    <string name="prefs_audio_priority_sum">Jei įjungta, kitos programos negalės naudoti mikrofono. Jei išjungta, ši programa gali negalėti įrašyti garso, kai naudojant mikrofoną veikia kelios programos („Android“ ne visada leidžia vienu metu naudoti mikrofoną)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Šiuo metu garso įrašymas negalimas, nes mikrofoną perima kita programa</string>
+
     
     
     
 
+    <string name="donate_text">Paaukoti</string>
+    <string name="donate_disable_ads_text">Aukokite, išjunkite skelbimus</string>
+    <string name="donate_dialog_item_no_ads_text">(nėra skelbimų)</string>
+    <string name="donation_dlg_limited_ads_message_text">Su mažesnėmis aukomis skelbimai pašalinami tik pagrindiniame ekrane</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Įrenginio gamintojas gali nesuteikti prieigos prie visų kamerų, todėl kai kurios gali neatsidaryti</string>
+
+    <string name="camera_msg_error_non_exposed_error">Nepavyko atidaryti pasirinktos kameros. Taip atsitinka, kad ne visas paslėptas kameras gali naudoti bet kuri programa. Daugelis gamintojų leidžia juos naudoti tik savo vietinėse programose. Bus atidaryta numatytoji kamera.</string>
+
+    <string name="rec_service_msg">Privatumas: visi įrašyti vaizdo įrašai bus išsaugoti tik jūsų vietiniame įrenginyje. Programa nekuria jūsų vaizdo įrašų atsarginės kopijos (neturi jokių ryšių su serveriais)\n\nPrograma ir toliau veiks fone (pranešimų juostoje rodoma priekinio plano paslauga), jei pradėsite naują įrašymą ir grįšite į pagrindinį ekraną, perjungsite į kitą programą arba užrakinsite telefoną, kad galėtumėte tęsti įrašymą.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Pabandykite pasirinkti kitą kelią (įrenginio vietinę atmintį)</string>
+
+    <string name="permissions_grant_storage_btn_text">Suteikite rašymo saugyklą</string>
+
+    <string name="donation_subs_text">Aukokite kas mėnesį</string>
+    <string name="donation_any_amount_text">jokios reklamos už jokią sumą</string>
+    <string name="donation_subs_any_amount_text">Be to, reklama visiškai pašalinama, kai užsiprenumeruojate bet kokią sumą.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Visam laikui pašalinkite skelbimus, paaukodami vienkartinę bet kokią sumą. Taip pat galite kas mėnesį paaukoti bet kokią sumą, kad pašalintumėte skelbimus</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: fotoaparatas staiga nustojo veikti, paleido iš naujo...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: vaizdo įrašymas sustabdytas, nes nustojo veikti įrenginio kamera</string>
+
+    <string name="prefs_audio_bt_recording_text">Įrašykite garsą iš „Bluetooth“ įrenginio</string>
 </resources>

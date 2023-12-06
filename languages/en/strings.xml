@@ -47,6 +47,10 @@
     <string name="dialog_select_camera_text">Select camera</string>
     <string name="dialog_unlock_video_text">Cancel locking current video from overwriting?</string>
 
+    <string name="donate_text">Donate</string>
+    <string name="donate_disable_ads_text">Donate, Disable ads</string>
+    <string name="donate_dialog_item_no_ads_text">(no ads)</string>
+    <string name="donation_dlg_limited_ads_message_text">With lower donations the ads are removed only for the main screen</string>
     <string name="donate_success_thanks_msg_text">Thank you so much for support!</string>
     <string name="donation_dlg_has_ads_text">If you want ad-free app the donation has to be or more</string>
     <string name="donation_dlg_no_ads_text">You are free from ads.</string>
@@ -225,7 +229,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">@string/rec_fix_text</string>
     <string name="rec_fix_text">Fix</string>
-    <string name="rec_free_space_text">Free</string> <!-- it's about storage space, use "available" word for translation! -->
+    <string name="rec_free_space_text">Available</string> <!-- it's about storage space, use "available" word for translation! -->
     <string name="rec_location_text">Location</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">NET</string>
@@ -302,12 +306,20 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Time was set in the past</string>
     <string name="timer_service_notification_subtitle_text">Timer service for automatic start of video recording</string>
 
+    <string name="timer_auto_start_every_day_text">Every day</string>
+    <string name="timer_auto_start_once">Once</string>
+    <string name="timer_auto_start_dlg_type_title">Set timer to start recording</string>
+
+
     <!-- aren't translatable: -->
 
-    <string name="app_name_support" translatable="false">Background Video Recorder Support. %1$s, Android %2$s, API %3$d</string>
+    <string name="app_name_support" translatable="false">Background Video Recorder Support</string>
+    <string name="app_device_info_support" translatable="false">%1$s, Android %2$s, API %3$d</string>
     <string name="app_name_short_spaced" translatable="false">@string/app_name</string>
 
+    <string name="ph_2s" translatable="false">%1$s%2$s</string>
     <string name="ph_comma_2s" translatable="false">%1$s, %2$s</string>
+    <string name="ph_dot_2s" translatable="false">%1$s. %2$s</string>
     <string name="ph_comma_3s" translatable="false">%1$s, %2$s, %3$s</string>
     <string name="ph_space_2s" translatable="false">%1$s %2$s</string>
     <string name="ph_space_3s" translatable="false">%1$s %2$s %3$s</string>
@@ -324,7 +336,7 @@
     <string name="ph_file_size" translatable="false">%1$s (%2$s)</string>
 
     <string name="format_number_digit" translatable="false">#%1$d</string>
-    <string name="format_zoom_x" translatable="false">%1$.1fX</string>
+    <string name="format_zoom_x" translatable="false">%1$.1fx</string>
     <string name="format_value_one_decimal" translatable="false">%1$.1f</string>
     <string name="format_float_x_value" translatable="false">%1$.1fx</string>
 
@@ -333,6 +345,7 @@
     <string name="videos_back_folder_item_text" translatable="false">…</string>
 
     <string name="videos_file_item_info" translatable="false">%1$s, %2$s, %3$dx%4$d</string>
+    <string name="image_file_item_info" translatable="false">%1$s, %2$dx%3$d</string>
     <string name="videos_file_item_info_no_res" translatable="false">%1$s, %2$s</string>
 
     <string name="cd_rec_videos_btn" translatable="false">App recorded videos button</string>
@@ -353,5 +366,45 @@
     <string name="donate_sub_3" translatable="false">&#129297;</string>
     <string name="donate_sub_4" translatable="false">&#128525;</string>
 
+    <string name="prefs_zoom_out_desc_text">To access the ultra wide-angle camera (lens), you can set the zoom factor</string>
+    <string name="prefs_warning_notifications_sum_text">Required to be able to display the background recording service and statuses on the notification panel. Tap to grant it</string>
+    <string name="prefs_warning_notifications_text">Notification permission</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Show camera preview on home screen</string>
+    <string name="prefs_ui_camera_preview_text">Camera Preview</string>orientation
+    <string name="photos_folder_name">Photos</string>
+    <string name="photos_count_one">photo</string>
+    <string name="photos_count_other">photos</string>
+    <string name="prefs_shortcut_rec_start_launcher_title">Add shortcut (launcher)</string>
+    
 	
+    <string name="prefs_shortcut_rec_start_launcher_sum">To start/stop recording without launching the main screen</string>
+
+    <string name="prefs_audio_priority_title">Prioritize audio to this app</string>
+    <string name="prefs_audio_priority_sum">If enabled, other applications will not be able to use the microphone. If disabled, this application may not be able to record audio when multiple applications are running using the microphone (Android does not always allow simultaneous use of the microphone)</string>
+    <string name="rec_audio_silence_text">At the moment, audio recording is not possible because the microphone is intercepted by another application</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">The device manufacturer may not provide access to all cameras, so some may not open</string>
+
+    <string name="camera_msg_error_non_exposed_error">Failed to open the selected camera. It so happens that not all hidden cameras can be used by any application. Many manufacturers only allow their use in their native applications. The default camera will open.</string>
+
+    <string name="rec_service_msg">Privacy: All videos you record will be saved only on your local device. The application does not backup your videos (does not have any connections to servers)\n\nThe app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app, or lock your phone to be able to continue recording.</string>
+
+    
+
+    
+
+    <string name="permissions_saf_incorrect_path">Please try to select a different path (device local storage)</string>
+
+    <string name="permissions_grant_storage_btn_text">Grant write storage</string>
+
+    <string name="donation_subs_text">Donate monthly</string>
+    <string name="donation_any_amount_text">no advertising for any amount</string>
+    <string name="donation_subs_any_amount_text">Also, advertising is completely removed when you subscribe for any amount.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Remove ads forever with a one-time donation of any amount. You can also donate any amount monthly to remove ads</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: The camera suddenly stopped working, restarted...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Video recording has stopped because the device\'s camera has stopped working</string>
+
+    <string name="prefs_audio_bt_recording_text">Record audio from a Bluetooth device</string>
 </resources>

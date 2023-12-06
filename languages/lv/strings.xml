@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Izlabot</string>
     <string name="rec_fix_text">Izlabot</string>
-    <string name="rec_free_space_text">Bezmaksas</string>
+    <string name="rec_free_space_text">Pieejams</string>
     <string name="rec_location_text">Atrašanās vieta</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Tīkls</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Laiks tika noteikts pagātnē</string>
     <string name="timer_service_notification_subtitle_text">Taimera pakalpojums automātiskai video ierakstīšanas uzsākšanai</string>
     
+
+    <string name="timer_auto_start_every_day_text">Katru dienu</string>
+    <string name="timer_auto_start_once">Vienreiz</string>
+    <string name="timer_auto_start_dlg_type_title">Iestatiet taimeri, lai sāktu ierakstīšanu</string>
+
+    <string name="prefs_zoom_out_desc_text">Lai piekļūtu īpaši platleņķa kamerai (objektīvam), varat iestatīt tālummaiņas koeficientu</string>
+    <string name="prefs_warning_notifications_sum_text">Nepieciešams, lai paziņojumu panelī varētu parādīt fona ierakstīšanas pakalpojumu un statusus. Noklikšķiniet, lai iesniegtu</string>
+    <string name="prefs_warning_notifications_text">Paziņojumu atļauja</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Rādīt kameras priekšskatījumu sākuma ekrānā</string>
+    <string name="prefs_ui_camera_preview_text">Kameras priekšskatījums</string>orientation
+    <string name="photos_folder_name">Fotogrāfijas</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">fotogrāfijas</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Pievienot saīsni (palaidējs)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Lai sāktu/pārtrauktu ierakstīšanu, nepalaižot galveno ekrānu</string>
+   
+    <string name="prefs_audio_priority_title">Piešķiriet šai lietotnei audio prioritāti</string>
+    <string name="prefs_audio_priority_sum">Ja tas ir iespējots, citas programmas nevarēs izmantot mikrofonu. Ja šī lietojumprogramma ir atspējota, šī lietojumprogramma, iespējams, nevarēs ierakstīt audio, ja vairākas lietojumprogrammas darbojas, izmantojot mikrofonu (Android ne vienmēr ļauj vienlaikus izmantot mikrofonu)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Šobrīd audio ierakstīšana nav iespējama, jo mikrofonu pārtver cita aplikācija</string>
+
     
     
     
 
+    <string name="donate_text">Ziedot</string>
+    <string name="donate_disable_ads_text">Ziedot, atspējot reklāmas</string>
+    <string name="donate_dialog_item_no_ads_text">(bez reklāmām)</string>
+    <string name="donation_dlg_limited_ads_message_text">Ar mazākiem ziedojumiem reklāmas tiek noņemtas tikai galvenajam ekrānam</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Ierīces ražotājs, iespējams, nenodrošina piekļuvi visām kamerām, tāpēc dažas var netikt atvērtas</string>
+
+    <string name="camera_msg_error_non_exposed_error">Neizdevās atvērt atlasīto kameru. Gadās, ka ne visas slēptās kameras var izmantot neviena lietojumprogramma. Daudzi ražotāji atļauj to izmantošanu tikai savās vietējās lietojumprogrammās. Tiks atvērta noklusējuma kamera.</string>
+
+    <string name="rec_service_msg">Konfidencialitāte: visi jūsu ierakstītie videoklipi tiks saglabāti tikai jūsu vietējā ierīcē. Lietojumprogramma nedublē jūsu videoklipus (tai nav savienojumu ar serveriem)\n\nLietojumprogramma turpinās darboties fonā (paziņojumu joslā redzamais priekšplāna pakalpojums), ja sāksit jaunu ierakstu un atgriezīsities sākuma ekrānā, pārslēdzaties uz citu lietotni vai bloķēsit tālruni, lai varētu turpināt ierakstīšanu.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Lūdzu, mēģiniet atlasīt citu ceļu (ierīces lokālā krātuve)</string>
+
+    <string name="permissions_grant_storage_btn_text">Piešķirt rakstīšanas krātuvi</string>
+
+    <string name="donation_subs_text">Ziedojiet katru mēnesi</string>
+    <string name="donation_any_amount_text">nekādas reklāmas ne par kādu summu</string>
+    <string name="donation_subs_any_amount_text">Turklāt, abonējot par jebkuru summu, reklāma tiek pilnībā noņemta.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Noņemiet reklāmas uz visiem laikiem, veicot jebkādas summas vienreizēju ziedojumu. Varat arī ziedot jebkuru summu mēnesī, lai noņemtu reklāmas</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: kamera pēkšņi pārstāja darboties, tika restartēta...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: video ierakstīšana ir pārtraukta, jo ierīces kamera ir pārtraukusi darboties</string>
+
+    <string name="prefs_audio_bt_recording_text">Ierakstiet audio no Bluetooth ierīces</string>
 </resources>

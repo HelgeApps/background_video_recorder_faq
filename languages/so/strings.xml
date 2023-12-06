@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Baabuur</string>
     <string name="rec_fix_short_text">Si loo saxo</string>
     <string name="rec_fix_text">Si loo saxo</string>
-    <string name="rec_free_space_text">Bilaash</string>
+    <string name="rec_free_space_text">La heli karo</string>
     <string name="rec_location_text">Goobta</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Waqti ayaa la dhigay waqti hore</string>
     <string name="timer_service_notification_subtitle_text">Adeegga saacada ee bilawga tooska ah ee duubista fiidiyowga</string>
     
+
+    <string name="timer_auto_start_every_day_text">Maalin walba</string>
+    <string name="timer_auto_start_once">Mar</string>
+    <string name="timer_auto_start_dlg_type_title">U deji saacad si aad u bilowdo duubista</string>
+
+    <string name="prefs_zoom_out_desc_text">Si aad u gasho kamarada xagal-ballaaran (lens), waxaad dejin kartaa qodobka soo-dhoweynta</string>
+    <string name="prefs_warning_notifications_sum_text">Loo baahan yahay si uu u awoodo inuu ku soo bandhigo adeegga duubista taariikhda iyo heerarka guddiga ogeysiiska. Guji si aad u gudbiso</string>
+    <string name="prefs_warning_notifications_text">Ogolaanshaha Ogeysiinta</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Ku muuji kamarada horudhaca shaashadda guriga</string>
+    <string name="prefs_ui_camera_preview_text">Muuqaalka kamarada</string>orientation
+    <string name="photos_folder_name">Sawirro</string>
+    <string name="photos_count_one">sawir</string>
+    <string name="photos_count_other">sawiro</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ku dar soo-bandhig (furaha)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Si aad u bilowdo/joojiso duubista adiga oo aan bilaabin shaashadda weyn</string>
+   
+    <string name="prefs_audio_priority_title">Mudnaanta u sii codka abkan</string>
+    <string name="prefs_audio_priority_sum">Haddii la furo, codsiyada kale ma awoodi doonaan inay isticmaalaan makarafoonka. Haddii uu naafo yahay, codsigani waxa laga yaabaa in aanuu awoodin in uu duubo codka marka codsiyo badan ay ku socdaan isticmaalka makarafoonka (Android mar walba ma ogola isticmaalka isku mar ee makarafoonka)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Waqtigan xaadirka ah, duubista maqalka suurtagal ma aha sababtoo ah makarafoonka waxaa dhexda u galay codsi kale</string>
+
     
     
     
 
+    <string name="donate_text">Ku deeq</string>
+    <string name="donate_disable_ads_text">Ku deeq, jooji xayeysiisyada</string>
+    <string name="donate_dialog_item_no_ads_text">(Xayeysiis ma jiro)</string>
+    <string name="donation_dlg_limited_ads_message_text">Deeqaha hoose ee xayeysiisyada waxaa laga saaray kaliya shaashadda weyn</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Soo saaraha qalabku waxa laga yaabaa in aanu ku siin gelitaanka kamaradaha oo dhan, markaa qaar baa laga yaabaa in aanay furmin</string>
+
+    <string name="camera_msg_error_non_exposed_error">Ku guuldareystay in la furo kamarada la doortay. Waxay dhacdaa in dhammaan kamaradaha qarsoon aan loo isticmaali karin codsi kasta. Soo-saarayaal badan ayaa oggol oo kaliya isticmaalkooda codsiyadooda hooyo. Kamarada caadiga ah ayaa furmi doonta.</string>
+
+    <string name="rec_service_msg">Qarsoodi: Dhammaan fiidiyowyada aad duubto waxa lagu kaydin doonaa oo keliya qalabka degaankaaga. Codsiga ma kaydiyo fiidiyowyadaada (ma laha wax xiriir ah server-yada)\n\nApp-ku wuxuu ku sii socon doonaa gadaal (adeegga hore ee ka muuqda barta ogeysiiska) haddii aad bilowdo duubid cusub oo aad ku soo laabato shaashadda guriga, u beddelato app kale, ama aad xidho taleefankaaga si aad awood ugu yeelatid inaad sii wadato duubista.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Fadlan isku day inaad doorato waddo kale (qalabka kaydinta gudaha)</string>
+
+    <string name="permissions_grant_storage_btn_text">Deeq qor kaydinta</string>
+
+    <string name="donation_subs_text">Ku deeq bishiiba</string>
+    <string name="donation_any_amount_text">wax xayaysiis ah malaha xad kasta</string>
+    <string name="donation_subs_any_amount_text">Sidoo kale, xayaysiisku gabi ahaanba waa meesha laga saarayaa marka aad ku biirto qadar kasta.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Ka saar xayeysiisyada waligaa adigoo ku deeqaya hal mar oo ah qadar kasta. Waxaad sidoo kale ku deeqi kartaa qaddar kasta bishii si aad meesha uga saarto xayeysiisyada</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamaradu si lama filaan ah ayay shaqadii u joojisay, dib ayay u bilowday...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Duubista fiidiyowgu waa joogsatay sababtoo ah kamarada aaladda ayaa shaqada joojisay</string>
+
+    <string name="prefs_audio_bt_recording_text">Ka duub codka qalabka Bluetooth-ka</string>
 </resources>

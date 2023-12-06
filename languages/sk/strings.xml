@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Automat</string>
     <string name="rec_fix_short_text">Opraviť</string>
     <string name="rec_fix_text">Opraviť</string>
-    <string name="rec_free_space_text">zadarmo</string>
+    <string name="rec_free_space_text">Dostupné</string>
     <string name="rec_location_text">Miesto</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Čas bol nastavený v minulosti</string>
     <string name="timer_service_notification_subtitle_text">Služba časovača pre automatické spustenie nahrávania videa</string>
     
+
+    <string name="timer_auto_start_every_day_text">Každý deň</string>
+    <string name="timer_auto_start_once">Raz</string>
+    <string name="timer_auto_start_dlg_type_title">Nastavte časovač na spustenie nahrávania</string>
+
+    <string name="prefs_zoom_out_desc_text">Ak chcete získať prístup k ultraširokouhlému fotoaparátu (objektívu), môžete nastaviť faktor priblíženia</string>
+    <string name="prefs_warning_notifications_sum_text">Vyžaduje sa, aby bolo možné zobraziť službu nahrávania na pozadí a stavy na paneli oznámení. Kliknutím odošlete</string>
+    <string name="prefs_warning_notifications_text">Povolenie na oznámenie</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Zobraziť ukážku fotoaparátu na domovskej obrazovke</string>
+    <string name="prefs_ui_camera_preview_text">Ukážka fotoaparátu</string>orientation
+    <string name="photos_folder_name">Fotografie</string>
+    <string name="photos_count_one">fotografiu</string>
+    <string name="photos_count_other">fotografie</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Pridať odkaz (spúšťač)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Spustenie/zastavenie nahrávania bez spustenia hlavnej obrazovky</string>
+   
+    <string name="prefs_audio_priority_title">Uprednostnite zvuk pre túto aplikáciu</string>
+    <string name="prefs_audio_priority_sum">Ak je povolené, iné aplikácie nebudú môcť používať mikrofón. Ak je zakázaná, táto aplikácia nemusí byť schopná nahrávať zvuk, keď je spustených viacero aplikácií pomocou mikrofónu (Android nie vždy umožňuje súčasné použitie mikrofónu)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Nahrávanie zvuku momentálne nie je možné, pretože mikrofón zachytáva iná aplikácia</string>
+
     
     
     
 
+    <string name="donate_text">Darovať</string>
+    <string name="donate_disable_ads_text">Darovať, zakázať reklamy</string>
+    <string name="donate_dialog_item_no_ads_text">(žiadne reklamy)</string>
+    <string name="donation_dlg_limited_ads_message_text">Pri nižších daroch sa reklamy odstránia iba z hlavnej obrazovky</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Výrobca zariadenia nemusí poskytnúť prístup ku všetkým fotoaparátom, takže niektoré sa nemusia otvoriť</string>
+
+    <string name="camera_msg_error_non_exposed_error">Nepodarilo sa otvoriť vybratú kameru. Stáva sa, že nie všetky skryté kamery môže používať žiadna aplikácia. Mnoho výrobcov umožňuje ich použitie iba vo svojich natívnych aplikáciách. Otvorí sa predvolená kamera.</string>
+
+    <string name="rec_service_msg">Ochrana osobných údajov: Všetky videá, ktoré nahráte, sa uložia iba do vášho lokálneho zariadenia. Aplikácia nezálohuje vaše videá (nemá žiadne pripojenia k serverom)\n\nAplikácia bude naďalej bežať na pozadí (služba v popredí, ktorá sa zobrazuje na paneli upozornení), ak spustíte nové nahrávanie a vrátite sa na domovskú obrazovku, prepnete do inej aplikácie alebo uzamknete telefón, aby ste mohli pokračovať v nahrávaní.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Skúste vybrať inú cestu (miestne úložisko zariadenia)</string>
+
+    <string name="permissions_grant_storage_btn_text">Udeliť ukladací priestor pre zápis</string>
+
+    <string name="donation_subs_text">Darujte mesačne</string>
+    <string name="donation_any_amount_text">žiadna reklama za akúkoľvek sumu</string>
+    <string name="donation_subs_any_amount_text">Okrem toho je reklama úplne odstránená, keď si predplatíte akúkoľvek sumu.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Odstráňte reklamy navždy pomocou jednorazového daru akejkoľvek sumy. Môžete tiež darovať akúkoľvek sumu mesačne na odstránenie reklám</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera náhle prestala fungovať, reštartovala sa...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Nahrávanie videa sa zastavilo, pretože kamera zariadenia prestala fungovať</string>
+
+    <string name="prefs_audio_bt_recording_text">Nahrajte zvuk zo zariadenia Bluetooth</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Outo</string>
     <string name="rec_fix_short_text">Om reg te maak</string>
     <string name="rec_fix_text">Om reg te maak</string>
-    <string name="rec_free_space_text">Vry</string>
+    <string name="rec_free_space_text">Beskikbaar</string>
     <string name="rec_location_text">Ligging</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Netto</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Tyd is in die verlede vasgestel</string>
     <string name="timer_service_notification_subtitle_text">Timer diens vir outomatiese begin van video-opname</string>
     
+
+    <string name="timer_auto_start_every_day_text">Elke dag</string>
+    <string name="timer_auto_start_once">Een keer</string>
+    <string name="timer_auto_start_dlg_type_title">Stel timer om opname te begin</string>
+
+    <string name="prefs_zoom_out_desc_text">Om toegang tot die ultrawyehoekkamera (lens) te kry, kan jy die zoomfaktor stel</string>
+    <string name="prefs_warning_notifications_sum_text">Vereis om die agtergrondopnamediens en statusse op die kennisgewingpaneel te kan vertoon. Klik om in te dien</string>
+    <string name="prefs_warning_notifications_text">Kennisgewing toestemming</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Wys kameravoorskou op tuisskerm</string>
+    <string name="prefs_ui_camera_preview_text">Kameravoorskou</string>orientation
+    <string name="photos_folder_name">Foto\'s</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">foto\'s</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Voeg kortpad (lanseerder) by</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Om opname te begin/stop sonder om die hoofskerm te begin</string>
+   
+    <string name="prefs_audio_priority_title">Prioritiseer klank na hierdie toepassing</string>
+    <string name="prefs_audio_priority_sum">As dit geaktiveer is, sal ander toepassings nie die mikrofoon kan gebruik nie. As dit gedeaktiveer is, kan hierdie toepassing dalk nie oudio opneem wanneer verskeie toepassings met die mikrofoon loop nie (Android laat nie altyd gelyktydige gebruik van die mikrofoon toe nie)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Op die oomblik is oudio-opname nie moontlik nie omdat die mikrofoon deur \'n ander toepassing onderskep word</string>
+
     
     
     
 
+    <string name="donate_text">skenk</string>
+    <string name="donate_disable_ads_text">Skenk, deaktiveer advertensies</string>
+    <string name="donate_dialog_item_no_ads_text">(geen advertensies)</string>
+    <string name="donation_dlg_limited_ads_message_text">Met laer skenkings word die advertensies slegs vir die hoofskerm verwyder</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Die toestelvervaardiger sal dalk nie toegang tot alle kameras verskaf nie, so sommige sal dalk nie oopmaak nie</string>
+
+    <string name="camera_msg_error_non_exposed_error">Kon nie die geselekteerde kamera oopmaak nie. Dit gebeur so dat nie alle versteekte kameras deur enige toepassing gebruik kan word nie. Baie vervaardigers laat hul gebruik slegs in hul eie toepassings toe. Die verstekkamera sal oopmaak.</string>
+
+    <string name="rec_service_msg">Privaatheid: Alle video\'s wat jy opneem, sal slegs op jou plaaslike toestel gestoor word. Die toepassing rugsteun nie u video\'s nie (het geen verbindings met bedieners nie)\n\nDie toepassing sal voortgaan om in die agtergrond te loop (die voorgronddiens wat in die kennisgewingbalk verskyn) as jy \'n nuwe opname begin en terugkeer na die tuisskerm, oorskakel na \'n ander toepassing, of jou foon sluit om te kan voortgaan met opname.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Probeer asseblief om \'n ander pad te kies (toestel se plaaslike berging)</string>
+
+    <string name="permissions_grant_storage_btn_text">Gee skryfberging toe</string>
+
+    <string name="donation_subs_text">Skenk maandeliks</string>
+    <string name="donation_any_amount_text">geen advertensie vir enige bedrag nie</string>
+    <string name="donation_subs_any_amount_text">Advertensies word ook heeltemal verwyder wanneer jy vir enige bedrag inteken.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Verwyder advertensies vir altyd met \'n eenmalige skenking van enige bedrag. Jy kan ook enige bedrag maandeliks skenk om advertensies te verwyder</string>
+
+    <string name="msg_camera_died_text">Agtergrondvideoopnemer: Die kamera het skielik opgehou werk, herbegin ...</string>
+	<string name="camera_error_text">Agtergrondvideoopnemer: Video-opname het gestop omdat die toestel se kamera ophou werk het</string>
+
+    <string name="prefs_audio_bt_recording_text">Neem oudio op vanaf \'n Bluetooth-toestel</string>
 </resources>

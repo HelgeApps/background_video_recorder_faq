@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">אַוטאָ</string>
     <string name="rec_fix_short_text">צו ריכטיק</string>
     <string name="rec_fix_text">צו ריכטיק</string>
-    <string name="rec_free_space_text">פרייַ</string>
+    <string name="rec_free_space_text">בנימצא</string>
     <string name="rec_location_text">אָרט</string>
     <string name="rec_gps_text">גפּס</string>
     <string name="rec_network_text">נעץ</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">צייט איז געווען באַשטימט אין דער פאַרגאַנגענהייט</string>
     <string name="timer_service_notification_subtitle_text">טייַמער דינסט פֿאַר אָטאַמאַטיק אָנהייב פון ווידעא רעקאָרדינג</string>
     
+
+    <string name="timer_auto_start_every_day_text">יעדן טאג</string>
+    <string name="timer_auto_start_once">אַמאָל</string>
+    <string name="timer_auto_start_dlg_type_title">שטעלן טייַמער צו אָנהייבן רעקאָרדינג</string>
+
+    <string name="prefs_zoom_out_desc_text">צו אַקסעס די הינטער ברייט-ווינקל אַפּאַראַט (אָביעקטיוו), איר קענען שטעלן די פארגרעסער פאַקטאָר</string>
+    <string name="prefs_warning_notifications_sum_text">פארלאנגט צו קענען צו ווייַזן די הינטערגרונט רעקאָרדינג דינסט און סטאַטוסעס אויף די אָנזאָג טאַפליע. דריקט צו פאָרלייגן</string>
+    <string name="prefs_warning_notifications_text">אָנזאָג דערלויבעניש</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">ווייַזן די פאָרויסיקע ווייַזונג פון די אַפּאַראַט אויף די היים פאַרשטעלן</string>
+    <string name="prefs_ui_camera_preview_text">קאַמעראַ פאָרויסיקע ווייַזונג</string>orientation
+    <string name="photos_folder_name">פאָטאָס</string>
+    <string name="photos_count_one">פאָטאָ</string>
+    <string name="photos_count_other">פאָטאָס</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">לייג דורכוועג (לאַונטשער)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">צו אָנהייבן /האַלטן רעקאָרדינג אָן קאַטער די הויפּט פאַרשטעלן</string>
+   
+    <string name="prefs_audio_priority_title">פּרייאָראַטייז אַודיאָ צו דעם אַפּ</string>
+    <string name="prefs_audio_priority_sum">אויב ענייבאַלד, אנדערע אַפּלאַקיישאַנז קענען נישט נוצן דעם מיקראָפאָן. אויב פאַרקריפּלט, די אַפּלאַקיישאַן קען נישט זיין ביכולת צו רעקאָרדירן אַודיאָ ווען קייפל אַפּלאַקיישאַנז לויפן מיט די מיקראָפאָן (אַנדרויד קען נישט שטענדיק נוצן די מיקראָפאָן סיימאַלטייניאַסלי)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">אין דער מאָמענט, אַודיאָ רעקאָרדינג איז ניט מעגלעך ווייַל די מיקראָפאָן איז ינטערסעפּטאַד דורך אן אנדער אַפּלאַקיישאַן</string>
+
     
     
     
 
+    <string name="donate_text">שענקען</string>
+    <string name="donate_disable_ads_text">שענקען, דיסייבאַל אַדס</string>
+    <string name="donate_dialog_item_no_ads_text">(קיין אַדס)</string>
+    <string name="donation_dlg_limited_ads_message_text">מיט נידעריקער דאָוניישאַנז די אַדס זענען אַוועקגענומען בלויז פֿאַר די הויפּט פאַרשטעלן</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">דער פאַבריקאַנט קען נישט צושטעלן אַקסעס צו אַלע קאַמעראַס, אַזוי עטלעכע קען נישט עפענען</string>
+
+    <string name="camera_msg_error_non_exposed_error">ניט אַנדערש צו עפענען די אויסגעקליבן אַפּאַראַט. עס כאַפּאַנז אַז ניט אַלע פאַרבאָרגן קאַמעראַס קענען זיין געוויינט דורך קיין אַפּלאַקיישאַן. פילע מאַניאַפאַקטשערערז לאָזן זייער נוצן בלויז אין זייער געבוירן אַפּלאַקיישאַנז. די פעליקייַט אַפּאַראַט וועט עפענען.</string>
+
+    <string name="rec_service_msg">פּריוואַטקייט: אַלע ווידיאס איר רעקאָרדירן וועט זיין געראטעוועט בלויז אויף דיין היגע מיטל. די אַפּלאַקיישאַן טוט נישט באַקאַפּ דיין ווידיאס (האט קיין קאַנעקשאַנז צו סערווערס)\n\nדי אַפּ וועט פאָרזעצן צו לויפן אין דער הינטערגרונט (די פאָרגראַונד דינסט וואָס איז ארויס אין די אָנזאָג באַר) אויב איר אָנהייבן אַ נייַע רעקאָרדינג און צוריקקומען צו די היים פאַרשטעלן, באַשטימען צו אן אנדער אַפּ אָדער שלאָס דיין טעלעפאָן צו פאָרזעצן צו רעקאָרדירן.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">פּרוּווט צו אויסקלייַבן אַ אַנדערש וועג (מיטל היגע סטאָרידזש)</string>
+
+    <string name="permissions_grant_storage_btn_text">שענקען שרייַבן סטאָרידזש</string>
+
+    <string name="donation_subs_text">שענקען כוידעשלעך</string>
+    <string name="donation_any_amount_text">קיין גאַנצע פֿאַר קיין סומע</string>
+    <string name="donation_subs_any_amount_text">אויך, גאַנצע איז גאָר אַוועקגענומען ווען איר אַבאָנירן פֿאַר קיין סומע.</string>
+    <string name="donation_remove_ads_by_any_amount_text">אַראָפּנעמען אַדס אויף אייביק מיט אַ איין-צייַט צושטייַער פון קיין סומע. איר קענען אויך געבן קיין סומע כוידעשלעך צו באַזייַטיקן אַדס</string>
+
+    <string name="msg_camera_died_text">באַקקגראָונד ווידעא רעקאָרדער: דער אַפּאַראַט פּלוצלינג פארשטאפט ארבעטן, ריסטאַרטיד ...</string>
+	<string name="camera_error_text">באַקקגראָונד ווידעא רעקאָרדער: ווידעא רעקאָרדינג איז סטאַפּט ווייַל די אַפּאַראַט פון די מיטל האט פארשטאפט ארבעטן</string>
+
+    <string name="prefs_audio_bt_recording_text">רעקאָרד אַודיאָ פֿון אַ בלועטאָאָטה מיטל</string>
 </resources>

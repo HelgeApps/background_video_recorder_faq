@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">I gywiro</string>
     <string name="rec_fix_text">I gywiro</string>
-    <string name="rec_free_space_text">Am ddim</string>
+    <string name="rec_free_space_text">Ar gael</string>
     <string name="rec_location_text">Lleoliad</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Gosodwyd amser yn y gorffennol</string>
     <string name="timer_service_notification_subtitle_text">Gwasanaeth amserydd ar gyfer dechrau recordio fideo yn awtomatig</string>
     
+
+    <string name="timer_auto_start_every_day_text">Pob dydd</string>
+    <string name="timer_auto_start_once">Unwaith</string>
+    <string name="timer_auto_start_dlg_type_title">Gosodwch yr amserydd i ddechrau recordio</string>
+
+    <string name="prefs_zoom_out_desc_text">I gael mynediad i\'r camera ongl lydan iawn (lens), gallwch chi osod y ffactor chwyddo</string>
+    <string name="prefs_warning_notifications_sum_text">Yn ofynnol i allu arddangos y gwasanaeth recordio cefndir a statws ar y panel hysbysu. Cliciwch i gyflwyno</string>
+    <string name="prefs_warning_notifications_text">Caniatâd Hysbysu</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Dangos rhagolwg camera ar y sgrin gartref</string>
+    <string name="prefs_ui_camera_preview_text">Rhagolwg Camera</string>orientation
+    <string name="photos_folder_name">Lluniau</string>
+    <string name="photos_count_one">llun</string>
+    <string name="photos_count_other">lluniau</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ychwanegu llwybr byr (lansiwr)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">I ddechrau/stopio recordio heb lansio\'r brif sgrin</string>
+   
+    <string name="prefs_audio_priority_title">Blaenoriaethwch sain i\'r app hon</string>
+    <string name="prefs_audio_priority_sum">Os caiff ei alluogi, ni fydd rhaglenni eraill yn gallu defnyddio\'r meicroffon. Os yw\'n anabl, efallai na fydd y rhaglen hon yn gallu recordio sain pan fydd cymwysiadau lluosog yn rhedeg gan ddefnyddio\'r meicroffon (nid yw Android bob amser yn caniatáu defnyddio\'r meicroffon ar yr un pryd)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Ar hyn o bryd, nid yw recordio sain yn bosibl oherwydd bod y meicroffon yn cael ei ryng-gipio gan raglen arall</string>
+
     
     
     
 
+    <string name="donate_text">Rhoddwch</string>
+    <string name="donate_disable_ads_text">Cyfrannu, Analluogi hysbysebion</string>
+    <string name="donate_dialog_item_no_ads_text">(dim hysbysebion)</string>
+    <string name="donation_dlg_limited_ads_message_text">Gyda rhoddion is, dim ond ar gyfer y brif sgrin y caiff yr hysbysebion eu dileu</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Efallai na fydd gwneuthurwr y ddyfais yn darparu mynediad i bob camera, felly efallai na fydd rhai yn agor</string>
+
+    <string name="camera_msg_error_non_exposed_error">Wedi methu ag agor y camera a ddewiswyd. Mae\'n digwydd felly na ellir defnyddio pob camera cudd gan unrhyw raglen. Mae llawer o weithgynhyrchwyr yn caniatáu eu defnyddio yn eu cymwysiadau brodorol yn unig. Bydd y camera rhagosodedig yn agor.</string>
+
+    <string name="rec_service_msg">Preifatrwydd: Bydd yr holl fideos rydych chi\'n eu recordio yn cael eu cadw ar eich dyfais leol yn unig. Nid yw\'r rhaglen yn gwneud copi wrth gefn o\'ch fideos (nid oes ganddo unrhyw gysylltiadau â gweinyddwyr)\n\nBydd yr ap yn parhau i redeg yn y cefndir (y gwasanaeth blaendir sy\'n ymddangos yn y bar hysbysu) os byddwch chi\'n cychwyn recordiad newydd ac yn dychwelyd i\'r sgrin gartref, yn newid i app arall, neu\'n cloi\'ch ffôn i allu parhau i recordio.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Ceisiwch ddewis llwybr gwahanol (storfa leol dyfais)</string>
+
+    <string name="permissions_grant_storage_btn_text">Grant storio ysgrifennu</string>
+
+    <string name="donation_subs_text">Cyfrannwch yn fisol</string>
+    <string name="donation_any_amount_text">dim hysbysebu am unrhyw swm</string>
+    <string name="donation_subs_any_amount_text">Hefyd, caiff hysbysebu ei ddileu\'n llwyr pan fyddwch chi\'n tanysgrifio am unrhyw swm.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Dileu hysbysebion am byth gyda rhodd un-amser o unrhyw swm. Gallwch hefyd roi unrhyw swm yn fisol i ddileu hysbysebion</string>
+
+    <string name="msg_camera_died_text">CefndirFideoRecorder: Stopiodd y camera weithio\'n sydyn, ailgychwynnodd...</string>
+	<string name="camera_error_text">CefndirVideoRecorder: Mae recordio fideo wedi stopio oherwydd bod camera\'r ddyfais wedi stopio gweithio</string>
+
+    <string name="prefs_audio_bt_recording_text">Recordio sain o ddyfais Bluetooth</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Ավտոմատ</string>
     <string name="rec_fix_short_text">Ուղղել</string>
     <string name="rec_fix_text">Ուղղել</string>
-    <string name="rec_free_space_text">Անվճար</string>
+    <string name="rec_free_space_text">Հասանելի է</string>
     <string name="rec_location_text">Գտնվելու վայրը</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Ցանց</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Ժամանակը դրված էր անցյալում</string>
     <string name="timer_service_notification_subtitle_text">Ժամաչափի ծառայություն՝ տեսանկարահանման ավտոմատ մեկնարկի համար</string>
     
+
+    <string name="timer_auto_start_every_day_text">Ամեն օր</string>
+    <string name="timer_auto_start_once">Մի անգամ</string>
+    <string name="timer_auto_start_dlg_type_title">Սահմանեք ժմչփը՝ ձայնագրումը սկսելու համար</string>
+
+    <string name="prefs_zoom_out_desc_text">Ուլտրա լայնանկյուն տեսախցիկ (ոսպնյակ) մուտք գործելու համար կարող եք սահմանել խոշորացման գործակիցը</string>
+    <string name="prefs_warning_notifications_sum_text">Պահանջվում է, որպեսզի կարողանանք ցուցադրել ֆոնային ձայնագրման ծառայությունը և կարգավիճակները ծանուցման վահանակում: Սեղմեք ներկայացնելու համար</string>
+    <string name="prefs_warning_notifications_text">Ծանուցման թույլտվություն</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Ցույց տալ տեսախցիկի նախադիտումը հիմնական էկրանին</string>
+    <string name="prefs_ui_camera_preview_text">Տեսախցիկի նախադիտում</string>orientation
+    <string name="photos_folder_name">Նկարներ</string>
+    <string name="photos_count_one">լուսանկար</string>
+    <string name="photos_count_other">նկարներ</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ավելացնել դյուրանցում (գործարկիչ)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Ձայնագրումը սկսելու/դադարեցնելու համար՝ առանց հիմնական էկրանը գործարկելու</string>
+   
+    <string name="prefs_audio_priority_title">Առաջնահերթություն տվեք աուդիո այս հավելվածին</string>
+    <string name="prefs_audio_priority_sum">Եթե ​​միացված է, մյուս հավելվածները չեն կարողանա օգտագործել խոսափողը: Եթե ​​անջատված է, այս հավելվածը կարող է չկարողանալ ձայնագրել, երբ մի քանի հավելվածներ աշխատում են խոսափողի միջոցով (Android-ը միշտ չէ, որ թույլ է տալիս խոսափողի միաժամանակյա օգտագործումը)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Այս պահին աուդիո ձայնագրությունը հնարավոր չէ, քանի որ խոսափողը խափանում է մեկ այլ հավելվածով</string>
+
     
     
     
 
+    <string name="donate_text">Նվիրաբերել</string>
+    <string name="donate_disable_ads_text">Նվիրաբերել, անջատել գովազդը</string>
+    <string name="donate_dialog_item_no_ads_text">(առանց գովազդի)</string>
+    <string name="donation_dlg_limited_ads_message_text">Ավելի ցածր նվիրատվությունների դեպքում գովազդները հանվում են միայն հիմնական էկրանի համար</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Սարքի արտադրողը կարող է թույլ չտալ բոլոր տեսախցիկների մուտքը, ուստի որոշները կարող են չբացվել</string>
+
+    <string name="camera_msg_error_non_exposed_error">Չհաջողվեց բացել ընտրված տեսախցիկը: Այնպես է պատահում, որ ոչ բոլոր թաքնված տեսախցիկները կարող են օգտագործվել որևէ հավելվածի կողմից: Շատ արտադրողներ թույլ են տալիս դրանց օգտագործումը միայն իրենց հայրենի ծրագրերում: Կբացվի կանխադրված տեսախցիկը:</string>
+
+    <string name="rec_service_msg">Գաղտնիություն. Ձեր ձայնագրած բոլոր տեսանյութերը կպահվեն միայն ձեր տեղական սարքում: Հավելվածը չի կրկնօրինակում ձեր տեսանյութերը (սերվերների հետ կապեր չունի)\n\nՀավելվածը կշարունակի աշխատել հետին պլանում (առաջին պլանի ծառայությունը, որը հայտնվում է ծանուցման տողում), եթե սկսեք նոր ձայնագրություն և վերադառնաք հիմնական էկրան, փոխարկեք մեկ այլ հավելված կամ կողպեք ձեր հեռախոսը, որպեսզի կարողանաք շարունակել ձայնագրումը:</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Խնդրում ենք փորձել ընտրել այլ ուղի (սարքի տեղային պահեստավորում)</string>
+
+    <string name="permissions_grant_storage_btn_text">Տրամադրել գրավոր պահեստ</string>
+
+    <string name="donation_subs_text">Նվիրաբերեք ամսական</string>
+    <string name="donation_any_amount_text">ոչ մի գովազդ ոչ մի գումարի համար</string>
+    <string name="donation_subs_any_amount_text">Բացի այդ, գովազդն ամբողջությամբ հանվում է, երբ բաժանորդագրվում եք ցանկացած գումարով:</string>
+    <string name="donation_remove_ads_by_any_amount_text">Հեռացրեք գովազդները ընդմիշտ ցանկացած գումարի միանվագ նվիրատվության միջոցով: Կարող եք նաև ամսական ցանկացած գումար նվիրաբերել գովազդը հեռացնելու համար</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder. տեսախցիկը հանկարծակի դադարեց աշխատել, վերագործարկվել է...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder. Տեսագրումը դադարեցվել է, քանի որ սարքի տեսախցիկը դադարել է աշխատել</string>
+
+    <string name="prefs_audio_bt_recording_text">Ձայնագրեք ձայնագրությունը Bluetooth սարքից</string>
 </resources>

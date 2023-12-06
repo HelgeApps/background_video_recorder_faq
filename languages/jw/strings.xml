@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Auto</string>
     <string name="rec_fix_short_text">Kanggo mbenerake</string>
     <string name="rec_fix_text">Kanggo mbenerake</string>
-    <string name="rec_free_space_text">Gratis</string>
+    <string name="rec_free_space_text">kasedhiya</string>
     <string name="rec_location_text">lokasi</string>
     <string name="rec_gps_text">Gps</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Wektu wis disetel ing jaman kepungkur</string>
     <string name="timer_service_notification_subtitle_text">Layanan Timer kanggo wiwitan otomatis ngrekam video</string>
     
+
+    <string name="timer_auto_start_every_day_text">Saben dina</string>
+    <string name="timer_auto_start_once">sepisan</string>
+    <string name="timer_auto_start_dlg_type_title">Setel wektu kanggo miwiti ngrekam</string>
+
+    <string name="prefs_zoom_out_desc_text">Kanggo ngakses kamera (lensa) ultra sudhut amba, sampeyan bisa nyetel faktor zoom</string>
+    <string name="prefs_warning_notifications_sum_text">Dibutuhake supaya bisa nampilake layanan rekaman latar mburi lan status ing panel kabar. Klik kanggo ngirim</string>
+    <string name="prefs_warning_notifications_text">Izin Notifikasi</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Tampilake pratinjau kamera ing layar ngarep</string>
+    <string name="prefs_ui_camera_preview_text">Pratinjau kamera</string>orientation
+    <string name="photos_folder_name">Foto</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">foto</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Tambah trabasan (peluncur)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Kanggo miwiti /mungkasi ngrekam tanpa mbukak layar utama</string>
+   
+    <string name="prefs_audio_priority_title">Prioritasake audio kanggo app iki</string>
+    <string name="prefs_audio_priority_sum">Yen diaktifake, aplikasi liyane ora bakal bisa nggunakake mikropon. Yen dipateni, aplikasi iki bisa uga ora bisa ngrekam audio nalika sawetara aplikasi mlaku nggunakake mikropon (Android ora tansah ngidini nggunakake mikropon bebarengan)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Saiki, rekaman audio ora bisa ditindakake amarga mikropon dicegat dening aplikasi liya</string>
+
     
     
     
 
+    <string name="donate_text">nyumbang</string>
+    <string name="donate_disable_ads_text">Sumbangan, Pateni iklan</string>
+    <string name="donate_dialog_item_no_ads_text">(ora ana iklan)</string>
+    <string name="donation_dlg_limited_ads_message_text">Kanthi sumbangan sing luwih murah, iklan bakal dibusak mung kanggo layar utama</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Pabrikan piranti bisa uga ora menehi akses menyang kabeh kamera, mula sawetara ora bisa mbukak</string>
+
+    <string name="camera_msg_error_non_exposed_error">Gagal mbukak kamera sing dipilih. Kedaden ora kabeh kamera sing didhelikake bisa digunakake dening aplikasi apa wae. Akeh manufaktur mung ngidini panggunaan ing aplikasi asline. Kamera gawan bakal mbukak.</string>
+
+    <string name="rec_service_msg">Privasi: Kabeh video sing direkam mung bakal disimpen ing piranti lokal sampeyan. Aplikasi ora nggawe serep video sampeyan (ora duwe sambungan menyang server)\n\nAplikasi bakal terus mlaku ing latar mburi (layanan latar ngarep sing katon ing garis kabar) yen sampeyan miwiti rekaman anyar lan bali menyang layar ngarep, ngalih menyang aplikasi liyane, utawa ngunci telpon supaya bisa terus ngrekam.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Coba pilih dalan liyane (panyimpenan lokal piranti)</string>
+
+    <string name="permissions_grant_storage_btn_text">Grant nulis panyimpenan</string>
+
+    <string name="donation_subs_text">Sumbangan saben wulan</string>
+    <string name="donation_any_amount_text">ora ana iklan kanggo jumlah apa wae</string>
+    <string name="donation_subs_any_amount_text">Uga, pariwara bakal dicopot nalika sampeyan langganan jumlah apa wae.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Mbusak iklan ing salawas-lawase kanthi sumbangan siji-wektu kanthi jumlah apa wae. Sampeyan uga bisa nyumbang jumlah apa wae saben wulan kanggo mbusak iklan</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera dumadakan mandheg bisa digunakake, diwiwiti maneh ...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Rekaman video mandheg amarga kamera piranti wis mandheg</string>
+
+    <string name="prefs_audio_bt_recording_text">Rekam audio saka piranti Bluetooth</string>
 </resources>

@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">Oto</string>
     <string name="rec_fix_short_text">Pou korije</string>
     <string name="rec_fix_text">Pou korije</string>
-    <string name="rec_free_space_text">Gratis</string>
+    <string name="rec_free_space_text">Disponib</string>
     <string name="rec_location_text">Kote</string>
     <string name="rec_gps_text">GPS</string>
     <string name="rec_network_text">Net</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">Tan te fikse nan tan lontan an</string>
     <string name="timer_service_notification_subtitle_text">Sèvis revèy pou kòmanse otomatik anrejistreman videyo</string>
     
+
+    <string name="timer_auto_start_every_day_text">Chak jou</string>
+    <string name="timer_auto_start_once">Yon fwa</string>
+    <string name="timer_auto_start_dlg_type_title">Mete revèy pou kòmanse anrejistreman</string>
+
+    <string name="prefs_zoom_out_desc_text">Pou jwenn aksè nan kamera ultra lajè-ang (lantiy), ou ka mete faktè a rale</string>
+    <string name="prefs_warning_notifications_sum_text">Obligatwa pou kapab montre sèvis anrejistreman background ak estati sou panèl notifikasyon an. Klike pou soumèt</string>
+    <string name="prefs_warning_notifications_text">Pèmisyon Notifikasyon</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">Montre aperçu kamera sou ekran lakay ou</string>
+    <string name="prefs_ui_camera_preview_text">Kamera Preview</string>orientation
+    <string name="photos_folder_name">Foto yo</string>
+    <string name="photos_count_one">foto</string>
+    <string name="photos_count_other">foto yo</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">Ajoute chemen kout (lanseur)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">Pou kòmanse /sispann anrejistreman san yo pa lanse ekran prensipal la</string>
+   
+    <string name="prefs_audio_priority_title">Priyorite odyo nan aplikasyon sa a</string>
+    <string name="prefs_audio_priority_sum">Si yo aktive, lòt aplikasyon yo p ap kapab sèvi ak mikwofòn la. Si li enfim, aplikasyon sa a ka pa kapab anrejistre odyo lè plizyè aplikasyon ap kouri lè l sèvi avèk mikwofòn la (Android pa toujou pèmèt itilizasyon similtane mikwofòn la)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">Nan moman sa a, anrejistreman odyo pa posib paske mikwofòn la entèsepte pa yon lòt aplikasyon</string>
+
     
     
     
 
+    <string name="donate_text">Fè don</string>
+    <string name="donate_disable_ads_text">Fè don, enfim piblisite</string>
+    <string name="donate_dialog_item_no_ads_text">(pa gen anons)</string>
+    <string name="donation_dlg_limited_ads_message_text">Ak pi ba don anons yo retire sèlman pou ekran prensipal la</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">Manifakti aparèy la ka pa bay aksè a tout kamera, kidonk kèk ka pa louvri</string>
+
+    <string name="camera_msg_error_non_exposed_error">Echwe pou louvri kamera chwazi a. Li rive konsa ke se pa tout kamera kache ka itilize pa nenpòt aplikasyon. Anpil manifaktirè pèmèt sèlman itilize yo nan aplikasyon natif natal yo. Kamera default la ap louvri.</string>
+
+    <string name="rec_service_msg">Konfidansyalite: Tout videyo ou anrejistre yo pral sove sèlman sou aparèy lokal ou a. Aplikasyon an pa fè backup videyo ou yo (pa gen okenn koneksyon ak sèvè)\n\nAplikasyon an ap kontinye kouri nan background nan (sèvis premye plan ki parèt nan ba notifikasyon an) si ou kòmanse yon nouvo anrejistreman epi retounen nan ekran lakay la, chanje nan yon lòt aplikasyon, oswa fèmen telefòn ou pou kapab kontinye anrejistreman.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">Tanpri eseye chwazi yon chemen diferan (depo lokal aparèy)</string>
+
+    <string name="permissions_grant_storage_btn_text">Bay depo ekri</string>
+
+    <string name="donation_subs_text">Fè don chak mwa</string>
+    <string name="donation_any_amount_text">pa gen piblisite pou nenpòt ki kantite lajan</string>
+    <string name="donation_subs_any_amount_text">Epitou, piblisite konplètman retire lè ou abònman pou nenpòt ki kantite lajan.</string>
+    <string name="donation_remove_ads_by_any_amount_text">Retire piblisite pou tout tan ak yon don yon sèl fwa nan nenpòt ki kantite lajan. Ou kapab tou bay nenpòt kantite lajan chak mwa pou retire anons</string>
+
+    <string name="msg_camera_died_text">BackgroundVideoRecorder: Kamera a toudenkou sispann travay, rekòmanse...</string>
+	<string name="camera_error_text">BackgroundVideoRecorder: Anrejistreman videyo sispann paske kamera aparèy la sispann travay</string>
+
+    <string name="prefs_audio_bt_recording_text">Ekri odyo soti nan yon aparèy Bluetooth</string>
 </resources>

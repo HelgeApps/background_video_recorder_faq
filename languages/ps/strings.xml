@@ -208,7 +208,7 @@
     <string name="rec_day_night_btn_auto_text">اتومات</string>
     <string name="rec_fix_short_text">د سمولو لپاره</string>
     <string name="rec_fix_text">د سمولو لپاره</string>
-    <string name="rec_free_space_text">وړيا</string>
+    <string name="rec_free_space_text">شته</string>
     <string name="rec_location_text">ځای</string>
     <string name="rec_gps_text">جی پی ایس</string>
     <string name="rec_network_text">جال</string>
@@ -288,17 +288,67 @@
     <string name="timer_auto_start_recording_datetime_past_error_text">وخت په تیرو وختونو کې ټاکل شوی و</string>
     <string name="timer_service_notification_subtitle_text">د ویډیو ثبتولو اتوماتیک پیل لپاره د ټیمر خدمت</string>
     
+
+    <string name="timer_auto_start_every_day_text">هره ورځ</string>
+    <string name="timer_auto_start_once">یوځل</string>
+    <string name="timer_auto_start_dlg_type_title">د ثبت پیل کولو لپاره ټایمر تنظیم کړئ</string>
+
+    <string name="prefs_zoom_out_desc_text">د الټرا پراخه زاویه کیمرې (لینز) ته د لاسرسي لپاره ، تاسو کولی شئ د زوم فکتور تنظیم کړئ</string>
+    <string name="prefs_warning_notifications_sum_text">د خبرتیا پینل کې د شالید ثبتولو خدمت او حالتونو ښودلو وړتیا لپاره اړین دي. د سپارلو لپاره کلیک وکړئ</string>
+    <string name="prefs_warning_notifications_text">د خبرتیا اجازه</string>
+
+    <string name="prefs_ui_camera_preview_sum_text">په کور سکرین کې د کیمرې مخکتنه وښایاست</string>
+    <string name="prefs_ui_camera_preview_text">د کیمرې مخکتنه</string>orientation
+    <string name="photos_folder_name">عکسونه</string>
+    <string name="photos_count_one">انځور</string>
+    <string name="photos_count_other">عکسونه</string>
+    
+	<string name="prefs_shortcut_rec_start_launcher_title">شارټ کټ اضافه کړئ (لانچر)</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">د اصلي سکرین په لاره اچولو پرته د ثبت پیل /بندولو لپاره</string>
+   
+    <string name="prefs_audio_priority_title">دې اپلیکیشن ته آډیو لومړیتوب ورکړئ</string>
+    <string name="prefs_audio_priority_sum">که فعال شي، نور غوښتنلیکونه به د مایکروفون کارولو توان ونلري. که چیرې غیر فعال وي، دا اپلیکیشن ممکن د آډیو ثبتولو توان ونلري کله چې ډیری غوښتنلیکونه د مایکروفون په کارولو سره روان وي (Android تل د مایکروفون کارولو ته اجازه نه ورکوي)</string>
+   
+    
+    
+   
     
     
 
     
     
-    
+    <string name="rec_audio_silence_text">اوس مهال، د آډیو ثبت کول ممکن ندي ځکه چې مایکروفون د بل غوښتنلیک لخوا مداخله شوی</string>
+
     
     
     
 
+    <string name="donate_text">مرسته وکړئ</string>
+    <string name="donate_disable_ads_text">مرسته وکړئ، اعلانونه غیر فعال کړئ</string>
+    <string name="donate_dialog_item_no_ads_text">(نه اعلانونه)</string>
+    <string name="donation_dlg_limited_ads_message_text">د ټیټو مرستو سره اعلانونه یوازې د اصلي سکرین لپاره لرې کیږي</string>
+
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">د وسیلې جوړونکی ممکن ټولو کیمرونو ته لاسرسی چمتو نکړي ، نو ځینې ممکن خلاص نشي</string>
+
+    <string name="camera_msg_error_non_exposed_error">د ټاکل شوي کیمرې په خلاصولو کې پاتې راغلل. دا داسې پیښیږي چې ټولې پټې کیمرې د هیڅ غوښتنلیک لخوا نشي کارول کیدی. ډیری جوړونکي یوازې د دوی په اصلي غوښتنلیکونو کې د دوی کارولو ته اجازه ورکوي. ډیفالټ کیمره به خلاص شي.</string>
+
+    <string name="rec_service_msg">محرمیت: ټولې ویډیوګانې چې تاسو یې ثبت کوئ یوازې ستاسو په محلي وسیله کې به خوندي شي. غوښتنلیک ستاسو ویډیوګانې بیک اپ نه کوي (د سرورونو سره هیڅ اړیکه نلري)\n\nایپ به په شالید کې چلولو ته دوام ورکړي (د مخکینۍ خدمت چې د خبرتیا بار کې څرګندیږي) که تاسو نوی ریکارډ پیل کړئ او کور سکرین ته بیرته راشئ ، بل اپلیکیشن ته لاړشئ ، یا خپل تلیفون لاک کړئ ترڅو ثبت کولو ته دوام ورکړئ.</string>
+
     
 
-	
+    
+
+    <string name="permissions_saf_incorrect_path">لطفا هڅه وکړئ یوه بله لاره غوره کړئ (د وسیله ځایی ذخیره)</string>
+
+    <string name="permissions_grant_storage_btn_text">د لیکلو ذخیره ورکړئ</string>
+
+    <string name="donation_subs_text">میاشتنۍ مرسته وکړئ</string>
+    <string name="donation_any_amount_text">د کومې اندازې لپاره هیڅ اعلان نشته</string>
+    <string name="donation_subs_any_amount_text">همچنان ، اعلانونه په بشپړ ډول لرې کیږي کله چې تاسو د کومې اندازې لپاره ګډون وکړئ.</string>
+    <string name="donation_remove_ads_by_any_amount_text">د هرې اندازې د یو ځل بسپنې سره د تل لپاره اعلانونه لرې کړئ. تاسو کولی شئ د اعلاناتو لرې کولو لپاره هره میاشت هره اندازه مرسته وکړئ</string>
+
+    <string name="msg_camera_died_text">د شالید ویډیو ریکارډر: کیمره ناڅاپه کار کول بند کړل ، بیا پیل شو ...</string>
+	<string name="camera_error_text">د شالید ویډیو ریکارډر: د ویډیو ثبت کول بند شوي ځکه چې د وسیلې کیمرې کار بند کړی دی</string>
+
+    <string name="prefs_audio_bt_recording_text">د بلوتوټ وسیلې څخه آډیو ثبت کړئ</string>
 </resources>
