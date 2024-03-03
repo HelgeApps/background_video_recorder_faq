@@ -1,149 +1,261 @@
 <resources>
-    <string name="app_name">የበስተጀርባ ቪዲዮ ቀረጻ</string>
-
-    <string name="close">ገጠመ</string>
-    <string name="default_text">ነባሪ</string>
-    <string name="disabled_text">ተሰናክሏል</string>
-    <string name="no_ads_text">(ያለ ማስታወቂያ)</string>
-    <string name="zoom_text">አጉላ</string>
-    <string name="reset">መፍሰስ</string>
-
+    <string name="accept_text">ተቀብያለሁ</string>
+    <string name="any_text">ማንኛውም</string>
+    <string name="app_alternative_name_audio">ኦዲዮ</string>
+    <string name="app_alternative_name_battery">የባትሪ ቅንብሮች</string>
+    <string name="app_alternative_name_media">ሚዲያ</string>
+    <string name="app_alternative_name_media_player">የሚዲያ ማጫወቻ</string>
+    <string name="app_alternative_name_video">ቪዲዮ</string>
+    <string name="app_name_backgroundvideorecorder">የበስተጀርባ ቪዲዮ ቀረጻ</string>
+    <string name="app_name_droid_dashcam">Droid Dashcam - DVR መንዳት</string>
     <string name="camera">ካሜራ</string>
     <string name="camera_aperture">ዲያፍራም</string>
     <string name="camera_back">የኋላ ካሜራ</string>
     <string name="camera_background_permission_error_msg">ከበስተጀርባ ያለውን ካሜራ ለመድረስ መተግበሪያውን አንድ ጊዜ ማስኬድ ያስፈልግዎታል</string>
     <string name="camera_error_background_tried_use_text">በአንድሮይድ 11+ ላይ ከበስተጀርባ መቅዳት ከመጀመሩ በፊት ካሜራውን ከበስተጀርባ ለመጠቀም አፕሊኬሽኑ እየሰራ እና ቢያንስ አንድ ጊዜ መታየት አለበት። ስለዚህ መሣሪያውን እንደገና ካስጀመሩት በኋላ አፕሊኬሽኑ እንዲታይ ያድርጉ እና ከዚያ በኋላ የመቅጃ አገልግሎቱን አይዝጉት, በማስታወቂያ ማእከል ውስጥ መቆየት አለበት.</string>
-    <string name="camera_error_busy">Background Video Recorder፡ ካሜራው በሌላ መተግበሪያ ጥቅም ላይ እየዋለ ስለሆነ የቪዲዮ ቀረጻ ቆሟል</string>
+    <string name="camera_error_busy">ካሜራው በሌላ መተግበሪያ ጥቅም ላይ እየዋለ ስለሆነ የቪዲዮ ቀረጻ ቆሟል</string>
+    <string name="camera_error_text">የመሳሪያው ካሜራ መስራት ስላቆመ የቪዲዮ ቀረጻ ቆሟል</string>
     <string name="camera_external">ውጫዊ የዩኤስቢ ካሜራ</string>
+    <string name="camera_focal_length">የትኩረት ርዝመት</string>
+    <string name="camera_fov_horbizonal_text">አግድም</string>
     <string name="camera_fov_text">የእይታ ማዕዘኖች (16፡9)</string>
     <string name="camera_fov_vertical_text">አቀባዊ</string>
-    <string name="camera_fov_horbizonal_text">አግድም</string>
     <string name="camera_front">የፊት ካሜራ</string>
     <string name="camera_msg_error_in_use_text">ካሜራው በሌላ መተግበሪያ ጥቅም ላይ ውሏል። ቪዲዮ በሚቀዳበት ጊዜ ካሜራውን እየተጠቀሙ ሊሆኑ የሚችሉ ሌሎች መተግበሪያዎችን አያሂዱ። አንድሮይድ አንድ መተግበሪያ ካሜራውን በአንድ ጊዜ እንዲጠቀም ብቻ ይፈቅዳል</string>
+    <string name="camera_msg_error_non_exposed_error">የተመረጠውን ካሜራ መክፈት አልተሳካም። ይህ የሚሆነው ሁሉም የተደበቁ ካሜራዎች በማንኛውም መተግበሪያ መጠቀም አለመቻላቸው ነው። ብዙ አምራቾች በአገር ውስጥ አፕሊኬሽኖቻቸው ውስጥ ብቻ እንዲጠቀሙባቸው ይፈቅዳሉ. ነባሪ ካሜራ ይከፈታል።</string>
     <string name="camera_msg_error_unknown_text">ካሜራው በጊዜያዊነት (በነበረበት) መሳሪያዎ ላይ ለመክፈት አይገኝም (የካሜራ ስርዓት ስህተት)</string>
     <string name="camera_support_error">ካሜራውን ሲጠቀሙ ስህተት ተፈጥሯል።</string>
-
+    <string name="close">ገጠመ</string>
+    <string name="days">ቀናት</string>
+    <string name="default_text">ነባሪ</string>
     <string name="dialog_camera_not_found_msg_text">ይህ መሳሪያ አብሮ የተሰራ ካሜራ የለውም እና ውጫዊ ካሜራዎችን አይደግፍም። በመዝጋት ላይ…</string>
     <string name="dialog_camera_not_found_text">ካሜራ አልተገኘም።</string>
     <string name="dialog_go_to_settings_text">ቅንብሮችን ይክፈቱ</string>
     <string name="dialog_report_the_error_text_btn">ስህተት ሪፖርት አድርግ</string>
     <string name="dialog_select_camera_text">ካሜራ ይምረጡ</string>
-    <string name="dialog_unlock_video_text">አሁን ያለው ቪዲዮ እንዳይጻፍ ይከፈት\?</string>
-
+    <string name="dialog_unlock_video_text">አሁን ያለው ቪዲዮ እንዳይጻፍ ይከፈት?</string>
+    <string name="disabled_text">ተሰናክሏል</string>
+    <string name="donate_dialog_item_no_ads_text">(ያለ ማስታወቂያ)</string>
+    <string name="donate_disable_ads_text">ልገሳ፣ ማስታወቂያዎችን ያስወግዱ</string>
     <string name="donate_success_thanks_msg_text">ስለ ድጋፍዎ በጣም እናመሰግናለን!</string>
+    <string name="donate_text">ልገሳ</string>
+    <string name="donation_any_amount_text">ለማንኛውም መጠን ምንም ማስታወቂያ የለም።</string>
     <string name="donation_dlg_has_ads_text">ማስታወቂያዎችን ለማስወገድ ልገሳ ወይም ከዚያ በላይ መሆን አለበት።</string>
+    <string name="donation_dlg_limited_ads_message_text">ለትንንሽ ልገሳ፣ ማስታወቂያ በዋናው ማያ ገጽ ላይ ብቻ ይወገዳል</string>
     <string name="donation_dlg_no_ads_text">ምንም ማስታወቂያ የሎትም።</string>
     <string name="donation_level_text">የመዋጮ ደረጃዎ፡-</string>
-    <string name="donation_purchase_info_loading_text">የግዢ መረጃው እስካሁን አልተጫነም። መስመር ላይ ነዎት እና ወደ Google መለያዎ ገብተዋል\?</string>
-    <string name="donation_subs_check_box_text">በየወሩ አቆይ (ለማንኛውም መጠን ማስታወቂያ የለም)</string>
+    <string name="donation_purchase_info_loading_text">የግዢ መረጃው እስካሁን አልተጫነም። መስመር ላይ ነዎት እና ወደ Google መለያዎ ገብተዋል?</string>
+    <string name="donation_remove_ads_by_any_amount_text">በማንኛውም መጠን የአንድ ጊዜ ልገሳ ማስታወቂያ ለዘላለም ያስወግዱ። እንዲሁም ማስታወቂያዎችን ለማስወገድ በየወሩ መለገስ ይችላሉ።</string>
+    <string name="donation_subs_any_amount_text">በወር የማንኛውም መጠን ምዝገባ ንቁ ሆኖ ሳለ ማስታወቂያ ሙሉ በሙሉ ይወገዳል።</string>
     <string name="donation_subs_manage_btn_text">ከደንበኝነት ምዝገባ ይውጡ</string>
-
+    <string name="donation_subs_no_free_trial_explanation_text">አፕሊኬሽኑ ለደንበኝነት ምዝገባዎች የሙከራ ጊዜ አይሰጥም ፣ ምክንያቱም ሁሉም የመተግበሪያው ተግባራት ቀድሞውኑ ነፃ ስለሆኑ ፣ የደንበኝነት ምዝገባ ማስታወቂያን ብቻ ያስወግዳል።</string>
+    <string name="donation_subs_one_text">የደንበኝነት ምዝገባው ንቁ ሆኖ ሳለ ማስታወቂያ ሙሉ በሙሉ ተወግዷል።</string>
+    <string name="donation_subs_text">በየወሩ ይለግሱ</string>
+    <string name="format_altitude">ቁመት</string>
+    <string name="format_degrees">መጋጠሚያዎች</string>
     <string name="format_gb">ጊጋባይት</string>
+    <string name="format_gps_speed">የጂፒኤስ ፍጥነት</string>
     <string name="format_hz">Hz</string>
     <string name="format_kbits">ኪ.ቢ.ቢ</string>
     <string name="format_mbits">ሜቢበሰ</string>
+    <string name="format_meters">ኤም</string>
     <string name="format_minutes">ደቂቃ</string>
-
-    <string name="msg_activity_battery_is_not_ignoring_msg_text">አፕሊኬሽኑ ከባትሪ ማመቻቸት አልተገለለም። ካሜራው ከበስተጀርባ የማይሰራ ከሆነ ወይም ሌላ ነገር የማይሰራ ከሆነ ይህን መተግበሪያ ወደ ኃይል ቆጣቢ ሁነታ ልዩ ሁኔታዎች ያክሉት.</string>
+    <string name="format_speed_measure_kilometers">ኪሜ /ሰ</string>
+    <string name="format_speed_measure_miles">ማይል በሰአት</string>
+    <string name="from">ከ</string>
+    <string name="hour">ሰአት</string>
+    <string name="hours">ሰዓታት</string>
+    <string name="month">ወር</string>
+    <string name="msg_activity_battery_is_not_ignoring_msg_text">አፕሊኬሽኑ ከባትሪ ማመቻቸት አልተገለለም። ካሜራው ከበስተጀርባ ወይም ሌላ ነገር የማይሰራ ከሆነ ይህን መተግበሪያ ከኃይል ቆጣቢ ሁነታ በስተቀር ያክሉት።</string>
     <string name="msg_android_r_deleting_manual_tip_text">አፕሊኬሽኑን በአንድሮይድ 11 ላይ ዳግም ከጫኑት የድሮ ፋይሎች በእጅ መሰረዝ አለባቸው</string>
-    <string name="msg_battery_optimization_tip_text">የባትሪ ማመቻቸት -&gt; ሁሉም መተግበሪያዎች -&gt; የዚህ መተግበሪያ ስም -&gt; አታሳድጉ/አታስቀምጥ</string>
+    <string name="msg_auto_recording_service_was_stopped">የቪዲዮ ቀረጻን በራስ-ሰር ለመጀመር የጀርባ አገልግሎትን አቁመዋል። እንደገና ለማስጀመር መተግበሪያውን ይክፈቱ።</string>
+    <string name="msg_battery_optimization_tip_text">የባትሪ ማመቻቸት -&gt; ሁሉም መተግበሪያዎች -&gt; መተግበሪያውን ያግኙ -&gt; አታሻሽሉ/አያድኑ</string>
+    <string name="msg_beta_version_warning">ይህ የመተግበሪያው የቅድመ-ይሁንታ ስሪት ነው፣ ስለዚህ አንዳንድ ነገሮች ላይሰሩ ወይም ያልተረጋጉ ሊሆኑ ይችላሉ።</string>
+    <string name="msg_beta_version_warning_sum">ስህተቶችን ለማስወገድ የተረጋጋውን ስሪት ከፕሌይ ስቶር ይጫኑ።</string>
+    <string name="msg_camera_died_text">ካሜራ ሳይታሰብ መስራት አቁሟል፣ እንደገና በመጀመር ላይ…</string>
     <string name="msg_camera_not_opened">ካሜራ እየሰራ አይደለም።</string>
     <string name="msg_close_settings_before_recording_text">መቅዳት ከመጀመርዎ በፊት የመተግበሪያ ምርጫዎችን ዝጋ</string>
     <string name="msg_could_not_enable_microphone">ማይክሮፎኑን ማብራት አልተሳካም፣ ቀረጻው ያለድምጽ ይቀጥላል</string>
     <string name="msg_could_not_found_autostart_settings_text">እነዚህን መቼቶች ከዚህ መተግበሪያ መክፈት አልተቻለም፣እባክዎ ነባሪውን የመሣሪያ ስርዓት ቅንብሮች ነባሪ መተግበሪያ በመጠቀም ለማግኘት ይሞክሩ</string>
+    <string name="msg_could_not_open_text">አፕሊኬሽኑን መክፈት አልተሳካም…</string>
     <string name="msg_could_not_start_floating_window_text">ተንሳፋፊ መስኮት መጀመር አልተሳካም።</string>
-    <string name="msg_dlg_found_old_videos_message">መተግበሪያውን ዳግም የጫኑት ይመስላል። በ loop ቀረጻ ወቅት መተግበሪያው ሊሰርዛቸው የማይችላቸው የቆዩ ቪዲዮዎች አሉዎት። አዳዲስ ቪዲዮዎችን ከመቅዳትዎ በፊት በቪዲዮ ስክሪን ላይ እራስዎ ያስወግዷቸው። ከአንድሮይድ 11+ ጀምሮ፣ ዳግም ከተጫነ በኋላ አፕሊኬሽኑ የድሮ ፋይሎችን የመዳረሻ መብቶችን ያጣል። ወይም ለመቅጂያው አቃፊ የመፃፍ ፍቃድ መስጠት ይችላሉ።</string>
-    <string name="msg_dlg_found_old_videos_title">የድሮ የቪዲዮ ፋይሎች ተገኝተዋል</string>
-    <string name="msg_dlg_incorrect_folder_path">ልክ ያልሆነ አቃፊ እባክህ መንገዱን አትቀይር። ለአንድ የተወሰነ አቃፊ ፈቃድ መስጠት አለብህ። በቅንብሮች ውስጥ የመቅጃ አቃፊውን መቀየር ይችላሉ.</string>
+    <string name="msg_detected_impact_text">G-sensor አስደንጋጭ ነገር አግኝቷል፣ቪዲዮው እንዳይፃፍ ይታገዳል።</string>
+    <string name="msg_dialog_camera_battery_optimization_subtitle">ለወደፊቱ የካሜራ ስህተቶችን ለማስወገድ ለዚህ መተግበሪያ በመሳሪያዎ ቅንብሮች ውስጥ የባትሪ ማትባትን ያሰናክሉ።</string>
+    <string name="msg_dialog_camera_battery_optimization_title">ካሜራውን በመድረስ ላይ ስህተት አጋጥሟል። የባትሪ ማትባት ነቅቷል።</string>
     <string name="msg_initializing_please_wait">በማስጀመር ላይ… እባክዎ ይጠብቁ!</string>
     <string name="msg_no_browser">አገናኙን ለመክፈት እባክዎ የድር መተግበሪያን ይጫኑ</string>
+    <string name="msg_no_gps_signal">ምንም የጂፒኤስ ምልክት የለም።</string>
+    <string name="msg_no_network_to_fetch_address_text">አድራሻውን ለማግኘት ምንም አውታረ መረብ የለም ወይም መሣሪያውን እንደገና ለማስጀመር ይሞክሩ</string>
     <string name="msg_no_permission_to_delete_file">የቪዲዮ ፋይል መሰረዝ አልተሳካም። አፕሊኬሽኑን ድጋሚ ጭነው ሊሆን ይችላል እና የፋይሉ ፈቃዱ ጠፍቶ ሊሆን ይችላል፣ እባክዎን እራስዎ ለማራገፍ ይሞክሩ</string>
     <string name="msg_not_enough_memory_free_some_text">ቪዲዮ መቅዳት ለመቀጠል የተወሰነ ቦታ ያስለቅቁ</string>
     <string name="msg_not_enough_memory_text">በቂ ማህደረ ትውስታ የለም</string>
+    <string name="msg_notification_could_launch_app_activity">የመተግበሪያው ዋና ስክሪን ሊጀመር አልቻለም ምክንያቱም SYSTEM_ALERT_WINDOW (በሌሎቹ የመተግበሪያ መስኮቶች ላይ ማሳያ) ፍቃድ ስላልተሰጠ ወይም የመሳሪያው ስክሪን ስለጠፋ</string>
+    <string name="msg_notification_could_not_open_other_app_without_appear_on_top_permission">የተገለጸው መተግበሪያ በራስ ሰር እንዲከፈት ሊጀመር አልቻለም ምክንያቱም \"በሁሉም መተግበሪያዎች ላይ አሳይ\" ፍቃድ ስላልተሰጠ።</string>
+    <string name="msg_notification_could_not_open_with_locked_screen">ስክሪኑ ስለጠፋ (ተቆልፎ) ስለነበር አፕሊኬሽኑ ሊከፈት አልቻለም።</string>
+    <string name="msg_notification_could_not_start_recording_with_locked_screen">ስክሪኑ ስለጠፋ (ተቆልፏል) ትግበራው መቅዳት ለመጀመር ሊከፈት አልቻለም። ይህንን ለማስተካከል የጀርባ ቀረጻ አገልግሎትን (AutoStart) ያሂዱ።</string>
+    <string name="msg_notification_could_not_start_recording_without_appear_on_top_permission">መተግበሪያው መቅዳት ለመጀመር ሊከፈት አልቻለም ምክንያቱም \"በሁሉም መተግበሪያዎች ላይ አሳይ\" ፍቃድ አልተሰጠም። ለማቅረብ ጠቅ ያድርጉ</string>
     <string name="msg_photo_failed_to_take">ፎቶ ማንሳት አልተሳካም።</string>
     <string name="msg_photo_was_saved">ፎቶ ተቀምጧል</string>
     <string name="msg_please_close_other_app_and_restart_text">ካሜራውን በመጠቀም ሌሎች መተግበሪያዎችን ዝጋ እና ይህን መተግበሪያ እንደገና ያስጀምሩ</string>
-    <string name="msg_record_path_has_changed_text">የመቅጃ አቃፊው ተቀይሯል። ምክንያቱም ለማከማቸት (ለመጻፍ) የማይገኝ ወይም ምንም ፈቃድ ስለተሰጠ</string>
     <string name="msg_recorder_init_error_file_not_found">የቆዩ ቪዲዮዎችን ይሰርዙ፣ የኤስዲ ካርድዎን ይቅረጹ ወይም ሌላ ይሞክሩ። እንዲሁም ከፍተኛውን የቪዲዮ ቀረጻ ቦታ ይገድቡ (ያነሰ የተሻለ ነው)። ብዙ ቁጥር ያላቸው የተቀመጡ ቪዲዮዎች እንደዚህ አይነት ችግር ሊፈጥሩ ይችላሉ። እንዲሁም በቅንብሮች /ተደጋጋሚ ጥያቄዎች ስለ ኤስዲ ካርዶች የሚጠየቁ ጥያቄዎችን ይመልከቱ። እንዲሁም ከውጫዊ ካርድ ይልቅ ወደ ስልኩ ማህደረ ትውስታ ለመጻፍ መሞከር ይችላሉ</string>
     <string name="msg_recording_stopping_not_enough_memory_text">መቅዳት አቁም ለመቀጠል በቂ ማህደረ ትውስታ የለም።</string>
     <string name="msg_settings_opened_stopped_recording_text">መቅዳት አቁም… (ቅንብሮች ተከፍተዋል)</string>
-    <string name="msg_should_stop_recording_before_closing_service">መጀመሪያ መቅዳት ያቁሙ፣ ከዚያ አገልግሎቱን መዝጋት ይችላሉ።</string>
     <string name="msg_stop_rec_too_fast_text">እባክዎን ከጀመሩ በኋላ ወዲያውኑ መቅዳት ከማቆምዎ በፊት አንድ ሰከንድ ይጠብቁ</string>
     <string name="msg_stop_recording_to_change_camera_text">ካሜራውን ለመቀየር የአሁኑን ቅጂ ማቆም አለብዎት</string>
-    <string name="msg_to_close_this_service_close_app">ይህንን አገልግሎት ለመዝጋት በመጀመሪያ ማመልከቻውን ይቀንሱ ወይም ይዝጉ</string>
     <string name="msg_video_become_locked_text">ቪዲዮው እንዳይጻፍ ይታገዳል።</string>
     <string name="msg_video_folder_size">የሁሉም ቪዲዮዎች መጠን ከተፈቀደው ከፍተኛ መጠን</string>
     <string name="msg_video_rec_battery_not_enough_text">በመሳሪያው ላይ በቂ የባትሪ ሃይል የለም። ክፍያው ከ1%% በላይ ከሆነ ይክፈሉ ወይም መቅዳት ይጀምሩ</string>
     <string name="msg_video_recorder_error">በቪዲዮ መቅጃው ላይ የሆነ ችግር ተፈጥሯል።</string>
     <string name="msg_voice_tts_lang_data_missing_text">ለTTS (አንድሮይድ ጽሑፍ-ወደ-ንግግር) የቋንቋ ጥቅል አልተጫነም። ማውረድ ለመጀመር በይነመረብን ያብሩ</string>
-    <string name="msg_auto_recording_service_was_stopped">በራስ-ሰር የጀመረውን የቪዲዮ ዳራ አገልግሎት አቁመዋል። እንደገና ለማስጀመር የBackground Video Recorder መተግበሪያን ይክፈቱ።</string>
-
-    <string name="notification_service_checker">ትንተና</string>
-    <string name="notification_start_service_error_sub_text">መተግበሪያውን ለማስጀመር ማሳወቂያውን ጠቅ ያድርጉ። በሁሉም መተግበሪያዎች ላይ ፍቃድ የለዎትም ወይም መሳሪያው ተቆልፏል</string>
-    <string name="notification_start_service_error_text">በመሣሪያ ቡት ላይ የመቅዳት አገልግሎት መጀመር አልተሳካም።</string>
-    <string name="notification_stop_text">ተወ</string>
     <string name="notification_could_not_start_recording_service">የቀረጻ አገልግሎት መጀመር አልቻለም። ለዚህ መተግበሪያ የባትሪ ማትባትን ለማሰናከል ነካ ያድርጉ</string>
-
+    <string name="notification_service_aux_checker">ኦዲዮ ጃክ (Aux)</string>
+    <string name="notification_service_bl_checker">ብሉቱዝ</string>
+    <string name="notification_service_power_checker">በመሙላት ላይ</string>
+    <string name="notification_stop_text">ተወ</string>
+    <string name="notification_subtitle_to_auto_start_stop_rec_text">ለአውቶ ማብራት/ማጥፋት ቀረጻ</string>
     <string name="permission_audio_dlg_msg">ቪዲዮ በሚቀዳበት ጊዜ የድምጽ ትራክ ለመቅረጽ ኦዲዮ ያስፈልጋል</string>
-    <string name="permission_audio_dlg_title">የድምጽ ጥራት</string>
     <string name="permission_camera_dlg_msg">ካሜራው ለቪዲዮ ቀረጻ እና ለካሜራ ቅድመ እይታ ያስፈልጋል።</string>
-    <string name="permission_camera_dlg_title">የካሜራ ጥራት</string>
     <string name="permission_camera_request_canceled">ይህ መተግበሪያ ቪዲዮን ለመቅረጽ ካሜራውን ለመጠቀም ፈቃድ ይፈልጋል። አንተ ግን አልቀበልከውም። በመዝጋት ላይ… በዚህ መተግበሪያ የስርዓት መቼቶች ውስጥ ለካሜራ ፈቃድ ለመስጠት ይሞክሩ</string>
-    <string name="permission_location_dlg_explanation_msg">አፕሊኬሽኑ ሲቀንስ፣ በተቀዳው ቪዲዮ ላይ መጋጠሚያዎችን፣ አድራሻዎችን እና ፍጥነትን ለመሳል ከበስተጀርባ ያለውን ቦታ ይጠቀማል።</string>
-    <string name="permission_location_dlg_title">የአካባቢ ፈቃድ</string>
+    <string name="permission_location_dlg_msg">በተቀረፀው ቪዲዮ ላይ መጋጠሚያዎችን ፣ አድራሻዎችን እና ፍጥነትን ለመሳል ቦታው ያስፈልጋል ፣ ወይም ይህንን ውሂብ በዋናው ማያ ገጽ ላይ ለማሳየት (እንደ ቅንጅቶችዎ)።</string>
+    <string name="permission_notifications_dlg_msg">የጀርባ ቀረጻ አገልግሎት እና የቀረጻ ሁኔታን በማሳወቂያ ፓኔል ውስጥ ለማሳየት ማሳወቂያዎች ያስፈልጋሉ።</string>
     <string name="permission_storage_dlg_msg">ቪዲዮን ወደ የተጋራ አቃፊ እና ለ loop ቀረጻ ሁነታ ለማስቀመጥ ማከማቻ ያስፈልጋል</string>
-    <string name="permission_storage_dlg_title">የማከማቻ ፍቃድ</string>
-    <string name="permissions_audio_storage_dlg_title">ኦዲዮ እና ፍቃድ ማከማቻ</string>
-
+    <string name="permissions_bluetooth_missing_msg_text">ለራስ ሰር ክስተት ቀረጻ የአቅራቢያ መሳሪያዎች (ብሉቱዝ) ፍቃድ መስጠት አለቦት። ይህ በመተግበሪያው የስርዓት ቅንብሮች ውስጥ ሊከናወን ይችላል።</string>
+    <string name="permissions_grant_storage_btn_text">መብቶችን ይስጡ</string>
+    <string name="permissions_saf_incorrect_path">እባክዎ የተለየ መንገድ ለመምረጥ ይሞክሩ (የመሣሪያ አካባቢያዊ ማከማቻ)</string>
+    <string name="photos_count_one">ፎቶ</string>
+    <string name="photos_count_other">ፎቶዎች</string>
+    <string name="photos_folder_name">ፎቶዎች</string>
+    <string name="prefs_address_geocoding_no_support_text">መሳሪያው ጂኦኮዲንግ ስለማይደግፍ ተሰናክሏል።</string>
     <string name="prefs_audio_bitrate_text">ቢትሬት (ጥራት)</string>
+    <string name="prefs_audio_bt_recording_text">ድምጽን ከብሉቱዝ ይቅረጹ</string>
+    <string name="prefs_audio_bt_recording_warning_message_text">በብሉቱዝ የጆሮ ማዳመጫዎች ብቻ ይጠቀሙ። ከዋናው አሃድ (የመኪና ሬዲዮ) ጋር በብሉቱዝ ከተገናኙ ፣ በሆነ ምክንያት ይህ በራስ-ሰር በዚህ መሣሪያ ላይ ወዳለው መደበኛ ቁጥር የስልክ ጥሪን ያስነሳል።</string>
+    <string name="prefs_audio_bt_recording_warning_title_text">ከጭንቅላት ክፍል (የመኪና ሬዲዮ) ጋር አይጠቀሙ!</string>
+    <string name="prefs_audio_codec_title">የድምጽ ኮድ</string>
+    <string name="prefs_audio_priority_sum">ከነቃ ሌሎች መተግበሪያዎች ማይክሮፎኑን መጠቀም አይችሉም። ከተሰናከለ ይህ አፕሊኬሽን ብዙ አፕሊኬሽኖች ማይክሮፎኑን ሲጠቀሙ ኦዲዮ መቅዳት ላይችል ይችላል (አንድሮይድ ሁልጊዜ ማይክሮፎኑን በአንድ ጊዜ መጠቀምን አይፈቅድም)</string>
+    <string name="prefs_audio_priority_title">ኦዲዮን ለዚህ መተግበሪያ ቅድሚያ ይስጡ</string>
     <string name="prefs_audio_rate_text">የናሙና ድግግሞሽ</string>
     <string name="prefs_audio_recording_text">የድምጽ ቅጂ</string>
     <string name="prefs_audio_settings_sum_text">ጥራት፣ ጠፍቷል/በድምጽ ቀረጻ ላይ</string>
     <string name="prefs_audio_settings_text">የድምጽ ቅንብሮች</string>
+    <string name="prefs_audio_source_camcorder_text">ከCAMCORDER የድምጽ ቅጂ በአንዳንድ መሳሪያዎች ላይ ላይሰራ ይችላል፣ በዚህ አጋጣሚ ወደ MIC ለመቀየር ይሞክሩ</string>
+    <string name="prefs_audio_source_text">የድምጽ ምንጭ</string>
     <string name="prefs_audio_stereo_text">ስቴሪዮ</string>
     <string name="prefs_auto_start_app_launch_sum_text">አፕሊኬሽኑ ሲጀምር በራስ ሰር ቪዲዮ መቅዳት ጀምር</string>
     <string name="prefs_auto_start_app_launch_text">ማመልከቻውን ሲጀምሩ</string>
-    <string name="prefs_battery_optimization_sum_text">የባትሪ ማመቻቸት አፕሊኬሽኑ በትክክል እንዳይሰራ ሊከለክለው ይችላል (ለምሳሌ ካሜራን መጠቀም)። ለዚህ መተግበሪያ አሁን ለማጥፋት እዚህ ጠቅ ያድርጉ</string>
+    <string name="prefs_auto_start_aux_category_text">AUX (የድምጽ መሰኪያ)</string>
+    <string name="prefs_auto_start_bl_category_text">ብሉቱዝ</string>
+    <string name="prefs_auto_start_bl_device_text">የብሉቱዝ መሣሪያ ወይም ማንኛውንም ይምረጡ</string>
+    <string name="prefs_auto_start_bl_sum_text">የብሉቱዝ መሳሪያ ሲገናኝ በራስ ሰር መቅዳት ይጀምራል። መሣሪያው እንደገና ከተጀመረ በኋላ የብሉቱዝ መከታተያ አገልግሎት እንዲጀምር የይለፍ ቃል ካለ መሳሪያው (ስክሪን) መክፈት ያስፈልጋል።</string>
+    <string name="prefs_auto_start_bl_text">የብሉቱዝ መሣሪያ ሲያገናኙ ያስጀምሩ</string>
+    <string name="prefs_auto_start_boot_sum_text">ስርዓቱ ሲጀመር በራስ-ሰር መቅዳት ይጀምራል, የይለፍ ቃል ካለ መሳሪያው (ስክሪን) መከፈት አለበት. ከተጫነ በኋላ ስርዓቱ መጀመሩን ከማሳወቁ በፊት ብዙ ደቂቃዎችን ሊወስድ ይችላል።</string>
+    <string name="prefs_auto_start_boot_text">ስርዓቱ ሲነሳ</string>
+    <string name="prefs_auto_start_power_category_text">ሲሞሉ</string>
+    <string name="prefs_auto_start_power_sum_text">ባትሪ በሚሞላበት ጊዜ በራስ-ሰር መቅዳት ይጀምራል። መሣሪያው እንደገና ከተጀመረ በኋላ የኃይል መሙያ መከታተያ አገልግሎት እንዲጀምር የይለፍ ቃል ካለ መሳሪያው (ስክሪን) መከፈት አለበት</string>
+    <string name="prefs_auto_start_power_text">ባትሪ መሙላት ሲገናኝ ይጀምሩ</string>
+    <string name="prefs_auto_stop_bl_text">የብሉቱዝ መሣሪያን ሲነቅሉ ያቁሙ</string>
+    <string name="prefs_auto_stop_power_text">ግንኙነቱን ሲሞሉ ያቁሙ</string>
+    <string name="prefs_aux_auto_start_sum_text">ወደ ኦዲዮ መሰኪያ (AUX) ሲሰካ በራስ-ሰር መቅዳት ይጀምራል</string>
+    <string name="prefs_aux_auto_start_text">ወደ ኦዲዮ መሰኪያ (AUX) ሲሰካ ያሂዱ</string>
+    <string name="prefs_aux_auto_stop_text">ከድምጽ መሰኪያ (AUX) ሲቋረጥ ያቁሙ</string>
+    <string name="prefs_battery_optimization_sum_text">የባትሪ ማመቻቸት አፕሊኬሽኑ በትክክል እንዳይሰራ (ለምሳሌ ካሜራውን መጠቀም ወይም ከበስተጀርባ ቪዲዮ በሚቀዳበት ጊዜ ቦታውን ማዘመን) ይከለክላል። ለዚህ መተግበሪያ አሁን ለማሰናከል እዚህ ጠቅ ያድርጉ</string>
+    <string name="prefs_battery_optimization_sum_text_bvr">የባትሪ ማመቻቸት አፕሊኬሽኑ በትክክል እንዳይሰራ ሊከለክለው ይችላል (ለምሳሌ ካሜራ እና ማይክሮፎን መጠቀም)። ለዚህ መተግበሪያ አሁን ለማሰናከል እዚህ ጠቅ ያድርጉ</string>
     <string name="prefs_battery_optimization_text">የባትሪ ማመቻቸት</string>
+    <string name="prefs_beep_each_start_recording_sum_text">በሚቀጥለው የቪዲዮ ፋይል ቀረጻ መጀመሪያ ላይ ምልክት ያድርጉ</string>
+    <string name="prefs_beep_each_start_recording_text">በሚቀዳበት ጊዜ ጩህ ያድርጉ</string>
+    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">የመሳሪያው አምራች የሁሉንም ካሜራዎች መዳረሻ ላይሰጥ ይችላል፣ ስለዚህ አንዳንዶቹ ላይከፈቱ ይችላሉ።</string>
+    <string name="prefs_camera_why_wide_lens_not_available_sum">የመሳሪያው አምራች ለሁሉም መተግበሪያዎች ሰፊ የሌንስ ካሜራ ላያቀርብ ይችላል።</string>
     <string name="prefs_day_night_mode_auto_text">አውቶማቲክ (ቀን /ሌሊት) ፣ በጊዜ</string>
     <string name="prefs_day_night_mode_day_text">ቀን</string>
     <string name="prefs_day_night_mode_night_text">ለሊት</string>
-    <string name="prefs_donate_action_text">ለገሱ</string>
-    <string name="prefs_donate_disable_ads_text">ልገሳ፣ ማስታወቂያዎችን ያስወግዱ</string>
     <string name="prefs_donate_sum_text">የመተግበሪያ ልማትን ይደግፉ</string>
-    <string name="prefs_donate_text">ልገሳ</string>
     <string name="prefs_faq_sum_text">ተደጋግሞ የሚነሱ ጥያቄዎች</string>
+    <string name="prefs_flashlight_turn_on_recording_automatically">በሚቀዳበት ጊዜ የእጅ ባትሪውን በራስ-ሰር ያብሩ</string>
     <string name="prefs_float_size_increase_text">በተንሳፋፊ መስኮት ላይ የአዝራሮች መጠን</string>
-    <string name="from">ከ</string>
-    <string name="to">ከዚህ በፊት</string>
     <string name="prefs_fps_value_from_to_stable_text">(ቀን ብቻ ፣ የተረጋጋ)</string>
     <string name="prefs_fps_value_from_to_text">(ቀን እና ማታ)</string>
+    <string name="prefs_fps_why_fps_60_not_available_sum">የመሳሪያው አምራች ለሁሉም መተግበሪያዎች 60 FPS ላያቀርብ ይችላል።</string>
+    <string name="prefs_frequent_network_requests_text">(ተደጋጋሚ የአውታረ መረብ ጥያቄዎች)</string>
+    <string name="prefs_g_sensor_force_high">ከፍተኛ</string>
+    <string name="prefs_g_sensor_force_low">ዝቅተኛ</string>
+    <string name="prefs_g_sensor_force_normal">መደበኛ</string>
+    <string name="prefs_g_sensor_force_very_high">በጣም ከፍተኛ</string>
+    <string name="prefs_g_sensor_force_very_low">በጣም ዝቅተኛ</string>
+    <string name="prefs_gps_accuracy_text">ከላይ ካለው ስህተት ጋር የጂፒኤስ ውሂብን ችላ በል</string>
+    <string name="prefs_gps_disabled_gps_and_google_text">GPS እና Google ጂኦግራፊያዊ አካባቢ ሲሰናከሉ ማስጠንቀቂያ አሳይ</string>
+    <string name="prefs_gps_disabled_gps_only_text">ጂፒኤስ ከተሰናከለ ብቻ ማስጠንቀቂያ አሳይ</string>
+    <string name="prefs_gps_disabled_no_warning_text">የማስጠንቀቂያ እና የማስተካከል ቁልፍ አታሳይ</string>
+    <string name="prefs_gps_disabled_warning_text">ጂፒኤስ ተሰናክሏል ማስጠንቀቂያ፣ መጠገን አዝራር</string>
     <string name="prefs_info_more_category_text">መረጃ /ተጨማሪ…</string>
+    <string name="prefs_kill_services_sum_text">መተግበሪያዎች በራስ-ሰር እንዲጫወቱ እና ከበስተጀርባ እንዲያሄዱ ለማድረግ በመሣሪያዎ ላይ ቅንብሮች አሉ። እዚህ ጠቅ ያድርጉ እና አፕሊኬሽኑ ከተከለከለው ከበስተጀርባ እንዲሰራ እና ስክሪኑ ሲጠፋ ወደ ልዩነቱ ያክሉት (ራስን ማስጀመር እና የመሳሰሉትን ይፍቀዱ)</string>
+    <string name="prefs_kill_services_text">የበስተጀርባ ስራን መፍቀድ</string>
+    <string name="prefs_launch_activity_on_auto_rec_start_text">መቅዳት በራስ-ሰር ሲጀምር መተግበሪያን ይክፈቱ</string>
+    <string name="prefs_launch_app_auto_text">ቪዲዮ መቅዳት ሲጀምር መተግበሪያን ያስጀምሩ</string>
+    <string name="prefs_launch_app_limitation_text">በአንድሮይድ 11 እና ከዚያ በላይ፣ ስርዓቱ ራሱ የመተግበሪያ ታይነትን (የግላዊነት መመሪያን) ስለሚገድብ ማናቸውንም የተጫኑ መተግበሪያዎች መምረጥ ላይችሉ ይችላሉ።</string>
+    <string name="prefs_launch_app_none_text">አልተመረጠም።</string>
+    <string name="prefs_launch_app_text">የአዝራር ማስጀመሪያ መተግበሪያ</string>
+    <string name="prefs_location_manager">የአካባቢ አስተዳዳሪ (የተቋረጠ)</string>
+    <string name="prefs_location_manager_gps_only_text">ጂፒኤስ በመጠቀም አካባቢን ያዘምኑ (አውታረ መረብን አይጠቀሙ)</string>
+    <string name="prefs_location_method_provider_sum_text">የፍጥነት እሴቶቹ መጥፎ ከሆኑ የድሮውን ዘዴ ይሞክሩ። እሴቶቹ ዜሮ ከሆኑ ወይም ብዙም ያልተዘመኑ ከሆነ አዲሱን ዘዴ ይሞክሩ</string>
+    <string name="prefs_location_mode_balanced_text">የአካባቢ ትክክለኛነት (መጋጠሚያዎች), ፍጥነት እና የባትሪ ኃይል ፍጆታ መካከል ያለው ሚዛን.</string>
+    <string name="prefs_location_mode_high_accuracy_text">በከፍተኛ የባትሪ ኃይል ፍጆታ ምክንያት በጣም ትክክለኛው ቦታ (መጋጠሚያዎች) እና ፍጥነት።</string>
+    <string name="prefs_location_mode_low_power_text">በአነስተኛ የባትሪ ኃይል ፍጆታ ምክንያት የመገኛ ቦታ (መጋጠሚያዎች) እና ፍጥነት ዝቅተኛ ትክክለኛነት.</string>
+    <string name="prefs_location_mode_text">የጂፒኤስ ቅድሚያ (ባትሪ ወይም ትክክለኛነት)</string>
+    <string name="prefs_location_provider_method_text">የአካባቢ ማግኛ ዘዴ (ጂፒኤስ)</string>
+    <string name="prefs_location_update_frequency_text">የጂፒኤስ ዝማኔ መጠን</string>
+    <string name="prefs_meters_accuracy_value_text">ሜትር ትክክለኛነት</string>
     <string name="prefs_optical_zoom_text">የጨረር ማጉላት (ማጉላት) /የትኩረት ርዝመት</string>
     <string name="prefs_orientation_landscape">የመሬት ገጽታ</string>
     <string name="prefs_orientation_landscape_reversed">የአልበም ተቃራኒ</string>
     <string name="prefs_orientation_portrait">የቁም ሥዕል</string>
+    <string name="prefs_orientation_sensor_automatic">አውቶማቲክ</string>
     <string name="prefs_other_auto_deleting_sum_text">ለአዳዲስ ቪዲዮዎች በቂ ቦታ ከሌለ በመቅረጽ ላይ እያሉ የቆዩ ቪዲዮዎችን በራስ ሰር ይሰርዙ</string>
     <string name="prefs_other_auto_deleting_text">ሉፕ መቅዳት</string>
+    <string name="prefs_other_date_time_text">ቀን እና ሰዓት</string>
     <string name="prefs_other_keep_screen_on_text">ማያ ገጹን ይተውት።</string>
+    <string name="prefs_other_keep_screen_on_while_recording_only_text">ሲቀረጹ ብቻ ማያ ገጹን ያቆዩት።</string>
+    <string name="prefs_other_miles_sum_text">ከኪሎሜትሮች ይልቅ ማይሎችን ለመጠቀም ያብሩ</string>
+    <string name="prefs_other_miles_text">በ ማይሎች ፣ እግሮች አሳይ</string>
+    <string name="prefs_other_path_not_set">የመቅጃ ዱካ አልተዘጋጀም፣ እሱን ለማቀናበር እዚህ ጠቅ ያድርጉ</string>
     <string name="prefs_other_path_photo_text">የፎቶ ቦታ (አቃፊ /መንገድ)</string>
     <string name="prefs_other_path_text">የቪዲዮ ቦታ (አቃፊ /መንገድ)</string>
-    <string name="prefs_other_settings_sum_text">የቪዲዮ መገኛ (አቃፊ ያስቀምጡ)፣ የቪዲዮ ቆይታ፣ የሉፕ ቀረጻ፣ ከፍተኛ የቪዲዮ መጠን</string>
+    <string name="prefs_other_settings_sum_text">የቪዲዮ መገኛ (አቃፊን ያስቀምጡ)፣ የቪዲዮ ቆይታ፣ የሉፕ ቀረጻ፣ ጂ-ዳሳሽ፣ ጂፒኤስ</string>
+    <string name="prefs_other_settings_sum_text_bvr">የቪዲዮ ቀረጻዎች መገኛ (ለመቆጠብ አቃፊ)፣ የቪዲዮ ቆይታ፣ የሉፕ ቀረጻ፣ ከፍተኛ የቪዲዮ መጠን</string>
     <string name="prefs_other_settings_text">ሌሎች ቅንብሮች</string>
+    <string name="prefs_other_show_address_text">የአሁኑ አካባቢ አድራሻ</string>
+    <string name="prefs_other_show_altitude_text">ከባህር ጠለል በላይ ከፍታ</string>
+    <string name="prefs_other_show_coordinates_text">መጋጠሚያዎች</string>
+    <string name="prefs_other_show_speed_text">የአሁኑ ፍጥነት</string>
+    <string name="prefs_other_show_ui_elements_text">በማያ ገጹ ላይ የሚታዩ ዕቃዎች</string>
     <string name="prefs_other_video_duration_text">የቪዲዮ ቆይታ - ምን ያህል ጊዜ እንደሚቀመጥ</string>
     <string name="prefs_overlay_app_btn_text">መተግበሪያውን ያስጀምሩ</string>
     <string name="prefs_overlay_buttons_text">አዝራሮች /ንጥረ ነገሮች በተንሳፋፊ መስኮት ላይ</string>
     <string name="prefs_overlay_close_btn_text">መስኮት ዝጋ</string>
     <string name="prefs_overlay_drag_btn_text">መስኮት ይጎትቱ</string>
+    <string name="prefs_overlay_speed_text">ፍጥነት አሳይ</string>
     <string name="prefs_overlay_videos_btn_text">የቪዲዮ ስክሪን ክፈት</string>
     <string name="prefs_pinch_to_zoom_sum_text">በሁለት ጣቶች አጉላ</string>
     <string name="prefs_pinch_to_zoom_text">የማያ ገጽ ማጉላትን አንቃ</string>
     <string name="prefs_policy_text">የ ግል የሆነ</string>
     <string name="prefs_rate_sum_text">በፕሌይ ስቶር ውስጥ ያለውን መተግበሪያ ደረጃ ይስጡት።</string>
     <string name="prefs_rate_text">ግምት</string>
+    <string name="prefs_rules_auto_category_camera_motion_text">እንቅስቃሴን በካሜራ መለየት</string>
+    <string name="prefs_rules_auto_lock_file_sum_text">መምታት ሲገኝ ቪዲዮን በራስ ሰር ከመሰረዝ አግድ (ይገለበጥ)</string>
+    <string name="prefs_rules_auto_lock_file_text">ጂ-ዳሳሽ (ሾክ ዳሳሽ)</string>
+    <string name="prefs_rules_auto_lock_file_threshold_text">የጂ-ዳሳሽ ስሜት</string>
+    <string name="prefs_rules_auto_lock_file_vibrate_text">ድንጋጤ በሚታወቅበት ጊዜ ንዝረት</string>
+    <string name="prefs_rules_auto_start_camera_motion_text">እንቅስቃሴ ሲገኝ መቅዳት ይጀምሩ</string>
+    <string name="prefs_rules_auto_start_speed_text">ፍጥነቱ እኩል/ከፍተኛ ሲሆን መቅዳት ጀምር (በጂፒኤስ ላይ በመመስረት)</string>
+    <string name="prefs_rules_auto_start_without_service_sum_text">* አፕ አውቶማቲክ ቀረጻ እንዲሰራ ይህን አማራጭ ማጥፋት የሚችሉት የመተግበሪያው የጀርባ አገልግሎት (AutoStart) ሲሰራ ብቻ ነው።\n- እንደ ባትሪ መሙላት፣ ብሉቱዝ ወይም AUX ያሉ ክስተቶችን በራስ ሰር መቅዳት እስከ አንድሮይድ 7.1 ድረስ ያለ ችግር ሊከናወን ይችላል።\n- ከ አንድሮይድ 8 ጀምሮ ያለ ዳራ አፕሊኬሽን አገልግሎት (AutoStart) አውቶማቲክ ቀረጻ ለብሉቱዝ ዝግጅቶች ብቻ ሊከናወን ይችላል፣ እና በሌሎች ሁኔታዎች (ሲሞሉ ወይም AUX) መጀመሪያ የጀርባ አፕሊኬሽን አገልግሎትን (AutoStart) መጀመር ያስፈልግዎታል - በማስጀመር። እራሱን አንድ ጊዜ ማመልከቻ.\n- ከአንድሮይድ 11 ጀምሮ ያለ የጀርባ አፕ አገልግሎት (AutoStart) የካሜራውን ያለተጠቃሚ መስተጋብር ማግኘት የሚቻለው ስልኩ ከተከፈተ (ስክሪን በርቶ) እና \"ከሁሉም መተግበሪያዎች በላይ\" ፈቃድ ከተሰጠ ብቻ ነው።\n- ስለዚህ ለአንድሮይድ 11 እና ከዚያ በላይ የመተግበሪያው የጀርባ አገልግሎት (AutoStart) በማንኛውም ክስተት ላይ እና የስልኩ ስክሪን ሲጠፋ በራስ ሰር ለመቅዳት እንዲጀምር አንድ ጊዜ ትግበራውን በእጅ ማስጀመር ያስፈልግዎታል።</string>
+    <string name="prefs_rules_auto_start_without_service_text">የበስተጀርባ አገልግሎት እየሰራ ባይሆንም በራስ ሰር መቅዳት (AutoStart)</string>
+    <string name="prefs_rules_auto_stop_after_specific_time_text">በኋላ መቅዳት አቁም</string>
+    <string name="prefs_rules_auto_stop_camera_motion_text">እንቅስቃሴ በማይኖርበት ጊዜ መቅዳት ያቁሙ</string>
+    <string name="prefs_rules_auto_stop_speed_text">ፍጥነቱ ዝቅተኛ ሲሆን መቅዳት ያቁሙ (በጂፒኤስ ላይ በመመስረት)</string>
+    <string name="prefs_rules_bl_auto_start_only_if_charging_text">መሣሪያው በሚሞላበት ጊዜ ብቻ መቅዳት</string>
     <string name="prefs_rules_video_space_text">የሁሉም ቪዲዮዎች ከፍተኛ የማህደረ ትውስታ አቅም (loop ቀረጻ)</string>
+    <string name="prefs_screen_autostart_sum_text">አፕሊኬሽኑን ሲጀምሩ ባትሪ መሙላትን ያብሩ /ያጥፉ, ስርዓቱን ያስነሱ</string>
     <string name="prefs_screen_autostart_text">መቅዳት በራስ-ጀምር</string>
-    <string name="prefs_screen_ui_summary_text">በስክሪኑ ላይ ፈጣን እና ረጅም ተጫን፣ ብቅ ባይ መስኮት፣ ቀረጻ ላይ ንዝረት፣ የድምጽ ማንቂያ፣ የማያ ገጽ ላይ ቁልፎች፣ ስክሪን ጠፍቷል እና ሌሎችም</string>
+    <string name="prefs_screen_ui_summary_text">ስክሪን በፍጥነት/በረጅሙ ተጭኖ፣ ስክሪን ጠፍቷል፣ አድራሻ እና ፍጥነት ማሳያ፣ ብቅ ባይ መስኮት፣ አዝራሮች እና ሌሎችም።</string>
+    <string name="prefs_screen_ui_summary_text_bvr">መቅዳት ለመጀመር አቋራጭ፣ ፈጣን እና ረጅም ስክሪኑን ይጫኑ፣ ብቅ ባይ መስኮት፣ ሲቀረጹ ንዝረት፣ የድምጽ ማሳወቂያ፣ ንዝረት፣ ስክሪኑ ላይ ያሉ ቁልፎች፣ ስክሪኑን ማጥፋት እና ሌሎችም</string>
     <string name="prefs_screen_ui_title">በይነገጽ (UI)</string>
     <string name="prefs_screen_video_day_night_mode_sum_text">በራስ-ሰር የካሜራ ቀን/ሌሊት ሁነታን በተወሰኑ ጊዜያት ይቀይራል።</string>
     <string name="prefs_screen_video_day_night_mode_text">ራስ-ቀን /የምሽት ቅንብሮች</string>
@@ -151,8 +263,10 @@
     <string name="prefs_settings_fps_sum_text">ተጨማሪ FPS - ለስላሳ ቪዲዮ፣ ግን ፈጣን የባትሪ ፍሳሽ። በጨለማ ውስጥ በተሻለ ሁኔታ ለመቅዳት የመጀመሪያውን እሴት ወደ ዝቅተኛው (ሁለተኛው ከፍ ያለ ሊሆን ይችላል) ማዘጋጀት የተሻለ ነው</string>
     <string name="prefs_share_sum_text">ይህን መተግበሪያ ለጓደኞችዎ ይላኩ</string>
     <string name="prefs_share_text">ይህን አጋራ</string>
+    <string name="prefs_shortcut_launcher_has_been_added">አቋራጭ (አስጀማሪ) ታክሏል።</string>
+    <string name="prefs_shortcut_rec_start_launcher_sum">ዋናውን ስክሪን ሳይከፍቱ መቅዳት ለመጀመር/ለማቆም</string>
+    <string name="prefs_shortcut_rec_start_launcher_title">አቋራጭ አክል (አስጀማሪ)</string>
     <string name="prefs_show_audio_btn_text">የበራ/የጠፋ የድምጽ ቅጂ</string>
-    <string name="prefs_show_buttons_sum_text">ካሜራዎችን የመቀየር አዝራሮች፣ የማብራት/የድምጽ ቀረጻ፣ ብልጭታ፣ የምሽት ሁነታ፣ ቪዲዮ እንዳይፃፍ የሚያግድ</string>
     <string name="prefs_show_buttons_text">በማያ ገጹ ላይ ያሉ አዝራሮች</string>
     <string name="prefs_show_camera_change_btn_text">የካሜራ ለውጥ</string>
     <string name="prefs_show_day_night_mode_btn_text">ቀን /ምሽት /ራስ-ሰር ሁነታዎች</string>
@@ -160,30 +274,82 @@
     <string name="prefs_show_lock_btn_text">ቪዲዮዎች እንዳይገለበጡ ማገድ</string>
     <string name="prefs_show_overlay_btn_sum_text">በሁሉም መተግበሪያዎች ላይ የመቆጣጠሪያ አዝራሮች ያሉት መስኮት ያሳያል</string>
     <string name="prefs_show_overlay_btn_text">ተንሳፋፊ መስኮት አሳይ</string>
+    <string name="prefs_show_overlay_on_recording_text">መቅዳት ሲጀምር ተንሳፋፊ መስኮት አሳይ</string>
     <string name="prefs_show_status_bar_text">የስርዓት ሁኔታ አሞሌን አሳይ</string>
     <string name="prefs_show_take_photo_btn_text">ፎቶ ለመስራት</string>
     <string name="prefs_stabilization_not_supported_by_camera_or_device_text">አሁን ባለው ካሜራ አይደገፍም። አምራቾች ብዙውን ጊዜ አጠቃቀሙን ይገድባሉ - በመደበኛ የካሜራ መተግበሪያ ውስጥ ብቻ ይገኛል።</string>
+    <string name="prefs_start_stop_toast_message_text">ከበስተጀርባ ቀረጻ ወቅት መቅዳት ሲጀምር ወይም ሲያቆም መልእክት አሳይ</string>
     <string name="prefs_start_stop_voice_sum_text">ሲጀመር ድምጽ ማሰማት፣ ማቆም ወይም መቅረጽ ስህተት</string>
     <string name="prefs_start_stop_voice_text">የድምፅ ቀረጻ ሁኔታ</string>
+    <string name="prefs_subtitles_address_text">አድራሻዉ</string>
+    <string name="prefs_subtitles_color_text">የትርጉም ጽሑፍ ቀለም ይምረጡ</string>
+    <string name="prefs_subtitles_coords_text">መጋጠሚያዎች</string>
+    <string name="prefs_subtitles_custom_text_sum_text">ለምሳሌ ታርጋ</string>
+    <string name="prefs_subtitles_custom_text_text">ተጨማሪ ጽሑፍ</string>
+    <string name="prefs_subtitles_date_format_text">የቀን ቅርጸት</string>
+    <string name="prefs_subtitles_date_text">የቀን ሰዓት)</string>
+    <string name="prefs_subtitles_date_time_system_text">ሥርዓታዊ</string>
+    <string name="prefs_subtitles_gpx_delay_title">GPX ዝቅተኛ የዝማኔ መጠን</string>
+    <string name="prefs_subtitles_gpx_no_delay_entry">ሁሉም ማሻሻያዎችን ያስተባብራሉ</string>
+    <string name="prefs_subtitles_gpx_sum">GPX - ለሶፍትዌር አፕሊኬሽኖች እንደ የተለመደ የጂፒኤስ መረጃ ቅርጸት የተነደፈ የኤክስኤምኤል እቅድ። የመንገድ ነጥቦችን፣ ትራኮችን እና መስመሮችን ለመግለጽ ጥቅም ላይ ሊውል ይችላል።</string>
+    <string name="prefs_subtitles_gpx_title">ለእያንዳንዱ ቪዲዮ የ GPX ፋይል ይፍጠሩ</string>
+    <string name="prefs_subtitles_in_english_text">የእንግሊዝኛ የትርጉም ጽሑፎች</string>
+    <string name="prefs_subtitles_position_bottom_sum_text">በቪዲዮው ግርጌ ላይ የትርጉም ጽሑፎች ተደራረቡ</string>
+    <string name="prefs_subtitles_position_bottom_text">የትርጉም ጽሑፎች ከታች</string>
+    <string name="prefs_subtitles_settings_sum_text">ተደራቢ የቪዲዮ መግለጫዎች፡ ቀን (ሰዓት)፣ የአካባቢ አድራሻ፣ መጋጠሚያዎች እና ፍጥነት</string>
+    <string name="prefs_subtitles_settings_sum_text_bvr">በቪዲዮዎች ላይ ተደራቢ መግለጫ ጽሑፎች፡ ቀን (የጊዜ ማህተም)፣ ብጁ ጽሑፍ</string>
+    <string name="prefs_subtitles_settings_text">የትርጉም ጽሑፍ ቅንጅቶች</string>
+    <string name="prefs_subtitles_size_text">የጽሑፍ መጠን ጨምር</string>
+    <string name="prefs_subtitles_speed_text">ፍጥነት</string>
+    <string name="prefs_subtitles_sum_non_transparent_text">(ግልጽ ያልሆነ)</string>
+    <string name="prefs_subtitles_time_format_text">የጊዜ ቅርጸት</string>
+    <string name="prefs_subtitles_transparency_text">የጽሑፍ ግልጽነት</string>
+    <string name="prefs_subtitles_update_address_frequency_sum_text">ብዙ ዝመናዎች በበዙ ቁጥር ባትሪው በፍጥነት ይጠፋል</string>
+    <string name="prefs_subtitles_update_address_frequency_text">የአድራሻ ማሻሻያ መጠን</string>
     <string name="prefs_support_sum_text">ሳንካ ሪፖርት አድርግ፣ ብልሽት ወይም ቅናሽ አድርግ</string>
     <string name="prefs_support_text">ድጋፍ (ምላሽ)</string>
-    <string name="prefs_system_alert_window_sum_text">ይህ መተግበሪያ ከሁሉም መተግበሪያዎች በላይ እንዲታይ ይፍቀዱለት። ተንሳፋፊውን መስኮት ለማሳየት ይህ ያስፈልጋል</string>
+    <string name="prefs_system_alert_window_sum_text">ይህ መተግበሪያ ከሁሉም መተግበሪያዎች በላይ እንዲታይ ይፍቀዱለት። የቪዲዮ ቀረጻን በራስ ሰር ለመጀመር/ለማቆም ወይም ተንሳፋፊ መስኮት ለማሳየት ይህ አስፈላጊ ነው።</string>
+    <string name="prefs_system_alert_window_sum_text_bvr">ይህ መተግበሪያ በሁሉም ሌሎች መተግበሪያዎች ላይ እንዲታይ ይፍቀዱለት። ይህ ተንሳፋፊ መስኮት ለማሳየት አስፈላጊ ነው</string>
     <string name="prefs_system_alert_window_text">በሁሉም መስኮቶች ላይ ያለው ጥራት</string>
+    <string name="prefs_theme_mode_dark">ጨለማ ጭብጥ</string>
+    <string name="prefs_theme_mode_dynamic">ተለዋዋጭ</string>
+    <string name="prefs_theme_mode_light">ፈካ ያለ ጭብጥ</string>
+    <string name="prefs_theme_mode_system_auto">በስርዓቱ ውስጥ እንዳለ (ራስ-ሰር)</string>
+    <string name="prefs_tip_apply_auto_rec_on_text">ይህንን መቼት ለመተግበር እና የመከታተያ አገልግሎቱን ለመጀመር ወደ መነሻ ስክሪን (ቀረጻዎች) ይመለሱ</string>
     <string name="prefs_toolbar_title_setting">ቅንብሮች</string>
+    <string name="prefs_translate_sum_text">በቋንቋዎ ውስጥ ያለውን የጽሑፍ ትርጉም ለማሻሻል ወይም ለማስተካከል ያግዙ</string>
+    <string name="prefs_translate_text">የመተግበሪያ ትርጉም</string>
+    <string name="prefs_ui_app_icon_and_label_change">በስርዓቱ ውስጥ የመተግበሪያውን አዶ እና ስም ይለውጡ</string>
+    <string name="prefs_ui_app_icon_and_label_change_sum">ከለውጡ በኋላ, አፕሊኬሽኑ ሊዘጋ ይችላል, የድሮው አዶ በስልኩ ዋና ስክሪን (ወይም በሁሉም አፕሊኬሽኖች ዝርዝር ውስጥ) ይወገዳል እና አዲስ ይታያል.</string>
+    <string name="prefs_ui_app_icon_and_label_launcher_recording">የአስጀማሪውን አዶ እና ስም ያዘጋጁ</string>
+    <string name="prefs_ui_app_notification_icon_and_label_change">የማሳወቂያ አዶ እና ስም ቀይር</string>
+    <string name="prefs_ui_camera_preview_sum_text">በዋናው የመተግበሪያ ማያ ገጽ ላይ የካሜራ ቅድመ እይታን አሳይ</string>
+    <string name="prefs_ui_camera_preview_text">የካሜራ ቅድመ እይታ</string>
     <string name="prefs_ui_click_none_text">ምንም የማደርገው የለም</string>
     <string name="prefs_ui_click_start_stop_rec_text">መቅዳት ጀምር/አቁም</string>
     <string name="prefs_ui_click_text">በማያ ገጹ ላይ በፍጥነት መታ ያድርጉ</string>
     <string name="prefs_ui_long_click_text">ማያ ገጹ ላይ በረጅሙ ተጫን</string>
+    <string name="prefs_value_secs_few_text">ሰከንዶች</string>
+    <string name="prefs_value_secs_one_text">ሁለተኛ</string>
+    <string name="prefs_value_secs_other_text">ሰከንዶች</string>
     <string name="prefs_version_text">የመተግበሪያ ስሪት</string>
+    <string name="prefs_vibrate_rec_start_stop_text">መቅዳት ሲጀምር ወይም ሲያቆም ንዝረት</string>
     <string name="prefs_video_bitrate_text">ቢትሬት (ጥራት)</string>
     <string name="prefs_video_camera_control_scene_mode_night_text">የካሜራ መቆጣጠሪያ ትዕይንት ሁነታ (ሌሊት)</string>
     <string name="prefs_video_camera_control_scene_mode_text">የካሜራ መቆጣጠሪያ ትዕይንት ሁነታ (ቀን)</string>
+    <string name="prefs_video_codec_sum_text">H.265 HEVC እና AV1 codecs ከH.264 AVC ባነሰ ዝቅተኛ ቢትሬት የተሻለ ጥራት ይሰጣሉ፣ስለዚህ ቢትሬትን በመቀነስ ቦታ መቆጠብ ይችላሉ። ነገር ግን ቪዲዮዎች በአንዳንድ የቪዲዮ ማጫወቻዎች ላይ ላይጫወቱ ይችላሉ።</string>
+    <string name="prefs_video_codec_text">የቪዲዮ ኮዴክ</string>
+    <string name="prefs_video_control_scene_mode_beach_text">የባህር ዳርቻ (ብሩህ የአየር ሁኔታ)</string>
     <string name="prefs_video_control_scene_mode_face_priority_text">አጠቃላይ /የፊት ቅድሚያ</string>
     <string name="prefs_video_control_scene_mode_hdr_text">ኤችዲአር (ከፍተኛ ተለዋዋጭ ክልል)</string>
     <string name="prefs_video_control_scene_mode_night_text">ምሽት (ለዝቅተኛ ብርሃን ሁኔታዎች)</string>
+    <string name="prefs_video_control_scene_mode_snow_text">በረዶ</string>
+    <string name="prefs_video_control_scene_mode_sunset_text">ጀንበር ስትጠልቅ</string>
     <string name="prefs_video_day_night_auto_mode_day_start_time_text">የፀሀይ መውጣት ጊዜ (ፀሐይ መውጣት)</string>
     <string name="prefs_video_day_night_auto_mode_night_start_time_text">ፀደይ ስትጠልቅ (ፀሐይ ስትጠልቅ)</string>
     <string name="prefs_video_day_night_mode_text">ቀን፣ ማታ ወይም ራስ-ሰር ሁነታ</string>
+    <string name="prefs_video_exposure_auto_mode_sum_text">የሴንሰር ፍሬም ቆይታን፣ የተጋላጭነት ጊዜን፣ ስሜታዊነትን እና ክፍት ቦታን በእጅ ለመቆጣጠር ከፈለጉ ያሰናክሉ።</string>
+    <string name="prefs_video_exposure_auto_mode_text">ራስ-ሰር መጋለጥ ሁነታ</string>
     <string name="prefs_video_exposure_night_text">የተጋላጭነት ማካካሻ (ሌሊት)</string>
     <string name="prefs_video_exposure_text">የተጋላጭነት ማካካሻ (ቀን)</string>
     <string name="prefs_video_flip_x_sum_text">የቪዲዮ አግድም መስታወት። ምስሉ የሚለወጠው ለቪዲዮ ቀረጻ ብቻ ነው፣ ቅድመ እይታው አይቀየርም።</string>
@@ -194,8 +360,6 @@
     <string name="prefs_video_focus_night_text">የካሜራ ትኩረት (ምሽት)</string>
     <string name="prefs_video_focus_text">የካሜራ ትኩረት (ቀን)</string>
     <string name="prefs_video_fps_range_text">ክፈፎች በሰከንድ (ኤፍፒኤስ)</string>
-    <string name="prefs_video_hevc_sum_text">ቦታ ለመቆጠብ በHEVC (H.265) ቅርጸት ይቅረጹ። እንደዚህ ያሉ ቪዲዮዎችን በሌሎች የቪዲዮ መልሶ ማጫወት መሳሪያዎች ወይም አፕሊኬሽኖች ላይ ማጫወት ላይችሉ ይችላሉ። ጥራትን ዳግም ያስጀምራል እና ከተለወጠ በኋላ ቢትሬት ያደርጋል</string>
-    <string name="prefs_video_hevc_text">በጣም ቀልጣፋ የቪዲዮ ኮድ ማድረግ</string>
     <string name="prefs_video_orientation_text">የቪዲዮ እና የስልክ አቀማመጥ</string>
     <string name="prefs_video_resolution_text">የቪዲዮ ጥራት</string>
     <string name="prefs_video_settings_sum_text">ጥራት፣ የቢት ፍጥነት፣ አቅጣጫ፣ ትኩረት፣ ካሜራ፣ የምሽት ሁነታ</string>
@@ -203,18 +367,31 @@
     <string name="prefs_video_size_sum_text">ትልቅ መጠን - ፈጣን የባትሪ ፍሳሽ</string>
     <string name="prefs_video_space_unlimited">ያልተገደበ</string>
     <string name="prefs_video_stabilization_text">የቪዲዮ ማረጋጊያ</string>
+    <string name="prefs_voice_recorder_app">ከበስተጀርባ የድምፅ መቅጃ</string>
+    <string name="prefs_warning_location_precise_sum_text">ይህ በጣም ትክክለኛ የሆነውን በጂፒኤስ ላይ የተመሰረተ ፍጥነት, እንዲሁም አድራሻ እና መጋጠሚያዎችን ለማግኘት አስፈላጊ ነው. ለማስገባት ጠቅ ያድርጉ</string>
+    <string name="prefs_warning_location_precise_text">ለትክክለኛው ቦታ ፍቃድ</string>
+    <string name="prefs_warning_notifications_sum_text">የጀርባ ቀረጻ አገልግሎትን እና ሁኔታዎችን በማሳወቂያ ፓነል ላይ ለማሳየት ያስፈልጋል። ለማስገባት ጠቅ ያድርጉ</string>
+    <string name="prefs_warning_notifications_text">የማሳወቂያ ፍቃድ</string>
+    <string name="prefs_warning_permission_bluetooth_sum_text">በብሉቱዝ ግንኙነቶች ላይ በራስ ሰር መቅዳት ፈቃድ ያስፈልገዋል። ለማስገባት እዚህ ጠቅ ያድርጉ</string>
+    <string name="prefs_warning_permission_bluetooth_text">የብሉቱዝ ፍቃድ አልተሰጠም።</string>
+    <string name="prefs_warnings_text">ማስጠንቀቂያዎች</string>
+    <string name="prefs_zoom_out_desc_text">እጅግ በጣም ሰፊውን አንግል ካሜራ (ሌንስ) ለመድረስ የማጉላት ሁኔታን ማዘጋጀት ይችላሉ።</string>
     <string name="prefs_zoom_text">ዲጂታል ማጉላት (ማጉላት)</string>
-
+    <string name="rec_audio_silence_text">በአሁኑ ጊዜ ማይክሮፎኑ በሌላ መተግበሪያ ስለተጠለፈ የድምጽ ቀረጻ አይቻልም</string>
+    <string name="rec_available_space_text">ይገኛል።</string>
     <string name="rec_day_night_btn_auto_text">መኪና</string>
     <string name="rec_fix_short_text">ለማስተካከል</string>
     <string name="rec_fix_text">ለማስተካከል</string>
-    <string name="rec_free_space_text">ይገኛል።</string>
-    <string name="rec_location_text">አካባቢ</string>
+    <string name="rec_gps_status_satellites_few_text">ሳተላይቶች</string>
+    <string name="rec_gps_status_satellites_one_text">ሳተላይት</string>
+    <string name="rec_gps_status_satellites_other_text">ሳተላይቶች</string>
     <string name="rec_gps_text">አቅጣጫ መጠቆሚያ</string>
+    <string name="rec_location_text">አካባቢ</string>
     <string name="rec_network_text">የተጣራ</string>
     <string name="rec_off_text">ጠፍቷል</string>
     <string name="rec_on_text">ጨምሮ።</string>
-
+    <string name="rec_service_msg">ግላዊነት፡ የሚቀዳቸው ሁሉም ቪዲዮዎች የሚቀመጡት በአከባቢህ መሳሪያ ላይ ብቻ ነው። አፕሊኬሽኑ ቪዲዮዎችህን መጠባበቂያ አያደርግም (ከአገልጋዮች ጋር ምንም አይነት ግንኙነት የለውም)\n\nቀረጻ ንቁ ሆኖ ሳለ መተግበሪያው ከበስተጀርባ (በማስታወቂያ አሞሌው ላይ የሚታየው የፊት ለፊት አገልግሎት) መስራቱን ይቀጥላል፣ ወደ መነሻ ስክሪን ሲመለሱ ወደ ሌላ መተግበሪያ ይቀይሩ ወይም ቀረጻውን ለመቀጠል ስልክዎን ይቆልፉ እና ሲያበሩ ለራስ-ሰር ቀረጻ ባህሪያት (የጀርባ አገልግሎትን ከዘጉ, እነዚህ ተግባራት አይሰሩም). አፕሊኬሽኑ ፋየር ቤዝ ትንታኔን ይጠቀማል ለመሰረታዊ ማንነታቸው ያልታወቁ ትንታኔዎች (ከዚህ በታች ያለውን አገናኝ ይመልከቱ)</string>
+    <string name="recording_file_name_prefix">ለቪዲዮ ፋይል ስሞች ቅድመ ቅጥያ</string>
     <string name="recording_start_text">መቅዳት ጀምር</string>
     <string name="recording_started_failed_text">መቅዳት መጀመር ላይ ስህተት</string>
     <string name="recording_started_with_audio_text">በድምጽ የተቀዳ አዲስ የቪዲዮ ቀረጻ ተጀምሯል።</string>
@@ -227,26 +404,41 @@
     <string name="recording_text">በመቅዳት ላይ…</string>
     <string name="recording_voice_started_text">መቅዳት ተጀምሯል።</string>
     <string name="recording_voice_stopped_text">መቅዳት ቆሟል</string>
-
-    <string name="service_no_system_alert_window_granted_text">የSYSTEM_ALERT_WINDOW (በሌሎች የመተግበሪያ መስኮቶች ላይ ማሳያ) ፈቃድ ስላልተሰጠ የራስ-ሰር ጅምር/ማቆም ቀረጻ አገልግሎቱን መጀመር አልተቻለም። ወይም መሳሪያው በዚያ ቅጽበት ተቆልፏል (የአንድሮይድ ውሱንነት መሳሪያው መጀመሪያ መከፈት አለበት እና የራስ ቪዲዮ ቀረጻ አገልግሎት ከመጀመሩ በፊት ስክሪኑ ማብራት አለበት)</string>
-
+    <string name="records_file_sorting_date">ቀን</string>
+    <string name="records_file_sorting_duration">ቆይታ</string>
+    <string name="records_file_sorting_name">ስም</string>
+    <string name="records_file_sorting_size">የፋይል መጠን</string>
+    <string name="records_file_upload_drive">ወደ \"Google Drive\" አስቀምጥ</string>
+    <string name="reset">መፍሰስ</string>
     <string name="storage_external_single">የማይክሮ ኤስዲ ካርድ</string>
     <string name="storage_phone">የስልክ ማህደረ ትውስታ</string>
-
+    <string name="timer_auto_start">ሰዓት ቆጣሪ</string>
+    <string name="timer_auto_start_dlg_type_title">መቅዳት ለመጀመር ሰዓት ቆጣሪ ያቀናብሩ</string>
+    <string name="timer_auto_start_every_day_text">በየቀኑ</string>
+    <string name="timer_auto_start_once">አንድ ጊዜ</string>
+    <string name="timer_auto_start_recording_cancel_message_text">አሁን ባለው የሰዓት ቆጣሪ መሰረት አውቶማቲክ የቪዲዮ ቀረጻ ይሰረዝ?</string>
+    <string name="timer_auto_start_recording_datetime_past_error_text">ጊዜው ባለፈው ጊዜ ተወስኗል</string>
+    <string name="timer_auto_start_recording_duration_text">የቪዲዮ ቀረጻ ቆይታ</string>
+    <string name="timer_auto_start_service_notification_subtitle_text">የቪዲዮ ቀረጻ በራስ ሰር ለመጀመር የሰዓት ቆጣሪ አገልግሎት</string>
+    <string name="to">ከዚህ በፊት</string>
+    <string name="unknown">ያልታወቀ</string>
+    <string name="videos_ask_which_player">የትኛውን ተጫዋች እንደሚጫወት ይጠይቁ</string>
     <string name="videos_count_one">ቪዲዮ</string>
     <string name="videos_count_other">ቪዲዮ</string>
     <string name="videos_deleting_text">ፋይሎችን በመሰረዝ ላይ… እባክዎ ይጠብቁ!</string>
-    <string name="videos_dialog_delete_file_confirm_subtitle_one">እርግጠኛ ነዎት ይህን የቪዲዮ ፋይል መሰረዝ ይፈልጋሉ\?</string>
-    <string name="videos_dialog_delete_file_confirm_subtitle_other">እርግጠኛ ነዎት እነዚህን የቪዲዮ ፋይሎች መሰረዝ ይፈልጋሉ\?</string>
-    <string name="videos_dialog_delete_folder_confirm_subtitle_one">እርግጠኛ ነዎት ይህን የቪዲዮ አቃፊ መሰረዝ ይፈልጋሉ\?</string>
-    <string name="videos_dialog_delete_folder_confirm_subtitle_other">እርግጠኛ ነዎት የቪዲዮ አቃፊውን ውሂብ መሰረዝ ይፈልጋሉ\?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_one">እርግጠኛ ነዎት ይህን የቪዲዮ ፋይል መሰረዝ ይፈልጋሉ?</string>
+    <string name="videos_dialog_delete_file_confirm_subtitle_other">እርግጠኛ ነዎት እነዚህን የቪዲዮ ፋይሎች መሰረዝ ይፈልጋሉ?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_one">እርግጠኛ ነዎት ይህን የቪዲዮ አቃፊ መሰረዝ ይፈልጋሉ?</string>
+    <string name="videos_dialog_delete_folder_confirm_subtitle_other">እርግጠኛ ነዎት የቪዲዮ አቃፊውን ውሂብ መሰረዝ ይፈልጋሉ?</string>
     <string name="videos_dialog_delete_multiple_files_title">የቪዲዮ ፋይሎችን ሰርዝ</string>
     <string name="videos_dialog_delete_multiple_folders_title">የቪዲዮ ማህደሮችን ሰርዝ</string>
     <string name="videos_empty_text">ቪዲዮዎች ጠፍተዋል።</string>
-    <string name="videos_file_action_lock_dlg_title">ይህ ቪዲዮ በራስ ሰር ከመሰረዝ (መፃፍ) ይታገድ\?</string>
+    <string name="videos_file_action_lock_dlg_title">ይህ ቪዲዮ በራስ ሰር ከመሰረዝ (መፃፍ) ይታገድ?</string>
     <string name="videos_file_deletion_mode">ሁነታን ሰርዝ</string>
     <string name="videos_file_item_share">ይህን አጋራ</string>
     <string name="videos_file_item_watch">ይመልከቱ</string>
+    <string name="videos_file_open_with">ክፈት በ</string>
+    <string name="videos_file_select">ለ ይምረጡ</string>
     <string name="videos_file_sort_asc">ወደ ላይ ደርድር</string>
     <string name="videos_file_sort_desc">መውረድ ደርድር</string>
     <string name="videos_file_was_locked_text">የቪዲዮ ፋይሉ ወደ የተጠበቀ አቃፊ ተወስዷል</string>
@@ -259,96 +451,9 @@
     <string name="videos_menu_storage">ማህደረ ትውስታ</string>
     <string name="videos_no_storage_permission_dlg_msg_text">እባክዎ የመተግበሪያውን መቼቶች ይክፈቱ እና በስልኩ ማህደረ ትውስታ ውስጥ ያለውን ማከማቻ መዳረሻ ይፍቀዱ</string>
     <string name="videos_no_storage_permission_dlg_title_text">የማከማቻ ፍቃድ የለም።</string>
-    <string name="videos_select_files_for_deleting">የሚሰረዙ የቪዲዮ ፋይሎችን ይምረጡ</string>
+    <string name="videos_no_storage_saf_permission_dlg_msg_text">እባክዎን ለመዝገቦች አቃፊ ይምረጡ</string>
     <string name="videos_storage_select_dlg_title">የቪዲዮ ማከማቻ ይምረጡ</string>
+    <string name="videos_temporary_folder_text">በጊዜ የተያዙ ቪዲዮዎች</string>
     <string name="videos_toolbar_subtitle">የቪዲዮ ቅጂዎች</string>
-
-
-    <string name="prefs_warnings_text">ማስጠንቀቂያዎች</string>
-    <string name="prefs_beep_each_start_recording_sum_text">በሚቀጥለው የቪዲዮ ፋይል ቀረጻ መጀመሪያ ላይ ምልክት ያድርጉ</string>
-    <string name="prefs_beep_each_start_recording_text">በሚቀዳበት ጊዜ ጩህ ያድርጉ</string>
-    <string name="prefs_translate_text">የመተግበሪያ ትርጉም</string>
-    <string name="prefs_translate_sum_text">በቋንቋዎ ውስጥ ያለውን የጽሑፍ ትርጉም ለማሻሻል ወይም ለማስተካከል ያግዙ</string>
-
-    <string name="msg_dialog_camera_battery_optimization_title">ካሜራውን በመድረስ ላይ ስህተት አጋጥሟል። የባትሪ ማትባት ነቅቷል።</string>
-    <string name="msg_dialog_camera_battery_optimization_subtitle">ለወደፊቱ የካሜራ ስህተቶችን ለማስወገድ ለዚህ መተግበሪያ በመሳሪያዎ ቅንብሮች ውስጥ የባትሪ ማትባትን ያሰናክሉ።</string>
-
-
-    <string name="accept_text">ተቀብያለሁ</string>
-
-    <string name="hour">ሰአት</string>
-    <string name="hours">ሰዓታት</string>
-    <string name="prefs_orientation_sensor_automatic">አውቶማቲክ</string>
-    
-    <string name="prefs_vibrate_rec_start_stop_text">መቅዳት ሲጀምር ወይም ሲያቆም ንዝረት</string>
-    <string name="prefs_start_rec_volume_down_key_text">የድምጽ ቁልቁል ቁልፍን በመጫን መቅዳት ይጀምሩ ወይም ያቁሙ</string>
-    <string name="prefs_start_rec_volume_down_key_summary_text">ይህ ባህሪ እንዲሰራ መተግበሪያው ከበስተጀርባ (በማሳወቂያ አሞሌው ውስጥ ተጀምሯል) ይሰራል</string>
-    <string name="timer_auto_start_recording_cancel_message_text">ለአሁኑ ሰዓት ቆጣሪ አውቶማቲክ የቪዲዮ ቀረጻ ይሰረዝ\?</string>
-    <string name="timer_auto_start_recording_duration_text">የቪዲዮ ርዝመት</string>
-    <string name="timer_auto_start_recording_datetime_past_error_text">ጊዜው ያለፈበት ነበር</string>
-    <string name="timer_service_notification_subtitle_text">የቪዲዮ ቀረጻ በራስ ሰር ለመጀመር የሰዓት ቆጣሪ አገልግሎት</string>
-    
-
-    <string name="timer_auto_start_every_day_text">በየቀኑ</string>
-    <string name="timer_auto_start_once">አንድ ጊዜ</string>
-    <string name="timer_auto_start_dlg_type_title">መቅዳት ለመጀመር ሰዓት ቆጣሪ ያቀናብሩ</string>
-
-    <string name="prefs_zoom_out_desc_text">እጅግ በጣም ሰፊውን አንግል ካሜራ (ሌንስ) ለመድረስ የማጉላት ሁኔታን ማዘጋጀት ይችላሉ።</string>
-    <string name="prefs_warning_notifications_sum_text">የጀርባ ቀረጻ አገልግሎትን እና ሁኔታዎችን በማሳወቂያ ፓነል ላይ ለማሳየት ያስፈልጋል። ለማስገባት ጠቅ ያድርጉ</string>
-    <string name="prefs_warning_notifications_text">የማሳወቂያ ፍቃድ</string>
-
-    <string name="prefs_ui_camera_preview_sum_text">የካሜራ ቅድመ እይታን በመነሻ ማያ ገጽ ላይ አሳይ</string>
-    <string name="prefs_ui_camera_preview_text">የካሜራ ቅድመ እይታ</string>orientation
-    <string name="photos_folder_name">ፎቶዎች</string>
-    <string name="photos_count_one">ፎቶ</string>
-    <string name="photos_count_other">ፎቶዎች</string>
-    
-	<string name="prefs_shortcut_rec_start_launcher_title">አቋራጭ አክል (አስጀማሪ)</string>
-    <string name="prefs_shortcut_rec_start_launcher_sum">ዋናውን ስክሪን ሳይከፍቱ መቅዳት ለመጀመር/ለማቆም</string>
-   
-    <string name="prefs_audio_priority_title">ኦዲዮን ለዚህ መተግበሪያ ቅድሚያ ይስጡ</string>
-    <string name="prefs_audio_priority_sum">ከነቃ ሌሎች መተግበሪያዎች ማይክሮፎኑን መጠቀም አይችሉም። ከተሰናከለ ይህ አፕሊኬሽን ብዙ አፕሊኬሽኖች ማይክሮፎኑን ሲጠቀሙ ኦዲዮ መቅዳት ላይችል ይችላል (አንድሮይድ ሁልጊዜ ማይክሮፎኑን በአንድ ጊዜ መጠቀምን አይፈቅድም)</string>
-   
-    
-    
-   
-    
-    
-
-    
-    
-    <string name="rec_audio_silence_text">በአሁኑ ጊዜ ማይክሮፎኑ በሌላ መተግበሪያ ስለተጠለፈ የድምጽ ቀረጻ አይቻልም</string>
-
-    
-    
-    
-
-    <string name="donate_text">ለገሱ</string>
-    <string name="donate_disable_ads_text">ይለግሱ፣ ማስታወቂያዎችን ያሰናክሉ።</string>
-    <string name="donate_dialog_item_no_ads_text">(ማስታወቂያ የለም)</string>
-    <string name="donation_dlg_limited_ads_message_text">በዝቅተኛ ልገሳዎች ማስታወቂያዎቹ የሚወገዱት ለዋናው ማያ ገጽ ብቻ ነው።</string>
-
-    <string name="prefs_camera_why_not_all_non_exposed_camera_can_be_opened">የመሳሪያው አምራች የሁሉንም ካሜራዎች መዳረሻ ላይሰጥ ይችላል፣ ስለዚህ አንዳንዶቹ ላይከፈቱ ይችላሉ።</string>
-
-    <string name="camera_msg_error_non_exposed_error">የተመረጠውን ካሜራ መክፈት አልተሳካም። ይህ የሚሆነው ሁሉም የተደበቁ ካሜራዎች በማንኛውም መተግበሪያ መጠቀም አለመቻላቸው ነው። ብዙ አምራቾች በአገር ውስጥ አፕሊኬሽኖቻቸው ውስጥ ብቻ እንዲጠቀሙባቸው ይፈቅዳሉ. ነባሪ ካሜራ ይከፈታል።</string>
-
-    <string name="rec_service_msg">ግላዊነት፡ የሚቀዳቸው ሁሉም ቪዲዮዎች የሚቀመጡት በአከባቢህ መሳሪያ ላይ ብቻ ነው። አፕሊኬሽኑ የቪድዮዎችዎን ምትኬ አያስቀምጥም (ከአገልጋዮች ጋር ምንም ግንኙነት የሉትም)\n\nአዲስ ቀረጻ ከጀመርክ እና ወደ መነሻ ስክሪን ከተመለስክ፣ ወደ ሌላ መተግበሪያ ከቀየርክ ወይም ስልክህን ቆልፈህ መቅዳት እንድትችል መተግበሪያው ከበስተጀርባ (በማስታወቂያ አሞሌ ላይ የሚታየው የፊት ለፊት አገልግሎት) መስራቱን ይቀጥላል።</string>
-
-    
-
-    
-
-    <string name="permissions_saf_incorrect_path">እባክዎ የተለየ መንገድ ለመምረጥ ይሞክሩ (የመሣሪያ አካባቢያዊ ማከማቻ)</string>
-
-    <string name="permissions_grant_storage_btn_text">የጽሑፍ ማከማቻ ይስጡ</string>
-
-    <string name="donation_subs_text">በየወሩ ይለግሱ</string>
-    <string name="donation_any_amount_text">ለማንኛውም መጠን ምንም ማስታወቂያ የለም።</string>
-    <string name="donation_subs_any_amount_text">እንዲሁም ለማንኛውም መጠን ሲመዘገቡ ማስታወቂያ ሙሉ በሙሉ ይወገዳል.</string>
-    <string name="donation_remove_ads_by_any_amount_text">በማንኛውም መጠን የአንድ ጊዜ ልገሳ ማስታወቂያ ለዘላለም ያስወግዱ። እንዲሁም ማስታወቂያዎችን ለማስወገድ ማንኛውንም መጠን በየወሩ መለገስ ይችላሉ።</string>
-
-    <string name="msg_camera_died_text">ዳራ ቪዲዮ መቅጃ፡ ካሜራው በድንገት መስራት አቁሟል፣ እንደገና ጀምሯል...</string>
-	<string name="camera_error_text">ከበስተጀርባ ቪዲዮ መቅጃ፡ የቪዲዮ ቀረጻ ቆሟል ምክንያቱም የመሳሪያው ካሜራ መስራት አቁሟል</string>
-
-    <string name="prefs_audio_bt_recording_text">ድምጽን ከብሉቱዝ ይቅረጹ</string>
+    <string name="zoom_text">አጉላ</string>
 </resources>
