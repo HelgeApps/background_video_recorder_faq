@@ -101,6 +101,7 @@
     <string name="msg_notification_could_not_start_recording_without_appear_on_top_permission">无法打开应用程序开始录制，因为未授予“显示在所有应用程序之上”权限。点击提供</string>
     <string name="msg_photo_failed_to_take">无法拍照</string>
     <string name="msg_photo_was_saved">照片已保存</string>
+    <string name="msg_photos_edit_only_works_with_public_media_files">Google Photos Edit 仅适用于公共媒体文件。</string>
     <string name="msg_please_close_other_app_and_restart_text">关闭其他使用摄像头的应用程序并重新启动此应用程序</string>
     <string name="msg_recorder_init_error_file_not_found">尝试删除旧视频、格式化 SD 卡或尝试其他视频。此外，限制最大视频录制空间（越少越好）。大量保存的视频会导致此类问题。另请参阅设置/常见问题中有关 SD 卡的常见问题。您也可以尝试写入手机内存而不是SD卡</string>
     <string name="msg_recording_stopping_not_enough_memory_text">停止录音。内存不足，无法继续</string>
@@ -181,6 +182,7 @@
     <string name="prefs_day_night_mode_day_text">白天</string>
     <string name="prefs_day_night_mode_night_text">夜晚</string>
     <string name="prefs_donate_sum_text">支持应用开发</string>
+    <string name="prefs_every_n_time">每N次</string>
     <string name="prefs_faq_sum_text">经常问的问题（frequently-Asked Questions, FAQ）</string>
     <string name="prefs_flashlight_turn_on_recording_automatically">录音时自动打开手电筒</string>
     <string name="prefs_float_size_increase_text">浮动窗口上按钮的大小</string>
@@ -220,10 +222,10 @@
     <string name="prefs_meters_accuracy_value_text">米精度</string>
     <string name="prefs_open_source_notices_text">开源声明</string>
     <string name="prefs_optical_zoom_text">光学变焦（变焦）/焦距</string>
-    <string name="prefs_orientation_landscape">景观</string>
-    <string name="prefs_orientation_landscape_reversed">专辑反转</string>
-    <string name="prefs_orientation_portrait">肖像</string>
-    <string name="prefs_orientation_sensor_automatic">自动的</string>
+    <string name="prefs_orientation_landscape">横向</string>
+    <string name="prefs_orientation_landscape_reversed">横向反转</string>
+    <string name="prefs_orientation_portrait">纵向</string>
+    <string name="prefs_orientation_sensor_automatic">自动旋转</string>
     <string name="prefs_other_auto_deleting_sum_text">如果新视频没有足够空间，录制时自动删除最旧的视频</string>
     <string name="prefs_other_auto_deleting_text">循环记录</string>
     <string name="prefs_other_backup_records_tip">要备份您的录音，请安装 Google 相册等应用程序。在这些应用程序中找到录制文件夹并为其启用备份选项（单击文本查看示例）。</string>
@@ -238,9 +240,9 @@
     <string name="prefs_other_path_not_set">录音路径未设置，点击此处设置</string>
     <string name="prefs_other_path_photo_text">照片位置（文件夹/路径）</string>
     <string name="prefs_other_path_text">视频位置（文件夹/路径）</string>
-    <string name="prefs_other_private_storage">私人存储</string>
+    <string name="prefs_other_private_storage">私密存储</string>
     <string name="prefs_other_private_storage_desc">录音不会在其他应用中显示，你可以设置 PIN 码来锁定访问权限</string>
-    <string name="prefs_other_private_storage_warning_tip">警告：如果卸载此应用，私人存储空间中的录音将被删除。\n在这种情况下，无法使用外部应用（例如 Google Photos）进行备份，因为其他应用无法访问此应用的私人存储空间。</string>
+    <string name="prefs_other_private_storage_warning_tip">警告：如果卸载此应用，私密存储空间中的录音将被删除。\n在这种情况下，无法使用外部应用（例如 Google Photos）进行备份，因为其他应用无法访问此应用的私密存储空间。</string>
     <string name="prefs_other_remove_pin">删除 PIN 码</string>
     <string name="prefs_other_set_pin">设置PIN码</string>
     <string name="prefs_other_settings_sum_text">存储位置（文件夹）、录像时长、循环录像、最大文件大小、G-sensor、PIN码锁、故障自动重启</string>
@@ -322,7 +324,7 @@
     <string name="prefs_subtitles_date_format_text">日期格式</string>
     <string name="prefs_subtitles_date_text">日期）</string>
     <string name="prefs_subtitles_date_time_system_text">系统性</string>
-    <string name="prefs_subtitles_gps_info_category_subtitle">Эти опции могут существенно потреблять батарею 和 нагревать устройство。 Для видеозаписей главное информация о времени, поэтому все GPS опции вполне можно отключить, включая настройки интер фейca</string>
+    <string name="prefs_subtitles_gps_info_category_subtitle">这些选项会严重消耗电池电量并导致设备发热。对于视频录制来说，最主要的是时间信息，因此所有 GPS 选项（包括界面设置）都可以关闭。</string>
     <string name="prefs_subtitles_gps_info_category_title">GPS导航</string>
     <string name="prefs_subtitles_gpx_delay_title">GPX 最低更新率</string>
     <string name="prefs_subtitles_gpx_no_delay_entry">所有坐标更新</string>
@@ -365,11 +367,15 @@
     <string name="prefs_ui_click_start_stop_rec_text">开始/停止录音</string>
     <string name="prefs_ui_click_text">快速点击屏幕</string>
     <string name="prefs_ui_long_click_text">长按屏幕</string>
+    <string name="prefs_value_minute_few_text">分钟</string>
+    <string name="prefs_value_minute_one_text">分钟</string>
+    <string name="prefs_value_minute_other_text">分钟</string>
     <string name="prefs_value_secs_few_text">秒</string>
     <string name="prefs_value_secs_one_text">第二</string>
     <string name="prefs_value_secs_other_text">秒</string>
     <string name="prefs_version_text">应用版本</string>
     <string name="prefs_vibrate_rec_start_stop_text">开始或停止录音时振动</string>
+    <string name="prefs_vibration_strength">振动强度</string>
     <string name="prefs_video_bitrate_text">比特率（质量）</string>
     <string name="prefs_video_camera_control_scene_mode_night_text">相机控制场景模式（夜间）</string>
     <string name="prefs_video_camera_control_scene_mode_text">相机控制场景模式（白天）</string>
@@ -382,7 +388,7 @@
     <string name="prefs_video_control_scene_mode_night_text">夜间（适用于弱光条件）</string>
     <string name="prefs_video_control_scene_mode_snow_text">雪</string>
     <string name="prefs_video_control_scene_mode_sunset_text">日落</string>
-    <string name="prefs_video_day_night_auto_mode_day_start_time_text">日出时间（Sunrise）</string>
+    <string name="prefs_video_day_night_auto_mode_day_start_time_text">日出时间（日出）</string>
     <string name="prefs_video_day_night_auto_mode_night_start_time_text">日落时间（日落）</string>
     <string name="prefs_video_day_night_mode_text">日间、夜间或自动模式</string>
     <string name="prefs_video_exposure_auto_mode_sum_text">如果要手动控制传感器帧持续时间、曝光时间、灵敏度和光圈，请禁用</string>
@@ -420,7 +426,7 @@
     <string name="prefs_zoom_text">数码变焦（变焦）</string>
     <string name="rec_audio_silence_text">目前无法录音，因为麦克风被另一个应用程序拦截</string>
     <string name="rec_available_space_text">空间剩余</string>
-    <string name="rec_day_night_btn_auto_text">汽车</string>
+    <string name="rec_day_night_btn_auto_text">自动</string>
     <string name="rec_fix_short_text">纠正</string>
     <string name="rec_fix_text">纠正</string>
     <string name="rec_gps_status_satellites_few_text">卫星</string>
@@ -479,8 +485,8 @@
     <string name="subscription_close">关闭</string>
     <string name="subscription_free_trial_explanation">免费试用期结束后将开始计费。在试用期结束前取消即可免费使用。</string>
     <string name="subscription_get_premium">获得高级版</string>
-    <string name="subscription_monthly">每月</string>
-    <string name="subscription_premium">优质的</string>
+    <string name="subscription_monthly">按月订阅</string>
+    <string name="subscription_premium">订阅高级版</string>
     <string name="subscription_remove_ads">移除广告</string>
     <string name="subscription_renew_explanation">您的订阅将每月自动续订，除非在当前订阅期结束前至少 24 小时取消</string>
     <string name="subscription_start_free_trial">开始免费试用</string>
@@ -498,7 +504,7 @@
     <string name="timer_auto_start_service_notification_subtitle_text">自动开始视频录制的定时器服务</string>
     <string name="to">到</string>
     <string name="unknown">未知</string>
-    <string name="videos_ask_which_player">询问哪个球员参加比赛</string>
+    <string name="videos_ask_which_player">哪个视频播放器</string>
     <string name="videos_count_one">视频</string>
     <string name="videos_count_other">视频</string>
     <string name="videos_deleting_text">正在删除文件…请稍候！</string>
@@ -522,15 +528,18 @@
     <string name="videos_item_mode_deletion_exit_text">退出删除模式</string>
     <string name="videos_locked_folder_text">覆盖保护</string>
     <string name="videos_menu_delete">删除</string>
+    <string name="videos_menu_move_file">移动文件</string>
     <string name="videos_menu_refresh">刷新</string>
     <string name="videos_menu_select_all">选择全部</string>
     <string name="videos_menu_sorting">排序</string>
     <string name="videos_menu_storage">导出</string>
+    <string name="videos_moving_files_text">正在移动文件...请稍候！</string>
     <string name="videos_no_storage_permission_dlg_msg_text">请打开应用程序设置并允许访问手机内存中的存储</string>
     <string name="videos_no_storage_permission_dlg_title_text">没有存储权限</string>
     <string name="videos_no_storage_saf_permission_dlg_msg_text">请选择一个文件夹用于记录</string>
     <string name="videos_storage_select_dlg_title">选择视频存储</string>
     <string name="videos_temporary_folder_text">定时视频</string>
     <string name="videos_toolbar_subtitle">录像</string>
+    <string name="widget_start_stop_recording_transparent">透明按钮开始/停止录制</string>
     <string name="zoom_text">缩放</string>
 </resources>
